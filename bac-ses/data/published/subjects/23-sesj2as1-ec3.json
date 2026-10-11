@@ -109,6 +109,29 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "22-SESJ2LR1-EC3-A",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "Consignes quasi identiques (« les institutions jouent un rôle » / « le rôle des institutions » dans la croissance) mais dossiers documentaires différents : un EC3 se corrige d'après l'exploitation de SON dossier.",
+      "answerReuse": "Même architecture possible (investissement, innovation, action de l'État) ; contenu documentaire entièrement distinct.",
+      "slug": "22-sesj2lr1-ec3-a",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les institutions jouent un rôle dans la croissance économique.",
+      "exerciseType": "EC3",
+      "year": 2022,
+      "center": "Mayotte – Liban"
+    },
+    {
+      "id": "23-SESJ2G11-EC3",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "« Le rôle des institutions » vs « comment les institutions influent » : le second appelle davantage les effets négatifs (corruption) ; dossiers différents.",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "23-sesj2g11-ec3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment les institutions influent sur la croissance économique.",
+      "exerciseType": "EC3",
+      "year": 2023,
+      "center": "Centres étrangers"
+    }
+  ],
   "externalCorrections": []
 }

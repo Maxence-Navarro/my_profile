@@ -13,11 +13,20 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": "présenter",
-  "notions": [],
+  "notions": [
+    "progrès technique",
+    "progrès technique biaisé",
+    "inégalités de revenus",
+    "qualification",
+    "tâches routinières",
+    "substitution",
+    "complémentarité",
+    "rente d'innovation"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": null,
   "statementNote": null,
@@ -61,8 +70,29 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir progrès technique et inégalités de revenus."
+      },
+      {
+        "id": "E2",
+        "kind": "methode",
+        "label": "Présenter UN mécanisme identifié, développé de bout en bout (la consigne est au singulier)."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "Mécanisme du progrès technique biaisé : substitution au travail peu qualifié routinier / complémentarité avec le travail qualifié → évolution différenciée de la demande de travail et des salaires → creusement des écarts."
+      },
+      {
+        "id": "E4",
+        "kind": "exemple",
+        "label": "Illustration concrète."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

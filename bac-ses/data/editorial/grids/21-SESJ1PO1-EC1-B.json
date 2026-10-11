@@ -1,0 +1,11 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 21-SESJ1PO1 (Polynésie 2021). Grille ÉDITORIALE fondée sur l'objectif O4 et sur le corrigé officiel 22-SESJ1NC1C (question voisine). La consigne demande UN mécanisme : il doit être développé complètement.",
+  "objectives": ["O4"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir progrès technique et inégalités de revenus."},
+    {"id": "E2", "kind": "methode", "label": "Présenter UN mécanisme identifié, développé de bout en bout (la consigne est au singulier)."},
+    {"id": "E3", "kind": "mecanisme", "label": "Mécanisme du progrès technique biaisé : substitution au travail peu qualifié routinier / complémentarité avec le travail qualifié → évolution différenciée de la demande de travail et des salaires → creusement des écarts."},
+    {"id": "E4", "kind": "exemple", "label": "Illustration concrète."}
+  ]
+}

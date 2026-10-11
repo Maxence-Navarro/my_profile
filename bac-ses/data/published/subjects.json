@@ -111,12 +111,23 @@
     "subQuestions": [],
     "points": 10.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation",
+      "productivité du travail",
+      "télétravail"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "21-SESJ1G11-DISS",
@@ -340,11 +351,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "présenter",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -362,11 +382,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -406,11 +435,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -591,12 +629,22 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "institutions",
+      "droits de propriété"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "22-SESJ1ME3-EC3-A",
@@ -721,12 +769,21 @@
     "subQuestions": [],
     "points": 3.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "22-SESJ2NC1-DISS",
@@ -798,11 +855,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -820,11 +886,21 @@
     "subQuestions": [],
     "points": 3.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "innovation",
+      "destruction créatrice",
+      "Schumpeter",
+      "rente de monopole",
+      "concurrence",
+      "obsolescence",
+      "réallocation",
+      "productivité",
+      "emploi"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -948,12 +1024,22 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "expliquer",
-    "notions": [],
+    "notions": [
+      "innovation",
+      "destruction créatrice",
+      "Schumpeter",
+      "rente de monopole",
+      "concurrence",
+      "obsolescence",
+      "réallocation",
+      "productivité",
+      "emploi"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "23-SESJ2G11-EC3",
@@ -1096,11 +1182,23 @@
     "subQuestions": [],
     "points": 10.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "progrès technique",
+      "progrès technique biaisé",
+      "inégalités de revenus",
+      "qualification",
+      "tâches routinières",
+      "substitution",
+      "complémentarité",
+      "rente d'innovation",
+      "polarisation de l'emploi",
+      "automatisation",
+      "effet de structure"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1118,11 +1216,20 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "limites écologiques",
+      "réchauffement climatique",
+      "externalités négatives",
+      "croissance soutenable",
+      "effet rebond",
+      "automatisation",
+      "progrès technique biaisé",
+      "inégalités de revenus"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1412,11 +1519,21 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "innovation",
+      "destruction créatrice",
+      "Schumpeter",
+      "rente de monopole",
+      "concurrence",
+      "obsolescence",
+      "réallocation",
+      "productivité",
+      "emploi"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1564,11 +1681,21 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "innovation",
+      "destruction créatrice",
+      "Schumpeter",
+      "rente de monopole",
+      "concurrence",
+      "obsolescence",
+      "réallocation",
+      "productivité",
+      "emploi"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1663,11 +1790,21 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "innovation",
+      "destruction créatrice",
+      "Schumpeter",
+      "rente de monopole",
+      "concurrence",
+      "obsolescence",
+      "réallocation",
+      "productivité",
+      "emploi"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1718,11 +1855,21 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "croissance soutenable",
+      "inégalités de revenus",
+      "coefficient de Gini",
+      "redistribution",
+      "progrès technique biaisé",
+      "limites écologiques",
+      "externalités négatives",
+      "soutenabilité faible / forte",
+      "découplage"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {

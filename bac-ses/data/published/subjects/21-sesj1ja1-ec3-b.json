@@ -13,12 +13,23 @@
   "subQuestions": [],
   "points": 10.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "progrès technique",
+    "progrès technique biaisé",
+    "inégalités de revenus",
+    "qualification",
+    "tâches routinières",
+    "substitution",
+    "complémentarité",
+    "rente d'innovation",
+    "productivité du travail",
+    "télétravail"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Productivité du travail, rémunération moyenne et rémunération d'un salarié *(source : « Productivité et rémunération : le lien est-il rompu ? »,)*\n- Document 2 — Salaire horaire moyen en livres au Royaume-Uni entre 2004 et 2016 *(source : www.banque-france.fr)*\n- Document 3 — La pandémie de COVID-19 dévaste les marchés du travail dans le monde entier. […] *(source : FMI, www.imf.org., 2020)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
   "siblingParts": [
@@ -60,9 +71,40 @@
     "isOfficial": true,
     "reference": "21-SESJ1JA1C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 21-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.844) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 21-SESJ1JA1. Correspondance vérifiée manuellement : même session (21-SESJ1JA1, Asie, jour 1), épreuve composée sujet B, troisième partie : libellé identique ; exploitation des documents lue intégralement (pages 10-12 du corrigé). Erreurs relevées dans le corrigé officiel et corrigées dans notre version : la rémunération moyenne est multipliée par environ 3 (et non 2) ; le document 2 est en livres sterling (et non en euros) ; la série du document 1 s'arrête vers 2016 ; le profil de salaire selon l'âge (document 2) ne permet pas d'imputer au progrès technique la baisse des salaires des plus âgés. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "Relier productivité et progrès technique."
+      },
+      {
+        "id": "G2",
+        "kind": "document",
+        "label": "Document 1 : la productivité augmente d'environ 250 % ; jusqu'en 1980 environ, la rémunération des salariés d'exécution suit la productivité, puis décroche."
+      },
+      {
+        "id": "G3",
+        "kind": "mecanisme",
+        "label": "Les salariés les moins qualifiés ne bénéficient pas des gains de productivité (numérisation de la production)."
+      },
+      {
+        "id": "G4",
+        "kind": "document",
+        "label": "Document 2 : inégalités entre peu qualifiés selon que l'entreprise innove ou non ; pas d'écart pour les qualifiés ; écart qualifiés / peu qualifiés d'environ 2,5 à 3."
+      },
+      {
+        "id": "G5",
+        "kind": "document",
+        "label": "Document 3 : inégalités face au télétravail (pays, qualification, âge, sexe, secteurs) pendant la pandémie."
+      },
+      {
+        "id": "G6",
+        "kind": "methode",
+        "label": "Introduction, développement argumenté, conclusion."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

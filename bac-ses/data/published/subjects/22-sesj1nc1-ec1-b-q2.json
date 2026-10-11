@@ -13,12 +13,21 @@
   "subQuestions": [],
   "points": 3.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "progrès technique",
+    "progrès technique biaisé",
+    "inégalités de revenus",
+    "qualification",
+    "tâches routinières",
+    "substitution",
+    "complémentarité",
+    "rente d'innovation"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": null,
   "statementNote": null,
   "siblingParts": [
@@ -64,9 +73,30 @@
     "isOfficial": true,
     "reference": "22-SESJ1NC1C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 22-SESJ1NC1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.831) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 22-SESJ1NC1. Correspondance vérifiée manuellement : même session (22-SESJ1NC1, Nouvelle-Calédonie, jour 1), sujet B, partie 1, question 2 (3 points) : libellé identique. Réponse possible lue intégralement. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "Le progrès technique résulte de l'innovation et détermine les gains de productivité."
+      },
+      {
+        "id": "G2",
+        "kind": "mecanisme",
+        "label": "Il supprime des emplois peu qualifiés (tâches manuelles routinières automatisées) et concurrence certains emplois intermédiaires (comptabilité, secrétariat)."
+      },
+      {
+        "id": "G3",
+        "kind": "mecanisme",
+        "label": "Les salariés très qualifiés ne sont pas concurrencés, leur productivité augmente avec les nouvelles technologies : leurs rémunérations progressent."
+      },
+      {
+        "id": "G4",
+        "kind": "mecanisme",
+        "label": "Les entreprises innovantes voient leurs profits augmenter (rémunération des actionnaires)."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

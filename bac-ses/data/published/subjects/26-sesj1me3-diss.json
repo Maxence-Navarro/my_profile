@@ -13,11 +13,21 @@
   "subQuestions": [],
   "points": 20.0,
   "instructionVerb": "question de dissertation",
-  "notions": [],
+  "notions": [
+    "croissance soutenable",
+    "inégalités de revenus",
+    "coefficient de Gini",
+    "redistribution",
+    "progrès technique biaisé",
+    "limites écologiques",
+    "externalités négatives",
+    "soutenabilité faible / forte",
+    "découplage"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Évolution du PIB et du coefficient de Gini (après impôts et prestations sociales), *(source : d'après « Les inégalités en France en 2025 », www.lafinancepourtous.com, 19 juin 2025.)*\n- Document 2 — Revenu salarial annuel moyen, en France, en 2021 *(source : d'après INSEE Références, France, portrait social, 21 novembre 2024.)*\n- Document 3 — Évolution des émissions de CO2 (en Mt éq. CO2)1 *(source : d'après https://banquemondiale.org, 16 juin 2025.)*\n- Document 4 — Dans le gyre1 subtropical du Pacifique Nord, siège du […] « continent de plastique », *(source : d'après Sylvie BURNOUF, « Le « continent de plastique » du Pacifique Nord accumule de)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
@@ -61,8 +71,54 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "methode",
+        "label": "Analyse des termes : croissance économique, défi, inégalités de revenus ; le mot « seul » appelle une réponse nuancée."
+      },
+      {
+        "id": "E2",
+        "kind": "methode",
+        "label": "Problématique explicite et plan en deux parties équilibrées répondant à la question."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "Le progrès technique, moteur de la croissance, peut engendrer des inégalités de revenus (biais en faveur du travail qualifié, rente d'innovation)."
+      },
+      {
+        "id": "E4",
+        "kind": "document",
+        "label": "Document 2 : écarts de revenu salarial selon le diplôme (≈ 2,5 fois) et la PCS (≈ 3 fois), décomposés entre salaire en EQTP et volume de travail."
+      },
+      {
+        "id": "E5",
+        "kind": "document",
+        "label": "Document 1 : coefficient de Gini après redistribution entre ≈ 0,28 et ≈ 0,31, sans lien mécanique avec le PIB ; prudence (PIB en dollars courants)."
+      },
+      {
+        "id": "E6",
+        "kind": "mecanisme",
+        "label": "Une croissance soutenable se heurte à des limites écologiques : épuisement des ressources, pollution, réchauffement climatique."
+      },
+      {
+        "id": "E7",
+        "kind": "document",
+        "label": "Documents 3 et 4 : émissions mondiales de CO2 multipliées par ≈ 2,5 depuis 1970 (découplage seulement relatif) ; microplastiques multipliés par 10 entre 2015 et 2022."
+      },
+      {
+        "id": "E8",
+        "kind": "connaissance",
+        "label": "Soutenabilité faible / forte, capital naturel ; rôle de l'innovation pour reculer les limites (et ses limites)."
+      },
+      {
+        "id": "E9",
+        "kind": "methode",
+        "label": "Introduction (accroche, définitions, problématique, annonce), transitions, conclusion (bilan, ouverture)."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

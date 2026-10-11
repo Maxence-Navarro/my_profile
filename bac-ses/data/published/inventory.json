@@ -131,10 +131,10 @@
     "docs_versailles": "374",
     "grille_reference": "21-SESJ1JA1C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -203,7 +203,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -318,7 +318,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -341,7 +341,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -430,10 +430,10 @@
     "docs_versailles": "116",
     "grille_reference": "22-SESJ1ME1C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -476,10 +476,10 @@
     "docs_versailles": "189",
     "grille_reference": "22-SESJ1NC1C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -502,7 +502,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -755,7 +755,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -916,7 +916,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1005,10 +1005,10 @@
     "docs_versailles": "179",
     "grille_reference": "23-SESJ2JA1C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-2-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -1031,7 +1031,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1261,7 +1261,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1399,7 +1399,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1468,7 +1468,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1491,7 +1491,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {

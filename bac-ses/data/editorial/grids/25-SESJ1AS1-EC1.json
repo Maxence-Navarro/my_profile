@@ -1,0 +1,11 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 25-SESJ1AS1 (Amérique du Sud 2025). Grille ÉDITORIALE fondée sur l'objectif O3 et sur le corrigé officiel d'une question voisine (23-SESJ2JA1).",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."},
+    {"id": "E2", "kind": "mecanisme", "label": "Mécanisme : concurrence par l'innovation → obsolescence des activités anciennes → disparition / reconversion ; création d'activités nouvelles."},
+    {"id": "E3", "kind": "mecanisme", "label": "Conséquences : réallocation du travail et du capital vers des activités plus productives (gains de productivité) ; destructions d'emplois."},
+    {"id": "E4", "kind": "exemple", "label": "Un exemple précis montrant à la fois la destruction et la création."}
+  ]
+}

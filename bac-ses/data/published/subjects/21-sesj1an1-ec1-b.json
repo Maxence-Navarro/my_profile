@@ -99,6 +99,29 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "21-SESJ1ME2-EC1-B",
+      "similarity": "tres_proche_adaptation",
+      "justification": "La consigne de 21-SESJ1AN1 porte sur les INSTITUTIONS, les droits de propriété n'étant que l'exemple imposé : il faut définir les institutions et généraliser le mécanisme. 21-SESJ1ME2 porte directement sur les droits de propriété.",
+      "answerReuse": "Corrigés distincts : le centre de gravité de la réponse diffère.",
+      "slug": "21-sesj1me2-ec1-b",
+      "question": "Vous montrerez comment les droits de propriété peuvent favoriser la croissance économique.",
+      "exerciseType": "EC1",
+      "year": 2021,
+      "center": "France métropolitaine (candidats libres)"
+    },
+    {
+      "id": "25-SESJ2AN1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Les deux portent sur l'effet des institutions sur la croissance ; 25-SESJ2AN1 impose de choisir « une institution » (libre), 21-SESJ1AN1 impose l'exemple des droits de propriété et vise les institutions en général.",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "25-sesj2an1-ec1",
+      "question": "Vous montrerez comment une institution peut contribuer à la croissance économique.",
+      "exerciseType": "EC1",
+      "year": 2025,
+      "center": "Amérique du Nord"
+    }
+  ],
   "externalCorrections": []
 }

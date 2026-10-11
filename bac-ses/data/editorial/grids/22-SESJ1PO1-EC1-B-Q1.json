@@ -1,0 +1,34 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 22-SESJ1PO1 (Polynésie 2022). Grille ÉDITORIALE fondée sur l'objectif O4 et sur le corrigé officiel 22-SESJ1NC1C, qui porte sur une question de libellé identique (même année, autre centre, 3 points au lieu de 4).",
+  "objectives": [
+    "O4"
+  ],
+  "criteria": [
+    {
+      "id": "E1",
+      "kind": "connaissance",
+      "label": "Définir le progrès technique (innovations, gains de productivité) et les inégalités de revenus."
+    },
+    {
+      "id": "E2",
+      "kind": "mecanisme",
+      "label": "Suppression / dévalorisation des emplois peu qualifiés ou routiniers (automatisation) ; certains emplois intermédiaires concurrencés."
+    },
+    {
+      "id": "E3",
+      "kind": "mecanisme",
+      "label": "Complémentarité avec le travail très qualifié : productivité et rémunérations en hausse (progrès technique biaisé)."
+    },
+    {
+      "id": "E4",
+      "kind": "mecanisme",
+      "label": "Rente des entreprises innovantes : hausse des profits et des revenus du capital."
+    },
+    {
+      "id": "E5",
+      "kind": "exemple",
+      "label": "Illustration concrète."
+    }
+  ]
+}

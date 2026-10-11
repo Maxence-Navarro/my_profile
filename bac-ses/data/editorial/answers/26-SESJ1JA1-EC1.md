@@ -1,0 +1,35 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@programme",
+    {"label": "Proposition de corrigé officielle 23-SESJ2JA1C — question voisine", "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-2-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence de comparaison, pas le barème de ce sujet."},
+    {"label": "Prix de la Banque de Suède en sciences économiques 2025 : P. Aghion et P. Howitt « pour la théorie de la croissance soutenue par la destruction créatrice »", "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/", "kind": "tiers"}
+  ],
+  "checklist": [
+    {"criterionId": "E1", "criterion": "Définitions", "present": true, "location": "§1"},
+    {"criterionId": "E2", "criterion": "Mécanisme complet", "present": true, "location": "§2"},
+    {"criterionId": "E3", "criterion": "Réallocation, productivité, croissance, emploi", "present": true, "location": "§3-4"},
+    {"criterionId": "E4", "criterion": "Illustration", "present": true, "location": "§3 (smartphone)"}
+  ],
+  "limits": "Aucun corrigé officiel retrouvé pour cette session (2026) : contrôle face à une grille éditoriale. Corrigé non encore relu par un enseignant."
+}
+---
+## Réponse rédigée
+
+Une **innovation** est l'introduction réussie d'une nouveauté dans l'économie : un nouveau bien, un nouveau procédé, une nouvelle organisation, un nouveau marché. Pour Joseph **Schumpeter**, elle est le moteur du capitalisme et s'accompagne d'un processus de **destruction créatrice** : elle fait naître des activités nouvelles et, simultanément, fait disparaître des activités anciennes.
+
+Ce processus s'explique par la logique de la concurrence. L'entrepreneur innove pour obtenir une **rente de monopole** temporaire : son produit nouveau ou son procédé plus efficace lui donne un avantage sur ses concurrents. Les entreprises qui continuent à produire selon les anciennes méthodes perdent leurs clients ou deviennent trop coûteuses. Elles doivent imiter l'innovation, se reconvertir ou disparaître. L'innovation rend donc obsolètes des produits, des équipements et des savoir-faire.
+
+Le **smartphone**, diffusé à partir de 2007, le montre. En réunissant téléphone, appareil photo, GPS, lecteur de musique et accès à internet, il a fortement réduit les ventes d'appareils photo compacts, de baladeurs, de GPS autonomes et de téléphones mobiles classiques. Des entreprises autrefois dominantes, comme le fabricant de téléphones Nokia, ont perdu l'essentiel de leurs parts de marché. Mais il a aussi créé un écosystème d'activités nouvelles : conception d'applications, services de paiement mobile, de transport ou de livraison.
+
+Ce mouvement réalloue le travail et le capital des activités en déclin vers des activités plus productives : c'est pourquoi la destruction créatrice soutient la croissance à long terme, comme l'ont formalisé Philippe Aghion et Peter Howitt (prix Nobel 2025). À court terme, elle détruit cependant des emplois et impose des reconversions.
+
+## Décryptage
+
+- **Pas d'exemple imposé** par la consigne, mais l'illustration rend la démonstration convaincante. Elle doit rester au service du mécanisme et ne pas devenir un récit.
+- **La structure gagnante** : définitions → mécanisme (rente, concurrence, obsolescence) → exemple (destruction et création) → conséquence sur la croissance et l'emploi.
+- **Les autres sujets de destruction créatrice de la plateforme** utilisent d'autres exemples (photo numérique, streaming, véhicule électrique, commerce en ligne) : varier les exemples aide à ne pas réciter.

@@ -13,11 +13,23 @@
   "subQuestions": [],
   "points": 10.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "progrès technique",
+    "progrès technique biaisé",
+    "inégalités de revenus",
+    "qualification",
+    "tâches routinières",
+    "substitution",
+    "complémentarité",
+    "rente d'innovation",
+    "polarisation de l'emploi",
+    "automatisation",
+    "effet de structure"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Productivité du travail, rémunération moyenne et rémunération d'un salarié *(source : Anna M. STANSBURY, Lawrence H. SUMMERS, « Productivité et rémunération :)*\n- Document 2 — Comparaison des caractéristiques des salariés des firmes innovantes1 *(source : d'après Chloé MAS, Romain FAQUET, Guillaume ROULLEAU, « L'innovation peut-)*\n- Document 3 — Dans une étude sur l'impact de l'automatisation aux États-Unis, des chercheurs ont *(source : Abhijit V. BANERJEE et Esther DUFLO, Économie utile pour des temps)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
@@ -61,8 +73,39 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir progrès technique (lien avec la productivité) et inégalités de revenus."
+      },
+      {
+        "id": "E2",
+        "kind": "document",
+        "label": "Document 1 : décrochage de la rémunération des salariés d'exécution (indice ≈ 215) par rapport à la productivité (≈ 345) et à la rémunération moyenne (≈ 305) depuis la fin des années 1970."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "Progrès technique biaisé : substitution au travail routinier, complémentarité avec le travail qualifié."
+      },
+      {
+        "id": "E4",
+        "kind": "document",
+        "label": "Document 3 : robots (6,2 emplois détruits par robot, baisse des salaires des non-diplômés du supérieur), polarisation de l'emploi."
+      },
+      {
+        "id": "E5",
+        "kind": "document",
+        "label": "Document 2 : écart de salaire entre firmes innovantes et non innovantes (23,6 € contre 17,7 €, +33 %), à interpréter avec l'effet de structure des qualifications."
+      },
+      {
+        "id": "E6",
+        "kind": "methode",
+        "label": "Introduction, développement argumenté, conclusion."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

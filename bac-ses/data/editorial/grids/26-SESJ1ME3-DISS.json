@@ -1,0 +1,16 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel ni corrigé tiers retrouvé pour la session 26-SESJ1ME3 (métropole, remplacement, jour 1, 2026) — recherches effectuées : sujetdebac.fr, Groupe Réussite, moteurs de recherche. Grille ÉDITORIALE fondée sur les objectifs O4 et O5, sur la méthodologie officielle de la dissertation et sur le dossier.",
+  "objectives": ["O1", "O4", "O5"],
+  "criteria": [
+    {"id": "E1", "kind": "methode", "label": "Analyse des termes : croissance économique, défi, inégalités de revenus ; le mot « seul » appelle une réponse nuancée."},
+    {"id": "E2", "kind": "methode", "label": "Problématique explicite et plan en deux parties équilibrées répondant à la question."},
+    {"id": "E3", "kind": "mecanisme", "label": "Le progrès technique, moteur de la croissance, peut engendrer des inégalités de revenus (biais en faveur du travail qualifié, rente d'innovation)."},
+    {"id": "E4", "kind": "document", "label": "Document 2 : écarts de revenu salarial selon le diplôme (≈ 2,5 fois) et la PCS (≈ 3 fois), décomposés entre salaire en EQTP et volume de travail."},
+    {"id": "E5", "kind": "document", "label": "Document 1 : coefficient de Gini après redistribution entre ≈ 0,28 et ≈ 0,31, sans lien mécanique avec le PIB ; prudence (PIB en dollars courants)."},
+    {"id": "E6", "kind": "mecanisme", "label": "Une croissance soutenable se heurte à des limites écologiques : épuisement des ressources, pollution, réchauffement climatique."},
+    {"id": "E7", "kind": "document", "label": "Documents 3 et 4 : émissions mondiales de CO2 multipliées par ≈ 2,5 depuis 1970 (découplage seulement relatif) ; microplastiques multipliés par 10 entre 2015 et 2022."},
+    {"id": "E8", "kind": "connaissance", "label": "Soutenabilité faible / forte, capital naturel ; rôle de l'innovation pour reculer les limites (et ses limites)."},
+    {"id": "E9", "kind": "methode", "label": "Introduction (accroche, définitions, problématique, annonce), transitions, conclusion (bilan, ouverture)."}
+  ]
+}

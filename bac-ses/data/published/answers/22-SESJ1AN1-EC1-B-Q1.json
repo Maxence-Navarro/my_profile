@@ -1,0 +1,67 @@
+{
+  "subjectId": "22-SESJ1AN1-EC1-B-Q1",
+  "version": 1,
+  "contentMd": "## Réponse rédigée\n\nLe **progrès technique** est l'ensemble des innovations qui améliorent l'efficacité de la production. Il est source de gains de productivité et de croissance. Mais il ne profite pas de la même façon à tous et peut accroître les **inégalités de revenus**, c'est-à-dire les écarts de revenus entre individus.\n\nD'abord, le progrès technique est **biaisé** : il favorise les travailleurs qualifiés au détriment des peu qualifiés. Les nouvelles technologies **remplacent** les tâches routinières, faciles à automatiser. Dans la grande distribution, par exemple, les caisses automatiques réduisent le besoin de caissiers et caissières. Moins demandés, ces travailleurs subissent une pression à la baisse sur leurs salaires et un risque de chômage plus élevé. À l'inverse, ces technologies sont **complémentaires** du travail des salariés qualifiés qui les conçoivent, les installent et les gèrent (informaticiens, ingénieurs, techniciens de maintenance). Leur productivité augmente, ils sont très recherchés et leurs rémunérations progressent. L'écart de salaire entre qualifiés et peu qualifiés se creuse.\n\nEnsuite, l'innovation procure une **rente** aux entreprises innovantes. Protégées temporairement de la concurrence (brevets, avance technologique), elles dégagent des profits élevés. Ces profits augmentent les revenus de leurs actionnaires et dirigeants, qui appartiennent déjà le plus souvent aux ménages les plus aisés.\n\nLe progrès technique peut donc engendrer des inégalités de revenus, entre travailleurs selon leur qualification, et entre revenus du capital et revenus du travail.\n\n## Décryptage\n\n- **Deux mécanismes distincts**, chacun annoncé par une phrase-clé : progrès technique biaisé (marché du travail), rente de l'innovateur (revenus du capital).\n- **Le vocabulaire attendu** : substitution, complémentarité, tâches routinières, qualification, rente.\n- **Un EC1 sur 4 points** : environ trois paragraphes, sans introduction ni conclusion développées.",
+  "checklist": [
+    {
+      "criterionId": "E1",
+      "criterion": "Définitions",
+      "present": true,
+      "location": "§1"
+    },
+    {
+      "criterionId": "E2",
+      "criterion": "Emplois peu qualifiés / routiniers dévalorisés",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "E3",
+      "criterion": "Complémentarité avec le travail qualifié",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "E4",
+      "criterion": "Rente des entreprises innovantes",
+      "present": true,
+      "location": "§3"
+    },
+    {
+      "criterionId": "E5",
+      "criterion": "Illustration",
+      "present": true,
+      "location": "§2 (caisses automatiques, informaticiens)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Programme de SES de Terminale (BO spécial n° 8 du 25 juillet 2019) — objectifs d'apprentissage du chapitre",
+      "url": "https://www.education.gouv.fr/bo/19/Special8/MENE1921253A.htm",
+      "kind": "officiel",
+      "note": "Lien identifié par moteur de recherche (page non consultable depuis l'environnement de collecte) ; texte des objectifs vérifié par ses citations dans les corrigés officiels."
+    },
+    {
+      "label": "Proposition de corrigé officielle 22-SESJ1NC1C — question de libellé identique (autre centre, 3 points)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Référence de comparaison, pas le barème de ce sujet."
+    },
+    {
+      "label": "Sujets EC1 et EC2 croissance avec propositions de corrigés (formation, Belfort) — Formation programme terminale, GLT Belfort (académie de Besançon)",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/01/sujets-EC1-et-EC2-croissance_formation-belfort-2.odt",
+      "kind": "tiers",
+      "note": "Proposition de réponse sur le progrès technique biaisé : concordante."
+    },
+    {
+      "label": "Tâche complexe « Progrès technique et inégalités de revenus » — Site SES de l'académie de Bordeaux",
+      "url": "https://ent2d.ac-bordeaux.fr/disciplines/ses/wp-content/uploads/sites/9/2026/02/Tache-complexe-Progres-technique-et-inegalites-de-revenus.docx",
+      "kind": "tiers",
+      "note": "Ressource de cours (polarisation, tâches routinières)."
+    }
+  ],
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "limits": "Aucun corrigé officiel retrouvé pour la session 22-SESJ1AN1 (Amérique du Nord 2022) : contrôle face à une grille éditoriale. Corrigé non encore relu par un enseignant."
+}

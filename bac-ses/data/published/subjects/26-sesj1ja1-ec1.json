@@ -13,11 +13,21 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "innovation",
+    "destruction créatrice",
+    "Schumpeter",
+    "rente de monopole",
+    "concurrence",
+    "obsolescence",
+    "réallocation",
+    "productivité",
+    "emploi"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": null,
   "statementNote": null,
@@ -61,9 +71,53 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."
+      },
+      {
+        "id": "E2",
+        "kind": "mecanisme",
+        "label": "Mécanisme : rente de l'innovateur, concurrence, obsolescence et disparition des activités anciennes, apparition d'activités nouvelles."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "Réallocation des facteurs vers des activités plus productives → gains de productivité → croissance ; destructions d'emplois à court terme."
+      },
+      {
+        "id": "E4",
+        "kind": "exemple",
+        "label": "Illustration (non imposée)."
+      }
+    ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "23-SESJ2JA1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "« Expliquez en quoi l'innovation PEUT s'accompagner… » vs « Vous montrerez que l'innovation s'accompagne… » : même mécanisme ; aucun exemple imposé dans les deux cas.",
+      "answerReuse": "Mécanisme commun ; corrigés distincts (exemples différents).",
+      "slug": "23-sesj2ja1-ec1",
+      "question": "Expliquez en quoi l'innovation peut s'accompagner d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2023,
+      "center": "Asie"
+    },
+    {
+      "id": "25-SESJ2PO1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Même énoncé, sans l'exigence d'exemple pour 26-SESJ1JA1.",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "25-sesj2po1-ec1",
+      "question": "À l'aide d'un exemple, vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2025,
+      "center": "Polynésie"
+    }
+  ],
   "externalCorrections": []
 }

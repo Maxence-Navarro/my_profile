@@ -1,0 +1,55 @@
+{
+  "subjectId": "21-SESJ1PO1-EC1-B",
+  "version": 1,
+  "contentMd": "## Réponse rédigée\n\nLe **progrès technique** désigne l'ensemble des innovations qui améliorent l'efficacité de la production. Les **inégalités de revenus** sont des écarts de revenus entre individus ou groupes sociaux. Le principal mécanisme par lequel le progrès technique peut les accroître est son caractère **biaisé en faveur du travail qualifié**.\n\nLes nouvelles technologies n'ont pas le même effet sur tous les travailleurs. Elles se **substituent** aux travailleurs qui accomplissent des tâches routinières, c'est-à-dire répétitives et faciles à décrire par une procédure : des robots remplacent des ouvriers sur les chaînes de montage, des logiciels de comptabilité effectuent des saisies autrefois réalisées par des employés. La demande de ce type de travail diminue, ce qui pèse sur les salaires de ces travailleurs et les expose au chômage. À l'inverse, les mêmes technologies sont **complémentaires** du travail des salariés très qualifiés, comme les ingénieurs, les informaticiens ou les cadres. Elles augmentent leur productivité, et les entreprises recherchent davantage ces profils capables de les concevoir et de les utiliser.\n\nLa demande de travail qualifié augmente donc plus vite que celle de travail peu qualifié, alors que l'offre de travailleurs qualifiés ne s'ajuste que lentement, car il faut des années pour se former. Le salaire des travailleurs qualifiés progresse, celui des peu qualifiés stagne ou baisse : l'écart de rémunération entre les deux groupes se creuse. Le progrès technique engendre ainsi des inégalités de revenus au profit des plus qualifiés.\n\n## Décryptage\n\n- **« Un mécanisme »** : la consigne est au singulier. Mieux vaut un mécanisme complet (substitution et complémentarité, demande de travail, salaires, écart) que trois mécanismes à peine esquissés.\n- **Le vocabulaire qui fait la différence** : progrès technique biaisé, tâches routinières, substitution, complémentarité.\n- **Autre mécanisme acceptable** : la rente de l'innovateur, qui accroît les revenus des propriétaires des entreprises innovantes. Il fallait en choisir un et le développer.",
+  "checklist": [
+    {
+      "criterionId": "E1",
+      "criterion": "Définitions",
+      "present": true,
+      "location": "§1"
+    },
+    {
+      "criterionId": "E2",
+      "criterion": "Un seul mécanisme, annoncé et développé",
+      "present": true,
+      "location": "§1 (annonce) puis §2-3"
+    },
+    {
+      "criterionId": "E3",
+      "criterion": "Progrès technique biaisé : substitution / complémentarité → salaires",
+      "present": true,
+      "location": "§2-3"
+    },
+    {
+      "criterionId": "E4",
+      "criterion": "Illustration",
+      "present": true,
+      "location": "§2 (comptabilité, robots)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Programme de SES de Terminale (BO spécial n° 8 du 25 juillet 2019) — objectifs d'apprentissage du chapitre",
+      "url": "https://www.education.gouv.fr/bo/19/Special8/MENE1921253A.htm",
+      "kind": "officiel",
+      "note": "Lien identifié par moteur de recherche (page non consultable depuis l'environnement de collecte) ; texte des objectifs vérifié par ses citations dans les corrigés officiels."
+    },
+    {
+      "label": "Proposition de corrigé officielle 22-SESJ1NC1C — question voisine (« Montrez que le progrès technique peut engendrer des inégalités de revenus »)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Référence de comparaison, pas le barème de ce sujet."
+    },
+    {
+      "label": "Sujets EC1 et EC2 croissance avec propositions de corrigés (formation, Belfort) — Formation programme terminale, GLT Belfort (académie de Besançon)",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/01/sujets-EC1-et-EC2-croissance_formation-belfort-2.odt",
+      "kind": "tiers",
+      "note": "Proposition de réponse sur le progrès technique biaisé : concordante."
+    }
+  ],
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "limits": "Aucun corrigé officiel retrouvé pour cette session : contrôle face à une grille éditoriale. Corrigé non encore relu par un enseignant."
+}

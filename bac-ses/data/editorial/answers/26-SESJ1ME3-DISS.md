@@ -1,0 +1,73 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@programme",
+    {"label": "Proposition de corrigé officielle 22-SESJ1JA1C — dissertation voisine sur les limites écologiques et l'innovation (autre session)", "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-1-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence pour les attendus sur les limites écologiques, pas le barème de ce sujet."},
+    {"label": "Proposition de corrigé officielle 21-SESJ1JA1C — progrès technique et inégalités de revenus (autre session)", "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence pour les attendus sur les inégalités, pas le barème de ce sujet."}
+  ],
+  "checklist": [
+    {"criterionId": "E1", "criterion": "Analyse des termes, portée du mot « seul »", "present": true, "location": "Introduction"},
+    {"criterionId": "E2", "criterion": "Problématique et plan équilibré", "present": true, "location": "Introduction, I, II"},
+    {"criterionId": "E3", "criterion": "Progrès technique et inégalités", "present": true, "location": "I.A"},
+    {"criterionId": "E4", "criterion": "Document 2 exploité (diplôme, PCS, EQTP)", "present": true, "location": "I.A"},
+    {"criterionId": "E5", "criterion": "Document 1 exploité avec prudence", "present": true, "location": "I.B"},
+    {"criterionId": "E6", "criterion": "Limites écologiques (ressources, pollution, climat)", "present": true, "location": "II.A"},
+    {"criterionId": "E7", "criterion": "Documents 3 et 4 exploités", "present": true, "location": "II.A"},
+    {"criterionId": "E8", "criterion": "Soutenabilité faible / forte, innovation", "present": true, "location": "II.B"},
+    {"criterionId": "E9", "criterion": "Introduction, transitions, conclusion", "present": true, "location": "ensemble"}
+  ],
+  "limits": "Aucun corrigé officiel ni corrigé tiers retrouvé (session 2026) : contrôle face à une grille éditoriale. Valeurs des documents 1 et 3 lues sur les graphiques (arrondies). Un plan en trois parties était possible ; le plan proposé n'est pas le seul acceptable. Corrigé non encore relu par un enseignant."
+}
+---
+## Introduction
+
+En novembre 2018, la hausse de la taxe sur les carburants, destinée à réduire les émissions de gaz à effet de serre, a déclenché en France le mouvement des « gilets jaunes ». Cet épisode a montré que la croissance économique soulève deux questions difficiles à séparer : comment en répartir les fruits, et comment la rendre compatible avec la préservation de l'environnement.
+
+La **croissance économique** désigne l'augmentation durable de la production de biens et de services d'un pays, mesurée par la hausse du PIB en volume. Un **défi** est une difficulté qui menace la poursuite de la croissance ou son acceptabilité sociale. Les **inégalités de revenus** sont les écarts de revenus entre individus ou groupes sociaux, que l'on peut mesurer par le coefficient de Gini (0 en cas d'égalité parfaite, 1 en cas d'inégalité maximale). Le sujet invite à se demander si la croissance pose seulement un défi de répartition, ou si elle se heurte aussi à d'autres obstacles.
+
+**Problématique** : si la croissance peut creuser les inégalités de revenus et menacer la cohésion sociale, ne se heurte-t-elle pas aussi à des limites écologiques qui remettent en cause sa soutenabilité ?
+
+Nous montrerons d'abord que les inégalités de revenus constituent bien un défi posé par la croissance (I). Nous verrons ensuite qu'elles ne sont pas le seul : la croissance se heurte à des limites écologiques qui menacent sa soutenabilité (II).
+
+## I. Les inégalités de revenus, un défi réel posé par la croissance
+
+### A. Le progrès technique, moteur de la croissance, peut accroître les inégalités de revenus
+
+À long terme, la croissance repose surtout sur le **progrès technique**, qui accroît la productivité globale des facteurs. Or ce progrès technique est **biaisé** en faveur du travail qualifié. Les nouvelles technologies (robots, logiciels, intelligence artificielle) se substituent aux travailleurs qui accomplissent des tâches routinières, ce qui réduit la demande de ce travail et freine les salaires. Elles sont au contraire complémentaires du travail qualifié, dont elles augmentent la productivité et la rémunération. De plus, l'innovation procure aux entreprises qui la réalisent une **rente** temporaire, qui accroît les revenus de leurs propriétaires.
+
+Le document 2 montre l'ampleur des écarts de revenus liés à la qualification en France. En 2021, le revenu salarial annuel moyen des titulaires d'un diplôme supérieur à bac+2 atteint 38 870 euros, contre 15 650 euros pour les salariés sans diplôme, soit environ **2,5 fois plus**. Il est de 43 000 euros pour les cadres et chefs d'entreprise salariés, contre 14 530 euros pour les employés, soit près de **3 fois plus**. Ces écarts ont deux sources. D'une part, le salaire en équivalent temps plein des cadres (50 050 euros) est 2,2 fois plus élevé que celui des employés (22 350 euros). D'autre part, les employés travaillent en moyenne 65 % d'un temps plein, contre 86 % pour les cadres : les moins qualifiés sont plus exposés au temps partiel et aux contrats courts. Dans une économie où la croissance valorise les compétences, le diplôme devient un déterminant majeur du revenu.
+
+### B. Des inégalités contenues par la redistribution, mais qui restent un enjeu de cohésion
+
+La croissance n'entraîne pas mécaniquement une hausse des inégalités. En France, le coefficient de Gini mesuré **après impôts et prestations sociales** est resté compris entre environ 0,28 et 0,31 de 1996 à 2022 (document 1). Il a augmenté de la fin des années 1990 jusqu'au début des années 2010, atteignant un maximum d'environ 0,31 vers 2011, puis a fluctué. Il a même nettement baissé en 2020, à environ 0,28, sous l'effet des aides publiques massives versées pendant la crise sanitaire. Aucune relation simple n'apparaît entre l'évolution du PIB, ici exprimé en dollars courants donc sensible au taux de change, et celle des inégalités. La **redistribution** (impôts progressifs, prestations sociales) limite donc les écarts produits par la croissance.
+
+Les inégalités de revenus n'en demeurent pas moins un défi. Lorsqu'elles sont jugées excessives, elles peuvent réduire l'adhésion de la population à l'économie de marché et aux réformes, comme l'a montré le mouvement des gilets jaunes. Elles freinent aussi l'accès des ménages modestes à l'éducation, et donc la formation du capital humain dont la croissance a besoin. Mais la croissance ne pose-t-elle qu'un défi de répartition ?
+
+## II. Un défi écologique qui menace la soutenabilité même de la croissance
+
+### A. La croissance se heurte à des limites écologiques
+
+La production de biens et de services prélève des ressources naturelles et rejette des déchets et des polluants. La croissance se heurte ainsi à trois **limites écologiques** : l'épuisement des ressources (énergies fossiles, minerais, ressources halieutiques), la pollution et le réchauffement climatique. Ces atteintes à l'environnement sont des **externalités négatives** : les producteurs et consommateurs n'en supportent pas le coût, qui est reporté sur la société et sur les générations futures.
+
+Le dossier illustre deux de ces limites. Au niveau mondial, les émissions de CO2 sont passées d'environ 15 700 millions de tonnes en 1970 à près de 39 000 millions en 2023, soit une multiplication par environ 2,5 (document 3). Or ces émissions sont la principale cause du réchauffement climatique. La **pollution** progresse aussi. Dans le Pacifique Nord, la concentration en microparticules de plastique a été multipliée par dix entre 2015 et 2022, pour atteindre jusqu'à 10 millions de particules par km². Leur masse est passée de 2,9 à 14,2 kg par km² (document 4). Ces microplastiques entrent dans la chaîne alimentaire et menacent les écosystèmes marins. Ils résultent, selon l'ONG The Ocean Cleanup, de « l'explosion de la production plastique au début de ce siècle ».
+
+### B. Rendre la croissance soutenable : un défi qui dépasse la seule innovation
+
+Une **croissance soutenable** permet de répondre aux besoins des générations présentes sans compromettre la capacité des générations futures à répondre aux leurs, selon la définition du rapport Brundtland (1987). Deux conceptions s'opposent. Pour les partisans de la **soutenabilité faible**, le capital naturel peut être remplacé par du capital produit par l'homme : l'innovation permettra de reculer les limites écologiques (énergies renouvelables, efficacité énergétique, recyclage). Pour ceux de la **soutenabilité forte**, une partie du capital naturel (climat stable, biodiversité) est irremplaçable et doit être préservée, quel qu'en soit le coût.
+
+Le document 3 montre que l'innovation a permis un **découplage relatif** : les émissions de CO2 augmentent beaucoup moins vite que le PIB mondial, même si celui-ci est exprimé en valeur nominale. Mais il n'y a pas de **découplage absolu** : les émissions continuent d'augmenter. L'innovation ne suffit donc pas, à ce jour, à rendre la croissance mondiale soutenable. Ce défi rejoint d'ailleurs celui des inégalités : les politiques de transition, comme la taxe carbone, pèsent proportionnellement plus sur les ménages modestes. Elles doivent donc être accompagnées de mesures de redistribution pour être acceptées.
+
+## Conclusion
+
+Les inégalités de revenus constituent bien un défi posé par la croissance. Le progrès technique qui la porte valorise les plus qualifiés, et les écarts de revenus selon le diplôme et la catégorie sociale sont importants, même si la redistribution les contient. Mais elles ne sont pas le seul défi. La croissance se heurte aussi à des limites écologiques (réchauffement climatique, pollution, épuisement des ressources) qui menacent sa soutenabilité, et que l'innovation n'a jusqu'ici fait que repousser partiellement. Les deux défis sont d'ailleurs liés : une transition écologique ne sera acceptée que si elle est juste. Reste à savoir si le PIB, qui ne mesure ni la répartition des revenus ni l'état du capital naturel, est encore l'indicateur adapté pour piloter cette croissance.
+
+## Décryptage
+
+- **Le mot « seul »** structure la réponse : partie I = oui, c'est un défi ; partie II = non, ce n'est pas le seul. Ne pas consacrer toute la copie aux inégalités.
+- **Lecture critique des documents** : le Gini du document 1 est mesuré après redistribution, et le PIB y est en dollars courants. Le PIB du document 3 est nominal, donc le découplage réel est moins net qu'il n'y paraît.
+- **Les deux défis du programme** (inégalités et limites écologiques) sont mobilisés, puis reliés en fin de copie : c'est ce qui distingue une très bonne copie.
+- **Sujet miroir** : la dissertation « Les limites écologiques sont-elles le seul défi… ? » (Polynésie 2023) inverse la structure.

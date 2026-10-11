@@ -13,12 +13,22 @@
   "subQuestions": [],
   "points": 20.0,
   "instructionVerb": "question de dissertation",
-  "notions": [],
+  "notions": [
+    "facteur travail",
+    "facteur capital",
+    "investissement",
+    "productivité globale des facteurs",
+    "progrès technique",
+    "croissance endogène",
+    "capital humain",
+    "institutions",
+    "droits de propriété"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Personnes en emploi en France entre 2000 et 2019, en milliers *(source : DARES Analyses, n° 19, 2020.)*\n- Document 2 — Taux de croissance du PIB (en %) et contributions *(source : d'après OCDE, 2021.)*\n- Document 3 — Taux d'investissement1 des entreprises non financières en % *(source : d'après INSEE, 2019.)*\n- Document 4 — Évolution du montant de la dépense intérieure d'éducation (DIE) en milliards *(source : Ministère de l'Éducation nationale, de la Jeunesse et des Sports, 2020.)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
   "siblingParts": [
@@ -76,9 +86,55 @@
     "isOfficial": true,
     "reference": "22-SESJ1ME1C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 22-SESJ1ME1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.861) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 22-SESJ1ME1. Correspondance vérifiée manuellement : même session (22-SESJ1ME1, métropole, jour 1), dissertation : libellé identique ; corrigé lu intégralement (exploitation des documents, problématique, plan détaillé, pages 1-3). Chiffres du corrigé recontrôlés sur les documents : concordants. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "document",
+        "label": "Document 1 : personnes en emploi en France de 25 à 28,5 millions environ (2000-2019) ; baisse d'environ 500 000 en 2008-2010 ; rôle de l'accumulation du facteur travail."
+      },
+      {
+        "id": "G2",
+        "kind": "document",
+        "label": "Document 2 : contributions du travail, du capital et de la PGF ; PGF = la moitié de la croissance française en 2010, environ deux tiers en 2017, rôle substantiel en Corée du Sud ; aux États-Unis, travail + capital majoritaires depuis 2011."
+      },
+      {
+        "id": "G3",
+        "kind": "document",
+        "label": "Document 3 : taux d'investissement des entreprises non financières (21,4-24,4 % dans la zone euro ; Espagne -11 points 2005-2010 ; Royaume-Uni le plus faible depuis 2010)."
+      },
+      {
+        "id": "G4",
+        "kind": "document",
+        "label": "Document 4 : dépense intérieure d'éducation multipliée par 2 entre 1980 et 2019 (80 à 160 Md€), 6,5-7,5 % du PIB : capital humain."
+      },
+      {
+        "id": "G5",
+        "kind": "methode",
+        "label": "Problématique : la croissance provient-elle de la seule augmentation quantitative du travail et du capital, ou d'autres facteurs ?"
+      },
+      {
+        "id": "G6",
+        "kind": "mecanisme",
+        "label": "I.A : accumulation du travail (population active, durée du travail, contexte sociodémographique et législatif)."
+      },
+      {
+        "id": "G7",
+        "kind": "mecanisme",
+        "label": "I.B : accumulation du capital (investissement, capacités productives, renouvellement d'équipements plus performants)."
+      },
+      {
+        "id": "G8",
+        "kind": "mecanisme",
+        "label": "II.A : progrès technique issu de l'innovation, gains de productivité mesurés par la PGF ; progrès technique endogène (capital humain, externalités positives)."
+      },
+      {
+        "id": "G9",
+        "kind": "mecanisme",
+        "label": "II.B : institutions (stabilité, droits de propriété, brevets jusqu'à 20 ans) qui incitent à investir et innover."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

@@ -99,6 +99,18 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "22-SESJ2ME3-EC1-A",
+      "similarity": "identique",
+      "justification": "Même question en substance : « Comment les droits de propriété influent-ils… ? » (interrogatif) et « Montrez comment les droits de propriété influent… » (injonctif). Mêmes notions, même raisonnement, aucun document, 4 points dans les deux cas.",
+      "answerReuse": "Contenu attendu identique ; deux rédactions distinctes sont proposées pour varier les exemples (laboratoire pharmaceutique / vaccins à ARN messager).",
+      "slug": "22-sesj2me3-ec1-a",
+      "question": "Comment les droits de propriété influent-ils sur la croissance économique ?",
+      "exerciseType": "EC1",
+      "year": 2022,
+      "center": "France métropolitaine"
+    }
+  ],
   "externalCorrections": []
 }

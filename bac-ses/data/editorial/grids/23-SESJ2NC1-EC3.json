@@ -1,0 +1,13 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 23-SESJ2NC1 (Nouvelle-Calédonie 2023). Grille ÉDITORIALE fondée sur l'objectif O4, sur le dossier et sur le corrigé officiel 21-SESJ1JA1C (même consigne, document 1 identique, documents 2 et 3 différents).",
+  "objectives": ["O1", "O4"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir progrès technique (lien avec la productivité) et inégalités de revenus."},
+    {"id": "E2", "kind": "document", "label": "Document 1 : décrochage de la rémunération des salariés d'exécution (indice ≈ 215) par rapport à la productivité (≈ 345) et à la rémunération moyenne (≈ 305) depuis la fin des années 1970."},
+    {"id": "E3", "kind": "mecanisme", "label": "Progrès technique biaisé : substitution au travail routinier, complémentarité avec le travail qualifié."},
+    {"id": "E4", "kind": "document", "label": "Document 3 : robots (6,2 emplois détruits par robot, baisse des salaires des non-diplômés du supérieur), polarisation de l'emploi."},
+    {"id": "E5", "kind": "document", "label": "Document 2 : écart de salaire entre firmes innovantes et non innovantes (23,6 € contre 17,7 €, +33 %), à interpréter avec l'effet de structure des qualifications."},
+    {"id": "E6", "kind": "methode", "label": "Introduction, développement argumenté, conclusion."}
+  ]
+}

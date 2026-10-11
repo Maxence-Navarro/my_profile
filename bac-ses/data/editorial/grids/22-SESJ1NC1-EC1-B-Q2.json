@@ -1,0 +1,11 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (22-SESJ1NC1, Nouvelle-Calédonie, jour 1), sujet B, partie 1, question 2 (3 points) : libellé identique. Réponse possible lue intégralement.",
+  "objectives": ["O4"],
+  "criteria": [
+    {"id": "G1", "kind": "connaissance", "label": "Le progrès technique résulte de l'innovation et détermine les gains de productivité."},
+    {"id": "G2", "kind": "mecanisme", "label": "Il supprime des emplois peu qualifiés (tâches manuelles routinières automatisées) et concurrence certains emplois intermédiaires (comptabilité, secrétariat)."},
+    {"id": "G3", "kind": "mecanisme", "label": "Les salariés très qualifiés ne sont pas concurrencés, leur productivité augmente avec les nouvelles technologies : leurs rémunérations progressent."},
+    {"id": "G4", "kind": "mecanisme", "label": "Les entreprises innovantes voient leurs profits augmenter (rémunération des actionnaires)."}
+  ]
+}

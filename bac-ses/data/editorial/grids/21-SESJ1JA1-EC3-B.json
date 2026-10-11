@@ -1,0 +1,13 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (21-SESJ1JA1, Asie, jour 1), épreuve composée sujet B, troisième partie : libellé identique ; exploitation des documents lue intégralement (pages 10-12 du corrigé). Erreurs relevées dans le corrigé officiel et corrigées dans notre version : la rémunération moyenne est multipliée par environ 3 (et non 2) ; le document 2 est en livres sterling (et non en euros) ; la série du document 1 s'arrête vers 2016 ; le profil de salaire selon l'âge (document 2) ne permet pas d'imputer au progrès technique la baisse des salaires des plus âgés.",
+  "objectives": ["O1", "O4"],
+  "criteria": [
+    {"id": "G1", "kind": "connaissance", "label": "Relier productivité et progrès technique."},
+    {"id": "G2", "kind": "document", "label": "Document 1 : la productivité augmente d'environ 250 % ; jusqu'en 1980 environ, la rémunération des salariés d'exécution suit la productivité, puis décroche."},
+    {"id": "G3", "kind": "mecanisme", "label": "Les salariés les moins qualifiés ne bénéficient pas des gains de productivité (numérisation de la production)."},
+    {"id": "G4", "kind": "document", "label": "Document 2 : inégalités entre peu qualifiés selon que l'entreprise innove ou non ; pas d'écart pour les qualifiés ; écart qualifiés / peu qualifiés d'environ 2,5 à 3."},
+    {"id": "G5", "kind": "document", "label": "Document 3 : inégalités face au télétravail (pays, qualification, âge, sexe, secteurs) pendant la pandémie."},
+    {"id": "G6", "kind": "methode", "label": "Introduction, développement argumenté, conclusion."}
+  ]
+}

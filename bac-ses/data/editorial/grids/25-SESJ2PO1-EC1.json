@@ -1,0 +1,11 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 25-SESJ2PO1 (Polynésie 2025). Grille ÉDITORIALE fondée sur l'objectif O3 et sur le corrigé officiel d'une question voisine (23-SESJ2JA1).",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."},
+    {"id": "E2", "kind": "mecanisme", "label": "Mécanisme : l'innovation rend obsolètes des activités anciennes qui disparaissent, pendant que des activités nouvelles apparaissent."},
+    {"id": "E3", "kind": "mecanisme", "label": "Réallocation des facteurs vers des activités plus productives ; effets sur l'emploi."},
+    {"id": "E4", "kind": "exemple", "label": "Un exemple précis montrant à la fois la destruction et la création."}
+  ]
+}

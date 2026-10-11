@@ -1,0 +1,61 @@
+{
+  "subjectId": "22-SESJ1NC1-EC1-B-Q2",
+  "version": 1,
+  "contentMd": "## Réponse rédigée\n\nLe **progrès technique** est l'ensemble des innovations qui permettent de produire plus efficacement. Il est source de gains de productivité, donc de croissance, mais ses gains ne sont pas répartis également : il peut accroître les **inégalités de revenus**.\n\nD'abord, il est **biaisé en faveur du travail qualifié**. L'automatisation remplace les travailleurs peu qualifiés qui effectuent des tâches routinières : ouvriers sur les chaînes de montage remplacées par des robots, caissiers concurrencés par les caisses automatiques. Moins demandés, ces travailleurs voient leurs salaires stagner ou perdent leur emploi. À l'inverse, les nouvelles technologies sont complémentaires du travail des salariés très qualifiés (ingénieurs, informaticiens) : elles augmentent leur productivité et la demande dont ils font l'objet, donc leurs rémunérations. L'écart de salaire entre qualifiés et peu qualifiés se creuse.\n\nEnsuite, l'innovation procure aux **entreprises innovantes** une rente de monopole temporaire : leurs profits augmentent, ce qui accroît les revenus de leurs actionnaires et dirigeants par rapport à ceux des autres ménages.\n\n## Décryptage\n\n- **3 points** : deux mécanismes bien expliqués suffisent (travail qualifié contre peu qualifié, profits des innovateurs), avec des exemples brefs.\n- **Le mot-clé valorisé** : progrès technique « biaisé », c'est-à-dire complémentaire du travail qualifié et substituable au travail peu qualifié.\n- **À éviter** : affirmer que le progrès technique « crée du chômage » en général. Le sujet porte sur les inégalités de revenus, pas sur le niveau de l'emploi.",
+  "checklist": [
+    {
+      "criterionId": "G1",
+      "criterion": "Progrès technique, innovation, productivité",
+      "present": true,
+      "location": "§1"
+    },
+    {
+      "criterionId": "G2",
+      "criterion": "Suppression d'emplois peu qualifiés / routiniers",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "G3",
+      "criterion": "Hausse des rémunérations des qualifiés",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "G4",
+      "criterion": "Profits des entreprises innovantes",
+      "present": true,
+      "location": "§3"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Proposition de corrigé officielle 22-SESJ1NC1C (relayée par sujetdebac.fr)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Grille de contrôle principale."
+    },
+    {
+      "label": "Sujets EC1 et EC2 croissance avec propositions de corrigés (formation, Belfort) — Formation programme terminale, GLT Belfort (académie de Besançon)",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/01/sujets-EC1-et-EC2-croissance_formation-belfort-2.odt",
+      "kind": "tiers",
+      "note": "Proposition de réponse sur le progrès technique « biaisé » (complémentarité / substituabilité) : concordante."
+    },
+    {
+      "label": "Tâche complexe « Progrès technique et inégalités de revenus » — Site SES de l'académie de Bordeaux",
+      "url": "https://ent2d.ac-bordeaux.fr/disciplines/ses/wp-content/uploads/sites/9/2026/02/Tache-complexe-Progres-technique-et-inegalites-de-revenus.docx",
+      "kind": "tiers",
+      "note": "Ressource de cours (polarisation, tâches routinières)."
+    },
+    {
+      "label": "Programme de SES de Terminale (BO spécial n° 8 du 25 juillet 2019) — objectifs d'apprentissage du chapitre",
+      "url": "https://www.education.gouv.fr/bo/19/Special8/MENE1921253A.htm",
+      "kind": "officiel",
+      "note": "Lien identifié par moteur de recherche (page non consultable depuis l'environnement de collecte) ; texte des objectifs vérifié par ses citations dans les corrigés officiels."
+    }
+  ],
+  "validationStatus": "verifie_pedagogiquement",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "limits": "Question notée sur 3 points : réponse volontairement concise. Corrigé non encore relu par un enseignant."
+}

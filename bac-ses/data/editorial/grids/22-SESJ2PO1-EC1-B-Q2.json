@@ -1,0 +1,10 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 22-SESJ2PO1 (Polynésie 2022). Grille ÉDITORIALE fondée sur l'objectif O3 et sur le corrigé officiel d'une question voisine (23-SESJ2JA1, Asie 2023). Question notée sur 3 points (format 2022, sujet B, partie 1, question 2) : réponse plus brève qu'un EC1 sur 4 points.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."},
+    {"id": "E2", "kind": "mecanisme", "label": "Mécanisme : l'innovation rend obsolètes des activités anciennes (moins productives) qui disparaissent, pendant que de nouvelles activités et de nouveaux emplois apparaissent."},
+    {"id": "E3", "kind": "exemple", "label": "Un exemple précis montrant à la fois la destruction et la création (consigne : « à l'aide d'un exemple »)."}
+  ]
+}

@@ -1,0 +1,74 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@programme",
+    {"label": "Proposition de corrigé officielle 22-SESJ1JA1C — dissertation voisine (innovation et limites écologiques)", "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-1-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence de comparaison, pas le barème de ce sujet."},
+    {"label": "Proposition de corrigé officielle 21-SESJ1JA1C — progrès technique et inégalités (même document sur les salaires au Royaume-Uni)", "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence de comparaison ; ses erreurs sur ce document (euros au lieu de livres) ne sont pas reprises."}
+  ],
+  "checklist": [
+    {"criterionId": "E1", "criterion": "Analyse des termes, portée de « seul »", "present": true, "location": "Introduction"},
+    {"criterionId": "E2", "criterion": "Problématique et plan équilibré", "present": true, "location": "Introduction, I, II"},
+    {"criterionId": "E3", "criterion": "Limites écologiques, externalités", "present": true, "location": "I.A"},
+    {"criterionId": "E4", "criterion": "Document 1 (transports)", "present": true, "location": "I.A et I.B"},
+    {"criterionId": "E5", "criterion": "Document 2 (températures)", "present": true, "location": "I.A"},
+    {"criterionId": "E6", "criterion": "Innovation et ses limites", "present": true, "location": "I.B"},
+    {"criterionId": "E7", "criterion": "Progrès technique et inégalités de revenus", "present": true, "location": "II.A-B"},
+    {"criterionId": "E8", "criterion": "Document 3 (automatisation)", "present": true, "location": "II.A"},
+    {"criterionId": "E9", "criterion": "Document 4 (salaires, entreprises innovantes)", "present": true, "location": "II.B"},
+    {"criterionId": "E10", "criterion": "Introduction, transitions, conclusion", "present": true, "location": "ensemble"}
+  ],
+  "limits": "Aucun corrigé officiel ni corrigé tiers retrouvé : contrôle face à une grille éditoriale. Valeurs des documents 2 et 4 lues sur les graphiques (arrondies). Corrigé non encore relu par un enseignant."
+}
+---
+## Introduction
+
+L'année 2021 a de nouveau battu des records : sécheresses, incendies, inondations. Selon le dossier, la température moyenne mondiale dépassait alors de plus d'un degré celle de la seconde moitié du XIXe siècle (document 2). Dans le même temps, la diffusion des robots et des logiciels suscite des inquiétudes pour l'emploi et les salaires. La croissance semble donc confrontée à plusieurs défis à la fois.
+
+La **croissance économique** est l'augmentation durable de la production d'un pays, mesurée par la hausse du PIB en volume. Les **limites écologiques** désignent les contraintes que l'environnement impose à cette croissance : épuisement des ressources naturelles, pollution, réchauffement climatique. Un **défi** est une difficulté qui menace la poursuite de la croissance ou sa légitimité. Le sujet invite à se demander si l'environnement est le seul obstacle que rencontre la croissance.
+
+**Problématique** : les limites écologiques remettent-elles seules en cause la croissance, ou celle-ci soulève-t-elle aussi un défi social lié à la répartition de ses fruits ?
+
+Nous montrerons que les limites écologiques constituent un défi majeur pour une croissance soutenable (I), mais qu'elles ne sont pas le seul : le progrès technique qui porte la croissance peut aussi engendrer des inégalités de revenus (II).
+
+## I. Les limites écologiques, un défi majeur pour une croissance soutenable
+
+### A. La croissance se heurte à des limites écologiques
+
+Produire des biens et des services nécessite de prélever des ressources naturelles et entraîne des rejets dans l'environnement. La croissance se heurte donc à trois limites : l'**épuisement des ressources** non renouvelables (pétrole, gaz, minerais) ou renouvelables surexploitées, la **pollution**, et le **réchauffement climatique** provoqué par les émissions de gaz à effet de serre. Ces dégradations sont des **externalités négatives** : leur coût n'est pas supporté par ceux qui les provoquent, mais par l'ensemble de la société et par les générations futures.
+
+Le dossier illustre le lien entre croissance et émissions. Entre 1970 et 2010, les émissions de gaz à effet de serre dues aux transports ont été multipliées par 2,5. Leur part dans les émissions mondiales est passée de 18 % à 21 % (document 1). Cette hausse vient d'une « explosion des déplacements motorisés de personnes et de marchandises », multipliés par trois, principalement en Asie, « en lien avec l'élévation du niveau de vie ». La croissance et l'enrichissement accroissent donc directement la pression sur le climat. Les conséquences sont visibles : la température moyenne mondiale dépassait la moyenne de 1851-1900 d'environ 0,3 °C en 1970. L'écart atteint environ 1,2 à 1,3 °C dans les années 2016-2020 (document 2). Il s'accompagne d'événements climatiques extrêmes qui détruisent du capital et de la production.
+
+### B. L'innovation peut reculer ces limites, mais ne suffit pas toujours
+
+Une **croissance soutenable** est une croissance qui répond aux besoins des générations présentes sans compromettre ceux des générations futures (rapport Brundtland, 1987). L'**innovation** peut aider à reculer les limites écologiques en rendant la production moins polluante et moins gourmande en ressources. Le document 1 en donne un exemple : les émissions du rail sont les seules à avoir diminué, alors que son activité augmentait, grâce à « l'électrification et à l'abandon du charbon ». Le transport maritime, qui assure 80 % des échanges internationaux de marchandises, a une intensité émissive faible, d'environ 50 g par tonne et par kilomètre.
+
+Ces progrès restent toutefois insuffisants. La part de la route dans les émissions des transports est passée de 60 % à 72 %, et les émissions du transport aérien international ont augmenté de 180 %, alors que ces deux modes ont l'intensité émissive la plus forte. Les gains d'efficacité sont donc souvent compensés par la hausse des volumes : on parle d'**effet rebond**. Les limites écologiques constituent ainsi un défi majeur. Mais la croissance ne pose-t-elle que des problèmes environnementaux ?
+
+## II. Un autre défi : le progrès technique peut engendrer des inégalités de revenus
+
+### A. L'automatisation menace certains emplois et certains revenus
+
+À long terme, la croissance repose sur le **progrès technique**, qui accroît la productivité globale des facteurs. Mais ce progrès technique est **biaisé** : il se substitue au travail peu qualifié qui accomplit des tâches routinières, et il est complémentaire du travail qualifié. Les travailleurs dont les tâches sont automatisables voient la demande de leur travail baisser. Leur salaire stagne ou ils perdent leur emploi, tandis que les plus qualifiés voient leur productivité et leur rémunération augmenter. Les inégalités de revenus se creusent.
+
+Le document 3 mesure ce risque. En moyenne, dans les pays de l'OCDE, 14 % des emplois sont fortement menacés par l'automatisation. En France, c'est le cas de 16,4 % des emplois, contre 5,7 % en Norvège et 33,6 % en Slovaquie, soit près de six fois plus qu'en Norvège. Ces écarts tiennent à la structure productive de chaque pays : les pays où l'industrie et les tâches routinières pèsent plus sont davantage exposés. Les travailleurs concernés risquent de subir des pertes de revenus durables s'ils ne peuvent pas se reconvertir.
+
+### B. L'innovation crée aussi des écarts entre salariés selon leur entreprise
+
+Les gains de l'innovation profitent d'abord aux entreprises qui innovent, qui bénéficient d'une rente temporaire. Celles-ci peuvent mieux rémunérer leurs salariés, ce qui crée des inégalités entre travailleurs d'une même qualification. Au Royaume-Uni, sur la période 2004-2016, vers 45 ans, un travailleur peu qualifié perçoit en moyenne environ 9,7 livres de l'heure dans une entreprise innovante. Dans une entreprise non innovante, il n'en perçoit qu'environ 8,6, soit un écart de plus de 10 % (document 4). Le revenu d'un salarié dépend donc aussi de la capacité d'innovation de son employeur. Quant aux profits des entreprises innovantes, ils accroissent les revenus de leurs actionnaires.
+
+Ces inégalités représentent un défi pour la croissance. Elles peuvent miner la cohésion sociale et l'acceptation du changement technique. Elles limitent aussi l'accès des plus modestes à la formation, ce qui freine l'accumulation de capital humain. Les deux défis sont d'ailleurs liés : les ménages modestes sont souvent les plus exposés aux dégradations environnementales et les plus pénalisés par les politiques climatiques, comme les taxes sur les carburants.
+
+## Conclusion
+
+Les limites écologiques constituent un défi majeur pour la croissance. La hausse des émissions de gaz à effet de serre, liée à l'enrichissement et aux transports, entretient un réchauffement climatique que l'innovation n'a fait que freiner partiellement. Elles ne sont pourtant pas le seul défi. Le progrès technique, moteur de la croissance, menace certains emplois routiniers et crée des écarts de revenus entre qualifiés et non-qualifiés, ainsi qu'entre salariés des entreprises innovantes et des autres. Rendre la croissance soutenable suppose donc de relever ensemble les défis écologique et social, par exemple en accompagnant la transition écologique de politiques de formation et de redistribution.
+
+## Décryptage
+
+- **Le mot « seul »** impose deux temps : oui, les limites écologiques sont un défi (I) ; non, ce n'est pas le seul (II, inégalités de revenus).
+- **Chaque document a sa place** : documents 1 et 2 en partie I, documents 3 et 4 en partie II. Le document 1 sert deux fois (limites, puis innovation).
+- **Notions valorisées** : externalités négatives, croissance soutenable, effet rebond, progrès technique biaisé, rente d'innovation.
+- **Sujet miroir** : « Les inégalités de revenus sont-elles le seul défi… ? » (métropole, remplacement 2026) inverse la structure.

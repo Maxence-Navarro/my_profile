@@ -1,0 +1,67 @@
+{
+  "subjectId": "22-SESJ1PO1-EC1-B-Q1",
+  "version": 1,
+  "contentMd": "## Réponse rédigée\n\nLe **progrès technique**, résultat des innovations, augmente la productivité et donc la croissance. Il peut pourtant creuser les **inégalités de revenus**, c'est-à-dire les écarts de revenus entre individus, parce que ses effets diffèrent selon les qualifications et selon la place de chacun dans le processus d'innovation.\n\n**Premier mécanisme : un progrès technique biaisé en faveur des qualifiés.** Les machines et les logiciels accomplissent de mieux en mieux les tâches répétitives, qu'elles soient manuelles ou intellectuelles. Les outils de traitement automatique des factures ou les logiciels de traduction réduisent ainsi le besoin de certains employés administratifs. Les travailleurs dont les tâches sont automatisables deviennent moins nécessaires : leurs salaires progressent peu et leur risque de chômage augmente. À l'inverse, les professionnels capables de concevoir, de piloter ou d'exploiter ces outils, comme les ingénieurs ou les analystes de données, voient leur productivité augmenter. Ils sont recherchés par les entreprises et leurs rémunérations augmentent. L'écart de salaire lié au diplôme s'accroît.\n\n**Second mécanisme : une rente pour les innovateurs.** Une entreprise qui innove dispose, pendant un temps, d'un avantage sur ses concurrents, protégé par un brevet ou par son avance technologique. Elle réalise des profits élevés. Les fondateurs et actionnaires des entreprises les plus innovantes peuvent ainsi accumuler des revenus et des patrimoines très importants, ce qui accroît les inégalités au sommet de la distribution.\n\nEn modifiant la valeur des compétences et en concentrant les gains de l'innovation, le progrès technique peut donc engendrer des inégalités de revenus.\n\n## Décryptage\n\n- **Les tâches intellectuelles routinières** sont elles aussi automatisables : l'exemple des logiciels montre que le progrès technique ne menace pas seulement les ouvriers.\n- **Ne pas confondre** inégalités de revenus (flux) et inégalités de patrimoine (stock). On peut évoquer le patrimoine des fondateurs, mais la réponse doit porter sur les revenus.\n- **Structure en deux mécanismes annoncés**, chacun conclu par son effet sur les revenus.",
+  "checklist": [
+    {
+      "criterionId": "E1",
+      "criterion": "Définitions",
+      "present": true,
+      "location": "§1"
+    },
+    {
+      "criterionId": "E2",
+      "criterion": "Emplois peu qualifiés / routiniers dévalorisés",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "E3",
+      "criterion": "Complémentarité avec le travail qualifié",
+      "present": true,
+      "location": "§2"
+    },
+    {
+      "criterionId": "E4",
+      "criterion": "Rente des entreprises innovantes",
+      "present": true,
+      "location": "§3"
+    },
+    {
+      "criterionId": "E5",
+      "criterion": "Illustration",
+      "present": true,
+      "location": "§2 (logiciels, intelligence artificielle)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Programme de SES de Terminale (BO spécial n° 8 du 25 juillet 2019) — objectifs d'apprentissage du chapitre",
+      "url": "https://www.education.gouv.fr/bo/19/Special8/MENE1921253A.htm",
+      "kind": "officiel",
+      "note": "Lien identifié par moteur de recherche (page non consultable depuis l'environnement de collecte) ; texte des objectifs vérifié par ses citations dans les corrigés officiels."
+    },
+    {
+      "label": "Proposition de corrigé officielle 22-SESJ1NC1C — question de libellé identique (autre centre, 3 points)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Référence de comparaison, pas le barème de ce sujet."
+    },
+    {
+      "label": "Sujets EC1 et EC2 croissance avec propositions de corrigés (formation, Belfort) — Formation programme terminale, GLT Belfort (académie de Besançon)",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/01/sujets-EC1-et-EC2-croissance_formation-belfort-2.odt",
+      "kind": "tiers",
+      "note": "Proposition de réponse sur le progrès technique biaisé : concordante."
+    },
+    {
+      "label": "Tâche complexe « Progrès technique et inégalités de revenus » — Site SES de l'académie de Bordeaux",
+      "url": "https://ent2d.ac-bordeaux.fr/disciplines/ses/wp-content/uploads/sites/9/2026/02/Tache-complexe-Progres-technique-et-inegalites-de-revenus.docx",
+      "kind": "tiers",
+      "note": "Ressource de cours (polarisation, tâches routinières)."
+    }
+  ],
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "limits": "Aucun corrigé officiel retrouvé pour la session 22-SESJ1PO1 (Polynésie 2022) : contrôle face à une grille éditoriale. Corrigé non encore relu par un enseignant."
+}

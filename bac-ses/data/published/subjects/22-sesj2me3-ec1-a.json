@@ -99,6 +99,40 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "23-SESJ2AN1-EC1",
+      "similarity": "identique",
+      "justification": "Même question en substance : « Comment les droits de propriété influent-ils… ? » (interrogatif) et « Montrez comment les droits de propriété influent… » (injonctif). Mêmes notions, même raisonnement, aucun document, 4 points dans les deux cas.",
+      "answerReuse": "Contenu attendu identique ; deux rédactions distinctes sont proposées pour varier les exemples (laboratoire pharmaceutique / vaccins à ARN messager).",
+      "slug": "23-sesj2an1-ec1",
+      "question": "Montrez comment les droits de propriété influent sur la croissance économique.",
+      "exerciseType": "EC1",
+      "year": 2023,
+      "center": "Amérique du Nord"
+    },
+    {
+      "id": "21-SESJ1ME2-EC1-B",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Même objet (droits de propriété et croissance) mais verbe différent : « favoriser » appelle seulement les effets positifs, avec au moins deux arguments et un exemple (attendu explicite du corrigé officiel 21-SESJ1ME2C) ; « influent » autorise une brève nuance.",
+      "answerReuse": "Mécanismes communs ; corrigés distincts (structure en deux arguments annoncés pour « favoriser »).",
+      "slug": "21-sesj1me2-ec1-b",
+      "question": "Vous montrerez comment les droits de propriété peuvent favoriser la croissance économique.",
+      "exerciseType": "EC1",
+      "year": 2021,
+      "center": "France métropolitaine (candidats libres)"
+    },
+    {
+      "id": "23-SESJ1ME1-EC2",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "La question 2 de l'EC2 mobilise les mêmes mécanismes que l'EC1, mais exige l'exploitation d'un document (et la question 1 une lecture d'indices).",
+      "answerReuse": "Bloc de connaissances commun (mécanisme du brevet) ; réponses distinctes.",
+      "slug": "23-sesj1me1-ec2",
+      "question": "Évolution du nombre de brevets et du PIB par habitant (indice base 100 en 2011) au Royaume-Uni entre 2011 et 2019 116 114",
+      "exerciseType": "EC2",
+      "year": 2023,
+      "center": "France métropolitaine"
+    }
+  ],
   "externalCorrections": []
 }

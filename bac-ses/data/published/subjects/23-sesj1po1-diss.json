@@ -13,11 +13,20 @@
   "subQuestions": [],
   "points": 20.0,
   "instructionVerb": "question de dissertation",
-  "notions": [],
+  "notions": [
+    "limites écologiques",
+    "réchauffement climatique",
+    "externalités négatives",
+    "croissance soutenable",
+    "effet rebond",
+    "automatisation",
+    "progrès technique biaisé",
+    "inégalités de revenus"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Les émissions de gaz à effet de serre dues aux transports ont été multipliées par 2,5 *(source : Cecilia BELLORA, « Émissions de gaz à effet de serre dues aux transports », dans)*\n- Document 2 — L'élévation de la température dans le monde (en degrés Celsius) par rapport à *(source : d'après « Environnement : 2021, nouvelle année folle pour le climat », Les Échos,)*\n- Document 3 — Part des emplois fortement menacés par l'automatisation1 *(source : www.brief.eco, 26 septembre 2018.)*\n- Document 4 — Salaire horaire moyen par âge pour les travailleurs peu qualifiés des *(source : d'après Philippe AGHION, Antonin BERGEAUD, Richard BLUNDELL et Rachel)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
@@ -61,8 +70,59 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "methode",
+        "label": "Analyse des termes : croissance, défi, limites écologiques ; le mot « seul » appelle une réponse nuancée."
+      },
+      {
+        "id": "E2",
+        "kind": "methode",
+        "label": "Problématique explicite et plan en deux parties équilibrées."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "La croissance se heurte à des limites écologiques (épuisement des ressources, pollution, réchauffement climatique) ; externalités négatives."
+      },
+      {
+        "id": "E4",
+        "kind": "document",
+        "label": "Document 1 : émissions des transports multipliées par 2,5 (1970-2010), liées aux déplacements motorisés (× 3) et à l'élévation du niveau de vie ; part de la route de 60 % à 72 %."
+      },
+      {
+        "id": "E5",
+        "kind": "document",
+        "label": "Document 2 : réchauffement d'environ +0,3 °C en 1970 à +1,2 / +1,3 °C vers 2016-2020 par rapport à 1851-1900."
+      },
+      {
+        "id": "E6",
+        "kind": "mecanisme",
+        "label": "L'innovation peut aider à reculer les limites (électrification du rail, document 1) mais ne suffit pas."
+      },
+      {
+        "id": "E7",
+        "kind": "mecanisme",
+        "label": "Autre défi : le progrès technique peut engendrer des inégalités de revenus (automatisation, progrès technique biaisé)."
+      },
+      {
+        "id": "E8",
+        "kind": "document",
+        "label": "Document 3 : part des emplois fortement menacés par l'automatisation (14 % OCDE, 16,4 % France, de 5,7 % en Norvège à 33,6 % en Slovaquie)."
+      },
+      {
+        "id": "E9",
+        "kind": "document",
+        "label": "Document 4 : peu qualifiés mieux payés dans les entreprises innovantes (≈ 9,7 £ contre ≈ 8,6 £ vers 45 ans) → inégalités entre salariés selon l'entreprise."
+      },
+      {
+        "id": "E10",
+        "kind": "methode",
+        "label": "Introduction, transitions, conclusion."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

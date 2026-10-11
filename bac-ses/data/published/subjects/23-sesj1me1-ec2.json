@@ -109,7 +109,30 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "25-SESJ2G11-EC2",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "Deux EC2 sur les droits de propriété, mais documents différents (indices brevets / PIB par habitant au Royaume-Uni vs demandes de brevets par secteur en Europe) et consignes différentes (« rôle des droits de propriété sur la croissance » vs « incitent à investir et à innover »).",
+      "answerReuse": "Aucune réutilisation : l'exploitation des données est propre à chaque document.",
+      "slug": "25-sesj2g11-ec2",
+      "question": "Demande de brevets dans les secteurs technologiques les plus actifs en Europe en 2022 Nombre de demandes Variation entre 2021 et 2022 de brevets (en %)",
+      "exerciseType": "EC2",
+      "year": 2025,
+      "center": "Centres étrangers"
+    },
+    {
+      "id": "22-SESJ2ME3-EC1-A",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "La question 2 de l'EC2 mobilise les mêmes mécanismes que l'EC1, mais exige l'exploitation d'un document (et la question 1 une lecture d'indices).",
+      "answerReuse": "Bloc de connaissances commun (mécanisme du brevet) ; réponses distinctes.",
+      "slug": "22-sesj2me3-ec1-a",
+      "question": "Comment les droits de propriété influent-ils sur la croissance économique ?",
+      "exerciseType": "EC1",
+      "year": 2022,
+      "center": "France métropolitaine"
+    }
+  ],
   "externalCorrections": [
     {
       "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-1-bac-ses-2023-metropole.pdf",

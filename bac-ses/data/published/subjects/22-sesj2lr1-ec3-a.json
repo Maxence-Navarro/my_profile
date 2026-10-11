@@ -109,6 +109,29 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "23-SESJ2AS1-EC3",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "Consignes quasi identiques (« les institutions jouent un rôle » / « le rôle des institutions » dans la croissance) mais dossiers documentaires différents : un EC3 se corrige d'après l'exploitation de SON dossier.",
+      "answerReuse": "Même architecture possible (investissement, innovation, action de l'État) ; contenu documentaire entièrement distinct.",
+      "slug": "23-sesj2as1-ec3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez le rôle des institutions dans la croissance économique.",
+      "exerciseType": "EC3",
+      "year": 2023,
+      "center": "Amérique du Sud"
+    },
+    {
+      "id": "23-SESJ2G11-EC3",
+      "similarity": "meme_theme_corriges_distincts",
+      "justification": "Même thème, dossiers différents (Blanchard et Cohen, FMI / Lagarde, statistiques de R&D différentes).",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "23-sesj2g11-ec3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment les institutions influent sur la croissance économique.",
+      "exerciseType": "EC3",
+      "year": 2023,
+      "center": "Centres étrangers"
+    }
+  ],
   "externalCorrections": []
 }

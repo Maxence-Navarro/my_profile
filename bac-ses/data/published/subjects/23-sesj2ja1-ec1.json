@@ -13,12 +13,22 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": "expliquer",
-  "notions": [],
+  "notions": [
+    "innovation",
+    "destruction créatrice",
+    "Schumpeter",
+    "rente de monopole",
+    "concurrence",
+    "obsolescence",
+    "réallocation",
+    "productivité",
+    "emploi"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": null,
   "statementNote": null,
   "siblingParts": [
@@ -60,10 +70,49 @@
     "isOfficial": true,
     "reference": "23-SESJ2JA1C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-2-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 23-SESJ2JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.857) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 23-SESJ2JA1. Correspondance vérifiée manuellement : même session (23-SESJ2JA1, Asie, jour 2), première partie : libellé identique (« Expliquez en quoi l'innovation peut s'accompagner d'un processus de destruction créatrice »). Réponse possible lue intégralement. Le corrigé officiel ne cite ni Schumpeter ni exemple concret, et ne relie pas explicitement le processus aux gains de productivité : notre corrigé complète ces points. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "L'innovation est source de progrès technique et de croissance, mais s'accompagne d'une « destruction créatrice » : création d'activités nouvelles et destruction d'activités anciennes."
+      },
+      {
+        "id": "G2",
+        "kind": "mecanisme",
+        "label": "Les structures de production existantes deviennent obsolètes (moindre productivité) et disparaissent au profit de nouveaux produits, marchés, sources d'énergie, organisations."
+      },
+      {
+        "id": "G3",
+        "kind": "mecanisme",
+        "label": "Réallocation de la main-d'œuvre : destruction d'emplois / métiers anciens, création d'emplois / métiers nouveaux."
+      }
+    ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "26-SESJ1JA1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "« Expliquez en quoi l'innovation PEUT s'accompagner… » vs « Vous montrerez que l'innovation s'accompagne… » : même mécanisme ; aucun exemple imposé dans les deux cas.",
+      "answerReuse": "Mécanisme commun ; corrigés distincts (exemples différents).",
+      "slug": "26-sesj1ja1-ec1",
+      "question": "Vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2026,
+      "center": "Asie"
+    },
+    {
+      "id": "25-SESJ1AS1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Même mécanisme, mais 25-SESJ1AS1 impose un exemple (« à l'aide d'un exemple ») qui doit montrer destruction ET création.",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "25-sesj1as1-ec1",
+      "question": "Vous montrerez, à l'aide d'un exemple, que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2025,
+      "center": "Amérique du Sud"
+    }
+  ],
   "externalCorrections": []
 }

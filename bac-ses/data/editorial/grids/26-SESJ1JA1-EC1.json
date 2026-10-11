@@ -1,0 +1,11 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 26-SESJ1JA1 (Asie 2026). Grille ÉDITORIALE fondée sur l'objectif O3 et sur le corrigé officiel d'une question voisine (23-SESJ2JA1). Pas d'exemple imposé par la consigne, mais une illustration renforce la démonstration.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."},
+    {"id": "E2", "kind": "mecanisme", "label": "Mécanisme : rente de l'innovateur, concurrence, obsolescence et disparition des activités anciennes, apparition d'activités nouvelles."},
+    {"id": "E3", "kind": "mecanisme", "label": "Réallocation des facteurs vers des activités plus productives → gains de productivité → croissance ; destructions d'emplois à court terme."},
+    {"id": "E4", "kind": "exemple", "label": "Illustration (non imposée)."}
+  ]
+}

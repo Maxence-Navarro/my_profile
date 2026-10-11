@@ -13,11 +13,21 @@
   "subQuestions": [],
   "points": 3.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "innovation",
+    "destruction créatrice",
+    "Schumpeter",
+    "rente de monopole",
+    "concurrence",
+    "obsolescence",
+    "réallocation",
+    "productivité",
+    "emploi"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": null,
   "statementNote": null,
@@ -65,9 +75,48 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir l'innovation et la destruction créatrice (Schumpeter)."
+      },
+      {
+        "id": "E2",
+        "kind": "mecanisme",
+        "label": "Mécanisme : l'innovation rend obsolètes des activités anciennes (moins productives) qui disparaissent, pendant que de nouvelles activités et de nouveaux emplois apparaissent."
+      },
+      {
+        "id": "E3",
+        "kind": "exemple",
+        "label": "Un exemple précis montrant à la fois la destruction et la création (consigne : « à l'aide d'un exemple »)."
+      }
+    ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "25-SESJ1AS1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Même libellé, mais la question de 2022 (format sujet B) est notée sur 3 points : réponse attendue plus brève.",
+      "answerReuse": "Même structure ; longueur adaptée au barème.",
+      "slug": "25-sesj1as1-ec1",
+      "question": "Vous montrerez, à l'aide d'un exemple, que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2025,
+      "center": "Amérique du Sud"
+    },
+    {
+      "id": "25-SESJ2PO1-EC1",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Même libellé ; barème différent (3 points contre 4).",
+      "answerReuse": "Même structure ; longueur adaptée.",
+      "slug": "25-sesj2po1-ec1",
+      "question": "À l'aide d'un exemple, vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "exerciseType": "EC1",
+      "year": 2025,
+      "center": "Polynésie"
+    }
+  ],
   "externalCorrections": []
 }

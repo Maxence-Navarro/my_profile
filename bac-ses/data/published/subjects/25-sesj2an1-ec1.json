@@ -98,6 +98,18 @@
       }
     ]
   },
-  "related": [],
+  "related": [
+    {
+      "id": "21-SESJ1AN1-EC1-B",
+      "similarity": "tres_proche_adaptation",
+      "justification": "Les deux portent sur l'effet des institutions sur la croissance ; 25-SESJ2AN1 impose de choisir « une institution » (libre), 21-SESJ1AN1 impose l'exemple des droits de propriété et vise les institutions en général.",
+      "answerReuse": "Corrigés distincts.",
+      "slug": "21-sesj1an1-ec1-b",
+      "question": "A partir de l'exemple des droits de propriété, montrez comment les institutions influent sur la croissance économique.",
+      "exerciseType": "EC1",
+      "year": 2021,
+      "center": "Amérique du Nord"
+    }
+  ],
   "externalCorrections": []
 }
