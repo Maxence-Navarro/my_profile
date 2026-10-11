@@ -1,0 +1,476 @@
+               BACCALAURÉAT GÉNÉRAL
+
+               ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+                               SESSION 2025
+
+
+         Sciences économiques et sociales
+                                      ______
+
+
+
+
+                                   JOUR 1
+
+
+
+                         Durée de l’épreuve : 4 heures
+
+
+
+         L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+        Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+          Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou de l’épreuve composée.
+
+
+                    Il indique sur sa copie le sujet choisi.
+
+
+
+
+25-SESJ1AN1                                                             Page 1 sur 10
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+                 Comment expliquer et réduire le chômage structurel ?
+
+
+
+DOCUMENT 1
+
+                          Motifs de barrières à l’embauche en 2023
+                                (cités par les entreprises, en %)
+
+                                   Services                                           Industries               Construction
+  Existence de
+  barrières à                         28,7                                                              38,5       50,8
+  l’embauche
+
+  Main-d’œuvre
+  compétente                          23,4                                                              32,2       45,5
+  indisponible
+  Coûts liés à l’emploi                11                                                               10,2       21,9
+  Incertitude
+                                      10,8                                                              13         16,6
+  économique
+  Réglementations                      4,4                                                               4         7,3
+  Autres motifs                        2,8                                                              3,6        2,9
+
+Champ : France Métropolitaine.
+
+                                      Source : DARES (Direction de l'Animation de la Recherche,
+                                                         des Études et des Statistiques), 2023.
+
+Lecture : en France, 28,7 % des entreprises de services signalent des barrières à l’embauche
+en 2023 ; 23,4 % des entreprises de services citent une main-d’œuvre compétente
+indisponible comme motif de barrières à l’embauche.
+
+
+
+
+25-SESJ1AN1                                                                                                       Page 2 sur 10
+
+
+                                                     EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+DOCUMENT 2
+
+
+                     Évolution du SMIC2 horaire brut et des prix
+                              (indice base 100 en 1990)
+
+      300
+
+
+
+      250
+
+
+
+      200
+
+
+
+      150
+
+
+
+      100
+            1990
+            1991
+            1992
+            1993
+            1994
+            1995
+            1996
+            1997
+            1998
+            1999
+            2000
+            2001
+            2002
+            2003
+            2004
+            2005
+            2006
+            2007
+            2008
+            2009
+            2010
+            2011
+            2012
+            2013
+            2014
+            2015
+            2016
+            2017
+            2018
+            2019
+            2020
+            2021
+            2022
+            2023
+                         Smic horaire brut                         Prix (y compris tabac)
+
+
+1 : Indice mensuel des prix à la consommation, y compris tabac, pour l'ensemble des
+ménages.
+
+Champ : France métropolitaine de 1990 à 1995, France hors Mayotte à partir de 1996.
+
+                                                                                                 Source : INSEE, 2024.
+
+2 : Salaire minimum interprofessionnel de croissance.
+
+
+
+
+25-SESJ1AN1                                                                                             Page 3 sur 10
+
+
+                                              EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+DOCUMENT 3
+
+
+              Part des CDD1 et intérimaires dans l’emploi total, en %
+                                                                                                                    .
+       14,0
+
+       12,0
+
+       10,0
+
+        8,0
+
+        6,0
+
+        4,0
+
+        2,0
+
+        0,0
+
+
+
+                                     Intérimaires                      CDD
+
+
+
+
+Champ : France hors Mayotte, personnes en emploi.
+
+                                                                                                Source : INSEE, 2021.
+
+1 : Contrats à durée déterminée.
+
+
+
+
+25-SESJ1AN1                                                                                             Page 4 sur 10
+
+
+                                             EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+DOCUMENT 4
+
+         Dépenses en faveur de l’emploi et du marché du travail en 2021
+                             (en millions d’euros)
+
+            Incitation à l’embauche                                                             80 500
+              Mesures générales d’allègement du coût
+                                                                                                61 466
+              du travail
+              Mesures d’exonération1 sur certaines
+                                                                                                 1 721
+              zones géographiques
+              Mesures d’exonération1 sur certains
+                                                                                                 8 231
+              secteurs économiques
+              Mesures d’allègement de cotisations
+                                                                                                 3 526
+              sociales en réponse à la crise sanitaire
+              Aides à l’emploi de publics vulnérables                                            3 329
+              Emploi protégé, réadaptation, handicap                                             2 227
+            Incitation à l’activité                                                             10 950
+              Incitations financières à l’emploi                                                 9 849
+              Aides à la création d’entreprise                                                   1 101
+            Soutien au revenu                                                                   61 623
+              Allocations chômage                                                               50 975
+              Activité partielle (en cas de réduction
+                                                                                                10 648
+              d’activité)
+            Formation professionnelle                                                           24 416
+            Accompagnement des personnes en
+                                                                                                 6 277
+            recherche d’emploi
+
+            Total en millions d’euros                                                           183 767
+            Total en pourcentage du PIB                                                          7,3 %
+
+Champ : France, dépenses en faveur des politiques de l’emploi et du marché du travail (hors
+formation fonction publique).
+
+      Source : d’après DARES (Direction de l'Animation de la Recherche, des Études et des
+                                                                      Statistiques), 2023.
+
+1 : mesures d’allègement, voire de suppression, de cotisations sociales pour l’emploi d’un
+salarié, dans certaines zones géographiques ou secteurs d’activité.
+
+
+
+
+25-SESJ1AN1                                                                                               Page 5 sur 10
+
+
+                                             EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+                                      Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Présentez un avantage et une limite de la taxation en matière de préservation de
+l’environnement.
+
+
+
+
+25-SESJ1AN1                                                                                             Page 6 sur 10
+
+
+                                                     EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+Deuxième partie : Étude d’un document (6 points)
+
+
+Part des principaux partenaires commerciaux de la France en 2011 et en 2021
+                (en % des exportations ou importations de biens)
+
+                          Exportations de la France                                          Importations de la France
+                             à destination de...                                               en provenance de...
+                             2011                      2021                                    2011           2021
+Allemagne                    16,2                      13,2                                    19,5           17,1
+Italie                        8,1                       8,1                                     8,3            8,9
+Belgique                      7,1                       7,7                                     7,6            8,5
+Espagne                       7,0                       7,3                                     7,1            8,5
+Royaume-Uni                   6,5                       5,6                                     4,9            3,6
+Pays-Bas                      4,2                       4,0                                     5,8            8,2
+États-Unis                    5,6                       7,3                                     4,2            3,7
+Chine                         3,2                       4,9                                     6,4            6,8
+Suisse                        3,1                       3,4                                     2,3            2,7
+Pologne                       1,6                       2,4                                     1,7            2,7
+
+                                 Source : d’après Les Profils Pays du CEPII, juillet 2023.
+
+
+
+Questions :
+
+   1. À l’aide des données du document, vous présenterez l’évolution de la part de la
+      Chine dans les échanges commerciaux de la France entre 2011 et 2021.
+      (2 points)
+
+   2. À l’aide des données du document et de vos connaissances, vous présenterez
+      une explication du commerce international entre pays comparables. (4 points)
+
+
+
+
+25-SESJ1AN1                                                                                                Page 7 sur 10
+
+
+                                          EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que l’évolution des formes d’organisation du travail a des effets
+positifs et négatifs sur les conditions de travail.
+
+
+
+DOCUMENT 1
+
+            L’évolution des contraintes sur le rythme de travail (en %)
+
+ Rythme de travail imposé par …              1984                                                1998   2005        2016
+ le déplacement automatique d’un
+ produit ou d’une pièce                         3                                                 6      7            8
+ la cadence automatique d’une
+ machine
+                                                4                                                 7      7            7
+ d’autres contraintes techniques                7                                                16     16           17
+ la dépendance immédiate vis-à-vis des
+ collègues                                    11                                                 27     27           29
+ des normes de production à satisfaire
+ en une journée                               19                                                 43     42           48
+ une demande extérieure                       39                                                 65     65           70
+ les contraintes ou surveillances
+ permanents exercés par la hiérarchie         17                                                 29     30           31
+ un contrôle ou un suivi informatisé             -                                                -     25           35
+
+Lecture : en 2016, 35 % des salariés déclarent avoir un rythme de travail imposé par un
+contrôle ou un suivi informatisé.
+
+Champ : salariés de France métropolitaine.
+
+      Source : d’après « Quelles sont les évolutions récentes des conditions de travail et des
+                             risques psychosociaux ? », DARES Analyses, décembre 2017.
+
+
+
+
+25-SESJ1AN1                                                                                                    Page 8 sur 10
+
+
+                                              EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+DOCUMENT 2
+
+
+    Caractéristiques des formes d’organisation du travail en 2015 en France
+      (en pourcentage des salariés de chaque forme d’organisation du travail)
+
+                                 Formes d’organisation du travail
+                       Apprenante1      Lean production1        Taylorienne
+ Autonomie dans
+ les méthodes de            87,5                                                  57,7           7,2
+ travail
+ Autonomie dans
+ le rythme de               82,0                                                  65,9           20,8
+ travail
+ Apprentissage de
+ choses nouvelles
+                            96,9                                                  89,1           55,8
+ Résolution de
+ problèmes                  98,6                                                  97,7           55,7
+ imprévus
+ Complexité des
+ tâches                     84,0                                                  80,1           29,2
+ Autocontrôle de
+ la qualité du              77,0                                                  90,4           55,9
+ travail
+ Normes de
+ qualité précises
+                            74,4                                                  97,2           84,6
+ Travail en équipe          61,6                                                  77,5           42,3
+ Rotation des
+ tâches
+                            32,3                                                  65,8           46,7
+ Monotonie des
+ tâches                     29,4                                                  76,1           69,2
+
+Champ : salariés des établissements d’au moins 10 personnes travaillant dans les secteurs
+d’activité économique à dominante marchande et non agricoles ou domestiques. Taille de
+l’échantillon : 648 observations.
+
+      Source : d’après Sabrina BENHAMOU, Édouard LORENZ, Les organisations du travail
+                   apprenantes : enjeux et défis pour la France, France Stratégie, n°3, 2020.
+
+1 : l’organisation apprenante et la « lean production » sont des organisations post-
+tayloriennes. Dans les organisations apprenantes, les salariés disposent d’une forte
+autonomie au travail, tandis que les organisations en lean production combinent travail en
+groupe, polyvalence et flux tendus mais avec des processus standardisés et de plus fortes
+contraintes de rythme de travail.
+
+Lecture : 87,5 % des salariés des organisations du travail apprenantes déclarent être
+autonomes dans les méthodes de travail.
+
+
+
+
+25-SESJ1AN1                                                                                      Page 9 sur 10
+
+
+                                              EN_NODgzNT8QzNjAc0ND0UzMsTYxMj6A2MDAUwMzpE3NOTYx
+DOCUMENT 3
+
+
+Depuis près de trente ans, ce sous-traitant picard1 pour l’industrie automobile pousse
+ses 400 ouvriers à élire leurs responsables et à travailler sans hiérarchie. […] Pour
+redonner de l’autonomie aux ouvriers, l’activité a été découpée en une quinzaine de
+« mini-usines » de 10 à 40 personnes, chacune dédiée à un client – PSA, Renault,
+Fiat… À leur tête, pas de chefs, mais des ouvriers cooptés par leurs collègues. […]
+
+Leur rôle ? « Organiser la production de A à Z, définir les besoins d’investissements,
+ajuster le planning de l’équipe… », énumère Régis Marchetti, 47 ans, leader de la mini-
+usine PSA Valenciennes, un bloc de machines qui s’étend sur 500 mètres carrés. « On
+gère aussi les congés, les entretiens de fin d’année et les augmentations, on transmet
+les revendications et on règle les conflits, comme quand l’opérateur de l’après-midi se
+fâche avec celui du matin pour une machine mal nettoyée. » […]
+
+Chaque mini-usine est tenue de trouver au moins une idée d’amélioration par semaine,
+à noter sur un grand tableau « Kaizen »2 dans le bureau de son leader : « rehausser
+un bac pour éviter le mal de dos », « aligner deux postes pour ne plus pivoter », etc.
+
+Alexandre Rhuin, 34 ans, opérateur de la mini-usine Renault, a ainsi imaginé les
+modifications d’une fraise qui permettent de ne plus la changer que toutes les 60 000
+pièces, contre 8 000 auparavant.
+
+                                                          Source : www.capital.fr, 2013.
+
+1 : de Picardie, région au nord de la France.
+2 : mot japonais signifiant amélioration continue.
+
+
+
+
+25-SESJ1AN1                                                             Page 10 sur 10
+

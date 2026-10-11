@@ -1,0 +1,432 @@
+      DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                     PROPOSITION DE CORRIGÉ
+
+
+Sujet : L’accumulation des facteurs de production est-elle la seule source de
+croissance économique ?
+
+Programme officiel :
+Science économique
+
+Questionnement      Objectifs d’apprentissage
+Quels sont les      - Comprendre le processus de croissance économique et les
+sources et les      sources de la croissance : accumulation des facteurs et
+défis de la         accroissement de la productivité globale des facteurs ;
+croissance          comprendre le lien entre le progrès technique et l’accroissement
+économique ?        de la productivité globale des facteurs.
+                    - Comprendre que le progrès technique est endogène et qu’il
+                    résulte en particulier de l’innovation.
+                    - Comprendre comment les institutions (notamment les droits de
+                    propriété) influent sur la croissance en affectant l’incitation à
+                    investir et innover.
+
+Exploitation possible des documents :
+
+Document 1 - Le document 1 publié par la DARES montre l’évolution des
+           personnes en emploi en France depuis 2000. Le nombre d’actifs
+           occupés a augmenté, passant de 25 à 28,5 millions environ, soit une
+           hausse de 3,5 millions.
+           - On observe une baisse des personnes en emploi entre 2008 et 2010,
+           que l’on peut estimer à 500 000 personnes, en raison de la crise
+           économique de cette période.
+           - Ce document invite à rendre compte du rôle de l’accumulation du
+           facteur travail : l’augmentation du nombre d’actifs occupés est source
+           de croissance économique.
+Document 2 - Ce tableau statistique permet de déterminer les contributions du
+           facteur travail, du facteur capital et de la productivité globale des
+           facteurs (PGF) aux taux de croissance du PIB de plusieurs pays entre
+           2010 et 2019.
+           - On remarque que la PGF, qui permet d’améliorer l’efficacité de la
+           combinaison travail-capital et de mesurer le rôle du progrès technique
+           dans la croissance, contribue, sur le temps long, à une partie de la
+           croissance économique : en France, la moitié de la hausse du PIB en
+           2010, les deux tiers en 2017, pour la Corée du Sud le rôle de la PGF
+           est généralement substantiel. Cette situation peut expliquer la faible
+           contribution du facteur travail, voire la diminution de cette contribution,
+           à la croissance dans ce pays.
+           - Les États-Unis présentent un profil différent : les contributions du
+           facteur travail d’une part et du facteur capital d’autre part expliquent
+           une part majoritaire de la hausse du PIB chaque année depuis 2011.
+
+
+22-SESJ1ME1C                                                              Page 1 sur 9
+ Document 3 - Ce tableau statistique met en avant le taux d’investissement des
+            entreprises non financières entre 2000 et 2017 en France et souligne
+            le rôle de l’accumulation du capital dans la croissance.
+            - Dans la zone euro, sur la période, les investissements représentent
+            entre 21,4 % et 24,4 % de la valeur ajoutée de ces entreprises.
+            - Pour les pays présentés, on recense un taux d’investissement plus
+            faible en 2010 par rapport aux années précédentes (sauf pour la
+            France) et des écarts importants avec les années précédentes : le
+            contexte économique peut influencer les stratégies d’investissements
+            des agents économiques. Par exemple, en Espagne, le taux
+            d’investissement diminue de près de 11 points entre 2005 et 2010, il
+            baisse de 4 points pour le Royaume-Uni sur la même période mais
+            progresse d’un point en France.
+            - Parmi les pays représentés, les entreprises du Royaume-Uni ont,
+            depuis 2010, les taux d’investissement les plus faibles : entre 4 et 5
+            points en-dessous de la moyenne de la zone euro.
+ Document 4 - Le graphique présente le montant de la dépense intérieure
+            d’éducation (DIE) et son poids en % dans le PIB en France depuis
+            1980.
+            - Les dépenses ont été multipliées par 2 entre 1980 et 2019, passant
+            de 80 à 160 milliards d’euros.
+            - En pourcentage du PIB, la DIE représente généralement entre 6,5%
+            et 7,5 % du PIB français, hormis la décennie 1990 où l’on peut
+            observer une part plus élevée.
+            - Le document met donc en avant le rôle des investissements en
+            capital humain dans la croissance économique, voire l’importance des
+            institutions.
+
+
+Problématique possible :
+
+La croissance économique, entendue comme l’augmentation de la production d’un
+pays sur le long terme, est un processus complexe qui dépend de la combinaison
+adéquate de nombreux facteurs et de la mobilisation de différents acteurs dans un
+environnement favorable. Il s’agit donc de s’interroger ici sur ses sources : la
+croissance provient-elle de la seule augmentation quantitative du travail et du capital
+ou existe-t-il d’autres facteurs explicatifs ?
+
+Proposition de plan détaillé :
+
+ I) L’accumulation des facteurs de II)… cependant, d’autres facteurs
+ production est une source essentielle peuvent expliquer la croissance
+ de croissance économique …            économique.
+
+ A) Le rôle de l’accumulation du A) Le rôle du progrès technique.
+ facteur travail.
+ • Augmenter la quantité de travail peut • Le progrès technique, en tant que
+    permettre d’augmenter la production    résultat du processus d’innovation,
+    et   génère    de   la   croissance    peut permettre de créer de nouveaux
+    économique.                            produits et/ou d’accroître la production
+
+22-SESJ1ME1C                                                              Page 2 sur 9
+ • Cela peut passer par l’augmentation       en mobilisant la même quantité de
+   du nombre de travailleurs dans la         travail et de capital. Il permet donc de
+   population active (document 1), la        réaliser des gains de productivité.
+   hausse de la durée de travail effectuée • Ces gains peuvent être mesurés par
+   ou        encore     le        contexte   la PGF (Productivité Globale des
+   sociodémographique (âge de la             Facteurs) et valorisent la combinaison
+   retraite, allongement de la scolarité,    travail-capital. Dans le document 2,
+   augmentation de la population,            les gains de productivité ont contribué
+   contexte législatif sur l’assurance       fortement à la croissance française et
+   chômage…).                                à celle de la Corée du Sud au cours
+ • Ainsi, pour certains pays comme           de ces dernières années.
+   les États-Unis, la hausse du facteur • Le progrès technique est endogène et
+   travail contribue largement à la          dépend de l’investissement dans
+   croissance du PIB (document 2).           différents    capitaux      grâce    aux
+                                             décisions des agents économiques.
+                                             Par exemple, les gains de productivité
+                                             obtenus peuvent provenir des
+                                             investissements en capital humain
+                                             (document 4) engagés par les
+                                             pouvoirs publics pour développer les
+                                             compétences de la population active.
+                                             Ces       investissements       génèrent
+                                             également des externalités positives :
+                                             les savoirs et savoir-faire nouveaux
+                                             encouragent l’innovation.
+
+ B) Le rôle de l’accumulation du B)                    L’importance        du       cadre
+ facteur capital.                             institutionnel.
+ • Le poids du facteur capital peut être • Les institutions sont essentielles à la
+    mesuré par le taux d’investissement          croissance car elles garantissent une
+    qui représente la part en % des              stabilité      de      l’environnement
+    investissements dans la valeur               économique, essentiel aux échanges.
+    ajoutée et donc dans la création de          La protection des droits de propriété et
+    richesses (document 3).                      l’existence de marchés financiers
+ • Grâce aux investissements, les pays           développés en font partie.
+    accumulent        du    facteur   capital • Les droits de propriété sont des
+    susceptible d’augmenter les capacités        institutions qui incitent les agents
+    productives.                                 économiques à investir et à innover.
+ • Les         investissements       peuvent     Par exemple, les brevets garantissent
+    également permettre de remplacer             un monopole d'exploitation pour une
+    des machines obsolètes ou d’acquérir         durée maximale de 20 ans. Toute
+    des biens d’équipements plus                 exploitation (utilisation, fabrication,
+    performants,         améliorant     ainsi    importation...) d’une innovation sans
+    l’efficacité productive.                     autorisation      est    interdite    et
+ • Aux États-Unis ou en France, le               sanctionnée par la loi.
+    facteur          capital        contribue
+    substantiellement à la croissance
+    économique (document 2).
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+22-SESJ1ME1C                                                                Page 3 sur 9
+                         ÉPREUVE COMPOSÉE – SUJET A
+                           PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Question : Vous montrerez comment les dotations factorielles peuvent expliquer la
+spécialisation internationale.
+Science économique
+Quels sont les fondements du commerce international et de l’internationalisation de la
+production ?
+
+Réponse possible :
+Les dotations factorielles peuvent être définies comme les quantités de facteurs de
+production (travail, capital, ressources naturelles) disponibles dans une économie.
+Ces dotations factorielles renvoient donc à l‘abondance ou à la rareté relative des
+facteurs de production présents sur un territoire. Elles sont des éléments déterminants
+de l’insertion d’un pays dans le commerce international. En effet, les dotations
+factorielles peuvent expliquer la spécialisation internationale des pays. Un pays pourra
+se spécialiser dans la production de biens et services nécessitant le facteur de
+production qu’il détient de manière relativement abondante et il importera les biens et
+services qui incorporent les facteurs de production qui lui sont rares. Autrement dit,
+chaque pays pourra se spécialiser dans la production pour laquelle il possède une
+meilleure dotation en facteurs de production.
+Les élèves pourront prendre des exemples de spécialisation liées aux dotations
+factorielles de certains pays pour illustrer leur propos.
+
+Cette question correspond à l’analyse néoclassique du commerce international et
+notamment le théorème HOS. Les élèves peuvent répondre à cette question sans y
+faire référence.
+
+
+Deuxième partie : Étude d’un document (6 points)
+Regards croisés
+Quelles inégalités sont compatibles avec les différentes conceptions de la justice
+sociale ?
+
+Question 1 : À l’aide des données du document, montrez que la redistribution
+améliore la situation économique des plus pauvres. (2 points)
+
+Réponse possible :
+En 2019, avant redistribution, le niveau de vie moyen des 10 % des individus les plus
+modestes s’élève à 3 260 € par an contre 10 200 € après redistribution. Cela signifie
+que, grâce aux mécanismes de redistribution, le niveau de vie moyen des 10 % des
+personnes les plus modestes a été multiplié par plus de 3 (augmentation de 212,9 %).
+
+
+Question 2 : À l’aide des données du document et de vos connaissances, montrez
+comment la fiscalité et la protection sociale réduisent les inégalités de niveau de vie.
+(4 points)
+
+
+
+22-SESJ1ME1C                                                               Page 4 sur 9
+Réponse possible :
+La fiscalité et la protection sociale ont un impact fort sur la réduction des inégalités de
+niveau de vie. En effet, on observe grâce au document, qu’avant redistribution, le
+niveau de vie moyen des 10 % d’individus les plus riches est près de 25 fois plus élevé
+que celui des 10 % les plus modestes. Après redistribution, le niveau de vie des 10 %
+des individus les plus modestes n’est plus que 6 fois plus faible que celui des 10 % les
+plus riches.
+La fiscalité joue un rôle important dans la réduction de ces inégalités. En pesant plus
+fortement sur les ménages les plus aisés que sur les autres, elle permet de réduire les
+inégalités de niveau de vie. Ainsi, en 2019, les 10 % des personnes les plus modestes
+ont été prélevés en moyenne de 200 € par an, contre 20 410 € pour les 10 % de
+personnes les plus aisées. C’est surtout l’impôt sur le revenu qui permet cette
+réduction d’inégalité car il est progressif. De plus, la fiscalité permet de financer les
+services collectifs et la protection sociale (grâce notamment aux cotisations sociales).
+La protection sociale joue aussi un rôle déterminant dans la réduction des inégalités,
+notamment par le biais des prestations sociales. En effet, les individus faisant partie
+des 10 % des plus modestes ont reçu en 2019 en moyenne, 7 140 € de prestations
+sociales contre seulement 190 € pour les individus appartenant aux 10 % les plus
+aisés.
+Autrement dit, les individus les plus aisés sont davantage prélevés et reçoivent moins
+de prestations sociales, ce qui a pour effet mécanique de réduire les inégalités de
+niveaux de vie.
+
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+que certaines évolutions de l’emploi ont pu affaiblir le rôle intégrateur du travail.
+
+
+Programme officiel :
+Sociologie et science politique
+
+Questionnement    Objectifs d’apprentissage
+Quelles mutations - Comprendre que le travail est source d’intégration sociale et
+du travail et de que certaines évolutions de l’emploi (précarisation, taux
+l’emploi ?        persistant de chômage élevé, polarisation de la qualité des
+                  emplois) peuvent affaiblir ce pouvoir intégrateur.
+
+
+
+Exploitation possible des documents :
+ Document 1      - Ce document met en avant la question de la polarisation de la
+                     qualité des emplois en lien avec les avancées technologiques.
+                     Il apparait ainsi que la révolution numérique a eu un impact fort
+                     sur le monde du travail et que se met en place un mécanisme
+                     de polarisation des emplois avec, d’un côté, des salariés très
+                     qualifiés et bien rémunérés dont les tâches non routinières sont
+                     relativement protégées de la concurrence du numérique.
+
+22-SESJ1ME1C                                                                  Page 5 sur 9
+                  -   De l’autre côté, certains emplois peu qualifiés (tâches
+                      manuelles peu routinières) sont relativement protégés eux
+                      aussi.
+                  -   A terme, on pourrait assister à une polarisation de l’emploi sous
+                      l’effet de l’informatisation, entre des emplois très qualifiés et
+                      fortement rémunérés d’une part, et des métiers manuels peu
+                      rémunérés d’autre part, ce qui génère des inégalités et
+                      questionne la capacité intégratrice du travail.
+
+ Document 2       -   Ce document a pour objectif de montrer l’évolution entre 1982
+                      et 2019 du temps de travail (notamment l’évolution du temps
+                      partiel) et du statut d’emploi (notamment la précarisation de
+                      l’emploi).
+                  -   Concernant le temps de travail, on observe depuis 1982 une
+                      baisse relativement marquée de la part des actifs occupés à
+                      temps complet. Ainsi, en 1982, 90,6 % des actifs en emploi
+                      étaient à temps complet contre 81,9 % en 2019, soit une
+                      diminution de près de 10 points. Cela va de pair avec la hausse
+                      de la part des actifs à temps partiel : en 2019, 18,1 % des actifs
+                      occupés ont un emploi à temps partiel (deux fois plus qu’en
+                      1982).
+                  -   Concernant le statut d’emploi, outre la diminution de la part des
+                      non-salariés depuis 1982, on observe aussi sur cette période
+                      une diminution de la part des actifs salariés en CDI. En 1982,
+                      76,7 % des salariés en activité avaient un CDI contre 74,6 %
+                      en 2019. On assiste donc sur la période à une hausse de la
+                      part des salariés actifs qui occupent un emploi précaire (CDD
+                      et intérimaires notamment). En 1982, 4,5 % des actifs salariés
+                      occupaient un emploi précaire contre 11,5 % en 2019.
+ Document 3       -   Ce document met en avant l’évolution du taux de chômage en
+                      France entre 1975 et 2020. Il permet de montrer que le
+                      chômage est un phénomène de long terme et qu’il se maintient
+                      à un niveau élevé en France depuis le milieu des années 1980
+                      où il n’est que très rarement passé sous le seuil de 8 % de la
+                      population active. Un taux de chômage élevé fragilise le rôle
+                      intégrateur du travail.
+
+
+Raisonnement possible :
+
+La persistante d’un taux de chômage élevé est une source d’affaiblissement de
+l’intégration par le travail.
+
+- Un niveau élevé de chômage (document 3) entraîne une hausse mécanique du
+nombre de personnes exclues du travail rémunéré, ce qui créé une insécurité
+financière et accroît le risque d’être touché par la pauvreté. Cette fragilisation de
+
+
+
+22-SESJ1ME1C                                                                Page 6 sur 9
+l’intégration par le travail peut être, notamment dans le cas d’un chômage de longue
+durée, source de ruptures successives (professionnelles et familiales notamment).
+- La privation durable d’emploi fragilise l’intégration sociale car elle fait perdre aux
+individus des liens de sociabilité importants (sociabilité professionnelle) et entraine une
+dégradation du statut social et de l’identité sociale associés à l’emploi : stigmatisation
+et intériorisation d’une image négative d’eux-mêmes.
+
+La précarisation de l’emploi peut remettre en cause le rôle intégrateur du travail.
+
+- Depuis le début des années 1980, on assiste à une montée de l’emploi précaire
+(document 2).
+- Le développement des emplois précaires (CDD, intérim) a une influence sur la qualité
+de l’intégration par le travail. Les emplois précaires débouchent sur des revenus
+intermittents (alternance entre phases d’emploi et d’inactivité) qui exposent davantage
+les travailleurs précaires au risque de pauvreté.
+- Les travailleurs précaires sont moins bien intégrés au sein des collectifs de travail,
+ce qui peut nuire à la qualité de la sociabilité professionnelle.
+- Les travailleurs précaires peuvent être confrontés à un manque de reconnaissance
+sociale par le travail et ils sont plus nombreux dans les secteurs où les tâches sont
+moins valorisées (problème d’identité sociale) et là où l’autonomie des salariés est la
+plus faible.
+
+La polarisation de la qualité des emplois peut nuire à l’intégration par le travail.
+
+- La polarisation des emplois s’explique avant tout par les avancées technologiques
+notamment dans le domaine du numérique (document 1).
+ - Le numérique favorise une polarisation des qualifications et une augmentation des
+inégalités (notamment salariales) entre salariés qualifiés et non-qualifiés. De plus, le
+risque d’être touché par le chômage et la précarité est beaucoup plus élevé pour les
+salariés non-qualifiés que pour les autres.
+
+
+
+
+22-SESJ1ME1C                                                                  Page 7 sur 9
+                         ÉPREUVE COMPOSÉE – SUJET B
+                           PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question 1 (4 points)
+Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement
+politique, malgré le paradoxe de l'action collective.
+Sociologie et science politique
+Comment expliquer l'engagement politique dans les sociétés démocratiques ?
+
+Réponse possible :
+Le paradoxe de l'action collective montre qu'il peut exister une contradiction entre
+l'intérêt collectif à se mobiliser et l'intérêt individuel qui conduit chacun à ne pas
+s'engager pour ne pas supporter les coûts de cet engagement. Le résultat de ce
+paradoxe est que les individus ont intérêt à ne pas s'engager, ce qui rend peu
+probables les actions collectives.
+Cependant, on constate que les individus s'engagent malgré tout, ce qui peut être
+notamment expliqué par l'existence d'incitations sélectives. Ces incitations peuvent
+prendre la forme de bénéfices réservés aux seuls participants à l'action collective
+lesquels visent à diminuer les coûts de l'engagement et à réduire également les
+bénéfices retirés de la non-participation, la rendant ainsi moins avantageuse.
+À l'inverse pour les non-participants, ces incitations peuvent prendre la forme de
+contraintes qui ont alors pour effet d'accroître le coût de l'absence d'engagement.
+Ainsi, la prise en compte de ces incitations sélectives en modifiant le calcul coûts-
+avantages des individus conduit les individus à s'engager.
+
+Question 2 (3 points)
+Présentez une limite de la politique européenne de la concurrence.
+Science économique
+Quelles politiques économiques dans le cadre européen ?
+
+Réponse possible :
+ - La politique européenne de la concurrence est l’ensemble des instruments mis en
+    œuvre dans le cadre européen avec l’objectif de renforcer la concurrence dans le
+    cadre du marché unique. Elle se traduit notamment par la lutte contre les ententes
+    et les abus de position dominante, ainsi que par le contrôle des concentrations.
+ - Cette politique peut entrer en contradiction avec les politiques industrielles des
+    entreprises européennes (opérations de fusion-acquisition), ce qui peut les
+    pénaliser dans le cadre de la compétition internationale vis-à-vis de firmes
+    multinationales qui ne sont pas soumises à des règles aussi contraignantes.
+Ainsi la politique européenne de la concurrence peut nuire à la compétitivité des firmes
+européennes.
+
+
+Question 3 (3 points)
+Présentez deux facteurs de structuration de l’espace social.
+
+
+
+22-SESJ1ME1C                                                               Page 8 sur 9
+Réponse possible :
+
+À l’intérieur d’une société, les individus se répartissent en groupes sociaux différenciés
+en fonction de plusieurs facteurs. Cet ensemble de groupes différenciés constitue
+l’espace social.
+Cette structuration des individus dans l’espace social peut s’articuler autour d’un
+premier facteur qui est le revenu. En effet, le flux de ressources que les individus
+peuvent mobiliser au cours d’une période peut servir à les différencier sur le plan de
+leur consommation pour, par exemple, affirmer un statut social ou un niveau de
+prestige.
+L’espace social peut aussi se structurer autour d’un deuxième facteur qui est le niveau
+de diplôme. En effet, le diplôme conditionne en partie l’accès à l’emploi et aux revenus.
+Il existe un lien fort entre le niveau de diplômes atteint par un individu et la profession
+exercée. Un haut niveau de diplôme peut donc permettre d’atteindre les emplois les
+plus rémunérés et les plus prestigieux.
+Autres facteurs mobilisables par les candidats : catégorie socioprofessionnelle,
+composition du ménage, position dans le cycle de vie, sexe, lieu de résidence.
+
+
+
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+que certaines évolutions de l’emploi ont pu affaiblir le rôle intégrateur du travail.
+Proposition de corrigé : voir supra.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ1ME1C                                                                 Page 9 sur 9
+

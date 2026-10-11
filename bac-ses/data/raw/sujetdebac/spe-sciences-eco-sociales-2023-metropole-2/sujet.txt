@@ -1,0 +1,420 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2023
+
+
+
+          Sciences économiques et sociales
+                      ______
+
+
+                            Mardi 21 Mars 2023
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 11 pages numérotées de 1/11 à 11/11.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou l’épreuve
+                           composée.
+
+                Il indique sur sa copie le sujet choisi.
+
+
+
+
+23-SESJ2ME1                                                               Page 1 sur 11
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+ Dans quelle mesure les instruments dont disposent les pouvoirs publics pour
+  faire face aux externalités négatives sur l’environnement sont-ils efficaces ?
+
+
+
+
+23-SESJ2ME1                                                                                 Page 2 sur 11
+DOCUMENT 1
+
+   Part de la fiscalité énergétique1 dans le revenu total des ménages en 2019
+
+
+
+                           5
+
+                          4,5
+
+                           4
+
+                          3,5
+   En % du revenu total
+
+
+
+
+                           3
+
+                          2,5
+
+                           2
+
+                          1,5
+
+                           1
+
+                          0,5
+
+                           0
+                                  1er quintile   2e quintile    3e quintile    4e quintile    5e quintile
+                           Quintile de revenu total par unité de consommation (UC)2 du ménage
+
+Lecture : La fiscalité énergétique totale représente en moyenne 4,5% du revenu total par UC
+des 20% des ménages les plus modestes (premier quintile) en 2019.
+
+                                Source : d’après Rapport sur l’impact environnemental du budget de l’État, 2021.
+
+1 : Fiscalité énergétique : Taxes intérieures de consommation sur les énergies (taxe intérieure
+de consommation sur les carburants et le fioul, taxe intérieure de consommation sur le gaz
+naturel et taxes locales de consommation sur l’électricité).
+
+2 : L’unité de consommation permet de comparer le niveau de vie en prenant en compte le
+nombre de personnes dans le ménage selon leur âge.
+
+
+
+
+23-SESJ2ME1                                                                                        Page 3 sur 11
+DOCUMENT 2
+
+ Répartition géographique des émissions de CO2 dans le monde (en milliards
+                                de tonnes)
+
+                                                                          Évolution Évolution
+                                          1990        2017       2018       2017- 1990-2018
+                                                                          2018 (%)      (%)
+Amérique du Nord                         5 809       6 231      6 366       + 2,2     + 9,6
+      dont Canada                         455         595        594        - 0,1    + 30,7
+           Etats-Unis                    5 064       5 128      5 275       + 2,9     + 4,2
+Amérique centrale et du Sud               675        1 348      1 343       - 0,4    + 98,9
+      dont Brésil                         229         507        500        - 1,3    + 118,7
+Europe et ex-URSS                        8 457       6 202      6 243       + 0,7     - 26,2
+      dont Russie                        2 355       1 688      1 748       + 3,5     - 25,8
+           UE à 27                       3 824       3 146      3 085       - 1,9     - 19,3
+             Allemagne                   1 018        788        753        - 4,5     - 26,1
+             Espagne                      234         282        276        - 2,2    + 18,1
+             France                       390         339        332        - 2,2     - 14,8
+             Italie                       431         356        345         -3,1     - 19,9
+             Pologne                      371         327        334        + 2,0     - 10,1
+           Royaume-Uni                    584         379        372        - 2,0     - 36,3
+Afrique sub-saharienne                    478         849        862        + 1,5    + 80,1
+Moyen-Orient et Afrique du Nord          1 056       3 161      3 229       + 2,1    + 205,7
+      dont Arabie Saoudite                173         632        625        - 1,1    + 261,6
+Asie                                     5 222       17 682     18 117      + 2,5     + 247
+      dont Chine                         2 398       11 087     11256       + 1,5    + 369,5
+           Corée du Sud                   270         675        695        + 2,9    + 157,1
+           Inde                           595        2 246      2 622       + 7,2    +340,8
+           Japon                         1 149       1 220      1 199       - 1,7     + 4,3
+Océanie                                   309         462        465        + 0,7    + 50,7
+Monde                                    22 637      37 180     37 887      + 1,9    + 67,4
+
+                                  Source : d’après Ministère de la transition écologique, 2021.
+
+
+
+
+23-SESJ2ME1                                                                       Page 4 sur 11
+DOCUMENT 3
+Les voitures individuelles sont aujourd’hui responsables d’environ 60% des émissions
+totales de CO2 du transport routier en Europe. Développer la mobilité propre en
+encourageant l’acquisition de véhicules peu polluants est donc un levier essentiel pour
+atteindre la neutralité carbone en 2050 et réduire la pollution atmosphérique. Afin
+d’encourager les Français à acquérir des véhicules plus propres, le Gouvernement a
+mis en place des aides, tels que le bonus écologique et la prime à la conversion1, ainsi
+que de nombreux outils pour les accompagner dans cette démarche.
+Les aides à la mobilité propre concernent l’achat ou la location d’au moins deux ans
+des véhicules appartenant aux catégories suivantes :
+     Les voitures particulières, camionnettes, ou véhicules automoteurs
+        spécialisées2, dont le poids total autorisé en charge n'excède pas 3,5 tonnes ;
+     Les véhicules électriques à moteur à 2 ou 3 roues et les quadricycles à moteur
+        électrique ;
+     Les poids lourds, autobus ou autocars […] fonctionnant à l'électricité ou à
+        l'hydrogène;
+     Les vélos à assistance électrique;
+     Les vélos cargos.
+[…] Le malus écologique est la taxe sur les émissions de dioxyde de carbone dont
+l’objectif est d’encourager les consommateurs à s’orienter vers les véhicules les moins
+émetteurs de CO2. En 2022, la taxe s’applique aux véhicules neufs émettant au moins
+128 g de CO2/km. Plus le modèle de véhicule acheté est émetteur de CO2, plus le
+malus augmente.
+
+                                                       Source : www.ecologie.gouv.fr, 2021.
+
+1 : Prime à la conversion : Aide allouée aux propriétaires d’un véhicule ancien disposés à le
+mettre au rebut et à le remplacer par une voiture moins polluante, neuve ou d’occasion.
+2 : Véhicules automoteurs spécialisés (VASP) : la catégorie VASP regroupe entre autres les
+ambulances, les camping-cars, les caravanes, les remorques, les dépanneuses, les bennes à
+ordures, les camions-restaurants, les tracteurs et autres remorques agricoles et les
+limousines.
+
+
+
+
+23-SESJ2ME1                                                                     Page 5 sur 11
+DOCUMENT 4
+
+                 Évolution du prix moyen de la tonne de CO2 en Europe pour l'industrie
+
+                               30
+
+                               25
+   En euros par tonne de CO2
+
+
+
+
+                               20
+
+                               15
+
+                               10
+
+                               5
+
+                               0
+                                    2008
+
+                                           2009
+
+                                                  2010
+
+                                                         2011
+
+                                                                2012
+
+                                                                       2013
+
+                                                                               2014
+
+                                                                                      2015
+
+                                                                                             2016
+
+                                                                                                    2017
+
+                                                                                                           2018
+
+                                                                                                                   2019
+
+                                                                                                                          2020
+                                                                              Source : Observatoire climat-énergie, 2022.
+
+
+
+
+23-SESJ2ME1                                                                                                       Page 6 sur 11
+                                      Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Montrez que la différenciation des produits peut expliquer le commerce entre pays
+comparables.
+
+
+
+
+23-SESJ2ME1                                                                                Page 7 sur 11
+Deuxième partie : Étude d’un document (6 points)
+
+        Diplôme le plus élevé obtenu selon la tranche d’âge en 2021 (en %)
+
+  40
+
+  35
+                                                                    Aucun diplôme, brevet des
+  30
+                                                                    collèges
+  25                                                                CAP, BEP1ou équivalent
+
+  20                                                                Baccalauréat ou
+                                                                    équivalent
+  15                                                                Bac + 2
+  10
+                                                                    Supérieur à Bac + 2
+   5
+
+   0
+         25-34 ans      35-44 ans      45-54 ans     55-64 ans
+Champ : France hors Mayotte, population des ménages, personnes âgées de 25 à 64 ans.
+
+                                                       Sources : INSEE, enquête Emploi, 2022.
+
+1 : CAP : certificat d’aptitude professionnelle ; BEP : brevet d’études professionnelles.
+L’examen du BEP n’existe plus depuis 2021.
+
+Questions :
+
+   1. Comparez les diplômes obtenus par les 25–34 ans, d’une part, et les 55–64 ans,
+      d’autre part. (2 points)
+
+   2. À l’aide du document et de vos connaissances, vous montrerez que l’élévation
+      du niveau de qualification est une explication de l’évolution de la structure
+      socioprofessionnelle en France. (4 points)
+
+
+
+
+23-SESJ2ME1                                                                        Page 8 sur 11
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+
+                        Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez     que    l'engagement  politique  dépend    de    variables
+sociodémographiques.
+
+
+DOCUMENT 1
+
+Une autre population abondamment étudiée en France est celle des anciens soixante-
+huitards1. Annick Percheron3 a montré à partir d’enquêtes par sondage la persistance,
+en 1989, des clivages générationnels suscités par la guerre d’Algérie et Mai 1968 chez
+les interviewés qui arrivaient alors à l’âge de la majorité. Les partisans de
+l’indépendance algérienne, tout comme les interviewés favorables au mouvement de
+mai, surtout s’ils ont activement participé aux événements, restent au moment de
+l’enquête plus politisés et plus à gauche que les pro Algérie Française et les anti mai
+1968. En outre les militants de mai 1968 sont nettement plus attachés aux valeurs
+permissives2 du libéralisme culturel. Elle distingue deux populations, « un noyau étroit
+de militants engagés chez lesquels l’événement a renforcé, cristallisé des attitudes
+déjà existantes ; un cercle plus large d’individus révélés à eux-mêmes par ces mêmes
+événements et qui en portent aujourd’hui encore la marque, mais sous une forme plus
+atténuée ».
+[…] Sur une période plus récente, celles des mobilisations lycéennes et étudiantes de
+1986, Anne Muxel3 a montré à partir d’un panel de jeunes, interviewés sept fois de
+1987 à 1997, entre leur dix-huitième et leur trentième année, la politisation durable
+produite par la participation à ces mobilisations contre la réforme des procédures de
+sélection à l’entrée des universités.
+
+                   Source : Nonna MAYER, Sociologie des comportements politiques, 2014.
+
+1 : Soixante-huitards : participants au mouvement de mai 1968.
+2 : Permissives : qui permettent facilement.
+3 : Annick Percheron et Anne Muxel : sociologues françaises.
+
+
+
+
+23-SESJ2ME1                                                                Page 9 sur 11
+  DOCUMENT 2
+
+     Taux d’adhésion à au moins une association selon le sexe en 2016 (en %)
+
+
+    Éducation (soutien scolaire, formation…)
+                               Parti politique
+    Groupement professionnel hors syndicat
+                                    Syndicat
+                Protection de l'environnement
+    Défense de droits et d'intérêts communs
+             Aide aux personnes en difficulté
+            Religion, culte, groupe paroissial
+                             Clubs de 3e âge
+Loisirs (comités des fêtes, clubs de bridge…)
+                                      Culture
+                                        Sport
+
+                                                 0      5        10        15          20        25
+                                      Hommes         Femmes
+
+
+  Champ : France métropolitaine, personnes âgées de 16 ans ou plus.
+
+                                                                      Source : INSEE, 2016.
+
+
+
+
+  23-SESJ2ME1                                                                   Page 10 sur 11
+DOCUMENT 3
+
+
+ Profil des abstentionnistes aux élections législatives en 2022 selon le sexe,
+               l’âge et la catégorie socioprofessionnelle (en %)
+
+                          Votants     Abstentionnistes        Total
+       Ensemble            47,7             52,3               100
+                                    Sexe
+       Homme                 48              52                100
+       Femme                 48              52                100
+                                    Âge
+       18-24 ans             31              69                100
+       25-34 ans             29              71                100
+       35-49 ans             41              59                100
+       50-59 ans             48              52                100
+       60-69 ans             60              40                100
+       70 ans et plus        69              31                100
+                                    CSP
+       Cadres                47              53                100
+       Professions
+                             43               57               100
+       intermédiaires
+       Employés              35               65               100
+       Ouvriers              38               62               100
+       Retraités             67               33               100
+
+                                          Source : d’après www.ipsos.com, 2022.
+
+
+
+
+23-SESJ2ME1                                                          Page 11 sur 11
+

@@ -1,0 +1,73 @@
+{
+  "id": "22-SESJ1NC1-EC1-B-Q2",
+  "slug": "22-sesj1nc1-ec1-b-q2",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "22-SESJ1NC1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J1",
+  "center": "Nouvelle-Calédonie",
+  "question": "Montrez que le progrès technique peut engendrer des inégalités de revenus.",
+  "subQuestions": [],
+  "points": 3.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment l'évolution des modèles d'organisation du travail transforme-t-elle les conditions de travail ?"
+    },
+    {
+      "part": "EC1 (question 1)",
+      "question": "Vous illustrerez la diversité des objets de l'action collective à l'aide de deux exemples."
+    },
+    {
+      "part": "EC1 (question 3)",
+      "question": "Quels sont les objectifs de la politique européenne de concurrence ?"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment la productivité des firmes détermine la compétitivité, et donc la capacité à exporter d'un pays."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1NC1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 189, 2022_amsud_norm_ec_2-2.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=189&cle=c266db8bcdfc057a56b18dd69bb0c4f441d58bdc8cb7c97923541e2c35407ecd&file=docx%2F2022_amsud_norm_ec_2-2.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Amérique du Sud · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 189",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=189&cle=c266db8bcdfc057a56b18dd69bb0c4f441d58bdc8cb7c97923541e2c35407ecd&file=docx%2F2022_amsud_norm_ec_2-2.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B). Incohérence relevée : le catalogue de Versailles (doc. 189) indique « Amérique du Sud », alors que le fichier (2022_amsud_norm_ec_2-2.docx) et le sujet officiel correspondent à Nouvelle-Calédonie.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ1NC1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ1NC1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.831) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

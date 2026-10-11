@@ -1,0 +1,575 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2022
+
+
+
+          Sciences économiques et sociales
+
+
+
+                                     JOUR 2
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 14 pages numérotées de 1/14 à 14/14.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+22-SESJ2JA1                                                                   Page: 1/14
+           Dissertation s’appuyant sur un dossier documentaire
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+ Quels sont les effets de l’évolution des formes de l’organisation du travail sur
+                             les conditions de travail ?
+
+DOCUMENT 1
+
+      Horaires de travail atypiques et organisation du travail en 2018 (en %)
+
+
+
+
+1 : Travail : une personne est considérée au travail si elle a travaillé au moins une fois au cours
+des 4 semaines précédant l’enquête.
+2 : le soir : entre 20 heures et minuit.
+3 : la nuit : entre minuit et 5 heures.
+4 : au domicile : s’il n’est pas le lieu de travail.
+5 : Horaires habituels alternés : 2x8 (système qui consiste à faire tourner, par roulement de
+huit heures consécutives, deux équipes sur un même poste, afin d'assurer un fonctionnement
+durant les seize heures d'une journée), 3x8 (système qui consiste à faire tourner, par
+roulement de huit heures consécutives, trois équipes sur un même poste, afin d'assurer un
+fonctionnement durant les vingt-quatre heures d'une journée).
+
+     Champ : France hors Mayotte, personnes ayant un emploi, âgées de 15 ans ou plus à la
+                                                                date de l’enquête emploi.
+
+                                                             Source : INSEE, enquête Emploi, 2019.
+
+
+22-SESJ2JA1                                                                                 Page: 2/14
+DOCUMENT 2
+
+      Risques physiques au cours de la dernière semaine travaillée (en %)
+                            (Enquêtes SUMER1)
+
+                          Catégories socioprofessionnelles
+                Cadres et                                                Ensemble
+                                Employés de                 Ouvriers        des
+               professions                      Ouvriers
+                              commerce et de                   non        salariés
+              intellectuelles                   qualifiés
+                                  services                  qualifiés2
+               supérieures
+    Position debout ou piétinement 20 heures ou plus par semaine
+    1994             6,5            46,9          40,6         44,8         28,4
+    2017             1,9            36,2          34,2         39,6         21,2
+    Exposition à des nuisances sonores
+    1994            10,5            12,5          48,4         44,2         27,4
+    2017            13,1            20,8          67,5         52,2         31,6
+    Travail exigeant une position forcée d'une ou plusieurs articulations
+    2010             5,0            22,2          31,2         34,1         18,2
+    2017             3,8            20,6          36,0         38,8         18,8
+    Outils transmettant des vibrations aux membres supérieurs
+    1994             0,7             1,3          22,9         15,9         8,7
+    2017             1,0             2,4          34,4         23,8         11,1
+    Répétition d'un même geste ou d'une série de gestes à cadence élevée
+    1994             2,4            23,8          27,4         46,7         20,3
+    2017             1,8            22,3          23,9         37,6         16,1
+
+
+                      Source : d’après DGT-DARES, Enquêtes SUMER 1994 et 2017, 2019.
+
+Champ : ensemble des salariés du secteur privé et de la mutualité sociale agricole ; France
+métropolitaine.
+
+1 : Enquêtes SUMER (SUrveillance Médicale des Expositions des salariés aux Risques
+professionnels).
+
+2 : Par convention, les ouvriers agricoles sont classés dans cette catégorie.
+
+
+
+
+22-SESJ2JA1                                                                     Page: 3/14
+DOCUMENT 3
+
+        Évolution des conditions de vie et de travail liées au télétravail en
+                                France en 2018
+
+
+
+
+       Source : Yves LAFARGUE et Sylvie FAUCONNIER, « Impacts du télétravail 2018 »,
+     OBERGO (OBservatoire du télétravail, des conditions de travail et de l'ERGOstressie1),
+                                                                                     2018.
+
+1 : Ergostressie : stress occasionné par l’usage des technologies de l’information et de la
+communication dans le cadre du travail (néologisme issu des termes « ergonomie » et
+« stress »).
+
+Lecture : 96% des réponses des femmes indiquent une amélioration de la qualité de leur vie
+personnelle et/ou de leur travail liée au télétravail.
+
+
+
+
+22-SESJ2JA1                                                                        Page: 4/14
+DOCUMENT 4
+
+Les TMS [Troubles Musculo-squelettiques] sont des risques à effets différés. Douleurs,
+maladresses, raideur ou encore perte de force musculaire lors d’un mouvement sont
+les premiers signes de TMS. […] Le code du travail énonce à l’article L. 4121-2 neuf
+principes généraux de prévention. L’employeur doit s’appuyer sur ce cadre pour mettre
+en place une démarche de prévention (article L. 4121-1) adaptée aux situations
+pouvant se présenter au sein de l’entreprise. […] Avant de prendre une décision
+modifiant de façon significative le contenu ou l’organisation du travail, l’employeur doit
+réfléchir aux risques professionnels qu’elle peut entraîner, y compris les troubles
+musculo-squelettiques. […] Au plan industriel, la directive machines 2006/42/CE dans
+son annexe 1, exigences essentielles de santé et de sécurité relatives à la conception
+et à la construction des machines, prévoit de réduire au minimum la gêne, la fatigue
+et les contraintes physiques et psychiques de l’opérateur à partir des principes
+ergonomiques suivants :
+     tenir compte de la variabilité des opérateurs en ce qui concerne leurs données
+        morphologiques, leur force et leur résistance,
+     offrir assez d’espace pour les mouvements des différentes parties du corps de
+        l’opérateur,
+     éviter un rythme de travail déterminé par la machine,
+     éviter une surveillance qui nécessite une concentration prolongée,
+     adapter l’interface homme-machine aux caractéristiques prévisibles des
+        opérateurs.
+Dans le secteur tertiaire, en particulier pour les postes de travail de bureau, l’employeur
+doit prendre en compte les évolutions de confort de travail qui contribuent au mieux-
+être des travailleurs comme, par exemple, les progrès dans la conception des sièges,
+des écrans, les matériaux d’insonorisation ou encore d’isolation. […] Pour obtenir un
+effet favorable sur l’ensemble des conditions de travail, il faut s’assurer que les
+décisions prises soient accompagnées d’instructions explicites à destination des
+salariés. L’enjeu est d’être sûr que chaque travailleur soit informé des ressources
+mises en place pour, par exemple, faire face aux situations difficiles pouvant se
+présenter.
+
+                                           Source : Ministère du travail et de l’emploi, 2021.
+
+
+
+
+22-SESJ2JA1                                                                      Page: 5/14
+                                       Épreuve composée
+
+Si le candidat choisit l'épreuve composée, il traite au choix le sujet A ou le sujet B
+
+                                                SUJET A
+
+ Cette épreuve comprend trois parties :
+
+ Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+ faisant appel à ses connaissances acquises dans le cadre du programme.
+ Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+ méthodologique rigoureuse, de collecte et de traitement de l'information.
+ Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+ le sujet :
+          - en développant un raisonnement ;
+          - en exploitant les documents du dossier ;
+          - en faisant appel à ses connaissances personnelles ;
+          - en composant une introduction, un développement, une conclusion.
+
+ II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+ Première partie : Mobilisation des connaissances (4 points)
+
+ Donnez deux exemples de facteurs qui structurent et hiérarchisent l’espace social.
+
+
+
+
+ 22-SESJ2JA1                                                                                 Page: 6/14
+Deuxième partie : Étude d’un document (6 points)
+
+     Caractéristiques des votants à toutes les élections en région Nouvelle-
+                  Aquitaine en 2017 (en % des inscrits de 2015)
+
+Ensemble des inscrits
+                                                              38,9
+de 18 ans ou plus
+                                Femme                                              38,7
+Sexe
+                                Homme                                              39,0
+                                De 18 à 24 ans                                     19,4
+                                De 25 à 29 ans                                     14,8
+                                De 30 à 39 ans                                     23,9
+                                De 40 à 49 ans                                     37,5
+Tranche d'âge
+                                De 50 à 59 ans                                     43,0
+                                De 60 à 69 ans                                     51,0
+                                De 70 à 79 ans                                     54,0
+                                80 ans ou plus                                     41,7
+Ensemble des inscrits
+                                                              40,7
+de 25 ans ou plus
+                                Aucun diplôme                                      34,3
+Diplôme                         Inférieur au baccalauréat                          40,8
+(25 ans ou plus)                Baccalauréat                                       39,6
+                                Supérieur au baccalauréat                          43,5
+                                Agriculteurs exploitants                           42,8
+                                Artisans, commerçants, chefs
+                                                                                   35,9
+                                entreprise
+Catégorie                       Cadres, professions intellectuelles                45,5
+socioprofessionnelle            supérieures
+(25 ans ou plus)                Professions intermédiaires                         39,6
+                                Employés                                           31,6
+                                Ouvriers                                           29,3
+                                Autres sans activité professionnelle               36,6
+                                Quartile1 1                                        32,3
+Niveau de vie                   Quartile 2                                         37,7
+(25 ans ou plus)                Quartile 3                                         44,6
+                                Quartile 4                                         50,4
+
+Champ : individus inscrits sur les listes électorales depuis 2015 en Nouvelle-Aquitaine.
+
+                                                                Source : d’après INSEE, 2017.
+
+1 : Quartiles : les quartiles partagent l’effectif total en groupes de 25%, après classement des
+valeurs par ordre croissant.
+
+
+Questions :
+1. À l’aide du document, vous comparerez la part des votants à toutes les élections
+   selon la catégorie socioprofessionnelle en 2017. (2 points)
+2. À l’aide du document et de vos connaissances, vous montrerez que l’engagement
+   politique dépend de variables sociodémographiques. (4 points)
+
+
+22-SESJ2JA1                                                                        Page: 7/14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la mise en œuvre des politiques économiques conjoncturelles
+dans la zone euro rencontre des difficultés.
+
+
+DOCUMENT 1
+
+L’union économique et monétaire (UEM) souffre d’une faiblesse originelle : à l’unicité
+du pôle monétaire s’oppose la pluralité du pôle économique. Deux mesures ont tenté
+de doter la zone euro d'une sorte de gouvernance économique et d'une convergence
+renforcée : l'adoption en 1997 du Pacte de stabilité et de croissance (PSC)1 ; et la
+création de l’Eurogroupe.
+L'Eurogroupe n’est qu’une réunion informelle des ministres des finances de la zone
+euro, sans institutionnalisation jusqu'au traité de Lisbonne. Il permet d’améliorer la
+coordination des politiques économiques mais pas d’adopter une politique
+économique commune, encore moins unique. […]
+Le PSC, qui avait pour objectif de maintenir les règles de Maastricht en termes de
+finances publiques une fois l’UEM entrée en vigueur, s’est révélé inefficace et a
+maintes fois été violé par les États. En outre, la Commission européenne a suspendu
+le pacte de stabilité et de croissance en mars 2020 pour faire face à la crise provoquée
+par le Covid-19. [...]
+La zone euro n’est pas dotée de ce dont disposent toutes les zones monétaires : un
+budget. Aux États-Unis, par exemple, l’hétérogénéité économique des États fédérés
+est compensée par l’existence d’un gouvernement qui fait face à la FED (banque
+centrale américaine) et d’un budget fédéral redistributif. Ceci n’est absolument pas le
+cas de l’UE et de la zone euro. La zone euro est dotée d’une monnaie et d’une politique
+monétaire pour 19 politiques économiques, 19 gouvernements et 19 budgets, ce qui
+la fragilise, indépendamment du contexte de crise. Le débat sur la nécessité d’installer
+un gouvernement économique occupe depuis plus de dix ans les cercles politiques et
+économiques en Europe. […]
+Le plan de relance pour faire face à la crise sanitaire due au Covid-19 […] va
+cependant dans le sens d’un budget plus important, permettant une redistribution plus
+ambitieuse.
+
+                                                          Source : www.vie-publique.fr, 2021.
+
+1 : PSC : Pacte de stabilité et de croissance impose aux États de la zone euro d’avoir à terme
+des budgets proches de l’équilibre ou excédentaires.
+
+
+
+
+22-SESJ2JA1                                                                      Page: 8/14
+ DOCUMENT 2
+
+
+          Situation des pays de l'Union européenne au regard des critères de
+                                 convergence1 en 2020
+
+
+                    Solde des
+                                         Dette             Inflation        Taux d'intérêt
+                     finances
+     Pays                              publique             (IPCH2)         à long terme
+                    publiques
+                                     (en % du PIB)           (en %)             (en %)
+                  (en % du PIB)
+
+Allemagne              -4,2               69,8                0,4                -0,51
+
+Danemark               -1,1               42,2                0,3                -0,36
+
+Espagne                -11,0              120,0               -0,3               0,38
+
+France                 -9,2               115,7               0,5                -0,15
+
+Grèce                  -9,7               205,6               -1,3               1,27
+
+Irlande                -5,0               59,5                -0,5               -0,06
+
+Italie                 -9,5               155,8               -0,1               1,17
+
+Pays-Bas               -4,3               54,5                1,1                -0,38
+
+Portugal               -5,7               133,6               -0,1               0,41
+
+                               Sources : INSEE, Banque centrale européenne, Eurostat, 2021.
+
+ 1 : Critères de convergence : critères que les États membres de l’Union européenne,
+ candidats à l’adoption de la monnaie unique, ont dû ou doivent respecter pour adopter l’euro
+ comme monnaie.
+
+ 2 : IPCH : indice des prix à la consommation harmonisé.
+
+
+
+
+ 22-SESJ2JA1                                                                     Page: 9/14
+DOCUMENT 3
+
+En novembre 2016, au début du « semestre européen » destiné chaque année à
+coordonner les politiques économiques des États membres, la Commission
+européenne a préconisé une expansion budgétaire coordonnée de 0,5 % du PIB pour
+2017. Cette recommandation s’adressait aux pays non contraints par le PSC 1 (ou par
+un programme d’ajustement), au premier rang desquels l’Allemagne qui a rapidement
+fait savoir son opposition à cette orientation. D’un point de vue strictement allemand,
+une expansion budgétaire n’avait rien de naturel en 2017, année de plein-emploi. Une
+légère expansion budgétaire était prévue (0,2 % du PIB en termes structurels), rien de
+plus. Pourquoi modifier sa politique budgétaire si le problème était ailleurs dans la zone
+euro ?
+La politique budgétaire obéit à un processus institutionnel codifié : le budget est
+proposé par le gouvernement et voté par le parlement national. Pour insuffler une
+véritable coordination des politiques budgétaires, il faudrait que chaque parlement
+national prenne en compte les besoins de la zone euro dans son ensemble. Or les
+parlementaires d’un pays ne sont pas élus avec les voix de citoyens d’autres pays
+européens. Ils n’ont donc aucune raison de prendre leur point de vue en compte, sauf
+si la situation dans d’autres pays peut rétroagir sur la situation nationale (comme ce
+fut le cas avec la crise grecque). On le voit, la coordination des politiques budgétaires
+ne peut être que l’exception et non la règle. Les tentatives de faire coopérer les
+parlements nationaux avec le Parlement européen n’ont pas fondamentalement
+modifié la situation.
+
+             Source : Agnès BÉNASSY-QUÉRÉ, « La zone euro en quête de coordination »,
+                                                 Revue d’Économie Financière, 2017.
+
+1 : PSC : le Pacte de Stabilité et de Croissance est un instrument qui impose aux États de la
+zone euro d’avoir à terme des budgets proches de l’équilibre ou excédentaires.
+
+
+
+
+22-SESJ2JA1                                                                    Page: 10/14
+                                      Épreuve composée
+
+                                               SUJET B
+
+
+Cette épreuve comprend deux parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre aux trois questions
+proposées en faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+- en développant un raisonnement ;
+- en exploitant les documents du dossier ;
+- en faisant appel à ses connaissances personnelles ;
+- en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question 1 (4 points) : Montrez que l’innovation peut aider à reculer les limites
+écologiques auxquelles se heurte la croissance économique.
+
+Question 2 (3 points) : Présentez deux inconvénients du libre-échange.
+
+Question 3 (3 points) : À l’aide d’un exemple, vous montrerez comment les inégalités
+économiques et sociales peuvent se cumuler.
+
+
+
+
+22-SESJ2JA1                                                                                Page: 11/14
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+                     Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la mise en œuvre des politiques économiques conjoncturelles
+dans la zone euro rencontre des difficultés.
+
+
+
+DOCUMENT 1
+
+L’union économique et monétaire (UEM) souffre d’une faiblesse originelle : à l’unicité
+du pôle monétaire s’oppose la pluralité du pôle économique. Deux mesures ont tenté
+de doter la zone euro d'une sorte de gouvernance économique et d'une convergence
+renforcée : l'adoption en 1997 du Pacte de stabilité et de croissance (PSC) 1 ; et la
+création de l’Eurogroupe.
+L'Eurogroupe n’est qu’une réunion informelle des ministres des finances de la zone
+euro, sans institutionnalisation jusqu'au traité de Lisbonne. Il permet d’améliorer la
+coordination des politiques économiques mais pas d’adopter une politique
+économique commune, encore moins unique. […]
+Le PSC, qui avait pour objectif de maintenir les règles de Maastricht en termes de
+finances publiques une fois l’UEM entrée en vigueur, s’est révélé inefficace et a
+maintes fois été violé par les États. En outre, la Commission européenne a suspendu
+le pacte de stabilité et de croissance en mars 2020 pour faire face à la crise provoquée
+par le Covid-19. [...]
+La zone euro n’est pas dotée de ce dont disposent toutes les zones monétaires : un
+budget. Aux États-Unis, par exemple, l’hétérogénéité économique des États fédérés
+est compensée par l’existence d’un gouvernement qui fait face à la FED (banque
+centrale américaine) et d’un budget fédéral redistributif. Ceci n’est absolument pas le
+cas de l’UE et de la zone euro. La zone euro est dotée d’une monnaie et d’une politique
+monétaire pour 19 politiques économiques, 19 gouvernements et 19 budgets, ce qui
+la fragilise, indépendamment du contexte de crise. Le débat sur la nécessité d’installer
+un gouvernement économique occupe depuis plus de dix ans les cercles politiques et
+économiques en Europe. […]
+Le plan de relance pour faire face à la crise sanitaire due au Covid-19 […] va
+cependant dans le sens d’un budget plus important, permettant une redistribution plus
+ambitieuse.
+
+                                                          Source : www.vie-publique.fr, 2021.
+
+
+1 : PSC : Pacte de stabilité et de croissance impose aux États de la zone euro d’avoir à terme
+des budgets proches de l’équilibre ou excédentaires.
+
+
+
+
+22-SESJ2JA1                                                                     Page: 12/14
+ DOCUMENT 2
+
+
+
+          Situation des pays de l'Union européenne au regard des critères de
+                                 convergence1 en 2020
+
+
+                    Solde des
+                                        Dette              Inflation        Taux d'intérêt
+                     finances
+     Pays                             publique              (IPCH2)         à long terme
+                    publiques
+                                    (en % du PIB)            (en %)             (en %)
+                  (en % du PIB)
+
+Allemagne              -4,2               69,8                0,4                -0,51
+
+Danemark               -1,1               42,2                0,3                -0,36
+
+Espagne               -11,0              120,0                -0,3               0,38
+
+France                 -9,2              115,7                0,5                -0,15
+
+Grèce                  -9,7              205,6                -1,3               1,27
+
+Irlande                -5,0               59,5                -0,5               -0,06
+
+Italie                 -9,5              155,8                -0,1               1,17
+
+Pays-Bas               -4,3               54,5                1,1                -0,38
+
+Portugal               -5,7              133,6                -0,1               0,41
+
+
+
+                              Sources : INSEE, Banque centrale européenne, Eurostat, 2021.
+
+
+ 1 : Critères de convergence : critères que les États membres de l’Union européenne,
+ candidats à l’adoption de la monnaie unique, ont dû ou doivent respecter pour adopter l’euro
+ comme monnaie.
+
+
+ 2 : IPCH : indice des prix à la consommation harmonisé.
+
+
+
+
+ 22-SESJ2JA1                                                                   Page: 13/14
+DOCUMENT 3
+
+En novembre 2016, au début du « semestre européen » destiné chaque année à
+coordonner les politiques économiques des États membres, la Commission
+européenne a préconisé une expansion budgétaire coordonnée de 0,5 % du PIB pour
+2017. Cette recommandation s’adressait aux pays non contraints par le PSC1 (ou par
+un programme d’ajustement), au premier rang desquels l’Allemagne qui a rapidement
+fait savoir son opposition à cette orientation. D’un point de vue strictement allemand,
+une expansion budgétaire n’avait rien de naturel en 2017, année de plein-emploi. Une
+légère expansion budgétaire était prévue (0,2 % du PIB en termes structurels), rien de
+plus. Pourquoi modifier sa politique budgétaire si le problème était ailleurs dans la zone
+euro ?
+La politique budgétaire obéit à un processus institutionnel codifié : le budget est
+proposé par le gouvernement et voté par le parlement national. Pour insuffler une
+véritable coordination des politiques budgétaires, il faudrait que chaque parlement
+national prenne en compte les besoins de la zone euro dans son ensemble. Or les
+parlementaires d’un pays ne sont pas élus avec les voix de citoyens d’autres pays
+européens. Ils n’ont donc aucune raison de prendre leur point de vue en compte, sauf
+si la situation dans d’autres pays peut rétroagir sur la situation nationale (comme ce
+fut le cas avec la crise grecque). On le voit, la coordination des politiques budgétaires
+ne peut être que l’exception et non la règle. Les tentatives de faire coopérer les
+parlements nationaux avec le Parlement européen n’ont pas fondamentalement
+modifié la situation.
+
+             Source : Agnès BÉNASSY-QUÉRÉ, « La zone euro en quête de coordination »,
+                                                        Revue d’Économie Financière, 2017.
+
+
+1 : PSC : le Pacte de Stabilité et de Croissance est un instrument qui impose aux États de la
+zone euro d’avoir à terme des budgets proches de l’équilibre ou excédentaires.
+
+
+
+
+22-SESJ2JA1                                                                    Page: 14/14
+

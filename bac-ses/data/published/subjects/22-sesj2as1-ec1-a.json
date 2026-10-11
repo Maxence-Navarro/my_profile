@@ -1,0 +1,69 @@
+{
+  "id": "22-SESJ2AS1-EC1-A",
+  "slug": "22-sesj2as1-ec1-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "A",
+  "examCode": "22-SESJ2AS1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J2",
+  "center": "Amérique du Sud",
+  "question": "À partir d'un exemple, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment l'action collective s'est-elle transformée dans les sociétés démocratiques ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des deux dernières colonnes du document, vous montrerez que la Grèce et l'Espagne ont été particulièrement affectées par la pandémie de Covid-19. / À l'aide du document et de vos connaissances, vous expliquerez "
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les inégalités présentent un caractère multiforme et cumulatif."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2AS1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-amerique-sud-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 183, 2022_amsud_norm_ec_3.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=183&cle=4d650dbb1ffc79e4ac5da4274e9d5f36890964ec9f081744809e1c44f866c1e5&file=docx%2F2022_amsud_norm_ec_3.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Amérique du Sud · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 183",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=183&cle=4d650dbb1ffc79e4ac5da4274e9d5f36890964ec9f081744809e1c44f866c1e5&file=docx%2F2022_amsud_norm_ec_3.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "21-SESJ1JA1-EC3-B",
+  "slug": "21-sesj1ja1-ec3-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": "B",
+  "examCode": "21-SESJ1JA1",
+  "year": 2021,
+  "session": "normale",
+  "day": "J1",
+  "center": "Asie",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique peut engendrer des inégalités de revenus.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Productivité du travail, rémunération moyenne et rémunération d'un salarié *(source : « Productivité et rémunération : le lien est-il rompu ? »,)*\n- Document 2 — Salaire horaire moyen en livres au Royaume-Uni entre 2004 et 2016 *(source : www.banque-france.fr)*\n- Document 3 — La pandémie de COVID-19 dévaste les marchés du travail dans le monde entier. […] *(source : FMI, www.imf.org., 2020)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'approche en termes de classes sociales demeure-t-elle pertinente pour rendre compte de la structuration de la société française actuelle ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Comment un marché de quotas d'émission peut-il permettre aux pouvoirs publics de faire face aux externalités négatives sur l'environnement ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez la destinée des fils de cadres et des fils d'employés et d'ouvriers non qualifiés. / À l'aide du document et de vos connaissances, vous illustrerez et expliquerez une sit"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 374, 2021_asie_norm_ec_2_4_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=374&cle=2d46f6b396f61c8e611130dd745b108e562a1c3e6ab43e416b812a5092c00b6d&file=docx%2F2021_asie_norm_ec_2_4_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · Asie · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 374",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=374&cle=2d46f6b396f61c8e611130dd745b108e562a1c3e6ab43e416b812a5092c00b6d&file=docx%2F2021_asie_norm_ec_2_4_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ1JA1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.844) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

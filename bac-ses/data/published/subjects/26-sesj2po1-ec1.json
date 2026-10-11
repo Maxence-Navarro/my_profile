@@ -1,0 +1,57 @@
+{
+  "id": "26-SESJ2PO1-EC1",
+  "slug": "26-sesj2po1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "26-SESJ2PO1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J2",
+  "center": "Polynésie",
+  "question": "Vous montrerez à partir d'un exemple que l'innovation permet de faire reculer une des limites écologiques de la croissance économique.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Les dotations factorielles et technologiques suffisent-elles à expliquer le commerce international ?"
+    },
+    {
+      "part": "EC2",
+      "question": "Êtes-vous engagé dans … ? Selon le sexe Selon l'âge Selon la CSP1 OUI Moins (en %) 35–59 60 ans CSP CSP Hommes Femmes de 35 Retraités ans et + + - ans Une 35 35 36 26 36 41 39 30 43 association Un syndicat ou une 12 15 1"
+    },
+    {
+      "part": "EC3",
+      "question": "Vous montrerez que les évolutions des formes d'emploi rendent incertaines les frontières entre emploi, chômage et inactivité."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ2PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-polynesie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

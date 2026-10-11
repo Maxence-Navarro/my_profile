@@ -1,0 +1,509 @@
+      DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                     PROPOSITION DE CORRIGÉ
+
+
+     Sujet : Comment l’innovation peut-elle contribuer à reculer les limites
+                 écologiques d’une croissance soutenable ?
+
+
+Programme officiel :
+Science économique
+
+Questionnement      Objectifs d’apprentissage
+Quels sont les      -Comprendre le processus de croissance économique et les
+  sources et les    sources de la croissance : accumulation des facteurs et
+  défis de la       accroissement de la productivité globale des facteurs ;
+  croissance        comprendre le lien entre le progrès technique et l’accroissement
+  économique ?      de la productivité globale des facteurs.
+                    -Comprendre que le progrès technique est endogène et qu’il
+                    résulte en particulier de l’innovation.
+                    -Comprendre comment les institutions (notamment les droits de
+                    propriété) influent sur la croissance en affectant l’incitation à
+                    investir et innover; savoir que l’innovation s’accompagne d'un
+                    processus de destruction créatrice.
+                    -Comprendre comment le progrès technique peut engendrer
+                    des inégalités de revenus.
+                    -Comprendre qu’une croissance économique soutenable se
+                    heurte à des limites écologiques (notamment l’épuisement des
+                    ressources, la pollution et le réchauffement climatique) et que
+                    l’innovation peut aider à reculer ces limites.
+
+
+
+
+Exploitation possible des documents :
+ Document 1 Ce document propose des exemples d’innovations de procédé
+              permettant de réduire l’impact écologique de la croissance
+              économique (moindre pollution, moindre réchauffement climatique,
+              préservation des ressources).
+              - exemples de nouvelles technologies peu voire pas polluantes du fait
+              d’une dépollution des rejets : les technologies ajoutées.
+              - exemples de nouvelles technologies qui utilisent moins de
+              ressources naturelles fossiles car moins gourmandes en énergie et
+              donc peu émettrices de GES : les technologies intégrées.
+ Document 2 - La croissance économique a un impact environnemental.
+              Effectivement, la croissance du PIB et celle des émissions de CO2
+              sont corrélées positivement dans les deux pays en développement
+              présentés (Chine et Brésil) : la croissance économique est, dans
+              l’ensemble, à l’origine d’une hausse des émissions de C02. Ainsi, en
+              Chine, la hausse continue du PIB s’est accompagnée d’émissions de
+              CO2 de plus en plus fortes : selon la Banque Mondiale, en 1989, le
+
+ 22-SESJ1JA1-C                                                            Page 1 sur 10
+            PIB s’accroît de 4,21 % et 2,15 tonnes de CO2 sont émises par
+            habitant. Le PIB augmente ensuite chaque année du tableau et les
+            émissions de CO2 s’élèvent à 7,41 tonnes par habitant en 2018 pour
+            une hausse de 6,75 % du PIB, soit une augmentation des émissions
+            de CO2 de 5,26 tonnes par habitant entre 1989 et 2018. D’ailleurs, a
+            contrario, en 2008, au Brésil, le PIB augmente de 5,09 % alors qu’il
+            baisse de 0,13 % en 2009 et dans le même temps, les émissions de
+            CO2 ont diminué de 0,13 tonne de CO2 par habitant.
+            - Cette corrélation positive n’est pas systématique. Les innovations
+            peuvent aider à reculer les limites écologiques auxquelles se heurte
+            la croissance économique. En effet, contrairement aux pays en
+            développement, la France voit ses émissions de CO2 diminuer à partir
+            de 2001 alors que le PIB progresse chaque année présentée sauf en
+            2009 : les émissions de CO2 passent de 6,14 tonnes par habitant
+            avec une hausse du PIB de 1,98 % à 4,62 tonnes par habitant en
+            2018, le PIB augmentant de 1,79 % cette année-là.
+ Document 3 La croissance économique conduit à l’épuisement des ressources
+             naturelles ici renouvelables, ce qui peut la ralentir. Des espèces de
+             poissons sont surexploitées, ce qui nuit à leur renouvellement et leur
+             part progresse de 25 points entre 1974 et 2017 : environ 10 % des
+             stocks de poissons marins mondiaux sont surexploités en 1974
+             contre environ 35 % en 2017. Inversement, en 1974 et 2017, les
+             poissons sous-exploités représentent respectivement environ 40 %
+             et 8 % des stocks de poissons marins mondiaux, soit une baisse de
+             32 points.
+ Document 4 Les investissements favorables au climat c’est-à-dire favorisant les
+            objectifs de réduction des émissions de gaz à effet de serre (GES) et
+            de transition énergétique progressent et permettent de reculer les
+            limites écologiques auxquelles se heurtent une croissance
+            économique soutenable. Ces innovations peuvent être favorisées par
+            les mesures incitatives des pouvoirs publics, par une meilleure
+            rentabilité d’innovations auparavant trop chères comparativement aux
+            anciens procédés ou produits, mais aussi par la demande des
+            consommateurs plus soucieux de la préservation de l’environnement.
+            Effectivement, selon l’I4EC, en France, en 2019, 47,9 milliards d’euros
+            étaient consacrés aux investissements favorables au climat contre
+            34,8 milliards en 2011 soit 13,1 milliards d’euros de plus.
+
+
+Problématique possible :
+
+L’importance des préoccupations environnementales s’est renforcée ces dernières
+décennies, avec une prise de conscience des effets négatifs d’une croissance
+économique.
+La croissance économique soutenable se confronte à des limites écologiques
+(notamment l’épuisement des ressources, la pollution et le réchauffement climatique).
+On peut dès lors se demander comment l’innovation peut contribuer à repousser ses
+limites.
+Proposition de plan détaillé :
+
+
+ 22-SESJ1JA1-C                                                           Page 2 sur 10
+ I)    Une      croissance      soutenable II) Mais, l’innovation peut aider à
+ incertaine en raison des limites reculer les limites écologiques
+ écologiques                                 auxquelles se heurte la croissance
+                                             soutenable
+ A)     La    croissance       économique A) Des innovations nécessaires pour
+ engendre de la pollution et un reculer les limites écologiques de la
+ réchauffement climatique qui rendent croissance soutenable
+ difficile sa soutenabilité
+ • La croissance économique est source • Les attentes des consommateurs sont
+ de pollution, ayant comme conséquence de plus en plus fortes : ils sont donc prêts
+ des dégâts environnementaux et en à payer un prix plus élevé pour des
+ particulier un réchauffement climatique. produits peu ou pas polluants. De même,
+ (document 2, exemple de la Chine), ce la raréfaction des ressources naturelles
+ qui remet en cause sa soutenabilité. Une engendre une hausse de leur prix, ce qui
+ croissance soutenable ou durable doit accroît la rentabilité de procédés
+ préserver le capital naturel pour alternatifs moins polluants et plus
+ permettre aux générations futures de se coûteux.
+ développer.                                 • Des innovations de produits et de
+ • Ces conséquences négatives de la procédés peuvent réduire l’impact de la
+ croissance économique conduisent à un croissance sur la pollution, donc sur le
+ dérèglement climatique s’accompagnant réchauffement climatique (documents 1
+ d’ouragans, de périodes de sécheresses, et 2, exemple de la France). De même,
+ d’inondations … qui peuvent détruire des des innovations de procédés et de
+ entreprises, les mettre, temporairement, produits peuvent aider à préserver les
+ à l’arrêt, mais aussi, entraîner des pertes ressources naturelles (document 1).
+ humaines,        des     migrations      de
+ populations.
+ B) De même, produire conduit à B) Par différents aspects, l’innovation
+ l’épuisement         des       ressources permet de relever les défis d’une
+ naturelles,                  actuellement croissance soutenable
+ indispensables
+ • La croissance économique conduit • Ces changements incitent les
+ aussi à la destruction du capital naturel : entreprises à effectuer des dépenses
+ la production de richesses conduit d’investissements favorables au climat.
+ effectivement à un épuisement des (document 4). Les économies post-
+ ressources naturelles (document 3).         industrielles ont ainsi tendance à
+ • Cette surexploitation des ressources augmenter           leurs    dépenses     en
+ naturelles expose l'économie mondiale à innovations favorables à l’environnement
+ une pénurie, qui peut affecter la et à la préservation des ressources
+ soutenabilité      de     la     croissance naturelles.
+ économique.                                 • Les innovations assurent ainsi un
+                                             renouveau des produits et procédés,
+                                             faisant progressivement disparaître des
+                                             technologies        énergivores       et
+                                             consommatrices        de     ressources
+                                             naturelles (processus de destruction
+                                             créatrice).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+ 22-SESJ1JA1-C                                                            Page 3 sur 10
+                          ÉPREUVE COMPOSÉE – SUJET A
+                            PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Comment les avantages comparatifs peuvent-ils expliquer le commerce
+international ? (4 points)
+
+Science économique
+Quels sont les fondements du commerce international et l’internationalisation de la
+production ?
+
+Réponse possible :
+L’internationalisation de la production repose sur le modèle théorique des avantages
+comparatifs développé par D. Ricardo, qui permet de comprendre la spécialisation des
+pays.
+- On parle d’avantages comparatifs (Ricardo) pour désigner le fait qu’un pays retire un
+avantage à se spécialiser dans les secteurs où sa productivité est comparativement la
+meilleure (production pour laquelle son coût relatif est le plus faible que celui de l’autre
+pays), et à commercer ensuite pour se procurer les autres produits nécessaires, en
+échange de sa production nationale.
+- Le modèle montre que les pays ont toujours intérêt à se spécialiser, selon leur
+avantage comparatif (qui peut provenir des dotations factorielles dont il dispose), et à
+échanger.
+
+Deuxième partie (6 points) : Étude d’un document
+Sociologie et science politique
+Quelles mutations du travail et de l’emploi ?
+
+Question 1 : À l’aide des données du document, vous comparerez la part des salariés
+et des indépendants selon le sexe. (2 points)
+
+Réponse possible :
+  - En 2019, selon l’INSEE, en France, 8,8 % des femmes actives ont un statut
+     d’indépendant tandis que 15,3 % des hommes actifs ont ce statut. La part des
+     hommes actifs indépendants est presque 2 fois supérieure à celle des femmes
+     actives.
+  - En 2019, selon l’INSEE, en France, 91,2 % des femmes actives sont salariées
+     contre 84,7 % des hommes actifs soit un écart de 6,5 points de pourcentage.
+  - On constate que les femmes actives ont davantage un statut de salarié que les
+     hommes actifs. On note que leur part est supérieure à la moyenne (91,2 %
+     contre 87,9 % pour l’ensemble des actifs).
+
+Question 2 : À l’aide du document et de vos connaissances, vous montrerez que
+certaines personnes sont davantage touchées par la précarisation. (4 points)
+
+Réponse possible :
+  - La précarisation est une augmentation des situations instables qui ne
+     permettent pas de trouver une place et un statut solides et définitifs dans la
+     société.
+
+ 22-SESJ1JA1-C                                                                 Page 4 sur 10
+   -   Dans ce document on peut assimiler cette précarisation à la part des personnes
+       occupant un emploi en CDD ou en intérim.
+   -   Certaines catégories d’actifs sont plus touchées par la précarisation. En effet,
+       28,4 % des jeunes actifs âgés de 15 à 24 ans occupent un emploi en CDD
+       contre 8,5 % des actifs âgés de 25 à 49 ans en 2019, en France, soit une
+       différence de 19,9 points de pourcentage.
+   -   Les jeunes actifs sont également surreprésentés parmi les personnes occupant
+       un emploi en intérim (6,9 % contre 2,4 % pour l’ensemble des actifs soit environ
+       trois fois plus).
+   -   La précarisation touche également davantage les femmes que les hommes.
+       11,1 % des femmes actives occupent un emploi en CDD contre 7,2 % des
+       hommes actifs. À l’inverse 3,3 % des hommes actifs occupent un emploi en
+       intérim contre 1,5 % des femmes actives.
+
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la protection sociale contribue à la justice sociale.
+
+Programme officiel : Regards croisés
+
+Questionnement       Objectifs d’apprentissage
+Quelles inégalités Comprendre que l’action des pouvoirs publics en matière de
+sont     compatibles justice sociale (fiscalité, protection sociale, services collectifs,
+avec les différentes mesures de lutte contre les discriminations) s’exerce sous
+conceptions de la contrainte de financement et fait l’objet de débats en termes
+justice sociale ?    d’efficacité (réduction des inégalités), de légitimité (notamment
+                     consentement à l’impôt) et de risque d’effets pervers
+                     (désincitations).
+
+
+Exploitation possible des documents :
+ Document 1      Ce document présente les modalités de la redistribution
+                 horizontale et verticale dans le cadre de la protection sociale. Il
+                 permet d’identifier et de distinguer les logiques d’assurance
+                 (solidarité professionnelle) et d’assistance (solidarité collective).
+                 On y distingue les formes de financement de la protection sociale,
+                 par l’impôt (lien avec la fiscalité) et les cotisations sociales.
+ Document 2      Ce document présente le montant (en milliards d’euros) et la
+                 structure (en %) des prestations sociales dans le cadre de la
+                 protection sociale. Il illustre le système de redistribution monétaire
+                 visant à prendre en charge les risques sociaux (chômage, santé,
+                 vieillesse…) et à lutter contre les inégalités. Les dépenses liées à
+                 la vieillesse et à la santé représentent respectivement 45,4 % et
+                 35,1 % des prestations sociales en 2019. Ce sont les deux risques
+                 pour lesquels les dépenses de protection sociale sont les plus
+                 élevées, et la part cumulée des deux branches représente 2/3 des
+                 dépenses.
+
+ 22-SESJ1JA1-C                                                               Page 5 sur 10
+ Document 3        Le document montre que les effets de la redistribution sur la
+                   pauvreté diffèrent selon les caractéristiques sociodémographiques
+                   de la population. D’une manière générale, les transferts socio-
+                   fiscaux réduisent les inégalités de niveaux de vie dont les écarts
+                   sont bien plus élevés avant la redistribution qu’après (le taux de
+                   pauvreté passe de 22 % à 14 % de la population).
+                   - le taux de pauvreté baisse significativement pour les familles
+                   monoparentales et les familles de 4 enfants et plus (environ 20
+                   points d’écarts avant et après redistribution).
+                   - le taux de pauvreté chez les salariés est divisé par 2 après la
+                   redistribution (de 12 % à 6 % de pauvres parmi les salariés). La
+                   redistribution réduit donc la part des travailleurs pauvres.
+
+Raisonnement possible :
+
+La protection sociale (système de solidarité et de redistribution couvrant les principaux
+risques sociaux comme la santé, le chômage, la vieillesse…) contribue à la réduction
+des inégalités et de la pauvreté, favorisant la justice sociale. Deux logiques s’articulent
+dans le système français de protection sociale, une logique d’assurance et une logique
+d’assistance.
+
+Après la seconde guerre mondiale, l’État Providence instaure un système
+d’assurances sociales reposant sur des cotisations sociales.
+        ● Financée par les cotisations sociales, la protection sociale peut verser des
+prestations contributives selon une logique d’assurance (document 1), assurant une
+forme de redistribution horizontale entre malades et bien portants, par exemple, actifs
+occupés et retraités.
+        ● Ce principe assurantiel, hérité du modèle bismarckien (ou corporatiste, car les
+prestations sont contributives) ne vise pas spécifiquement à réduire les inégalités mais
+à assurer un revenu en cas de réalisation d’un risque social (perte de travail, maladie,
+vieillesse...). Les dépenses de santé représentent ainsi 35 % des dépenses de
+protection sociale en 2019 (document 2).
+
+La protection sociale s’organise aussi autour de la fiscalité dans le cadre d’une justice
+correctrice qui vise davantage à l’égalité des situations.
+        ● Les impôts permettent de verser des prestations sociales non contributives
+relevant de l’assistance (document 1), qui témoignent cette fois d’une redistribution
+verticale (des plus riches vers les plus démunis). On peut citer les exemples du RSA,
+de l’allocation adulte handicapé ou encore du minimum vieillesse.
+        ● Dans ce cadre, la redistribution réduit les inégalités de situations, en assurant
+des ressources pour les catégories les moins favorisées. Ce principe de l’assistance
+est issu du modèle beveridgien de la protection sociale. Par exemple on observe que
+le taux de pauvreté baisse significativement pour les familles monoparentales et les
+familles de 4 enfants et plus (environ 20 points d’écarts) (document 3).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+ 22-SESJ1JA1-C                                                                Page 6 sur 10
+                         ÉPREUVE COMPOSÉE – SUJET B
+                           PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question 1 : À l’aide d’un mécanisme, vous expliquerez comment la politique
+monétaire de la Banque centrale européenne peut agir positivement sur la
+conjoncture économique européenne. (4 points)
+
+Science économique
+Quelles politiques économiques dans le cadre européen ?
+
+Réponse possible :
+
+   -   La politique monétaire de la Banque centrale européenne (BCE) peut être
+       définie comme l’ensemble des moyens mis en œuvre par la BCE, pour agir sur
+       l’offre de monnaie et les taux d’intérêt afin d’atteindre ses objectifs. L’objectif
+       principal de la BCE est la stabilité des prix.
+   -   La BCE peut agir positivement sur la conjoncture économique européenne à
+       l’aide de son principal instrument : la fixation des taux d’intérêt directeur. Les
+       taux d’intérêt directeurs concernent principalement les taux auxquels les
+       banques commerciales peuvent emprunter auprès de la banque centrale afin
+       d’obtenir de la monnaie centrale (refinancement) et ainsi accorder des prêts aux
+       ménages et aux entreprises.
+   -   Ainsi, en baissant son taux d’intérêt directeur, l’action de la BCE permet une
+       augmentation de la demande globale. En effet, cette baisse, en permettant une
+       réduction du coût du crédit, peut inciter les agents économiques à recourir aux
+       prêts pour financer les investissements et la consommation, ce qui permettra à
+       la demande globale d’augmenter et entraînera une augmentation de la
+       production de biens et services et de la croissance économique.
+
+
+
+Question 2 : Comparez les théories des classes sociales de Karl Marx et de Max
+Weber. (3 points)
+
+Sociologie et science politique
+Comment est structurée la société française actuelle ?
+
+Réponse possible :
+
+Les théories des classes sont, d’une manière générale, une façon de penser ce qui
+fonde les inégalités dans les sociétés démocratiques.
+Les thèses de Karl Marx et de Max Weber présentent à ce titre certains points
+communs. Dans les deux théories, les classes sociales peuvent être appréhendées
+comme des groupes sociaux de grande taille qui sont fondés sur le partage d’un même
+critère économique. Dans les deux cas, ces théories s’intéressent aux inégalités
+produites par la place occupée dans le système économique. La comparaison des
+deux théories fait cependant apparaître des différences importantes :
+
+
+
+ 22-SESJ1JA1-C                                                               Page 7 sur 10
+- Alors que, dans un mode de production auxquelles elles sont liées, les classes
+sociales selon Marx sont fondées sur le fait de posséder (pour la bourgeoisie
+capitaliste) ou non (pour le prolétariat) les moyens de production et induisent un
+rapport d’exploitation et de domination d’une classe sur l’autre, la théorie de Weber,
+elle, fonde les classes sociales sur la situation économique, mais la propriété n’en
+constitue qu’un aspect. Une classe est pour lui un ensemble d’individus partageant
+une même “situation de classe”, autrement dit des chances semblables de se procurer
+des biens : ici, le rapport d’exploitation n’existe pas nécessairement et la société
+apparaît moins polarisée.
+- Il en résulte une deuxième différence : là où, pour Marx, les rapports sociaux de
+classe sont intrinsèquement conflictuels, ils peuvent ne pas l’être chez Weber et
+induisent alors une conception plus pacifiée de la société.
+- Là où Marx confère aux classes sociales et au seul ordre économique un rôle central
+dans la structuration sociale, Weber, lui, propose une vision dans laquelle les classes
+sociales ne constituent qu’un découpage parmi d’autres. Ainsi, dans l’ordre social,
+fondé sur les inégalités de prestige, des « groupes de statut » occupent des positions
+structurantes, de même que les partis politiques dans l’ordre du pouvoir. Weber conçoit
+donc une vision multidimensionnelle de la société ˗ dans laquelle les classes sociales
+ne sont qu’un élément parmi d’autres ˗ alors que Marx ne propose qu’une vision
+économique unidimensionnelle.
+- enfin, alors que dans la théorie de Marx, les identifications aux classes sociales sont
+subjectivement vécues (conscience de classe), dans l’approche de Max Weber, les
+classes sociales reposent sur des inégalités objectivement mesurées : en ce sens, les
+classes sociales ne sont pas les puissances agissantes qu’elle sont chez Marx.
+
+
+Question 3 : Montrez, à l’aide de deux exemples, que l’engagement politique peut
+prendre des formes variées. (3 points)
+
+Sociologie et science politique
+Comment expliquer l’engagement politique dans les sociétés démocratiques ?
+
+Réponse possible :
+
+-     L’engagement politique peut se définir comme le fait, pour un individu, de prendre
+      parti sur des problèmes politiques, par son action ou ses discours. L’engagement
+      politique peut prendre des formes diverses et ne se réduit pas au vote.
+-     Les individus peuvent s’engager via le militantisme. En effet, en participant aux
+      actions menées par un parti politique, un syndicat, une association ou un
+      mouvement social, les individus peuvent s’engager activement dans la vie
+      politique. Par exemple, en participant à la Marche pour le climat, à la suite de l’appel
+      à la grève des étudiants initiée en 2019 par la militante Greta Thunberg, les
+      personnes présentes cherchaient à inciter l’exécutif à accentuer la lutte contre le
+      réchauffement climatique.
+-     Les individus peuvent également s’engager par le biais de la consommation
+      engagée, en choisissant de consommer, ou au contraire, de ne pas consommer
+      des produits spécifiques, pour des raisons politiques. Par exemple, les végétariens
+      peuvent refuser de consommer de la viande afin de militer en faveur du bien-être
+      animal ou pour limiter leur impact écologique.
+
+
+
+    22-SESJ1JA1-C                                                                Page 8 sur 10
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+la protection sociale contribue à la justice sociale.
+
+Programme officiel : Regards croisés
+
+Questionnement       Objectifs d’apprentissage
+Quelles inégalités Comprendre que l’action des pouvoirs publics en matière de
+sont     compatibles justice sociale (fiscalité, protection sociale, services collectifs,
+avec les différentes mesures de lutte contre les discriminations) s’exerce sous
+conceptions de la contrainte de financement et fait l’objet de débats en termes
+justice sociale ?    d’efficacité (réduction des inégalités), de légitimité (notamment
+                     consentement à l’impôt) et de risque d’effets pervers
+                     (désincitations).
+
+
+Exploitation possible des documents :
+ Document 1      Ce document présente les modalités de la redistribution
+                 horizontale et verticale dans le cadre de la protection sociale. Il
+                 permet d’identifier et de distinguer les logiques d’assurance
+                 (solidarité professionnelle) et d’assistance (solidarité collective).
+                 On y distingue les formes de financement de la protection sociale,
+                 par l’impôt (lien avec la fiscalité) et les cotisations sociales.
+ Document 2      Ce document présente le montant (en milliards d’euros) et la
+                 structure (en %) des prestations sociales dans le cadre de la
+                 protection sociale. Il illustre le système de redistribution monétaire
+                 visant à prendre en charge les risques sociaux (chômage, santé,
+                 vieillesse…) et à lutter contre les inégalités. Les dépenses liées à
+                 la vieillesse et à la santé représentent respectivement 45,4 % et
+                 35,1 % des prestations sociales en 2019. Ce sont les deux risques
+                 pour lesquels les dépenses de protection sociale sont les plus
+                 élevées, et la part cumulée des deux branches représente 2/3 des
+                 dépenses.
+ Document 3       Le document montre que les effets de la redistribution sur la
+                  pauvreté diffèrent selon les caractéristiques sociodémographiques
+                  de la population. D’une manière générale, les transferts socio-
+                  fiscaux réduisent les inégalités de niveaux de vie dont les écarts
+                  sont bien plus élevés avant la redistribution qu’après (le taux de
+                  pauvreté passe de 22 % à 14 % de la population).
+                  - le taux de pauvreté baisse significativement pour les familles
+                  monoparentales et les familles de 4 enfants et plus (environ 20
+                  points d’écarts avant et après redistribution).
+                  - le taux de pauvreté chez les salariés est divisé par 2 après la
+                  redistribution (de 12 % à 6 % de pauvres parmi les salariés). La
+                  redistribution réduit donc la part des travailleurs pauvres.
+
+
+
+ 22-SESJ1JA1-C                                                               Page 9 sur 10
+Raisonnement possible :
+
+La protection sociale (système de solidarité et de redistribution couvrant les principaux
+risques sociaux comme la santé, le chômage, la vieillesse…) contribue à la réduction
+des inégalités et de la pauvreté, favorisant la justice sociale. Deux logiques s’articulent
+dans le système français de protection sociale, une logique d’assurance et une logique
+d’assistance.
+
+Après la seconde guerre mondiale, l’État Providence instaure un système
+d’assurances sociales reposant sur des cotisations sociales.
+        ● Financée par les cotisations sociales, la protection sociale peut verser des
+prestations contributives selon une logique d’assurance (document 1), assurant une
+forme de redistribution horizontale entre malades et bien portants, par exemple, actifs
+occupés et retraités.
+        ● Ce principe assurantiel, hérité du modèle bismarckien (ou corporatiste, car les
+prestations sont contributives) ne vise pas spécifiquement à réduire les inégalités mais
+à assurer un revenu en cas de réalisation d’un risque social (perte de travail, maladie,
+vieillesse...). Les dépenses de santé représentent ainsi 35 % des dépenses de
+protection sociale en 2019 (document 2).
+
+La protection sociale s’organise aussi autour de la fiscalité dans le cadre d’une justice
+correctrice qui vise davantage à l’égalité des situations.
+        ● Les impôts permettent de verser des prestations sociales non contributives
+relevant de l’assistance (document 1), qui témoignent cette fois d’une redistribution
+verticale (des plus riches vers les plus démunis). On peut citer les exemples du RSA,
+de l’allocation adulte handicapé ou encore du minimum vieillesse.
+        ● Dans ce cadre, la redistribution réduit les inégalités de situations, en assurant
+des ressources pour les catégories les moins favorisées. Ce principe de l’assistance
+est issu du modèle beveridgien de la protection sociale. Par exemple on observe que
+le taux de pauvreté baisse significativement pour les familles monoparentales et les
+familles de 4 enfants et plus (environ 20 points d’écarts) (document 3).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ1JA1-C                                                                Page 10 sur 10
+

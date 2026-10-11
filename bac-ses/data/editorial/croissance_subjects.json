@@ -1,0 +1,1729 @@
+{
+  "_doc": "Contenu éditorial : liste des questions rattachées au chapitre Croissance, avec décisions justifiées. Généré une fois par pipeline/seed_croissance.py puis édité à la main.",
+  "subjects": [
+    {
+      "id": "21-SESJ1AN1-EC2-A",
+      "session_slug": "spe-sciences-eco-sociales-2021-amerique-nord-1",
+      "part": "EC2",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance annuel moyen du PIB en volume (en %) et contribution à la croissance annuelle moyenne du PIB (en points de %) sur la période 2010-2025 7,5 7,07",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "Comparez les sources de la croissance du Japon et des Etats-Unis.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "A l'aide de vos connaissances et du document, montrez que la Productivité Globale des Facteurs constitue une source essentielle de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        244
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1AN1-EC1-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-amerique-nord-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "A partir de l'exemple des droits de propriété, montrez comment les institutions influent sur la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        216
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1JA1-EC2-A",
+      "session_slug": "spe-sciences-eco-sociales-2021-asie-1",
+      "part": "EC2",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Contribution des facteurs de production et de la productivité globale des facteurs (PGF) à la croissance économique en 2017 Pays Contribution des Contribution du Contribution de Taux de heures facteur capital la PGF croissance",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, comparez la répartition des différentes contributions à la croissance économique de l'Allemagne et des Etats-Unis en 2017.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, montrez que les contributions à la croissance ne se réduisent pas à la seule accumulation des facteurs de production.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1JA1-EC3-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-asie-1",
+      "part": "EC3",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        374
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1G11-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2021-centres-etranger-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Quel est le rôle du progrès technique dans le processus de croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        133
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1G11-EC2-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-centres-etranger-1",
+      "part": "EC2",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "L'effort d'innovation dans différents pays de l'Union européenne DIRD1 en % Dépenses publiques PIB/habitant dans l'UE en du PIB d'éducation en % du PIB indice base 100 pour l'UE (en 2017) (en 2016) (en 2017)",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "Comparez les données du document concernant la France et la Roumanie.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, montrez le caractère endogène du progrès technique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1ME2-EC1-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-metro-cand-libre-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez comment les droits de propriété peuvent favoriser la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        213
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ2ME2-EC2-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-metro-cand-libre-2",
+      "part": "EC2",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Évolutions passées et projetées du PIB, des émissions de gaz à effet de serre (GES) et de l'intensité des émissions de gaz à effet de serre (GES) dans l'Union européenne Source : Commission européenne, Deuxième rapport sur l'état de l'union de l'énergie,",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, comparez l'évolution du PIB avec celle des émissions de GES entre 1990 et 2019.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, vous montrerez comment l'innovation peut rendre la croissance économique soutenable.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        239
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "INT-21-ME-J1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2021-metropole-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Les facteurs travail et capital sont-ils suffisants pour expliquer la croissance ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        136
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1ME3-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2021-metropole-1-remplacement",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Comment le progrès technique favorise-t-il la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        131
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "INT-21-ME-J2-EC3-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-metropole-2",
+      "part": "EC3",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment l'innovation peut être une solution aux limites écologiques de la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        373
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ2ME3-EC1-A",
+      "session_slug": "spe-sciences-eco-sociales-2021-metropole-2-remplacement",
+      "part": "EC1",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À l'aide d'un exemple, vous montrerez que la croissance économique se heurte à des limites écologiques.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        205
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "21-SESJ1PO1-EC1-B",
+      "session_slug": "spe-sciences-eco-sociales-2021-polynesie-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Présentez un mécanisme par lequel le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "présenter",
+      "versailles_doc_ids": [
+        206
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1AN1-EC1-B-Q1",
+      "session_slug": "spe-sciences-eco-sociales-2022-amerique-nord-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 1,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        189
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2AN1-EC3-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-amerique-nord-2",
+      "part": "EC3",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est endogène.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        375
+      ],
+      "also_appears_as": [
+        "22-SESJ2AN1-EC3-B"
+      ],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1AS1-EC1-B-Q1",
+      "session_slug": "spe-sciences-eco-sociales-2022-amerique-sud-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 1,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        189
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2AS1-EC1-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-amerique-sud-2",
+      "part": "EC1",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À partir d'un exemple, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        183
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1JA1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2022-asie-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Comment l'innovation peut-elle contribuer à reculer les limites écologiques d'une croissance soutenable ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        127
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2JA1-EC1-B-Q1",
+      "session_slug": "spe-sciences-eco-sociales-2022-asie-2",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 1,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez que l'innovation peut aider à reculer les limites écologiques auxquelles se heurte la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        196
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1G11-EC1-B-Q2",
+      "session_slug": "spe-sciences-eco-sociales-2022-centres-etranger-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 2,
+      "chapter": "croissance",
+      "points": 3.0,
+      "question": "Montrez que l'innovation peut aider à reculer les limites écologiques auxquelles se heurte la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        196
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2G11-EC3-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-centres-etranger-2",
+      "part": "EC3",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est endogène.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        375
+      ],
+      "also_appears_as": [
+        "22-SESJ2G11-EC3-B"
+      ],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1LR1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2022-mayotte-liban-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "L'accroissement de la productivité globale des facteurs suffit-il à expliquer la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        129
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2LR1-EC3-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-mayotte-liban-2",
+      "part": "EC3",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les institutions jouent un rôle dans la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        376
+      ],
+      "also_appears_as": [
+        "22-SESJ2LR1-EC3-B"
+      ],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1ME1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2022-metropole-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "L'accumulation des facteurs de production est-elle la seule source de croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        116
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1ME3-EC3-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-metropole-1-remplacement",
+      "part": "EC3",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez qu'il existe des limites écologiques à la croissance économique soutenable.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        378
+      ],
+      "also_appears_as": [
+        "22-SESJ1ME3-EC3-B"
+      ],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2ME1-EC2-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-metropole-2",
+      "part": "EC2",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance du PIB (en %) et contributions à la croissance du PIB (en points de %) dans quelques pays (2010-2019) 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 France",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide du document, vous présenterez les sources de la croissance du Danemark en 2019.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, vous montrerez que l'accroissement de la productivité globale des facteurs est une source de croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        230
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2ME1-EC1-B-Q2",
+      "session_slug": "spe-sciences-eco-sociales-2022-metropole-2",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 2,
+      "chapter": "croissance",
+      "points": 3.0,
+      "question": "À partir d'un exemple, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        183
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2ME3-EC1-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-metropole-2-remplacement",
+      "part": "EC1",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Comment les droits de propriété influent-ils sur la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": null,
+      "versailles_doc_ids": [
+        193
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1NC1-EC1-B-Q2",
+      "session_slug": "spe-sciences-eco-sociales-2022-nouv-caledonie-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 2,
+      "chapter": "croissance",
+      "points": 3.0,
+      "question": "Montrez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        189
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2NC1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2022-nouv-caledonie-2",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Quel est le rôle de l'innovation sur la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        126
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1PO1-EC2-A",
+      "session_slug": "spe-sciences-eco-sociales-2022-polynesie-1",
+      "part": "EC2",
+      "variant": "A",
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance annuel moyen des dépôts mondiaux de demandes de brevet (en %) Type de technologies Taux de croissance annuel moyen (en %)",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide du document, vous présenterez, pour les dépôts de brevets du secteur de l'énergie éolienne, la valeur du taux de croissance (donnée soulignée) et son évolution entre les deux périodes.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous montrerez que l'innovation peut aider à repousser les limites écologiques de la croissance dans le secteur de l'énergie.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ1PO1-EC1-B-Q1",
+      "session_slug": "spe-sciences-eco-sociales-2022-polynesie-1",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 1,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        189
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2PO1-EC1-B-Q2",
+      "session_slug": "spe-sciences-eco-sociales-2022-polynesie-2",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 2,
+      "chapter": "croissance",
+      "points": 3.0,
+      "question": "À l'aide d'un exemple, vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        201
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "22-SESJ2PO3-EC1-B-Q1",
+      "session_slug": "spe-sciences-eco-sociales-2022-polynesie-2-remplacement",
+      "part": "EC1",
+      "variant": "B",
+      "subq": 1,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À partir d'un exemple, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        183
+      ],
+      "also_appears_as": [],
+      "format_note": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B)",
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2AN1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2023-amerique-nord-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez comment les droits de propriété influent sur la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        177
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2AS1-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2023-amerique-sud-2",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez le rôle des institutions dans la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        376
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ1JA1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2023-asie-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "L'accumulation des facteurs de production permet-elle, à elle seule, d'expliquer la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        124
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2JA1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2023-asie-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Expliquez en quoi l'innovation peut s'accompagner d'un processus de destruction créatrice.",
+      "sub_questions": [],
+      "instruction_verb": "expliquer",
+      "versailles_doc_ids": [
+        179
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2G11-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2023-centres-etranger-2",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment les institutions influent sur la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        379
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ1LI1-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2023-liban-1",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la croissance économique soutenable se heurte à des limites écologiques.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        414
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ1ME1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2023-metropole-1",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Évolution du nombre de brevets et du PIB par habitant (indice base 100 en 2011) au Royaume-Uni entre 2011 et 2019 116 114",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "Caractérisez l'évolution du nombre de brevets au Royaume-Uni entre 2011 et 2019.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, montrez le rôle des droits de propriété sur la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        226
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ1NC1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2023-nouv-caledonie-1",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Évolution de l'état des stocks de poissons marins dans le monde de 1990 à 2015 Source : Tristan GAUDIAUT, « La pression de la surpêche sur les stocks de poissons », Statista, 2018.",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, caractérisez l'évolution de l'état des stocks de poissons sous-exploités entre 2000 et 2015.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, montrez que la croissance soutenable se heurte à l'épuisement des ressources.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2NC1-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2023-nouv-caledonie-2",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique peut engendrer des inégalités de revenus.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        374
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ1PO1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2023-polynesie-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Les limites écologiques sont-elles le seul défi posé par la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        125
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "23-SESJ2PO1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2023-polynesie-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À l'aide d'un exemple, vous montrerez que le progrès technique est endogène.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        182
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ1JA1-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2024-asie-1",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est endogène.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        375
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ2JA1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2024-asie-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Croissance du PIB (en %) et contributions à la croissance du PIB (en points de pourcentage) en 2021 Contribution Contribution Taux de Contribution",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, vous comparerez les contributions à la croissance en France et aux États-Unis.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide de vos connaissances et du document, vous distinguerez les sources de la croissance des pays observés.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "distinguer",
+      "versailles_doc_ids": [
+        566
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ1G11-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2024-centres-etranger-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Quelles sont les sources de la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        529
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ2G11-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2024-centres-etranger-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Évolution de la part des innovations dans le domaine de l'environnement (en % des innovations totales) et des émissions de gaz à effet de serre (en milliards de tonnes de CO2) dans les pays de l'Union européenne Source : D'après les données de l'OCDE, juin 2023.",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide de données du document, vous caractériserez l'évolution de la part des innovations dans le domaine de l'environnement entre 1990 et 2018, au sein de l'Union européenne.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous expliquerez comment l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "expliquer",
+      "versailles_doc_ids": [
+        535
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ1PO1-EC3",
+      "session_slug": "spe-sciences-eco-sociales-2024-polynesie-1",
+      "part": "EC3",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 10.0,
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est une source endogène de croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ2PO1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2024-polynesie-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À l'aide de deux exemples, vous montrerez que la croissance économique se heurte à des limites écologiques.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        205
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESG11BIS-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2024-suede-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Immatriculations de véhicules particuliers neufs par types de motorisations dans l'Union Européenne entre 2018 et 2022 (en % des ventes) Source : d'après AECA (Association des Constructeurs Européens d'Automobiles), « L'industrie automobile, guide de poche 2022/2023 », 2022.",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, vous comparerez l'évolution de la part des ventes de véhicules neufs équipés d'un moteur essence et diesel avec celle des véhicules à motorisations électrique et hybride (innovants) entre 2018 et 2022 dans l'Union Européenne.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        196
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "24-SESJ2AS1-EC2",
+      "session_slug": "versailles-2024-amerique-sud-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Contribution à la croissance du PIB en 2022 Croissance du (En point de pourcentage) Pays PIB en 2022 (En %) Productivité",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "Comparez les sources de la croissance économique de la France et du Japon en 2022.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, vous montrerez que les sources de la croissance sont multiples.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ2AN1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2025-amerique-nord-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez comment une institution peut contribuer à la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        837
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ1AS1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2025-amerique-sud-1",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez, à l'aide d'un exemple, que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        201
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ2G11-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2025-centres-etranger-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Demande de brevets dans les secteurs technologiques les plus actifs en Europe en 2022 Nombre de demandes Variation entre 2021 et 2022 de brevets (en %)",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide du document, vous comparerez les demandes de brevets enregistrées dans le secteur des machines et énergie électriques aux demandes de brevets enregistrées dans le secteur de la chimie fine organique, ainsi que leurs évolutions.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous montrerez que les droits de propriété incitent à investir et à innover.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        858
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ1ME1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2025-metropole-1",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance annuel du PIB et taux de croissance annuel de la PGF1 (en %) Allemagne France Japon Années PIB PGF PIB PGF PIB PGF",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, vous comparerez l'évolution du PIB en France et en Allemagne, en 2020 et 2022.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous montrerez que l'accroissement de la productivité globale des facteurs est source de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        862
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ1NC1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2025-nouv-caledonie-1",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Montrez comment l'accumulation du facteur travail participe à la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ1PO1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2025-polynesie-1",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Nombre de brevets verts1 déposés par les entreprises françaises à l'Institut national de la propriété intellectuelle ou à l'Office européen des brevets et part des brevets verts dans le total des brevets déposés (en %) Source : Valentin LIGNAU, « Le brevet, un instrument de valorisation de la recher",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide de données du document et d'un outil statistique de votre choix, vous caractériserez l'évolution de la part des brevets verts entre 2001 et 2020.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide du document et de vos connaissances, vous expliquerez comment l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "expliquer",
+      "versailles_doc_ids": [
+        373
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "25-SESJ2PO1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2025-polynesie-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "À l'aide d'un exemple, vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        201
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ1AN1-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2026-amerique-nord-1",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Quelles sont les sources de la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        529
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ2AN1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2026-amerique-nord-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance annuel du PIB (en %) et contributions à la croissance du PIB (en points de %) en France, aux États-Unis et au Japon de 2005 à 20191 2005 2015 2019",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "À l'aide des données du document, vous comparerez le poids des différentes contributions à la croissance économique de la France et des États-Unis en 2019.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "À l'aide des données du document et de vos connaissances, vous montrerez que l'accumulation des facteurs et l'accroissement de la productivité globale des facteurs sont des sources de la croissance économique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        862
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ1AG1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2026-antilles-guyane-1",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez qu'une croissance économique soutenable se heurte à des limites écologiques.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        414
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ1JA1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2026-asie-1",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [
+        201
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ2JA1-EC2",
+      "session_slug": "spe-sciences-eco-sociales-2026-asie-2",
+      "part": "EC2",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 6.0,
+      "question": "Taux de croissance du PIB par tête, dépenses en R&D1 et dépenses publiques d'éducation dans plusieurs pays européens en 2023 Dépenses Taux de publiques",
+      "sub_questions": [
+        {
+          "n": 1,
+          "text": "A l'aide des données du document et d'un calcul simple, vous comparerez la part des dépenses dans la R&D et l'éducation du Danemark et de la Hongrie.",
+          "points": 2.0
+        },
+        {
+          "n": 2,
+          "text": "A l'aide du document et de vos connaissances, vous montrerez le caractère endogène du progrès technique.",
+          "points": 4.0
+        }
+      ],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ1ME3-DISS",
+      "session_slug": "spe-sciences-eco-sociales-2026-metropole-1-remplacement",
+      "part": "DISS",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 20.0,
+      "question": "Les inégalités de revenus sont-elles le seul défi posé par la croissance économique ?",
+      "sub_questions": [],
+      "instruction_verb": "question de dissertation",
+      "versailles_doc_ids": [
+        125
+      ],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "id": "26-SESJ2PO1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2026-polynesie-2",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "chapter": "croissance",
+      "points": 4.0,
+      "question": "Vous montrerez à partir d'un exemple que l'innovation permet de faire reculer une des limites écologiques de la croissance économique.",
+      "sub_questions": [],
+      "instruction_verb": "montrer",
+      "versailles_doc_ids": [],
+      "also_appears_as": [],
+      "format_note": null,
+      "notions": [],
+      "access_tier": "premium",
+      "verification_status": "verifie_source_tierce",
+      "inclusion_reason": "Relève du questionnement croissance (lecture manuelle de la question)."
+    },
+    {
+      "chapter": "croissance",
+      "notions": [],
+      "access_tier": "premium",
+      "also_appears_as": [],
+      "versailles_doc_ids": [],
+      "sub_questions": [],
+      "format_note": null,
+      "instruction_verb": null,
+      "id": "23-SESJ1AS1-EC1",
+      "session_slug": "spe-sciences-eco-sociales-2023-amerique-sud-1",
+      "part": "EC1",
+      "variant": null,
+      "subq": null,
+      "question": "Montrez le lien entre le progrès technique et l'accroissement de la productivité globale des facteurs.",
+      "points": 4.0,
+      "question_source": "Libellé lu dans le corrigé officiel 23-SESJ1AS1 (le PDF du sujet relayé par sujetdebac.fr est un scan sans texte). À vérifier sur le PDF du sujet.",
+      "verification_status": "a_verifier"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "id": "INT-21-ME-J1-EC2-A",
+      "reason": "Croissance du PIB mise en relation avec le chômage : questionnement « Comment lutter contre le chômage ? » (classement Versailles concordant)."
+    },
+    {
+      "id": "21-SESJ1PO1-EC2-B",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "21-SESJ2G11-EC2-B",
+      "reason": "Productivité des firmes et capacité à exporter : chapitre commerce international."
+    },
+    {
+      "id": "21-SESJ2PO1-EC2-B",
+      "reason": "Productivité des firmes et compétitivité : chapitre commerce international."
+    },
+    {
+      "id": "22-SESJ2AN1-EC2-A",
+      "reason": "Dotations factorielles et technologiques, spécialisation : commerce international (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ2AN1-EC1-B-Q1",
+      "reason": "Effet du marché unique sur la croissance : questionnement « Quelles politiques économiques dans le cadre européen ? » (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ2AS1-EC2-A",
+      "reason": "Choc asymétrique en zone euro : chapitre politiques européennes."
+    },
+    {
+      "id": "22-SESJ1NC1-EC3-A",
+      "reason": "Productivité des firmes et compétitivité : commerce international (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ1NC1-EC3-B",
+      "reason": "Même exercice que 22-SESJ1NC1-EC3-A (commerce international)."
+    },
+    {
+      "id": "22-SESJ2PO3-EC2-A",
+      "reason": "Commerce entre pays comparables : commerce international."
+    },
+    {
+      "id": "23-SESJ2AN1-EC3",
+      "reason": "Institutions et chômage structurel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "23-SESJ2ME1-EC2",
+      "reason": "Qualification et structure socioprofessionnelle : chapitre structure sociale (Versailles concordant)."
+    },
+    {
+      "id": "23-SESJ2NC1-EC2",
+      "reason": "Politiques de formation et chômage : chapitre chômage."
+    },
+    {
+      "id": "24-SESJ1AN1-EC1",
+      "reason": "Effets du marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "24-SESJ2PO1-EC2",
+      "reason": "Milieu social et trajectoires de formation : questionnement sur l'école, hors écrit à partir de 2027."
+    },
+    {
+      "id": "24-SESJ2AN1-EC2",
+      "reason": "Prix des logements et chômage : hors chapitre croissance."
+    },
+    {
+      "id": "24-SESJ1PO3-EC2",
+      "reason": "Écarts de dotations technologiques et commerce : commerce international."
+    },
+    {
+      "id": "25-SESJ1AS1-EC2",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2JA1-EC1",
+      "reason": "Effet du marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2JA1-EC2",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2ME3-EC2",
+      "reason": "Marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ1ME2-EC1",
+      "reason": "Institutions et chômage structurel : chapitre chômage."
+    },
+    {
+      "id": "25-SESJ2NC1-EC2",
+      "reason": "Commerce international et inégalités entre pays : commerce international."
+    },
+    {
+      "id": "26-SESJ1AN1-EC2",
+      "reason": "Coordination des politiques en zone euro : chapitre politiques européennes."
+    },
+    {
+      "id": "26-SESJ1ME1-EC3",
+      "reason": "Productivité des firmes et compétitivité : commerce international."
+    }
+  ],
+  "to_verify": [
+    {
+      "id": "VERS-218-EC1",
+      "note": "Tuile datée « 2020, France métropolitaine, Normale » sur le site de Versailles (fichier 2020_metro_norm_ec_2.docx). La première session des épreuves de spécialité étant 2021, la nature exacte de ce sujet (sujet d'examen, sujet préparé pour une session annulée, ou sujet d'entraînement) n'a pas pu être établie. Non publié tant que non vérifié.",
+      "question": "Comment les droits de propriété favorisent-ils la croissance économique ?",
+      "versailles_doc_ids": [
+        218
+      ]
+    }
+  ],
+  "out_of_scope": [
+    {
+      "versailles_doc_ids": [
+        789,
+        792
+      ],
+      "note": "Sujets de l'épreuve orale de contrôle (2022, métropole) : hors périmètre de l'épreuve écrite. Recensés, non publiés."
+    }
+  ]
+}

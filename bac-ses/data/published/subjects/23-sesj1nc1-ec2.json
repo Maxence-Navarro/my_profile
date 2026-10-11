@@ -1,0 +1,68 @@
+{
+  "id": "23-SESJ1NC1-EC2",
+  "slug": "23-sesj1nc1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "23-SESJ1NC1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "Nouvelle-Calédonie",
+  "question": "Évolution de l'état des stocks de poissons marins dans le monde de 1990 à 2015 Source : Tristan GAUDIAUT, « La pression de la surpêche sur les stocks de poissons », Statista, 2018.",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, caractérisez l'évolution de l'état des stocks de poissons sous-exploités entre 2000 et 2015.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, montrez que la croissance soutenable se heurte à l'épuisement des ressources.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Évolution de l'état des stocks de poissons marins dans le monde de 1990 à 2015 Source : Tristan GAUDIAUT, « La pression de la surpêche sur les stocks de poissons », Statista, 2018.\n\n*Source indiquée : Tristan GAUDIAUT, « La pression de la surpêche sur les stocks de poissons »,*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Le commerce international est-il toujours avantageux ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous montrerez, à partir d'un exemple, comment les configurations familiales contribuent à expliquer la mobilité sociale."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez en quoi l'approche en termes de classes sociales reste pertinente pour rendre compte de la société française."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1NC1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-nouv-caledonie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

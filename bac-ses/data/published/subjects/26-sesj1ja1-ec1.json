@@ -1,0 +1,69 @@
+{
+  "id": "26-SESJ1JA1-EC1",
+  "slug": "26-sesj1ja1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "26-SESJ1JA1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J1",
+  "center": "Asie",
+  "question": "Vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Les ressources et configurations familiales suffisent-elles à expliquer la mobilité sociale ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document et de calculs simples, vous comparerez les conditions de travail des ouvriers avec celles de l'ensemble des salariés en 1991. / À l'aide du document et de vos connaissances, vous présente"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que lorsque le chômage est conjoncturel, les politiques macroéconomiques de soutien de la demande globale permettent de lutter contre."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ1JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-asie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 201, 2022_poly_norm_ec_4.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=201&cle=2ec4a34b1f7643761b4081c368f6045ab0c17b07c073b625bfdf54ff87d6ec3a&file=docx%2F2022_poly_norm_ec_4.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 201",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=201&cle=2ec4a34b1f7643761b4081c368f6045ab0c17b07c073b625bfdf54ff87d6ec3a&file=docx%2F2022_poly_norm_ec_4.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 201) indique « Polynésie », alors que le fichier (2022_poly_norm_ec_4.docx) et le sujet officiel correspondent à Asie.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

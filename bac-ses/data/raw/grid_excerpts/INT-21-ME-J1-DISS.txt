@@ -1,0 +1,176 @@
+# score de localisation : 0.845
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+   Sujet : Les facteurs travail et capital sont-ils suffisants pour expliquer la
+                                   croissance ?
+
+Programme officiel :
+Science économique
+
+Questionnement Objectifs d’apprentissage
+Quels sont les     - Comprendre le processus de croissance économique et les
+sources et les     sources de la croissance : accumulation des facteurs et
+défis de la        accroissement de la productivité globale des facteurs.
+croissance ?       - Comprendre que le progrès technique est endogène et qu’il
+                   résulte en partie de l’innovation.
+                   - Comprendre comment les institutions (notamment les droits de
+                   propriété) influent sur la croissance en affectant l’incitation à
+                   investir et à innover ; savoir que l’innovation s’accompagne d’un
+                   processus de destruction créatrice.
+
+Exploitation possible des documents :
+Document 1 - Ce tableau décrit la fonction de production pour déterminer les sources
+              de la croissance économique c’est-à-dire la contribution de chaque
+              facteur de production (travail et capital) et la contribution de la hausse
+              de la productivité globale des facteurs à la hausse du PIB en 2017.
+              - Ce tableau montre que la somme des contributions (en points) du
+              facteur travail et capital est inférieure au taux de croissance du PIB (%).
+              C’est donc que les facteurs travail et capital ne sont pas suffisants pour
+              expliquer la croissance.
+              - La productivité globale des facteurs est une autre source de la
+              croissance économique.
+              - En 2017, les gains de productivité ont expliqué plus de la moitié de la
+              croissance économique observée en France, en Corée du Sud et en
+              Allemagne.
+Document 2 - La part des dépenses en recherche et développement (R&D) dans le
+              produit intérieur brut (PIB) permet de mesurer le poids de l’innovation
+              dans une économie à travers l’effort de financement de la R&D.
+              - Les innovations sont le résultat des investissements en R&D.
+              - Ce document met en évidence une hausse de l’intensité de la R&D
+              dans les pays développés sans précédent depuis la crise de 2008.
+              - La croissance de l’intensité en R&D s’explique très largement par les
+              efforts de R&D réalisés par les entreprises.
+              - La Chine est au second rang des pays investisseurs en R&D. La Chine
+              est aussi un des leaders économiques mondiaux.
+
+
+
+
+                                                                        Page : 1/11
+    Document 3 - Ce tableau présente 6 indicateurs mondiaux de la gouvernance. Ils
+               permettent une mesure de la qualité du cadre institutionnel d’un pays.
+
+                   - On peut distinguer deux groupes de pays :
+                  • Les pays dont la bonne qualité des institutions peut favoriser le
+                      développement (Norvège et Allemagne).
+                  • Les pays dont la qualité médiocre des institutions peut au contraire
+                      freiner le développement économique (Haïti, Chine).
+               - Des institutions solides et non corrompues garantissent une utilisation
+               des ressources publiques dans l’intérêt général et évite leur gaspillage.
+               - La qualité de la réglementation, par exemple sur les droits de
+               propriété, est déterminante sur les incitations à entreprendre et à
+               innover. Elle garantit aux agents économiques que le fruit de leurs
+               recherches ne sera pas accaparé par d’autres (fraude, contrefaçon).
+               - Un état de droit développé garantit l’exécution des contrats.
+               - L’efficacité des pouvoirs publics assure un bon fonctionnement des
+               administrations au service des agents économiques.
+               - La stabilité politique et économique mais aussi une faible criminalité
+               sont essentielles au développement des activités économiques car
+               elles réduisent l’incertitude à laquelle les agents économiques font face.
+               - Des institutions démocratiques permettent aux citoyens de contrôler
+               la puissance publique, et incite les responsables politiques à agir dans
+               l’intérêt général plutôt qu’en faveur de leurs intérêts particuliers.
+    Document 4 - Les dépenses intérieures pour l’éducation (DIE) sont une mesure des
+               investissements en capital humain par les agents économiques.
+               - Depuis 1980, les DIE ont plus que doublé mais leur poids dans le PIB
+               n’a que très peu augmenté. C’est donc que le PIB a augmenté dans des
+               proportions similaires sur cette période. On peut en déduire une
+               corrélation positive entre l’évolution des DIE et celle du PIB.
+               - La dépense moyenne d’éducation par élève a quasiment doublé entre
+               1980 et 2018. L’investissement en capital humain a donc fortement
+               augmenté.
+               - Les pouvoirs publics réalisent la très grande majorité de
+               l’investissement en capital humain en 2018 (83,7%).
+               - Ces investissements sont générateurs d’externalités positives et
+               justifient la forte intervention des pouvoirs publics en matière
+               d’éducation. Ils permettent d’autoentretenir la croissance.
+
+
+Problématique possible : La croissance économique résulte-t-elle principalement d’une
+plus grande quantité de facteurs de production utilisés (travail et capital) ou d’une meilleure
+efficacité de leur utilisation ?
+
+
+
+
+                                                                            Page : 2/11
+Proposition de plan détaillé :
+I) Le facteurs de production contribuent à la     II) La croissance est aussi un processus
+croissance économique.                            auto-entretenu.
+A) Le rôle du facteur travail                     A) Le rôle essentiel du progrès technique
+ • La fonction de production décrite dans le      • La décomposition de la croissance met en
+    document 1 montre qu’une augmentation de          évidence la contribution de la productivité
+    la production peut être obtenue par une           globale des facteurs à la croissance. La
+    augmentation des quantités de facteur             PGF est la mesure du progrès technique.
+    travail.                                          Celui-ci correspond à tout ce qui améliore
+                                                      l’efficacité de la combinaison travail-capital
+• La contribution du facteur travail à la             (document 1).
+  croissance économique peut expliquer une
+  grande partie de la croissance du • La contribution de la PGF à la croissance
+  PIB comme c’est le cas pour la Grèce en             économique peut expliquer une grande
+  2017(document 1).                                   partie de la croissance du PIB en 2017
+                                                      comme c’est le cas pour la France, la Corée
+• Il existe plusieurs leviers pour accroître la       du Sud ou encore l’Allemagne (document
+  quantité de travail et stimuler la croissance :     1).
+
+- augmenter le nombre de travailleurs, ce qui •        Les gains de productivité sont le résultat
+peut passer par une augmentation de la                des     dépenses      de     recherche     et
+population totale (solde naturel et solde             développement (R&D) (document 2). Le
+migratoire) ou par une augmentation de la             progrès technique est donc endogène. Ce
+population active occupant un emploi (emploi          n’est pas une « manne tombée du ciel »
+féminin, baisse du chômage, recul de l’âge            mais c’est le résultat des décisions des
+légal de départ à la retraite)                        agents économiques (privés et/ou publics)
+                                                      (document 2) qui vont bénéficier à toute la
+                                                      société (externalités positives) et en retour
+- accroître la durée du travail, ce qui peut passer   permettre le financement de la croissance
+par      un     assouplissement        des     35h,   future.
+l’encouragement des heures supplémentaires,
+favoriser le travail le dimanche ou encore •          Les gains de productivité sont aussi le
+l’élargissement des heures d’ouverture).              résultat des investissements (privés et
+                                                      publics) en capital humain (document 4).
+
+                                                  •   Les investissements en R&D et en capital
+                                                      humain génèrent des externalités positives.
+                                                      C’est pourquoi l’État doit les encourager. Le
+                                                      document      3     montre       les   efforts
+                                                      d’investissements en capital humain
+                                                      engagés par les pouvoirs publics depuis
+                                                      1980.
+
+
+
+
+                                                                                  Page : 3/11
+ B) Le rôle du facteur capital.                      B) Le rôle majeur du cadre institutionnel.
+  • L’augmentation du stock de capital fixe • Des institutions de qualité (fortes et non
+    (investissement)      contribue     aussi      à    corrompues) jouent un rôle moteur dans la
+    augmenter le volume de production et donc           croissance économique (document 3). Les
+    à stimuler la croissance (document 1).              échanges économiques ne sont possibles
+  • La contribution du facteur capital à la             que si le contexte institutionnel est favorable
+    croissance économique peut expliquer près           Les institutions formelles dont les droits de
+    de la moitié de la croissance du PIB comme          propriété, le système juridique, mais aussi
+    c’est le cas pour la Corée du Sud en 2017           la confiance, le système de valeurs ou
+    (document 1).                                       encore la culture de l’innovation.
+  • Les investissements sont sources de
+    croissance car ils augmentent les capacités • Les droits de propriété sont des institutions
+    productives (effets positifs sur l’offre).          fondamentales favorisant la croissance car
+                                                        elles sont une incitation forte à investir et
+  • Les investissements permettent aussi aux            innover en garantissant une rente de
+    entreprises      d’acquérir     des        biens    monopole et des surprofits liés à cette
+    d’équipement       plus    performants        et    innovation.
+    d’améliorer la productivité globale des
+    facteurs, ce qui stimule la croissance
+    économique.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+                                                                                     Page : 4/11

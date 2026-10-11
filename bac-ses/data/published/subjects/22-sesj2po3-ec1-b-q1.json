@@ -1,0 +1,73 @@
+{
+  "id": "22-SESJ2PO3-EC1-B-Q1",
+  "slug": "22-sesj2po3-ec1-b-q1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "22-SESJ2PO3",
+  "year": 2022,
+  "session": "remplacement",
+  "day": "J2",
+  "center": "Polynésie",
+  "question": "À partir d'un exemple, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment les pouvoirs publics peuvent-ils contribuer à la justice sociale ?"
+    },
+    {
+      "part": "EC1 (question 2)",
+      "question": "Présentez la théorie des classes sociales chez Karl Marx."
+    },
+    {
+      "part": "EC1 (question 3)",
+      "question": "Montrez, à l'aide de deux exemples, que l'engagement politique peut prendre des formes variées."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le numérique transforme le travail et l'emploi."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2PO3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-polynesie-2-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 183, 2022_amsud_norm_ec_3.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=183&cle=4d650dbb1ffc79e4ac5da4274e9d5f36890964ec9f081744809e1c44f866c1e5&file=docx%2F2022_amsud_norm_ec_3.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Amérique du Sud · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 183",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=183&cle=4d650dbb1ffc79e4ac5da4274e9d5f36890964ec9f081744809e1c44f866c1e5&file=docx%2F2022_amsud_norm_ec_3.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B). Incohérence relevée : le catalogue de Versailles (doc. 183) indique « Amérique du Sud », alors que le fichier (2022_amsud_norm_ec_3.docx) et le sujet officiel correspondent à Polynésie.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

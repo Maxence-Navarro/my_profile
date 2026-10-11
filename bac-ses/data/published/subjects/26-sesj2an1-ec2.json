@@ -1,0 +1,80 @@
+{
+  "id": "26-SESJ2AN1-EC2",
+  "slug": "26-sesj2an1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "26-SESJ2AN1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J2",
+  "center": "Amérique du Nord",
+  "question": "Taux de croissance annuel du PIB (en %) et contributions à la croissance du PIB (en points de %) en France, aux États-Unis et au Japon de 2005 à 20191 2005 2015 2019",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, vous comparerez le poids des différentes contributions à la croissance économique de la France et des États-Unis en 2019.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, vous montrerez que l'accumulation des facteurs et l'accroissement de la productivité globale des facteurs sont des sources de la croissance économique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Taux de croissance annuel du PIB (en %) et contributions à la croissance du PIB (en points de %) en France, aux États-Unis et au Japon de 2005 à 20191 2005 2015 2019\n\n*Source indiquée : d'après les données de l'OCDE, 2025.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'action des pouvoirs publics pour lutter contre le changement climatique est- elle efficace ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous présenterez les nouveaux enjeux de mobilisation de l'action collective."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les évolutions des formes d'organisation du travail ont des effets positifs et négatifs sur les conditions de travail."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ2AN1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-amerique-nord-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 862, 25-sesj1me1_v1_metropole-3.pdf)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=862&cle=3cb1776400930213f2dc0c68679568c79ff46dd454e88830e8ca7c14d27aba7d&file=pdf%2F25-sesj1me1_v1_metropole-3.pdf",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC2 - Étude de document · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2025 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 862",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=862&cle=3cb1776400930213f2dc0c68679568c79ff46dd454e88830e8ca7c14d27aba7d&file=pdf%2F25-sesj1me1_v1_metropole-3.pdf",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 862) indique « France métropolitaine », alors que le fichier (25-sesj1me1_v1_metropole-3.pdf) et le sujet officiel correspondent à Amérique du Nord.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

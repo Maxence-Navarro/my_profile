@@ -1,0 +1,537 @@
+                          BACCALAUREAT GENERAL
+                               SESSION 2021
+                        ENSEIGNEMENT DE SPECIALITE
+                    SCIENCES ECONOMIQUES ET SOCIALES
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+Sujet : Quel est le rôle du progrès technique dans le processus de croissance
+économique ?
+
+Programme officiel :
+
+Science économique
+Questionnement       Objectifs d’apprentissage
+Quels sont les       - Comprendre le processus de croissance économique et les
+sources et les défis sources de la croissance : accumulation des facteurs et
+de la croissance     accroissement de la productivité globale des facteurs ;
+économique ?         comprendre le lien entre le progrès technique et l’accroissement
+                     de la productivité globale des facteurs.
+                     - Comprendre que le progrès technique est endogène et qu’il
+                     résulte en particulier de l’innovation.
+                     - Savoir que l’innovation s’accompagne d'un processus de
+                     destruction créatrice.
+
+Exploitation possible des documents :
+ Document 1  Le document 1 montre la décomposition de la croissance entre les
+                 facteurs de production capital et travail, et la part de la croissance
+                 attribuée à la PGF, assimilée aux effets du progrès technique.
+               On observe particulièrement que les pays ayant un rythme de
+                 croissance relativement faible (France, Japon et Royaume uni) ont
+                 une contribution de la PGF très modeste. A contrario, la Corée tire
+                 sa croissance d’une contribution plus importante de sa PGF.
+               En tendance, la contribution de la PGF semble moins importante
+                 au fil des années pour l’ensemble des pays observés : le progrès
+                 technique s’estompe, ce qui peut être une explication du
+                 ralentissement de la croissance.
+                Le progrès technique et son caractère endogène, déterminant
+                  l’accroissement de la productivité globale des facteurs, jouent
+                  donc bien un rôle essentiel dans la croissance.
+ Document 2  L’industrie musicale a connu plusieurs innovations récentes, qui
+                 modifient rapidement ses structures de marché : chute des ventes
+                 de supports physiques, essor des ventes digitales puis
+                 effondrement, développement actuellement rapide du streaming
+                 légal…
+               L’innovation peut donc s’accompagner d’un processus de
+                 destruction créatrice, que l’on observe bien avec les variations de
+                 revenus par formes de diffusion entre 2001 et 2019.
+               Ces revenus sont une composante de la croissance économique.
+
+
+                                                                                          1
+21-SESJ1G11 C
+ Document 3          Ce document montre l’accroissement des dépenses de
+                    financement nécessaire pour le développement d’un produit
+                    nouveau ou d’une entreprise en amorçage, en France sur la
+                    période récente.
+                   Ce document peut donc permettre de montrer le caractère
+                    endogène, volontairement entretenu, d’un progrès technique qui
+                    résulte en particulier d’une innovation qu’il aura fallu financer en
+                    amont.
+ Document 4         Les dépenses de recherche et développement représentent une
+                     part relativement constante du PIB en France.
+                    Si les dépenses des administrations publiques sont en proportion
+                     un peu moins fortes (passant de 39 à 34,7% sur la période), elles
+                     restent relativement importantes. Les entreprises exécutent la
+                     majeure partie des dépenses de recherche et développement.
+                    Ces dépenses participent bien évidemment à un progrès
+                     technique endogène, qui tire la croissance économique.
+
+
+Problématique possible :
+
+Si on observe la décomposition de la croissance de la plupart des pays, le moteur
+qu’est la productivité globale des facteurs (PGF) reste l’une des plus importantes
+explications de l’augmentation des PIB. Cette PGF est généralement associé à l’effet
+du progrès technique, au sens large.
+Se pose donc la question d’identifier l’apport réel du progrès technique à la croissance,
+et son caractère endogène par une somme de décisions d’acteurs publics et privés.
+
+Proposition de plan détaillé :
+ I) le progrès technique est une                 II) Le progrès technique est endogène,
+ composante          essentielle    de      la   favorisant ainsi le caractère cumulatif
+ croissance.                                     de la croissance.
+ A) Il y a un lien entre progrès                 A) Le progrès technique résulte des
+ technique et accroissement de la                décisions d’investissement en R&D et
+ productivité globale des facteurs.              des innovations qui en découlent.
+  L’efficacité d’une entreprise ou d’une         A l’origine des innovations, il y a bien
+    nation sera d'autant plus grande                 souvent une décision des acteurs
+    qu'elle produira une quantité donnée             économiques. Ces innovations sont à
+    supplémentaire avec autant de                    la source du progrès technique.
+    facteurs de production (capital et            Les structures de l’économie et
+    travail). La croissance s’explique donc          l’action de l’Etat (financer la recherche
+    avant tout par l’efficacité de ces               et développement, garantir les droits
+    facteurs, c’est à dire leur productivité.        de propriétés, sécuriser les brevets…)
+    La productivité est bien une mesure              peuvent ainsi favoriser ce progrès
+    de l’efficacité du système productif             technique endogène, tout comme des
+    (document 1).                                    décisions individuelles (se former,
+  Il est difficile de déterminer une origine        acheter du capital technique plus
+    certaine et unique à un gain de                  performant…).
+    productivité des ou d’un facteur de           Ces        décisions      d’acteurs    sont
+    production. On considère alors que la            notamment visibles dans le document
+    PGF mesure principalement l’effet                4 et le document 3.
+
+                                                                                                 2
+21-SESJ1G11 C
+   progrès technique au sens large, dont
+   les déterminants sont essentiellement
+   l'innovation    et     les    progrès
+   organisationnels des firmes.
+
+ B) La productivité globale des              B) Le progrès technique a un effet
+ facteurs est déterminante dans le           d’entrainement sur la croissance
+ processus de croissance.                    économique.
+  La contribution des deux facteurs de       Des innovations ont donné lieu à des
+    production à la croissance ne suffit        révolutions technologiques entrainant
+    généralement pas à expliquer la             une croissance de long terme.
+    totalité de la croissance du PIB : la       L’effet des innovations est parfois
+    productivité globale des facteurs est       cependant plus ambigu : l’innovation
+    ainsi une composante importante de          s’accompagne aussi d’un mouvement
+    la croissance.                              de destruction créatrice, même
+  Cette PGF détermine largement le             lorsque de nouveaux marchés
+    rythme      de      croissance     des      apparaissent (document 2).
+    économies : une contribution faible de    Le progrès technique est alors créé et
+    la PGF entraine une croissance faible       amélioré            grâce           aux
+    et inversement (Document 1).                « investissements » de chacun, au
+                                                bénéfice de tous. En effet, lorsque l’on
+                                                innove, on améliore non seulement sa
+                                                propre productivité, mais l’on assure
+                                                aussi une série d’effets bénéfiques
+                                                pour toute la collectivité par des
+                                                externalités positives.
+                                              Cela se traduit par une croissance
+                                                économique, inscrite dans le temps
+                                                long : les gains de productivité
+                                                peuvent être partagés et réinvestis en
+                                                faveur de la poursuite du processus
+                                                de croissance.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+                                                                                           3
+21-SESJ1G11 C
+                             ÉPREUVE COMPOSÉE A
+                            PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Présentez un mécanisme montrant comment les politiques de soutien de
+la demande globale permettent de lutter contre le chômage. (4 points)
+
+Science économique
+Comment lutter contre le chômage ?
+
+Réponse possible :
+- Le chômage conjoncturel est la composante du chômage causée par une
+  insuffisance de l’activité économique. Des politiques de soutien de la demande
+  globale permettent de lutter contre cette forme de chômage.
+- Les politiques de soutien de la demande globale se définissent comme l’ensemble
+  des mesures visant à relancer l’activité économique en soutenant la demande
+  globale, c’est-à-dire l'ensemble des demandes de biens et services exprimés par
+  les agents économiques à l’intérieur du pays (la consommation finale des
+  ménages, l’investissement des entreprises, l’investissement public) et par les
+  agents économiques extérieurs au pays (les exportations).
+- Une forme de soutien de la demande globale peut passer par une politique
+  budgétaire expansionniste. L’objectif d’une telle politique est de relancer l’activité
+  économique en creusant (temporairement) les déficits publics, soit en augmentant
+  les dépenses publiques, soit en réduisant les recettes fiscales, soit en opérant les
+  deux simultanément.
+- La politique monétaire de relance permet également de soutenir la demande
+  globale, et donc de lutter contre le chômage conjoncturel. Une baisse des taux
+  d’intérêt directeurs par la banque centrale permet de relancer l’activité économique
+  en favorisant notamment l’investissement et la consommation, deux composantes
+  de la demande globale.
+
+
+
+
+                                                                                      4
+21-SESJ1G11 C
+Deuxième partie (6 points) : Étude d’un document
+Science économique
+Comprendre le commerce entre pays comparables (différenciation des produits,
+qualité des produits, et fragmentation de la chaîne de valeur).
+
+Question 1 : Comparez les échanges commerciaux d’importation et d’exportation des
+filières sidérurgiques et électroniques en Allemagne. (2 points)
+
+Réponse possible :
+Pour l’Allemagne, 52,8% des échanges internationaux du secteur sidérurgique
+s’explique par un commerce interbranche, c’est-à-dire un échange de produits
+différents (en gamme et en qualité) au sein de la filière, sur la période 2015-2017 ;
+contre 32% pour le secteur électronique. Cette différence de 20,8 points montre que
+d’un secteur à l’autre, les motifs de l’échange peuvent être différent : le secteur
+électronique se centre majoritairement sur un échange de type intrabranche à 68%, le
+secteur sidérurgique reste marqué par un échange plus classique interbranche.
+Ensuite, la décomposition interne du commerce intrabranche diffère selon les deux
+secteurs étudiés. Le secteur électronique connait d’abord un commerce intrabranche
+lié à des différences de qualité, au sein d’une même gamme de produit : 55,2% des
+échanges se font entre produits ayant des prix différents, le commerce de produits
+différenciés mais comparables en prix ne pesant que 10,7% du total des échanges
+manufacturiers du secteur. La sidérurgie a une structure des échanges intrabranches
+plus équilibrée, entre effet de qualité et effet de variété : il n’y a que 9,8% d’écarts entre
+les deux formes de commerce intrabranche mentionné par le CEPII.
+
+Question 2 : A l’aide du document et de vos connaissances, montrez que la
+différenciation des produits est une explication du commerce entre pays comparables.
+(4 points)
+
+Réponse possible :
+Le commerce international ne se limite pas à des échanges de biens et services
+différents, fondés sur des avantages absolus ou comparatifs. Pour les pays à niveau
+de développement comparable (en termes de niveaux de revenus, de dotations
+factorielles, de capacité technologique, etc.), le commerce intrabranche s’explique
+alors bien souvent par des formes de différenciation de produits.
+Cette différenciation des produits échangés entre partenaires commerciaux est
+d’abord verticale, c’est-à-dire avec des produits similaires - par exemple des
+véhicules -, mais de gamme ou de qualité différente -certains véhicules allemands
+étant « haut de gamme », et donc plus chers. Cette explication est particulièrement
+robuste pour comprendre les flux commerciaux avec l’Allemagne, d’après le CEPII :
+entre 2015 et 2017, en moyenne 41,6 % des échanges de la filière véhicule sont liés
+à un commerce intrabranche fondé sur ces différences de prix et donc de qualité. Bien
+évidemment, des constats comparables peuvent être faits pour d’autres filières (le
+secteur électrique avec 56,5 % d’échanges croisés s’expliquant par un commerce
+intrabranche avec différence de qualité, la filière textile, etc.). Cette première forme de
+différenciation peut être liée à la compétitivité hors prix des pays par exemple.
+La seconde forme de différenciation peut être qualifiée d’horizontale, c’est-à-dire avec
+des produits similaires et de gamme comparable, au prix d’échange relativement
+proche. C’est le cas par exemple lorsque l’on échange du mobilier entre la France et
+l’Italie pour équiper les logements, ou du textile dans le cas allemand : 18,3 % des
+
+                                                                                            5
+21-SESJ1G11 C
+échanges de la filière reposent sur un commerce intrabranche avec différence de
+variété, en moyenne sur la période. Cet échange intrabranche est en général associé
+au goût pour la variété des consommateurs, qui expriment des préférences
+hétérogènes en matière de design, d’agrément ou de fonctionnalité des produits.
+
+
+
+
+                                                                                 6
+21-SESJ1G11 C
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+l’approche en termes de classes sociales peut être remise en cause pour rendre
+compte de la société française actuelle.
+
+Programme officiel :
+Sociologie et science politique
+
+Questionnement       Objectifs d’apprentissage
+Comment est          Connaître les théories des classes et de la stratification sociale
+structurée la        dans la tradition sociologique (Marx, Weber) ; comprendre que
+société française    la pertinence d’une approche en termes de classes sociales
+actuelle ?           pour rendre compte de la société française fait l’objet de débats
+                     théoriques et statistiques : évolution des distances inter- et intra-
+                     classes, articulation avec les rapports sociaux de genre,
+                     identifications subjectives à un groupe social, multiplication des
+                     facteurs d’individualisation.
+
+Exploitation possible des documents :
+ Document 1 Convergence des taux d’équipement des ménages en micro-
+              ordinateur selon le groupe socioprofessionnel => diminution de la
+              distance inter-classes. En effet, 10% des ménages ouvriers étaient
+              équipés en micro-ordinateur en 1996 contre environ 47% des
+              ménages CPIS soit un écart de 37 points de pourcentage. En 2016,
+              l’écart n’est plus que 12 points (environ 87% des ménages ouvriers
+              contre 99% des ménages CPIS).
+ Document 2 Polarisation du GSP « professions intermédiaires » tant sur le plan
+              objectif (« D’un côté, on trouve les professions de la santé, du social
+              et de l’enseignement, qui sont les plus diplômées, les plus féminisées,
+              et dont les origines sociales sont les plus élevées. De l’autre, se
+              situent les contremaîtres, catégorie moins diplômée, plus masculine
+              et d’origine plus populaire. ») que subjectif (sentiment
+              d’appartenance : « D’un côté, les professeurs des écoles, instituteurs
+              et assimilés, les professions intermédiaires de la santé et du travail
+              social ont un sentiment d’appartenance à une classe sociale plus
+              souvent orienté vers le « haut ». De l’autre, les techniciens, les
+              contremaîtres et les agents de maîtrise se positionnent fortement vers
+              le « bas ».) => existence de lignes de fracture au sein des GSP =>
+              distance intra-classe.
+ Document 3 La lecture des inégalités d’espérance de vie à travers le prisme des
+              classes sociales et du sexe montre que s’il y a bien une forte inégalité
+              d’espérance de vie entre les classes sociales (distance inter-classes),
+              elle est encore plus forte si l’on associe le sexe à cette analyse et
+              dépasse même le seul cadre des classes sociales. D’autres prismes
+              d’analyse que celui des classes sociales sont donc à prendre en
+              compte pour rendre compte de la société française actuelle.
+
+Raisonnement possible :
+
+                                                                                         7
+21-SESJ1G11 C
+Les approches traditionnelles des classes sociales au sens de Marx et de Weber
+peuvent être considérées comme moins opérantes aujourd’hui. Ainsi, le candidat
+pourra présenter une série d’arguments montrant que, à différents égards, l’approche
+en termes de classes sociales peut être remise en cause et notamment :
+
+   -   Diminution de la distance inter-classe : baisse des inégalités économiques,
+       rapprochement des modes de vie (document 1) => remise en cause des classes
+       sociales au sens de Marx et de Weber.
+   -   Distance intra-classe importante, notamment au sein des « classes
+       moyennes » (document 2) voire augmentation de la distance intra-classe,
+       particulièrement au sein de la classe ouvrière => remise en cause des classes
+       sociales au sens de Marx.
+
+   -   Diminution des identifications subjectives, particulièrement au sein des classes
+       populaires et moyennes (document 2).
+   -   Multiplication des facteurs d’individualisation qui remettent en question le
+       sentiment d’appartenance à une classe sociale, notamment dans le monde du
+       travail où la baisse du taux de syndicalisation s’associe à une individualisation
+       des relations salariales ayant pour conséquence une diminution des combats
+       collectifs.
+
+   -   L’articulation de l’approche en termes de classes sociales avec les rapports
+       sociaux de genre permet de rendre compte des inégalités de sexe qui
+       structurent la société. D’autres critères tels que le sexe sont nécessaires pour
+       rendre compte des inégalités présentes dans la société, entre les sexes mais
+       aussi à l’intérieur de la catégorie « femmes » et de la catégorie « hommes ».
+       (Document 3).
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+                                                                                      8
+21-SESJ1G11 C
+                         ÉPREUVE COMPOSÉE – SUJET B
+                           PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Présentez deux évolutions de la structure socioprofessionnelle française
+depuis la seconde moitié du XXe siècle. (4 points)
+
+Sociologie et science politique
+Comment est structurée la société française actuelle ?
+
+
+Réponse possible :
+Depuis la seconde moitié du XXe siècle, les principales évolutions de la structure
+socioprofessionnelle sont la salarisation, la tertiarisation, l’élévation du niveau de
+qualification et la féminisation des emplois.
+
+   -   La salarisation correspond à l’augmentation de la part des emplois salariés
+       dans l’emploi total. La salarisation est mesurée par la part des salariés en
+       emploi et par l’évolution de cette part.
+       Le déclin de l’artisanat, de l’agriculture et des petits commerçants aboutit à la
+       baisse du nombre d’emplois non salariés que l’on trouve au sein des PCS des
+       indépendants (Agriculteurs exploitants et ACCE).
+       L’emploi salarié s’est développé au sein de l’industrie après la seconde guerre
+       mondiale puis, au sein du secteur tertiaire en plein essor, à partir des années
+       1960.
+
+   -   La tertiarisation correspond à l’augmentation de la part des emplois du secteur
+       tertiaire dans l’économie au détriment de la part des emplois du secteur primaire
+       et du secteur secondaire : montée des activités de service aux entreprises et
+       aux particuliers dans différents domaines, à partir des années 1960 ; Place de
+       plus en plus importante occupée par les activités de service au sein des
+       entreprises.
+
+   -   L’élévation du niveau de qualification correspond à l’élévation de la qualification
+       des emplois : montée des emplois qualifiés au sein du marché du travail
+       (augmentation des groupes socioprofessionnels : professions intermédiaires et
+       cadres et professions intellectuelles supérieures) et au sein des groupes
+       socioprofessionnels, chefs d’entreprise et ouvriers/employés de plus en plus
+       qualifiés.
+
+   -   La féminisation des emplois correspond à la part des emplois occupés par des
+       femmes. On assiste au développement de la création d’emplois dans le secteur
+       tertiaire au sein des catégories socioprofessionnelles employés (vendeuses,
+       aide soignantes) et professions intermédiaires (infirmières, professeurs des
+       écoles). Ainsi, la part des femmes dans l’emploi total n’a cessé d’augmenter
+       depuis les années 1960.
+
+
+
+
+                                                                                        9
+21-SESJ1G11 C
+Deuxième partie (6 points) : Étude d’un document
+Science économique
+Quels sont les sources et les défis de la croissance économique ?
+
+Question 1 : Comparez les données du document concernant la France et la
+Roumanie. (2 points)
+
+Réponse possible :
+Dans ce document, trois variables se référant aux sources et effets de la croissance
+économique, sont mises en évidence. La comparaison entre la France et la Roumanie
+permet d’observer que :
+- La France consacrait en 2017 2,2% de son PIB à la dépense intérieure en recherche
+et développement (DIRD), contre seulement 0.5% pour la Roumanie.
+- La Roumanie consacre deux fois moins de dépenses, relativement à son PIB, à
+l’éducation que la France : 5,4% du PIB était consacré aux dépenses d’éducation en
+France en 2016, face à seulement 2,6% pour la Roumanie.
+- Dans ces deux pays, le niveau de vie mesuré par le PIB par habitant n’est pas le
+même : en France, il était supérieur de 4% à celui de la moyenne des européens de
+l’UE, tandis qu’en Roumanie, il était inférieur de 37%.
+
+
+Question 2 : Montrez, à l’aide des données du document et de vos connaissances, le
+caractère endogène du progrès technique. (4 points)
+
+Réponse possible :
+
+La corrélation observée dans ce document entre les variables des investissements
+publics ou privés en éducation et en recherche d’une part, et celle du PIB par habitant
+d’autre part, illustre bien l’analyse du progrès technique comme un processus
+endogène.
+
+- Le progrès technique est le fruit d’un ensemble d’innovations qui ne « tombent pas du
+ciel » et sont le résultat d’investissements dans différents domaines : l’éducation et la
+recherche notamment.
+- Ces dépenses (le plus souvent publiques) d’éducation ou de recherche permettent
+d’accroître les capacités productives et alimentent donc le processus de croissance.
+Par exemple, la Finlande dépense beaucoup pour l’éducation (6,6% du PIB pour les
+dépenses publiques) et pour la Recherche et Développement, et son PIB par tête est
+aussi l’un des plus élevé relativement à l’Union européenne.
+- La croissance économique pourra permettre de financer d’autres investissements en
+capital humain ou technologique. L’Allemagne a un PIB par habitant supérieur de 24%
+à celui de la moyenne européenne, et c’est aussi le pays où la part de la DIRD dans le
+PIB est la plus élevée : 3 %.
+Le progrès technique résulte bien du processus de croissance et le stimule à son tour.
+
+
+
+
+                                                                                     10
+21-SESJ1G11 C
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+que l’engagement politique peut prendre des formes variées.
+
+Programme officiel :
+Sociologie et science politique
+
+Questionnement     Objectifs d’apprentissage
+Comment expliquer Comprendre que l’engagement politique prend des formes
+l’engagement       variées     (vote,   militantisme, engagement associatif,
+politique dans les consommation engagée).
+sociétés
+démocratiques ?
+
+Exploitation possible des documents :
+ Document 1 Ce document présente différentes formes d’engagement politique en
+              dehors du vote.
+                  - On trouve l’engagement associatif avec une précision sur cette
+                      forme d’engagement associée à la défense d’intérêts ou au
+                      bénévolat ou encore à la vie de la commune. On trouve aussi
+                      l’engagement militant au sein d’un parti politique ou d’un
+                      syndicat.
+                  - Le bénévolat et l’engagement politique local au travers de la
+                      participation à des activités associatives sont les formes les
+                      plus développées avec respectivement 15% des réponses
+                      données pour chacune de ces formes d’engagement.
+                  - L’engagement militant au sein d’un parti ou d’un syndicat n’est
+                      que très peu pratiqué par les individus respectivement pour
+                      2% et 7% des réponses données.
+ Document 2 Ce document montre l’évolution de l’engagement syndical des
+              salariés de 1983 à 2013 par la fréquence de la participation aux
+              activités syndicales.
+                  - Nous constatons que de 1983 à 1995, la moitié des salariés
+                      syndiqués participaient régulièrement aux activités syndicales
+                      et l’autre moitié, seulement de temps en temps et rarement ou
+                      jamais.
+                  - Après un pic de la participation régulière, entre 1998 et 2001,
+                      pour 60% d’entre eux, celle-ci ne cesse de baisser jusqu’à 30%
+                      seulement de salariés syndiqués qui participent régulièrement
+                      à des activités syndicales, en 2013. La proportion de ceux qui
+                      ne participent rarement ou jamais s’élèvent à 52%.
+ Document 3 Ce document nous montre une forme de l’engagement politique qui
+              s’est développée récemment : la consommation engagée par le
+              boycott ou le buycott.
+                  - La consommation engagée est une forme d’engagement
+                      politique individuel dont le but est de s’opposer au pouvoir des
+                      grandes entreprises en dénonçant leurs actions qui ne leur
+                      semblent pas morales ou éthiques.
+
+                                                                                    11
+21-SESJ1G11 C
+                   -   Il s’agit de refuser d’acheter des produits pour défendre telle
+                       ou telle cause (animale, environnementale, de lutte contre le
+                       travail des enfants …) et/ou de se limiter aux achats des
+                       produits des entreprises ayant un comportement conforme à
+                       leurs valeurs.
+
+Raisonnement possible :
+L’engagement politique recoupe toutes les actions collectives ou individuelles,
+durables ou spontanées et courtes, à intensité et finalités variables qui ont pour but
+d’influencer les décisions politiques, d’orienter la vie politique dans un sens qui leur
+est favorable.
+Les formes les plus classiques de l’engagement politique comme la participation
+électorale sont toujours perçues comme étant les plus efficaces pour influencer les
+décisions politiques prises par les pouvoirs publics. Le vote reste la forme
+d’engagement politique perçue comme la plus efficace par les citoyens dans les
+enquêtes d’opinion, encore aujourd’hui. En revanche, l’adhésion à un parti politique ou
+à un syndicat est peu fréquente (document 1) et le militantisme court et passager
+(participation rare à une manifestation, à une grève…) est de plus en plus présent
+(document 2 : courbe « rarement ou jamais »).
+
+L’adhésion à une association et les pratiques bénévoles sont des pratiques
+d’engagement politique de plus en plus courantes. Les associations de défense
+d’intérêts interviennent dans l’espace public pour aider des personnes dans des
+situations vulnérables, défendre des causes humanitaires, sociales ou
+environnementales ou encore pour promouvoir des idées (lutte contre le racisme, le
+sexisme, l’homophobie…). Les pouvoirs publics mettent en place des politiques
+publiques en réponse à cet engagement associatif : ils subventionnent ces
+associations, créent de nouvelles lois… Cette forme de participation à la vie politique
+se professionnalise de plus en plus, les associations deviennent un acteur
+incontournable de la vie politique (document 1).
+
+La consommation engagée via le boycott est une forme d’engagement politique qui
+se pratique de manière quotidienne et individuelle ou collective (membre d’un
+collectif de lutte contre…). Cette forme d’engagement vise essentiellement les
+entreprises qui ont un comportement non conforme aux valeurs des consommateurs.
+(document 3).
+
+
+
+
+                                                                                     12
+21-SESJ1G11 C
+

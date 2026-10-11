@@ -1,0 +1,533 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2021
+
+
+
+          Sciences économiques et sociales
+
+                                     JOUR 1
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 15 pages numérotées de 1/15 à 15/15.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ1G11                                                                   Page : 1/15
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                  SUJET
+
+                             Ce sujet comporte quatre documents.
+
+               Quel est le rôle du progrès technique dans le processus
+                              de croissance économique ?
+
+
+DOCUMENT 1
+
+     Croissance du PIB (en pourcentage) et contributions à cette croissance
+
+  Contributions en points de % à la croissance       2010       2012       2014       2016       2018
+             économique de l’année
+ France       croissance du PIB en %                  1,9        0,3       1,0        1,2        1,8
+              facteur travail                         0,5        0,0       0,0        0,6        0,2
+              facteur capital                         0,5        0,6       0,6        0,7        0,8
+              Productivité globale des facteurs       0,9        -0,3      0,4        -0,1       0,8
+ Japon        croissance du PIB en %                  4,1        1,5       0,3        0,5        0,3
+              facteur travail                         0,6        0,4       0,2        0,4        -0,0
+              facteur capital                         0,1        0,1       0,2        0,2        0,2
+              Productivité globale des facteurs       3,4        1,0       -0,1       -0,1       0,2
+ Corée        croissance du PIB en %                  6,6        2,3        3,1        2,9       2,6
+              facteur travail                         0,6        0,7        0,6        0,1       -0,6
+              facteur capital                         1,4        1,4        1,3        1,3       1,2
+              Productivité globale des facteurs       4,7        0,3        1,2        1,5       2,0
+ Royaume      croissance du PIB en %                   2,0        1,5       2,6        2,0       1,4
+ -Uni         facteur travail                         -0,3       1,5       2,2        1,9        0,7
+              facteur capital                          0,7       0,6       0,6         0,6       0,5
+              Productivité globale des facteurs        1,6       -0,5      -0,1       -0,5       0,2
+
+                                                                        Source : D’après OCDE, 2020.
+
+Note : la somme des différentes contributions n’est pas toujours parfaitement égale à la
+croissance du PIB en raison des arrondis.
+
+
+
+
+21-SESJ1G11                                                                                  Page : 2/15
+DOCUMENT 2
+
+ Les revenus de l’industrie musicale mondiale par types de diffusion en 2019,
+                            en milliards de dollars
+25
+
+     0,6
+
+
+
+                                                                                   0,5
+20
+                        0,9
+                                      1                                            2,6
+                      0,1
+
+                                                                                   1,5
+
+15                                           0,3
+                                                               0,4
+                                           1,4
+                                                               1,9
+
+                                            3,9
+                                                               3,3                11,4
+10
+                      17,8                  0,4
+     22,9
+                                                               2,8
+
+
+ 5
+
+                                            8,9
+                                                               5,7
+                                                                                   4,4
+
+
+ 0
+            2001               2005                2010              2015                2019
+
+
+
+
+        ventes physiques      streaming   ventes digitales   droit de diffusion   synchronisation
+
+
+
+              Source : D’après Fédération Internationale de l’Industrie Phonographique (IFPI),
+                                                                    Global music report, 2020.
+
+Note : les ventes physiques de l’industrie musicale correspondent aux ventes de supports
+musicaux comme les CD ou les vinyles ; le streaming désigne l’écoute musicale en flux continu
+par abonnement à des plateformes ; les ventes digitales renvoient à l’achat et au
+téléchargement en ligne de titres musicaux ; les droits de diffusion proviennent des diffusions
+en radio et espaces publics ; la synchronisation désigne les revenus issus de l’usage des
+musiques dans des publicités, des films, des jeux…
+
+
+
+
+21-SESJ1G11                                                                              Page : 3/15
+DOCUMENT 3
+
+        Montant des fonds investis dans le capital-innovation1 en France
+
+
+                En Millions
+                              Fonds investis dans le capital-innovation
+                 d’Euros
+
+                   2004                          396
+                   2005                          481
+                   2006                          536
+                   2007                          677
+                   2008                          758
+                   2009                          587
+                   2010                          605
+                   2011                          597
+                   2012                          443
+                   2013                          642
+                   2014                          626
+                   2015                          758
+                   2016                          874
+                   2017                          1224
+                   2018                          1619
+
+                                  Source : Tableau de l’Économie Française, INSEE, 2020.
+
+1 : Capital-innovation : financement destiné au premier développement d’un produit et à sa
+première commercialisation lorsqu’une entreprise est en phase de création ou au début de
+son activité.
+
+
+
+
+21-SESJ1G11                                                                  Page : 4/15
+DOCUMENT 4
+
+  Évolution de la répartition des dépenses de recherche et développement en
+                                     France
+
+
+                                          1995       2000       2005       2010      2017 (p)
+
+Dépense intérieure de recherche
+et développement (DIRD) en               27 302     30 954     36 228     43 469      50 619
+millions d'euros, dont :
+   exécution par les administrations 1   10 653     11 605     13 725     16 014      17 585
+         exécution par les entreprises   16 649     19 348     22 503     27 455      33 034
+Part des entreprises dans la DIRD
+                                          61,0       62,5       62,1       63,2        65,3
+(en %)
+
+Part de la DIRD dans le PIB (en %)         2,2        2,1        2,1        2,2        2,2
+
+                                                                        Source : INSEE, 2020.
+
+1 : Les administrations comprennent notamment les ministères et les services ministériels, les
+établissements d'enseignement supérieur et de recherche, les centres hospitaliers
+universitaires, les institutions sans but lucratif.
+
+
+
+
+21-SESJ1G11                                                                        Page : 5/15
+                      ÉPREUVE COMPOSÉE - SUJET A
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à
+la question en faisant appel à ses connaissances acquises dans le cadre du
+programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions
+en mobilisant ses connaissances acquises dans le cadre du programme et en adoptant
+une démarche méthodologique rigoureuse, de collecte et de traitement de
+l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au
+candidat de traiter le sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à
+la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Présentez un mécanisme montrant comment les politiques macroéconomiques de
+soutien de la demande globale permettent de lutter contre le chômage.
+
+
+
+
+21-SESJ1G11                                                                 Page : 6/15
+Deuxième partie : Étude d’un document (6 points)
+
+   Répartition du total des échanges manufacturiers par filière et type de
+ commerce en Allemagne, en % du total des échanges de la filière, moyennes
+                                 2015-2017
+
+
+                                                   Commerce intrabranche
+                                        avec différence de
+      Filières        Commerce             qualité (prix           avec différence de
+                     interbranche           d'échange                 variété (prix
+                                            différents)           d'échange similaire)
+  Total                   39,8                  45,8                        13,7
+  Alimentaire             47,9                  35,8                        16,2
+  Textile                 30,8                  50,7                        18,3
+  Bois, papiers           39,2                  46,7                        13,8
+  Chimique                38,9                  46,9                        13,1
+  Sidérurgique            52,8                  28,4                        18,6
+  Non ferreux             48,0                  26,7                        24,9
+  Mécanique               41,4                  46,0                        12,0
+  Véhicules               43,4                  41,6                        14,8
+  Electrique              29,1                  56,5                        13,3
+  Electronique            32,0                  55,2                        10,7
+
+                                        Source : Les Profils Pays du CEPII, Novembre 2019.
+
+Lecture : en Allemagne, 16,2 % des échanges croisés de la filière alimentaire s’apparentent à
+un commerce intrabranche lié à une différence de variété des produits, les prix des produits
+importés et exportés étant similaires ; 35,8 % sont liés à une différence de degré de qualité,
+les prix d’échange étant différents.
+
+Note : le total d’une ligne ne fait pas 100, certaines données n’ayant pu être affectées à une
+forme de commerce.
+
+Questions :
+  1. Comparez les échanges commerciaux d’importation et d’exportation des
+      filières sidérurgiques et électroniques en Allemagne. (2 points)
+   2. À l’aide du document, montrez que la différenciation des produits est une
+      explication du commerce entre pays comparables. (4 points)
+
+
+
+
+21-SESJ1G11                                                                        Page : 7/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                       Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que l’approche en termes de classes sociales peut être remise en
+cause pour rendre compte de la société française actuelle.
+
+
+DOCUMENT 1
+
+ Taux d’équipement des ménages en micro-ordinateur (y compris portable) en
+    France, en pourcentage, entre 1996 et 2016, selon la catégorie socio-
+                             professionnelle
+
+
+
+
+Champ : ensemble des ménages en France métropolitaine.
+
+         Source : « Équipement des ménages 1996-2016 », Insee Résultats, INSEE, 2017.
+
+
+
+
+21-SESJ1G11                                                              Page : 8/15
+DOCUMENT 2
+
+Dans la nomenclature socioprofessionnelle de l’INSEE, le groupe socio-professionnel
+(GSP) vise à décrire des groupes réels, dont les membres partagent un sentiment
+d’appartenance collective : « Les personnes appartenant à une même catégorie sont
+présumées être susceptibles d’entretenir des relations personnelles entre elles, avoir
+souvent des comportements et des opinions analogues, se considérer elles-mêmes
+comme appartenant à une même catégorie et être considérées par les autres comme
+appartenant à une même catégorie. » (Code des métiers, INSEE, 1968). […]
+[Le GSP « professions intermédiaires »] comprend des professions ayant connu une
+forte expansion dans les années 1960 et 1970 (Thévenot,1983) : les « instituteurs et
+assimilés », les « professions intermédiaires de la santé et du travail social », les
+« professions intermédiaires administratives de la fonction publique », les
+« professions intermédiaires administratives et commerciales des entreprises », les
+« techniciens », les « contremaîtres et les agents de maîtrise ».
+Depuis les années quatre-vingt, ces professions sont affectées par une recomposition
+de l’emploi public, par une croissance significative du secteur privé et par l’élévation
+du niveau des diplômes. Mais elles restent polarisées. D’un côté, on trouve les
+professions de la santé, du social et de l’enseignement, qui sont les plus diplômées,
+les plus féminisées, et dont les origines sociales sont les plus élevées. De l’autre, se
+situent les contremaîtres, catégorie moins diplômée, plus masculine et d’origine plus
+populaire. Au milieu, et en plein essor, les trois autres catégories socio-
+professionnelles (CS) : les autres professions intermédiaires du public, du privé et les
+techniciens. […]
+[Le] groupe socioprofessionnel [des professions intermédiaires] est [donc] polarisé.
+D’un côté, les professeurs des écoles, instituteurs et assimilés, les professions
+intermédiaires de la santé et du travail social ont un sentiment d’appartenance à une
+classe sociale plus souvent orienté vers le « haut ». De l’autre, les techniciens, les
+contremaîtres et les agents de maîtrise se positionnent fortement vers le « bas ».
+
+  Source : Agnès PÉLAGE et Tristan POULLAOUEC, « “Le haut du panier de la France d’en
+   bas “? Le sentiment d’appartenir à une classe sociale chez les membres des professions
+                             intermédiaires », Revue française des affaires sociales, 2007.
+
+Note : la nomenclature des PCS, établie par l’INSEE, définit 8 groupes socioprofessionnels
+(GSP). Chaque GSP regroupe plusieurs catégories socioprofessionnelles qui elles-mêmes
+sont constituées de différentes professions.
+
+
+
+
+21-SESJ1G11                                                                   Page : 9/15
+DOCUMENT 3
+
+    Évolution de l’espérance de vie à 35 ans par sexe pour les cadres et les
+                                   ouvriers
+
+En années
+               Homme cadre       Homme ouvrier       Femme cadre       Femme ouvrier
+ 1976-1984          41,7               35,7               47,5               44,4
+ 1983-1991          43,7               37,3               49,7               46,3
+ 1991-1999          45,8               38,8               49,8               47,2
+ 2000-2008          47,2               40,9               51,7               48,7
+ 2009-2013          49,0               42,6               53,0               49,8
+
+Champ : France métropolitaine.
+
+Lecture : en 2009-2013, l’espérance de vie à 35 ans des femmes cadres est de 53,0 ans.
+
+   Source : Nathalie BLANPAIN, « Les hommes cadres vivent toujours 6 ans de plus que les
+                                 hommes ouvriers », Insee Première, INSEE, février 2016.
+
+
+
+
+21-SESJ1G11                                                                 Page : 10/15
+                      ÉPREUVE COMPOSÉE - SUJET B
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à
+la question en faisant appel à ses connaissances acquises dans le cadre du
+programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions
+en mobilisant ses connaissances acquises dans le cadre du programme et en adoptant
+une démarche méthodologique rigoureuse, de collecte et de traitement de
+l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au
+candidat de traiter le sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à
+la présentation.
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+
+Présentez deux évolutions de la structure socioprofessionnelle française depuis la
+seconde moitié du XXe siècle.
+
+
+
+
+21-SESJ1G11                                                                Page : 11/15
+Deuxième partie : Étude d’un document (6 points)
+
+         L’effort d’innovation dans différents pays de l’Union européenne
+
+
+               DIRD1 en %        Dépenses publiques           PIB/habitant dans l’UE en
+               du PIB          d’éducation en % du PIB        indice base 100 pour l’UE
+               (en 2017)              (en 2016)                       (en 2017)
+
+Allemagne           3,0                    4,5                            124
+
+Finlande            2,8                    6,6                            109
+
+France              2,2                    5,4                            104
+
+Italie              1,4                    3,8                            96
+
+Roumanie            0,5                    2,6                            63
+
+UE                  2,1                    5,0                            100
+
+
+                                                                     Source : INSEE, 2020.
+
+1 : Dépense intérieure de recherche et développement (DIRD) : travaux de recherche et
+développement (R&D) exécutés sur le territoire national quelle que soit l’origine des fonds.
+
+
+Questions :
+1. Comparez les données du document concernant la France et la Roumanie.
+(2 points)
+
+2. À l’aide des données du document et de vos connaissances, montrez le caractère
+endogène du progrès technique. (4 points)
+
+
+
+
+21-SESJ1G11                                                                    Page : 12/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que l’engagement politique peut prendre des formes variées.
+
+
+DOCUMENT 1
+
+         Les formes de l’engagement politique1 en France, en 2003, en %
+
+
+
+
+   Source : Sandrine NICOURD, « Qui s’engage, aujourd’hui ? Regards sociologiques sur la
+                                            participation », Informations Sociales, 2008.
+
+Champ : Ensemble des individus de 18 ans et plus ayant répondu positivement aux variables
+relatives aux engagements.
+
+1 : La participation électorale ou le vote ne sont pas pris en compte dans ce tableau.
+
+
+
+
+21-SESJ1G11                                                                     Page : 13/15
+DOCUMENT 2
+
+   Évolution de la participation des salariés syndiqués français aux activités
+                      syndicales1 entre 1983 et 2013, en %
+
+
+
+
+Champ : ensemble des salariés syndiqués de 18 à 65 ans ; France métropolitaine.
+
+Source : « De l’adhérent au responsable syndical. Quelles évolutions dans l’engagement des
+                                      salariés syndiqués ? », DARES Analyses, mars 2017.
+
+1 : Exercer une responsabilité au sein du syndicat, s’impliquer dans des élections
+professionnelles (voter, par exemple), participer à une négociation collective, participer à une
+mobilisation collective (faire grève, par exemple) sont les principales activités syndicales
+auxquelles les syndiqués peuvent participer, au sein de leur entreprise.
+
+
+
+
+21-SESJ1G11                                                                      Page : 14/15
+DOCUMENT 3
+
+Avec la consommation engagée, la politique s’invite dans le marché. La participation
+politique ne se limite plus au vote et à la rue : elle se déroulerait désormais également
+dans les supermarchés, où les individus « votent avec leurs dollars », boycottant des
+marques ou achetant des produits pour leurs qualités « éthiques » - équitables, bio,
+durables, etc. […] la consommation engagée soulève tout d'abord la question de
+l'individualisation de la participation politique ; ou, plus précisément elle questionne les
+rapports entre participation individuelle et collective […]. Étudier la consommation
+engagée met au jour le pouvoir toujours plus grand de l'économie et des grandes
+entreprises. Consommer de manière engagée, c'est résister, contester ce pouvoir. On
+s'aperçoit alors que les pratiques de consommation critique font partie d'un
+phénomène plus large de contestation et de moralisation des marchés, au cœur de
+l'une des transformations majeures du capitalisme contemporain. […] Cela passe soit
+par le boycott – le refus d'achat pour des raisons « engagées », comme la cause
+environnementale, animale, et la justice sociale –, soit par le moyen opposé, « l'achat
+engagé » avec l'objectif de promouvoir une cause politique ou morale. Ce qui renvoie
+au terme de « buycott », mot-valise associant boycott et le verbe to buy (acheter, en
+anglais).
+
+ Philip BALSIGER, « La consommation engagée », in Olivier FILLIEULE, Florence HAEGEL
+    Camille HAMIDI, Vincent TIBERJ, Sociologie plurielle des comportements politiques : Je
+                        vote, tu contestes, elle cherche…, Presses de Sciences Po, 2017.
+
+
+
+
+21-SESJ1G11                                                                   Page : 15/15
+

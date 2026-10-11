@@ -1,0 +1,470 @@
+                   DISSERTATION S’APPUYANT SUR UN DOSSIER
+                               DOCUMENTAIRE
+                              PROPOSITION DE CORRIGÉ
+Sujet : Comment le progrès technique favorise-t-il la croissance économique ?
+Programme officiel : Science économique
+
+ Questionnements              Objectifs d’apprentissage
+ Quels sont les sources et    - Comprendre le processus de croissance économique
+ les défis de la croissance   et les sources de la croissance : accumulation des
+ économique ?                 facteurs et accroissement de la productivité globale des
+                              facteurs ; comprendre le lien entre le progrès technique
+                              et l’accroissement de la productivité globale des
+                              facteurs.
+                              - Comprendre que le progrès technique est endogène
+                              et qu’il résulte en particulier de l’innovation.
+
+Exploitation possible des documents :
+
+ Document 1    -Selon les années et les pays, les sources de la croissance
+               contribuent différemment à la croissance économique.
+               -En France, en 2016, par exemple, si la contribution de la PGF à la
+               croissance du PIB est négative, en revanche, en 2017 et 2018, la
+               contribution de la PGF est la plus forte (plus de la moitié de la
+               croissance en 2017).
+               -On retrouve aussi cette forte contribution de la PGF à la croissance
+               dans les autres économies, certaines années, comme en Corée du
+               Sud, ou en Allemagne et au Japon,
+               -Si la PGF contribue fortement à la croissance du PIB, c’est parce
+               que la combinaison productive y est efficace, cela provient de la mise
+               en œuvre du progrès technique sous différentes formes (innovations
+               de procédés, ou organisationnelles par exemple).
+ Document 2    - Il existe une forte corrélation entre l’évolution de la productivité
+               horaire du travail et celle du PIB en France entre 1976 et 2016.
+               - En tendance, les taux de croissance des 2 variables baissent et sont
+               même négatifs certaines années (baisse du PIB en 1993, baisse de
+               la productivité et du PIB en 2009).
+               - En moyenne, quand la productivité augmente, le PIB augmente
+               (entre 1988 et 1990), à l’inverse, quand le taux de variation de la
+               productivité baisse, celui du PIB aussi (en 2009, il y a une évolution
+               négative pour les 2 variables).
+               - Les variations de la productivité horaire du travail expliquent donc
+               celles du PIB (lien de causalité) : la productivité horaire du travail
+               contribue donc à la croissance économique.
+ Document 3    - La part de la DIRD réalisée par les entreprises et les administrations
+               publiques, en %, est différente selon les économies : en Espagne, la
+               répartition est quasiment égale entre les entreprises et les
+               administrations publiques dans le total des dépenses, alors qu’en
+               Israël, la DIRD réalisée par les entreprises représentent 85% du total
+               et 15% par les administrations publiques.
+               - Pour l’ensemble des pays de l’OCDE, la répartition est la suivante :
+               70% pour les entreprises, et 30% pour les administrations publiques.
+
+
+
+21-SESJ1ME3 C                                                                Page : 1/9
+                La DIRD financée par les entreprises est un signe de dynamisme
+                économique.
+                - On retrouve ainsi les deux formes de la DIRD : la DIRD privée,
+                financée par les entreprises, et la DIRD publique, financée par les
+                administrations publiques, qui toutes les deux contribuent à la mise
+                en œuvre du progrès technique dans l’économie, en favorisant les
+                innovations, la PGF et in fine la croissance économique.
+                - Le progrès technique endogène accorde une importance
+                déterminante au rôle des dépenses de R&D réalisées par les agents
+                économiques, qui sont source d’externalités positives, à l’origine
+                d’une croissance autoentretenue.
+ Document 4     -Exemple du secteur du numérique : activités de services
+                (programmation et conseil en informatique par exemple).
+                -Secteur dynamique en termes d’emplois et d’utilisation des TIC qui
+                demande un haut niveau de qualification (activités de R&D par
+                exemple).
+                -Secteur où la main-d’œuvre est qualifiée (nombre élevé de
+                chercheurs) et où le capital humain contribue fortement à la
+                croissance économique et à la création d’entreprises.
+
+
+Problématique possible :
+Comment le progrès technique agit-il sur la croissance économique ? Par quels
+mécanismes les différentes formes du progrès technique favorisent-elles une
+croissance économique autoentretenue ?
+Proposition de plan détaillé :
+
+ 1) Le progrès technique constitue     2) Les différentes formes du progrès
+ une source essentielle de la          technique favorisent une croissance
+ croissance économique                 économique cumulative
+ A) La contribution de la PGF à la     A) Les dépenses de R&D stimulent
+ croissance économique                 l’innovation
+      Le rôle de la PGF dans la            Le rôle des dépenses de R&D
+        croissance (document 1) : dans        dans les gains de productivité
+        les économies présentées, la          (document 3) : importance de la
+        PGF est le premier contributeur       DIRD privée et publique dans la
+        de la croissance économique.          mise en œuvre du progrès
+      La corrélation entre l’évolution de    technique :     stimulation    des
+        la productivité horaire du travail et innovations, gains de productivité
+        celle du PIB (document 2) : la        et croissance.
+        productivité du travail suit le     Le       rôle   des     entreprises
+        rythme de la croissance du PIB, la    innovantes dans la croissance
+        productivité du travail est donc un   (document 4) : dans le secteur du
+        facteur        de        croissance   numérique, la mise en œuvre du
+        économique.                           progrès technique nécessite des
+                                              investissements     massifs     en
+                                              capital humain.
+ B) Le progrès technique favorise la   B) Le progrès technique est
+ croissance de la PGF                  endogène et favorise une croissance
+                                       autoentretenue
+     La croissance ne provient pas         L’accumulation des différentes
+       seulement de l’accumulation des        formes de capital (au titre du
+
+
+21-SESJ1ME3 C                                                             Page : 2/9
+        facteurs de production, il existe un        capital technique, public, humain
+        résidu de la croissance. La PGF             et des dépenses de R&D)
+        correspond à ce résidu qui                  renforce aussi la PGF en
+        mesure       l’efficacité    de    la       favorisant     les      externalités
+        combinaison productive : ces                positives, qui alimentent à leur
+        gains de productivité proviennent           tour le rythme de la croissance
+        de la mise en œuvre du progrès              économique.
+        technique,          incorporé     au       Le progrès technique favorise la
+        processus de production.                    croissance car il est endogène au
+       Les effets des différentes formes           processus       de       croissance
+        de l’innovation : les innovations de        économique :         le     progrès
+        procédés et organisationnelles              technique est mis en œuvre par
+        agissent directement sur la PGF             les acteurs économiques et
+        et donc sur la croissance                   émane      du     processus       de
+        économique.                                 croissance       lui-même.        La
+                                                    croissance est donc un processus
+                                                    cumulatif et autoentretenu.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation académique, mais il ne doit pas être considéré comme
+une norme.
+
+
+                               ÉPREUVE COMPOSÉE A
+                             PROPOSITION DE CORRIGÉ
+
+
+Première partie : Mobilisation des connaissances (4 points)
+À l’aide d’un exemple, vous montrerez comment les avantages comparatifs expliquent
+la spécialisation internationale.
+Programme officiel :
+
+Questionnements et objectifs d’apprentissage
+
+ Questionnements               Objectif d’apprentissage
+ Science économique
+ Quels sont les                -Comprendre le rôle des dotations factorielles et
+ fondements du                 technologiques (avantages comparatifs) dans les
+ commerce international        échanges      commerciaux et   la   spécialisation
+ et l’internationalisation     internationale.
+ de la production ?
+
+
+Réponse possible :
+Les avantages comparatifs peuvent expliquer la spécialisation internationale de
+plusieurs façons :
+1) les pays se spécialisent dans la production où ils détiennent un avantage comparatif
+(avantage absolu le plus élevé ou le désavantage absolu le moins faible), en fonction
+de la productivité des facteurs de production des produits (avec l’exemple du Portugal,
+spécialisé dans le vin, et de l’Angleterre, spécialisée dans les draps) ;
+
+
+21-SESJ1ME3 C                                                                 Page : 3/9
+2) ensuite, les avantages comparatifs proviennent de la dotation factorielle des pays,
+c'est-à-dire de l’abondance ou la rareté relatives des facteurs de production, travail et
+capital (abondance relative de travail en Chine, spécialisée dans des activités de main-
+d’œuvre ; abondance relative de capital en Allemagne spécialisée dans la production
+automobile) ;
+-enfin, les avantages comparatifs peuvent provenir des dotations technologiques,
+c'est-à-dire de la capacité des économies à mettre en œuvre le progrès technique
+(l’économie américaine dans la filière du numérique).
+La spécialisation internationale peut donc s’expliquer par les avantages comparatifs
+dont disposent les différentes économies.
+
+On peut attendre 2 des 3 arguments.
+
+Deuxième partie : Étude d’un document (6 points)
+Sociologie et science politique
+Comment expliquer l’engagement politique dans les sociétés démocratiques ?
+
+Question 1 : À l’aide des données du document, vous comparerez le comportement
+des 18-24 ans à celui de l’ensemble de la population concernant les actions de lutte
+contre le réchauffement climatique. (2 points)
+
+Réponse possible : À la question « parmi les actions qui pourraient réduire les
+émissions de gaz à effet de serre, y en a-t-il que vous mettez déjà à l’œuvre ? », les
+réponses des 18-24 ans montrent que leur implication dans les éco-gestes est
+globalement moins grande que l’ensemble de la population. Par exemple, 64% des
+18-24 ans affirment trier les déchets contre 80% de l’ensemble de la population, soit
+une différence de 16 points de pourcentage. Cet écart monte à 20 points de
+pourcentage concernant l’item « veiller à acheter des légumes de saison ». Les 18-24
+ans utilisent cependant davantage les transports en commun plutôt que la voiture (42%
+affirment les utiliser contre 33% pour l’ensemble de la population). Cette tranche d’âge
+est donc moins impliquée dans les éco-gestes que l’ensemble de la population.
+
+Question 2 : À l’aide des données du document et de vos connaissances, vous
+montrerez que certaines actions individuelles peuvent traduire une forme
+d’engagement politique. (4 points)
+Réponse possible : Dans les sociétés démocratiques, l’engagement politique peut
+prendre des formes variées : le vote, le militantisme, le bénévolat dans une association
+ou encore la consommation engagée. Le document étudié montre que plusieurs des
+actions mises en œuvre par les personnes interrogées traduisent une forme
+d’engagement politique spécifique : la consommation engagée. Ainsi, « limiter la
+consommation de viande » de son foyer, « veiller à acheter des légumes de saison »
+ou encore « choisir des produits avec peu d’emballage » sont des exemples d’actions
+concrètes en faveur de l’environnement qui sont mises en place au travers des choix
+du consommateur.
+La consommation engagée inscrit une démarche politique au cœur des choix de
+consommation. Elle peut consister par exemple dans le boycott ou la limitation de la
+consommation de certains produits (exemple : « limiter la consommation de viande »,
+réduire l’utilisation de la voiture individuelle) ou dans une consommation motivée par
+des principes éthiques comme la protection de l’environnement ou la lutte contre
+différentes formes d’exploitation. Le boycott de certaines marques textiles, connues
+
+
+
+
+21-SESJ1ME3 C                                                                 Page : 4/9
+pour faire appel au travail des enfants, constitue un autre exemple de consommation
+engagée.
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez en quoi l’approche en termes de classes sociales n’est pas toujours
+pertinente pour rendre compte de la société française d’aujourd’hui.
+Programme officiel :
+Sociologie et science politique
+ Questionnement      Objectifs d’apprentissage
+ Comment est          Connaître les théories des classes et de la stratification
+ structurée la        sociale dans la tradition sociologique (Marx, Weber) ;
+ société française    comprendre que la pertinence d’une approche en termes de
+ actuelle ?           classes sociales pour rendre compte de la société française
+                      fait l’objet de débats théoriques et statistiques : évolution des
+                      distances inter- et intra-classes, articulation avec les rapports
+                      sociaux de genre, identifications subjectives à un groupe
+                      social, multiplication des facteurs d’individualisation.
+
+
+Exploitation possible des documents :
+ Document 1 - Le document montre que le % de diplômés augmente depuis 1982-
+            1984 parmi les employés et les ouvriers.
+               - Cela traduit un accroissement des distances intra groupes sociaux,
+               lesquels sont désormais moins homogènes du point de vue du niveau
+               de diplôme.
+               - Dans la catégorie « ouvriers qualifiés » et « employés non qualifiés »,
+               la part des diplômés de niveau supérieur et intermédiaire est proche.
+ Document 2 - La première partie du document évoque l’idée qu’il n’y a pas réellement
+            de groupes sociaux fermés, mis à part les agriculteurs. Les frontières
+            sont donc poreuses en lien avec les trajectoires sociales individuelles,
+            ce qui contribue à un certain brassage des individus et à un brouillage
+            des classes sociales.
+            - L’individualisation des pratiques sociales met à distance les
+            déterminations en lien avec les appartenances de classe. Les styles de
+            vie, qui faisaient l’homogénéité des groupes, tendent à se diversifier.
+ Document 3 - Le document met en évidence les inégalités salariales entre les
+            femmes et les hommes, de l’ordre de 16,8 % en faveur de ces
+            derniers. Ces inégalités sont plus fortes chez les cadres ou chez les
+            ouvriers. Ceci permet de montrer qu’une analyse en termes de genre
+            révèle des inégalités au-delà de celles que l’on appréhende à partir
+            d’une approche en termes de classes sociales. Ces deux dimensions
+            peuvent donc être articulées pour avoir une meilleure compréhension
+            des inégalités et, d’une manière générale, rendre compte de la société
+            française.
+
+
+
+21-SESJ1ME3 C                                                                 Page : 5/9
+Raisonnement possible :
+La pertinence d’une approche en termes de classes sociales en ce qui concerne sa
+capacité à rendre compte de la société française fait l’objet de débats. Certains
+arguments permettent de considérer qu’elle serait moins pertinente.
+ Sous certains aspects, l’affaiblissement des distances inter-classes et l’accroissement
+des distances intra-classes atténuent les clivages de classes.
+    -   La multiplicité des trajectoires sociales rend les frontières entre les groupes
+        sociaux plus poreuses (Document 2, « en dehors des agriculteurs, aucune
+        catégorie socioprofessionnelle ne peut être considérée comme un groupe
+        clos ».) Le développement de la scolarisation de masse, l’augmentation du
+        nombre d’emplois qualifiés, notamment dans le secteur tertiaire, sont en effet
+        autant de phénomènes qui contribuent à réduire les distances inter-classes. La
+        hausse des qualifications modifie ainsi les distances entre les employés et les
+        ouvriers (Document 1)
+    -   L’homogénéité et l’identité de la classe ouvrière est remise en cause par des
+        processus de fragmentation économique et culturelle dans un contexte de
+        désindustrialisation, de scolarisation allongée et de diffusion de nouvelles
+        normes en matière de consommation et de pratiques sociales en général.
+   La multiplication des facteurs         d’individualisation   et   l’affaiblissement   de
+    l’identification à un groupe social.
+    -   L’individualisation des pratiques sociales met à distance les déterminations en
+        lien avec les appartenances de classe. Les styles de vie, qui faisaient
+        l’homogénéité des groupes, tendent à se diversifier (Document 2).
+    -   On constate que le sentiment d’appartenance à une classe sociale n’a pas
+        disparu mais concerne désormais davantage qu’auparavant les catégories
+        moyennes. La conscience d’appartenance au monde ouvrier est moins
+        prégnante. L’identification subjective peut porter sur des aspects divers de
+        la vie: les activités sportives, culturelles, associatives, la pratique religieuse,
+        la vie conjugale...
+   La prise en compte des rapports sociaux de genre
+    -   D’autres clivages doivent être pris en compte pour rendre compte de la société
+        française. Les inégalités entre hommes et femmes sont manifestes par exemple
+        dans le monde du travail ou en termes de salaires (document 3). Les inégalités
+        salariales entre les femmes et les hommes sont de l’ordre de 16,8 % en faveur
+        des hommes.
+    -   Les femmes sont confrontées à des difficultés pour s’élever dans la hiérarchie
+        sociale. La probabilité statistique pour une femme d’être cadre est plus faible
+        que celle d’un homme. Ainsi, au sein de l’entreprise, à niveau de qualification
+        équivalent, celles-ci occupent moins souvent des postes caractérisés par de
+        fortes responsabilités. Celle-ci sont plus fréquemment confrontées au temps
+        partiel subi, à la pauvreté ou la précarité, que les hommes.
+    -   Ceci permet de montrer qu’une analyse en termes de genre révèle des
+        inégalités au-delà de celles que l’on appréhende à partir d’une seule approche
+        en termes de classes. L’articulation de ces deux dimensions permet de rendre
+        compte de manière plus pertinente de la société française.
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+21-SESJ1ME3 C                                                                    Page : 6/9
+                               ÉPREUVE COMPOSÉE B
+                             PROPOSITION DE CORRIGÉ
+
+
+Première partie : Mobilisation des connaissances
+Science économique : Comment lutter contre le chômage ?
+
+Question : (4 points)
+À l’aide de deux exemples, vous montrerez que les politiques de flexibilisation
+permettent de lutter contre les rigidités du marché du travail.
+
+    Réponse possible :
+   - Les mesures de flexibilisation des salaires permettent aux entreprises d’adapter
+      leurs coûts de production aux résultats économiques de l’entreprise. Des
+      accords peuvent être signés entre les partenaires sociaux afin de permettre aux
+      entreprises de geler les salaires en contrepartie du maintien des emplois dans
+      l’entreprise.
+   - Les entreprises peuvent annualiser le temps de travail afin de permettre
+      d’adapter la quantité de travail utilisée aux besoins de l’entreprise notamment
+      en cas de baisse temporaire de l’activité.
+   - Les mesures qui consistent à faciliter les licenciements ou limiter les coûts
+      inhérents aux licenciements (indemnités à payer suite à un jugement rendu par
+      le tribunal des prud’hommes…) peuvent permettre d’inciter à embaucher.
+
+
+Deuxième partie : Étude d’un document (6 points)
+Sociologie et science politique
+Quelle est l’action de l’École sur les destins individuels et sur l’évolution de la société ?
+
+Question 1 : À l’aide des données du document, vous comparerez l’origine sociale
+des étudiants en CPGE avec celle des étudiants en écoles paramédicales et sociales.
+(2 points)
+
+Réponse possible :
+Nous pouvons constater que l’origine sociale des étudiants en CPGE est très différente
+de celle des étudiants en écoles paramédicales et sociales. En effet, 51,6% des
+étudiants en CPGE sont issus de la catégorie CPIS contre 23% des étudiants en
+écoles paramédicales et sociales. A contrario, 7% des étudiants de CPGE sont fils ou
+filles d’ouvriers contre 19% des étudiants des écoles paramédicales et sociales.
+
+Question 2 : À l’aide des données du document et de vos connaissances, vous
+montrerez que la démocratisation reste inachevée. (4 points)
+
+Réponse possible :
+La démocratisation est une situation où l’accès à une filière ou un niveau de diplôme
+donné ne dépend pas de l’origine sociale de l’individu. Pour que celle-ci soit effective,
+il faudrait donc que dans chaque filière, l’origine sociale des étudiants reflète la
+structure sociale. A la lecture de ce tableau, nous pouvons constater que la
+démocratisation reste inachevée.
+Par exemple, les filières les plus prestigieuses et donnant accès à des emplois à
+responsabilité et bien rémunérés sont majoritairement choisies par des étudiants issus
+
+
+
+21-SESJ1ME3 C                                                                    Page : 7/9
+des catégories sociales les plus favorisées. Ainsi, 62,5% des étudiants d’une ENS sont
+issus de la catégorie CPIS. Plus de 51% des étudiants en CPGE ou en écoles
+artistiques, d’architecture et de journalisme sont eux aussi issus des CPIS. Seuls 2,3%
+des étudiants des ENS sont fils ou filles d’ouvriers.
+À l’inverse, des filières moins prestigieuses et moins rémunératrices comme celles du
+paramédical ou du social sont davantage choisies par des étudiants fils ou filles
+d’employés (31,6%) ou d’ouvriers (19%).
+
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+les pouvoirs publics disposent de plusieurs instruments pour faire face aux externalités
+négatives sur l’environnement.
+Programme officiel :
+Regards croisés
+
+ Questionnement         Objectif d’apprentissage
+ Quelle       action    - Connaître les principaux instruments dont disposent les
+ publique       pour    pouvoirs publics pour faire face aux externalités négatives
+ l’environnement ?      sur l’environnement : réglementation, marchés de quotas
+                        d’émission, taxation, subvention à l’innovation verte ;
+                        comprendre que ces différents instruments présentent des
+                        avantages et des limites, et que leur mise en œuvre peut se
+                        heurter à des dysfonctionnements de l’action publique
+
+Exploitation possible des documents :
+ Document 1     - La taxation est un instrument permettant de faire face aux
+                  externalités négatives sur l’environnement.
+                - Plus la taxe est élevée plus la réduction des émissions de CO2 est
+                  forte.
+ Document 2    - Le marché de quotas d’émission est un instrument dont dispose les
+               pouvoirs publics pour faire face aux externalités négatives sur
+               l’environnement.
+ Document 3 - La subvention à l’innovation verte est un autre instrument qui
+                  permet aux pouvoirs publics de faire face aux externalités
+                  négatives sur l’environnement. Il complète les autres instruments
+                  (normes, écotaxes, marchés de permis d’émission).
+               - Les gouvernements financent la recherche et l’innovation verte
+                  par la recherche publique ou les aides à l’innovation verte en
+                  faveur des entreprises
+
+Raisonnement possible :
+
+Les pouvoirs publics disposent de quatre instruments afin de lutter contre les
+externalités négatives sur l’environnement :
+      Les normes ou mesures réglementaires sont un instrument juridique. Elles
+       peuvent contraindre les agents économiques à limiter leurs consommations ou
+       à adopter des systèmes de productions moins polluants. Elles sont facilement
+
+
+
+21-SESJ1ME3 C                                                                Page : 8/9
+       et rapidement applicables. Le contrôle des mesures réglementaires est
+       cependant coûteux.
+      Le marché de quotas d’émissions compte sur les mécanismes de marché en
+       limitant l’offre de droit à polluer. La puissance publique fixe les quantités
+       d’émissions de GES. Les entreprises les plus vertueuses vendent aux
+       entreprises ne parvenant pas à dépolluer leurs titres de droits à polluer
+       inutilisés. Le prix de ces derniers encourage le changement de technologie.
+       Plus le prix des droits à polluer est élevé, plus les entreprises sont incitées à
+       produire en respectant l’environnement. Par exemple, l’année 2019 où la tonne
+       de CO2 était autour de 25 euros sur le marché européen du carbone était une
+       période où l’incitation à dépolluer était plus forte pour les entreprises que la
+       période 2015-2017 où la tonne de CO2 était entre cinq et dix euros. (Voir
+       document 2).
+      La taxation, comme la taxe carbone, augmente le prix de certains biens ou
+       ressources polluants. Elle intègre le coût social de certaines activités dans le
+       coût privé, internalisant ainsi les externalités négatives. C’est le principe du
+       pollueur-payeur. Plus cette taxe est élevée, plus l’incitation à adopter un
+       comportement vertueux pour l’environnement sera forte. Par exemple, dans le
+       document 1, nous constatons que taxer la tonne de CO2 à hauteur de 35 euros
+       réduirait les émissions de l’Arabie Saoudite d’environ 6,5%. Si cette taxe passe
+       à 70 dollars la tonne, la réduction des émissions serait alors d’environ 10,5%.
+      La subvention à l’innovation verte est un instrument à disposition des pouvoirs
+       publics qui vient compléter les politiques environnementales « créant une
+       demande pour les technologies vertes » (cf. doc 3) telles les mesures
+       réglementaires, la taxation ou les marchés de permis d’émissions. Elle incite les
+       entreprises à innover et à investir en faveur de l’environnement. En France par
+       exemple, le Crédit Impôt Recherche (doc. 3) prend en charge via le crédit
+       d’impôt, entre 30 et 40% des dépenses de recherche et développement.
+
+Nous pouvons donc dire que les instruments à disposition des pouvoirs publics pour
+lutter contre le réchauffement climatique sont nombreux et variés.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+21-SESJ1ME3 C                                                                Page : 9/9
+

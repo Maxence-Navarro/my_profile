@@ -1,0 +1,364 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2023
+
+
+
+          Sciences économiques et sociales
+                      ______
+
+
+                                   JOUR 2
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou l’épreuve
+                           composée.
+
+                Il indique sur sa copie le sujet choisi.
+
+
+
+
+23-SESJ2AS1                                                               Page 1 sur 10
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+
+                          Comment expliquer la mobilité sociale ?
+
+
+
+
+23-SESJ2AS1                                                                                Page 2 sur 10
+DOCUMENT 1
+Taux d’accès des élèves entrés en sixième en 1995 et en 2007 au second cycle
+   de l’enseignement secondaire selon le niveau atteint, en France (en %)
+
+                                       Panel1 2007                    Panel1 1995
+Voie générale et
+technologique
+Seconde générale et
+                                           62,1                           57,7
+technologique
+Première générale                          42,8                           37,2
+Première technologique                     16,9                           22,8
+Terminale générale                         41,8                           35,9
+Terminale technologique                    16,5                           21,9
+Voie professionnelle
+Seconde professionnelle                    26,1                             -
+Première professionnelle                   26,8                           13,5
+Terminale professionnelle                  24,7                           12,0
+
+    Source : d’après Direction de l’Évaluation, de la Prospective et de la Performance, 2020.
+
+1 : Panel : Échantillon permanent de population, interrogé régulièrement dans le cadre d'une
+enquête, d'un sondage, d'une étude de marché.
+
+Lecture : D’après les données de la Direction de l’Évaluation, de la Prospective et de la
+Performance, 57,7% des élèves entrés en 6e en 1995 ont accédé à une seconde générale et
+technologique.
+
+
+
+
+23-SESJ2AS1                                                                      Page 3 sur 10
+      DOCUMENT 2
+
+          Destinées sociales des hommes selon la catégorie socioprofessionnelle de
+                              leur père en 2020, en France (en%)
+
+           CSP
+          du fils                     Artisans,      Cadres et                        Employés      Employés
+                    Agriculteurs   commerçants      professions        Professions        et            et
+                    exploitants       et chefs     intellectuelles   intermédiaires    ouvriers      ouvriers      Total
+CSP                                 d’entreprise    supérieures                        qualifiés   non qualifiés
+du père
+Agriculteurs
+exploitants
+                       24,0            8,2             13,0              15,1           26,8          12,9          100
+Artisans,
+commerçants
+et chefs
+                        0,6           20,4             24,6              22,2           24,7           7,5          100
+d’entreprise
+Cadres et
+professions
+intellectuelles
+                        0,2            8,9             51,6              22,3           13,1           4,0          100
+supérieures
+Professions
+intermédiaires
+                        0,7            7,6             30,2              31,4           22,7           7,4          100
+Employés et
+ouvriers                0,6            7,9             14,6              25,3           40,6          11,2          100
+qualifiés
+Employés et
+ouvriers non            0,4            9,1             10,0              21,2           39,2          20,1          100
+qualifiés
+Ensemble                2,1            9,9             23,5              24,1           30,2          10,2          100
+
+Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés, âgés
+de 35 à 59 ans au 31 décembre de l’année d’enquête.
+
+
+                                                                      Source : Enquête Emploi, INSEE, 2020.
+
+Note : La somme des données de chaque ligne n’est pas toujours parfaitement égale à 100 en
+raison des arrondis.
+
+
+
+
+      23-SESJ2AS1                                                                                   Page 4 sur 10
+DOCUMENT 3
+
+Parmi les élèves entrés en 6e en 1980, le taux de redoublement en primaire s’élevait
+à 56 % pour les familles très nombreuses (de plus de cinq enfants) contre 24 % pour
+les enfants uniques. De surcroît, seulement 24 % des enfants de familles très
+nombreuses étaient parvenus à entrer en seconde contre 57 % des enfants uniques.
+Ces résultats […] sont confirmés par des enquêtes plus récentes et ne sont pas
+spécifiques à la France.
+Pour les enfants d’immigrés, les analyses du panel des élèves entrés en 6 e en 1995
+notent également une influence négative de la taille des fratries sur les résultats en
+français en 6e et au brevet, toutes choses égales par ailleurs. Plus récemment, les
+données issues de l’enquête TeO1 ont permis de mieux documenter cette question
+pour les enfants d’immigrés de 25-35 ans. Les analyses révèlent l’existence d’écarts
+[…] dans les redoublements scolaires, dans l’orientation en fin de troisième ou dans
+l’obtention du baccalauréat selon que les enfants d’immigrés avaient trois frères ou
+sœurs (voire plus) ou qu’ils étaient nés dans des familles plus réduites.
+
+  Source : Laure MOGUÉROU et Jean-Luc PRIMON, « Taille de la fratrie et occupation d’un
+     emploi en début de vie active des enfants d’immigrés », Populations vulnérables, 2018.
+
+1 : TeO : enquête sur la diversité des populations en France.
+
+
+
+
+23-SESJ2AS1                                                                   Page 5 sur 10
+DOCUMENT 4
+
+     Structure des emplois des hommes et de leur père en 2015, en France
+
+         En %
+
+
+
+
+                                                                        Catégories
+                                                                        socioprofessionnelles
+
+
+
+
+Lecture : en 2015, 3 % des hommes et 8 % de leurs pères relevant du champ de l’enquête
+sont agriculteurs exploitants.
+
+Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés,
+âgés de 35 à 59 ans au 31 décembre de l’année d’enquête.
+
+          Source : Enquêtes Formation et Qualification professionnelle, INSEE, 2014-2015.
+
+
+
+
+23-SESJ2AS1                                                                 Page 6 sur 10
+                                      Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+À partir d’un exemple, montrez que les problèmes d’appariements sur le marché du
+travail peuvent être source de chômage structurel.
+
+
+
+
+23-SESJ2AS1                                                                                Page 7 sur 10
+Deuxième partie : Étude d’un document (6 points)
+
+    Vote systématique, vote intermittent et abstention systématique selon le
+      niveau de diplôme et la catégorie sociale, en France, en 2017 (en %)
+                              Vote                 Vote           Abstention          Total
+                          systématique         intermittent      systématique
+    Ensemble des
+                                35,5              50,8                13,8             100
+    inscrits
+                       Pour les inscrits âgés de 25 ans ou plus :
+        Diplôme
+    Sans diplôme                28,7              46,3                25,0             100
+    Inférieur au bac            37,5              48,6                13,9             100
+    Bac                         34,7              53,4                11,9             100
+    Supérieur au
+                                41,6              50,2                 8,2             100
+    bac
+                                       Catégorie sociale
+    Agriculteurs
+                                44,1              48,8                 7,1             100
+    exploitants
+    Artisans,
+    commerçants et
+                                36,2              54,0                 9,8             100
+    chefs
+    d’entreprise
+    Cadres et
+    professions
+                                45,1              48,5                 6,4             100
+    intellectuelles
+    supérieures
+    Professions
+                                35,4              55,9                 8,7             100
+    intermédiaires
+    Employés                    30,3              57,6                12,1             100
+    Ouvriers                    26,1              57,9                16,0             100
+Note : les inscrits sont répartis entre ceux qui votent à tous les tours de la présidentielle et des
+législatives (vote systématique), ceux qui ne votent à aucun tour de ces scrutins (abstention
+systématique) et ceux qui votent de façon intermittente.
+Champ : inscrits (18 ans ou plus pour l'ensemble, 25 ans ou plus pour les diplômes et catégories
+sociales) sur les listes électorales en France en 2017 et résidant en France en 2015 (hors
+Mayotte).
+                                                                   Source : d’après INSEE, 2017.
+
+Questions :
+
+1. À l’aide des données du document, comparez l’abstention systématique des
+   personnes selon le niveau de diplôme. (2 points)
+
+2. À l’aide des données du document et de vos connaissances, montrez que
+   l’engagement politique dépend de variables sociodémographiques. (4 points)
+
+
+
+
+23-SESJ2AS1                                                                          Page 8 sur 10
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                        Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez le rôle des institutions dans la croissance économique.
+
+
+DOCUMENT 1
+
+L'histoire récente semble montrer que la technologie et le savoir sont des facteurs
+importants de la croissance économique et du développement. Depuis la création du
+premier mécanisme de protection des inventions, au XVe siècle, le système des
+brevets a évolué en vue de promouvoir l'innovation et d'encourager le développement
+économique. En bénéficiant de droits exclusifs pendant une durée limitée, un inventeur
+peut récupérer ses coûts de R-D1 et ses investissements. Ce système favorise
+également l'investissement pour la commercialisation des inventions, afin que le public
+puisse retirer les fruits de l'innovation. En outre, le système est conçu pour diffuser les
+connaissances et l'information parmi le public grâce à la publication des demandes de
+brevet et des brevets délivrés.
+De nombreux pays, en particulier parmi les moins avancés, commencent seulement à
+envisager l'élaboration d'un système de brevet approprié pour en récolter les
+avantages économiques et sociaux. Le développement des ressources et de
+l'infrastructure de ces pays et de leur capacité de bénéficier de la croissance rapide de
+la propriété intellectuelle en tant qu'actif économique précieux dans l'économie
+mondiale reste une préoccupation urgente.
+
+                         Source : Organisation Mondiale de la Propriété Intellectuelle, 2021.
+
+1 : R-D : recherche et développement
+
+
+
+
+23-SESJ2AS1                                                                     Page 9 sur 10
+DOCUMENT 2
+
+La lutte contre la corruption est une priorité, elle revêt plusieurs enjeux :
+ - pour les entreprises, c'est la garantie de pouvoir opérer, innover et investir dans
+    un environnement concurrentiel sain et équitable ;
+ - pour l'État, cela participe à la confiance des citoyens dans leurs institutions, la
+    stimulation de la croissance économique, des ressources fiscales plus importantes
+    et une dépense publique de plus grande qualité ;
+ - pour les consommateurs, c'est un accès à des produits et des services de qualité,
+    sans surcoûts ;
+ - pour les citoyens, c'est la garantie de l’intégrité et la stabilité d’institutions
+    démocratiques et de l’État de droit.
+Dans le cadre des attributions dévolues au ministère de l’Économie et des Finances,
+la DG [direction générale du] Trésor œuvre à l’amélioration des politiques de lutte
+contre la corruption, aussi bien au niveau international qu’au niveau national.
+
+                                              Source : Direction générale du trésor, 2022.
+
+
+DOCUMENT 3
+
+    Nombre de brevets triadiques1 et croissance du PIB dans certains pays
+
+                                 Nombre de brevets
+                                                             Croissance du PIB en %
+                                    triadiques
+                   1985                  3 628                          n.d.2
+Allemagne          2000                  7 640                           3,1
+                   2020                  4 381                          -4,9
+                   1985                  1 495                           1,7
+France             2000                  2 927                           4,1
+                   2020                  1 880                          -7,9
+                   1985                  7 825                           4,2
+États-Unis         2000                 15 629                           4,1
+                   2020                 13 040                          -3,4
+
+                                                                    Source : OCDE, 2022
+
+1 : Brevets triadiques : brevets déposés simultanément en Europe, au Japon et aux États-
+Unis.
+2 : n.d. : non disponible ; en 1985, l’Allemagne n’était pas encore réunifiée.
+
+
+
+
+23-SESJ2AS1                                                                 Page 10 sur 10
+

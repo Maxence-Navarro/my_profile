@@ -1,0 +1,69 @@
+{
+  "id": "22-SESJ2AN1-EC3-A",
+  "slug": "22-sesj2an1-ec3-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": "A",
+  "examCode": "22-SESJ2AN1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J2",
+  "center": "Amérique du Nord",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est endogène.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Taux de croissance du PIB (en %) et contributions des facteurs travail, capital *(source : d'après OCDE, 2021.)*\n- Document 2 — Les activités de recherche-développement1 (R&D), en accumulant un stock immatériel *(source : Marc GURGAND, Économie de l'éducation, 2005.)*\n- Document 3 — Dépenses intérieures brutes de recherche et développement1 (en % du PIB) et *(source : OCDE, 2019.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'engagement politique dépend-il seulement des variables sociodémographiques ?"
+    },
+    {
+      "part": "EC1",
+      "question": "À l'aide d'un exemple, vous montrerez que l'action des pouvoirs publics en faveur de la justice sociale peut produire des effets pervers."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez les données en matière d'exportations de haute technologie et de dépenses de recherche et développement de la Corée du Sud et du Nigeria en 2019. / À l'aide des données d"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2AN1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-amerique-nord-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 375, 2022_autres_norm_ec_3_1_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=375&cle=f70316c4ab6608fcf6694f88d1c5245dbfc7f366fab938eb9e9b4ab3fd6ef5c1&file=docx%2F2022_autres_norm_ec_3_1_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · Autres centres étrangers · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 375",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=375&cle=f70316c4ab6608fcf6694f88d1c5245dbfc7f366fab938eb9e9b4ab3fd6ef5c1&file=docx%2F2022_autres_norm_ec_3_1_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Exercice reproduit à l'identique (question et dossier) dans le sujet B de la même épreuve (22-SESJ2AN1-EC3-B) : un seul exercice, recensé une fois. Incohérence relevée : le catalogue de Versailles (doc. 375) indique « Autres centres étrangers », alors que le fichier (2022_autres_norm_ec_3_1_.docx) et le sujet officiel correspondent à Amérique du Nord.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

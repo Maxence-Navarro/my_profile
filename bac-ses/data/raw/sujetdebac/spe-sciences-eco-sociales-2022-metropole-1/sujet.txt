@@ -1,0 +1,490 @@
+                BACCALAURÉAT GÉNÉRAL
+
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2022
+
+
+
+
+          Sciences économiques et sociales
+                                      ______
+
+
+
+
+                           Mercredi 11 mai 2022
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 14 pages numérotées de 1/14 à 14/14.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+22-SESJ1ME1                                                               Page 1 sur 14
+           Dissertation s’appuyant sur un dossier documentaire
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+
+      L’accumulation des facteurs de production est-elle la seule source de
+                           croissance économique ?
+
+DOCUMENT 1
+
+           Personnes en emploi en France entre 2000 et 2019, en milliers
+
+
+
+
+Champ : personnes en emploi en France hors Mayotte.
+                                                        Source : DARES Analyses, n° 19, 2020.
+Lecture : T1 désigne le 1er trimestre, T4 le 4ème trimestre.
+
+
+22-SESJ1ME1                                                                                Page 2 sur 14
+DOCUMENT 2
+
+               Taux de croissance du PIB (en %) et contributions
+    à la croissance du PIB (en points de %) dans quelques pays (2010-2019)
+
+                     2010   2011     2012    2013     2014    2015   2016    2017     2018    2019
+                                             France
+Contribution du
+                      0,5    0,9     0,0      - 0,6     0,0   0,2    0,6     0,1       1,0    0,7
+facteur travail
+Contribution du
+                      0,5    0,5     0,6      0,6       0,5   0,6    0,6     0,7       0,7    0,7
+facteur capital
+Contribution de la
+                      0,9    0,8     - 0,3    0,6       0,4   0,3    - 0,1   1,5       0,0    0,1
+PGF1
+Taux de croissance
+                      1,8    2,2     0,4      0,6       1,0   1,0    1,0     2,4       1,8    1,5
+annuel du PIB
+                                       Corée du Sud
+Contribution du
+                      0,6    0,5     0,7      0,6       0,6   1,0    0,1     - 0,9    - 0,6   - 0,1
+facteur travail
+Contribution du
+                      1,4    1,4     1,4      1,4       1,4   1,4    1,3     1,4       1,2    1,0
+facteur capital
+Contribution de la
+                      4,7    1,7     0,3      1,1       1,2   0,5    1,5     2,6       2,3    1,1
+PGF1
+Taux de croissance
+                      6,8    3,7     2,4      3,2       3,2   2,8    2,9     3,2       2,9    2,0
+annuel du PIB
+                                           États-Unis
+Contribution du
+                      0,0    1,1     1,4      1,0       1,4   1,5    1,0     1,0       1,3    0,6
+facteur travail
+Contribution du
+                      0,6    0,7     0,7      0,7       0,7   0,7    0,6     0,7       0,8    0,8
+facteur capital
+Contribution de la
+                      1,9    - 0,2   0,1      0,1       0,3   0,8    0,1     0,7       0,9    0,7
+PGF1
+Taux de croissance
+                      2,6    1,6     2,2      1,8       2,5   3,1    1,7     2,3       3,0    2,2
+annuel du PIB
+
+                                                                Source : d’après OCDE, 2021.
+
+1 : Productivité Globale des Facteurs.
+Note : la somme des différentes contributions n’est pas toujours parfaitement égale à la
+croissance du PIB en raison des arrondis.
+
+
+
+
+22-SESJ1ME1                                                                          Page 3 sur 14
+DOCUMENT 3
+
+
+          Taux d’investissement1 des entreprises non financières en %
+
+
+              Zone
+                                                                               Royaume-
+              euro    Allemagne          Espagne       France        Italie
+                                                                                  Uni
+            (19 pays)
+
+
+2000           24,4          23,6          29,5         21,9         22,8          22,1
+
+
+2005           23,0          20,1          32,3         20,9         22,9          20,4
+
+
+2010           21,4          19,6          21,9         22,1         21,4          16,2
+
+
+2015           22,7          19,9          26,0         22,8         20,1          18,3
+
+
+2017           22,8          19,9          27,5         23,5         20,6          17,9
+
+
+                                                             Source : d’après INSEE, 2019.
+
+1 : Le taux d’investissement correspond à la part des investissements dans la valeur ajoutée
+en pourcentage.
+
+
+
+
+22-SESJ1ME1                                                                    Page 4 sur 14
+DOCUMENT 4
+
+ Évolution du montant de la dépense intérieure d’éducation (DIE) en milliards
+              d’euros constants et de sa part dans le PIB (en %)
+
+
+
+
+p : provisoire.
+Champ : France métropolitaine + Départements et Régions d’Outre-Mer (DROM)
+
+             Source : Ministère de l’Éducation nationale, de la Jeunesse et des Sports, 2020.
+
+
+Lecture : en 2019, la DIE s’élève à 160,5 milliards d’euros (courbe avec échelle de droite), ce
+qui représente 6,6 % du PIB (bâtons avec échelle de gauche).
+
+
+
+
+22-SESJ1ME1                                                                      Page 5 sur 14
+                              ÉPREUVE COMPOSÉE - SUJET A
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez comment les dotations factorielles peuvent expliquer la spécialisation
+internationale.
+
+
+
+
+22-SESJ1ME1                                                                                Page 6 sur 14
+Deuxième partie : Étude d’un document (6 points)
+
+    Montants annuels moyens des niveaux de vie1, des prélèvements et des
+     prestations par unité de consommation en 2019, en France (en euros)
+
+                                                   Inférieur à D1      Supérieur à D9
+      Niveau de vie moyen avant
+                                                        3 260              79 660
+      redistribution (A)
+      Prélèvements                                      - 200             - 20 410
+      Dont :
+      - financement de la protection sociale            - 190              - 7 730
+      (cotisations et contributions sociales)
+      - impôts directs (impôt sur le revenu,
+      taxe d’habitation et impôt sur la fortune          - 10             - 12 680
+      immobilière)
+      Prestations                                       7 140                190
+      Dont :
+      - prestations familiales                          1 900                110
+
+      - aides au logement                               1 890                10
+
+      - prime d’activité et minima sociaux              3 350                70
+      Niveau de vie moyen après
+                                                       10 200              59 440
+      redistribution (B)
+
+      Taux de redistribution(B-A)/A (en %)              212,9               - 25,4
+
+
+Champ : France métropolitaine, personnes vivant dans un ménage dont le revenu est positif
+ou nul et dont la personne de référence n’est pas étudiante.
+
+                                                                Source : D’après INSEE, 2019.
+
+1 : Le niveau de vie correspond au revenu disponible par unité de consommation, c’est-à-dire
+en tenant compte de la taille et de la composition des ménages.
+
+Lecture : en 2019, les 10 % de personnes les plus modestes ont été prélevées en moyenne
+de 200 euros par unité de consommation, leur niveau de vie annuel moyen avant redistribution
+par unité de consommation s’élève à 3 260 euros.
+
+Questions :
+
+   1. À l’aide des données du document, montrez que la redistribution améliore la
+      situation économique des plus pauvres. (2 points)
+
+   2. À l’aide des données du document et de vos connaissances, montrez comment
+      la fiscalité et la protection sociale réduisent les inégalités de niveau de vie.
+      (4 points)
+
+
+
+
+22-SESJ1ME1                                                                        Page 7 sur 14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                        Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que certaines évolutions de l’emploi ont pu affaiblir le rôle intégrateur
+du travail.
+
+
+
+DOCUMENT 1
+
+La polarisation de l'emploi et la hausse des inégalités de salaire s'expliquent d'abord
+par la nature du changement technologique récent. La révolution numérique et ses
+applications dans l'informatique et l'Internet ont révolutionné l'organisation des
+entreprises et par ricochet le monde du travail. Comme les précédentes révolutions
+technologiques, ces innovations ont produit des gagnants et des perdants mais jamais
+le gouffre entre les deux n'a été aussi béant. […] Au fur et à mesure que leur coût
+baissait et que leurs capacités augmentaient, les ordinateurs ont progressivement
+remplacé le travail humain dans les emplois composés en majorité de tâches
+routinières. Or les tâches routinières étaient fréquentes dans les emplois
+intermédiaires du secteur industriel. Un ordinateur peut commander un robot dans
+l'industrie, établir des feuilles de paye, ou distribuer de l'argent. […]
+Au contraire, les professions les mieux payées qui exigent du travail abstrait non-
+routinier sont les gagnantes du progrès technologique. Le progrès technologique a
+rendu plus productifs les diplômés du supérieur qui occupent les professions à hauts
+salaires. Les problèmes à traiter dans ces emplois ne pouvant être anticipés ou
+décomposés en une série d'actes élémentaires, ce type de travail ne peut donc être
+facilement programmé à l'avance sur des ordinateurs. Ils n'ont donc pas subi la
+concurrence des ordinateurs. […]
+Enfin, la croissance des professions à bas salaires provient du fait que les ordinateurs
+n'ont que peu influencé la demande de ce type de travail qui est composé en grande
+partie de tâches manuelles non-routinières. Bien que simples à effectuer pour du
+travail humain, les tâches manuelles non-routinières réclament de la flexibilité difficile
+à fournir pour une machine.
+
+  Source : Gregory VERDUGO, « La polarisation des marchés du travail, » SES-ENS, 2020.
+
+
+
+
+22-SESJ1ME1                                                                  Page 8 sur 14
+DOCUMENT 2
+
+        Temps de travail et statut d’emploi en France entre 1982 et 2019
+                             (en % de l’emploi total)
+
+                              1982         1992         2002        2012       2019
+                                   Temps de travail
+ Temps complet                90,6         87,1         83,4        81,9       81,9
+ Temps partiel                 9,4         12,9         16,6        18,1       18,1
+ Ensemble                     100          100          100         100        100
+                                    Statut d’emploi
+ Non-salariés                  18          16,1         11,7        11,5       12,1
+ Salariés                      82          83,8         88,2        88,5       87,8
+ Dont :
+ - contrat à        durée
+                              76,7        76,3          77,3        76,3       74,6
+ indéterminée
+ - contrat à        durée
+                               4,1         6,2           8,4         8,7        9,1
+ déterminée
+ - intérimaires               0,4          0,7          1,6          2          2,4
+ - apprentis                  0,8          0,6          0,9         1,5         1,7
+ Ensemble                     100          100          100         100         100
+
+                                                          Source : D’après INSEE, 2019.
+
+Champ : France hors Mayotte, personnes âgées de 15 ans et plus.
+
+
+
+
+22-SESJ1ME1                                                                Page 9 sur 14
+DOCUMENT 3
+
+      Évolution du taux de chômage en France entre 1975 et 2020 (en %)
+
+
+
+
+                                                  Source : D’après INSEE, 2020.
+
+Champ : France hors Mayotte.
+
+
+
+
+22-SESJ1ME1                                                       Page 10 sur 14
+                              ÉPREUVE COMPOSÉE - SUJET B
+Cette épreuve comprend deux parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre aux trois questions
+proposées en faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question 1 (4 points)
+Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement
+politique, malgré le paradoxe de l'action collective.
+
+
+Question 2 (3 points)
+Présentez une limite de la politique européenne de la concurrence.
+
+
+Question 3 (3 points)
+Présentez deux facteurs de structuration de l’espace social.
+
+
+
+
+22-SESJ1ME1                                                                               Page 11 sur 14
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                        Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que certaines évolutions de l’emploi ont pu affaiblir le rôle intégrateur
+du travail.
+
+
+
+DOCUMENT 1
+
+La polarisation de l'emploi et la hausse des inégalités de salaire s'expliquent d'abord
+par la nature du changement technologique récent. La révolution numérique et ses
+applications dans l'informatique et l'Internet ont révolutionné l'organisation des
+entreprises et par ricochet le monde du travail. Comme les précédentes révolutions
+technologiques, ces innovations ont produit des gagnants et des perdants mais jamais
+le gouffre entre les deux n'a été aussi béant. […] Au fur et à mesure que leur coût
+baissait et que leurs capacités augmentaient, les ordinateurs ont progressivement
+remplacé le travail humain dans les emplois composés en majorité de tâches
+routinières. Or les tâches routinières étaient fréquentes dans les emplois
+intermédiaires du secteur industriel. Un ordinateur peut commander un robot dans
+l'industrie, établir des feuilles de paye, ou distribuer de l'argent. […]
+Au contraire, les professions les mieux payées qui exigent du travail abstrait non-
+routinier sont les gagnantes du progrès technologique. Le progrès technologique a
+rendu plus productifs les diplômés du supérieur qui occupent les professions à hauts
+salaires. Les problèmes à traiter dans ces emplois ne pouvant être anticipés ou
+décomposés en une série d'actes élémentaires, ce type de travail ne peut donc être
+facilement programmé à l'avance sur des ordinateurs. Ils n'ont donc pas subi la
+concurrence des ordinateurs. […]
+Enfin, la croissance des professions à bas salaires provient du fait que les ordinateurs
+n'ont que peu influencé la demande de ce type de travail qui est composé en grande
+partie de tâches manuelles non-routinières. Bien que simples à effectuer pour du
+travail humain, les tâches manuelles non-routinières réclament de la flexibilité difficile
+à fournir pour une machine.
+
+  Source : Gregory VERDUGO, « La polarisation des marchés du travail, » SES-ENS, 2020.
+
+
+
+
+22-SESJ1ME1                                                                 Page 12 sur 14
+DOCUMENT 2
+
+        Temps de travail et statut d’emploi en France entre 1982 et 2019
+                             (en % de l’emploi total)
+
+                              1982         1992         2002        2012        2019
+                                   Temps de travail
+ Temps complet                90,6         87,1         83,4        81,9        81,9
+ Temps partiel                 9,4         12,9         16,6        18,1        18,1
+ Ensemble                     100          100          100         100         100
+                                    Statut d’emploi
+ Non-salariés                  18          16,1         11,7        11,5        12,1
+ Salariés                      82          83,8         88,2        88,5        87,8
+ Dont :
+ - contrat à        durée
+                              76,7        76,3          77,3        76,3        74,6
+ indéterminée
+ - contrat à        durée
+                               4,1         6,2           8,4         8,7         9,1
+ déterminée
+ - intérimaires               0,4          0,7          1,6          2           2,4
+ - apprentis                  0,8          0,6          0,9         1,5          1,7
+ Ensemble                     100          100          100         100          100
+
+                                                          Source : D’après INSEE, 2019.
+
+Champ : France hors Mayotte, personnes âgées de 15 ans et plus.
+
+
+
+
+22-SESJ1ME1                                                                Page 13 sur 14
+DOCUMENT 3
+
+      Évolution du taux de chômage en France entre 1975 et 2020 (en %)
+
+
+
+
+                                                  Source : D’après INSEE, 2020.
+
+Champ : France hors Mayotte.
+
+
+
+
+22-SESJ1ME1                                                       Page 14 sur 14
+

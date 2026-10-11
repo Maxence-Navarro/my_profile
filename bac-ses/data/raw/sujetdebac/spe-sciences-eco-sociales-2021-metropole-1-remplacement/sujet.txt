@@ -1,0 +1,569 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2021
+
+
+
+          Sciences économiques et sociales
+
+
+
+                                      Jour 1
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 14 pages numérotées de 1/14 à 14/14.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ1ME3                                                                   Page : 1/14
+                                          DISSERTATION
+
+Il est demandé au candidat :
+         - de répondre à la question posée par le sujet ;
+         - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+         - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+         notamment celles figurant dans le dossier ;
+         - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+     Comment le progrès technique favorise-t-il la croissance économique ?
+
+
+DOCUMENT 1
+    Contribution en points de pourcentage à la croissance du PIB (en %), par
+                                    année
+  Pays                                                2016               2017               2018
+                       PIB                             1,2                2,2                1,8
+                       Heures travaillées
+  France               totales                          0,6               -0,1               0,2
+                       Capital                          0,7               0,7                0,8
+                       PGF1                            -0,1               1,6                0,8
+                       PIB                              0,5               2,3                0,4
+                       Heures travaillées
+  Japon                totales                          0,4               0,5                 0
+                       Capital                          0,2               0,3                0,2
+                       PGF                             -0,1               1,5                0,2
+                       PIB                              2,9               3,1                2,6
+                       Heures travaillées
+  Corée du sud         totales                         0,1                -0,9               -0,6
+                       Capital                         1,3                1,4                 1,2
+                       PGF                             1,5                2,6                 2,0
+                       PIB                             2,2                2,4                 0,5
+                       Heures travaillées
+  Allemagne            totales                         0,6                0,8                0,1
+                       Capital                         0,4                0,4                0,4
+                       PGF                             1,2                1,2                0,0
+
+
+                                                                       Source : d’après OCDE, 2019.
+1 : PGF : Productivité globale des facteurs.
+
+
+
+
+21-SESJ1ME3                                                                                  Page : 2/14
+DOCUMENT 2
+
+
+ Taux de croissance du PIB en volume et de la productivité horaire du travail1
+                          entre 1976 et 2016, en %
+
+
+
+
+Champ : France.
+                                                       Source : d’après données OCDE, 2017.
+
+
+1 : Productivité horaire du travail : Richesse créée par heure de travail.
+
+
+
+
+21-SESJ1ME3                                                                     Page : 3/14
+DOCUMENT 3
+
+ Part de la Dépense Intérieure en Recherche et Développement (DIRD) réalisée
+        par les entreprises et les administrations[1] dans l’OCDE en 2016
+                          (en % du total des dépenses)
+
+
+
+
+    Source : d’après l’OCDE, Principaux indicateurs de la science et de la technologie, 2017.
+
+
+DOCUMENT 4
+Les services regroupent l’essentiel des salariés du secteur du numérique : en 2016,
+sur les 694 000 salariés des entreprises du numérique, seulement 60 000 travaillent
+dans l’industrie. En particulier, les entreprises de programmation et de conseil en
+informatique emploient près de la moitié de l’effectif des entreprises du numérique
+(47%). L’emploi dans les services fait preuve d’un fort dynamisme : le nombre de
+personnes employées dans les services informatiques a crû de 52 % entre 2000 et
+2015, tandis que la fabrication des TIC1 et les télécommunications ont perdu
+respectivement 52 % et 32 % d’emplois sur la période. […] Les entreprises du
+numérique emploient 22 % de l’emploi R&D2 et 27 % des chercheurs en entreprise en
+France. La part des chercheurs dans les effectifs des entreprises du numérique est
+d’ailleurs deux fois plus élevée que dans les autres secteurs. Ce fort recours à l’emploi
+qualifié incite les entreprises du numérique à utiliser les aides indirectes à la R&D qui
+soutiennent les dépenses de personnel.
+
+      Source : d’après Benjamin HADJIBEYLI, Maxence LAUMONIER, « De forts besoins en
+        capital humain pour l’innovation dans le numérique », Ministère de l’économie et des
+                                                           finances, n°90, septembre 2019.
+
+1 : TIC : Technologies de l’information et de la communication.
+2 : R&D : Recherche et développement.
+
+21-SESJ1ME3                                                                      Page : 4/14
+                              EPREUVE COMPOSEE – SUJET A
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+À l’aide d’un exemple, vous montrerez comment les avantages comparatifs expliquent
+la spécialisation internationale.
+
+
+
+
+21-SESJ1ME3                                                                                  Page : 5/14
+  Deuxième partie : Étude d’un document (6 points)
+
+                        L’implication des jeunes dans les écogestes1
+
+   Parmi les actions qui pourraient réduire les émissions de gaz à effet de serre2, y en a-t-il que
+                               vous mettez déjà à l’œuvre ? (en %)
+
+
+           15-17 ans                     18-24 ans                      Ensemble de la population
+
+
+
+Trier les déchets
+
+
+Veiller à acheter des légumes
+de saison
+
+
+Éteindre      les      appareils
+électriques qui restent en veille
+
+
+Limiter la consommation de
+viande de mon foyer
+
+
+Choisir des produits avec peu
+d’emballage
+
+Utiliser les transports en
+commun plutôt que la voiture
+
+
+Choisir des produits ayant
+moins      d’impacts   sur
+l’environnement
+
+
+   Source : d’après www.vie-publique.fr d’après une enquête Opinionway pour l’ADEME3 2017.
+
+1 : Les écogestes sont les actions individuelles concrètes en faveur de l’environnement.
+2 : Les gaz à effet de serre sont responsables du réchauffement climatique.
+3 : L’ADEME est l’Agence De l'Environnement et de la Maîtrise de l'Énergie.
+
+Questions :
+
+  1. À l’aide des données du document, vous comparerez le comportement des 18-24
+     ans à celui de l’ensemble de la population concernant les actions de lutte contre le
+     réchauffement climatique. (2 points)
+
+  2. À l’aide des données du document et de vos connaissances, vous montrerez que
+     certaines actions individuelles peuvent traduire une forme d’engagement politique.
+     (4 points)
+
+
+  21-SESJ1ME3                                                                          Page : 6/14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                          Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que l’approche en termes de classes sociales n’est pas toujours
+pertinente pour rendre compte de la société française d’aujourd’hui.
+
+
+DOCUMENT 1
+
+
+Salaires mensuels nets moyens en EQTP¹ dans le secteur privé selon le sexe et
+                  la catégorie socioprofessionnelle en 2017
+
+
+                                       Salaire mensuel net (en euros            Différence de
+          Catégorie                              courants)                          salaire
+     socioprofessionnelle
+                                                                                (F- H)/H (en %)
+                                   Femme (F)      Homme (H)       Ensemble
+
+ Cadres²                              3574            4392           4103            - 18,6
+ Professions intermédiaires           2145            2450           2311            -12,4
+ Employés                             1628            1734           1662             -6,1
+ Ouvriers                             1536            1785           1742            -13,9
+ Ensemble                             2069            2488           2314            -16,8
+
+
+1 : EQTP : salaires en équivalent temps plein.
+2 : y compris chefs d'entreprise salariés.
+
+Champ : France hors Mayotte, salariés en EQTP du secteur privé et des entreprises publiques,
+y compris bénéficiaires de contrats aidés et de contrats de professionnalisation depuis 2011.
+Sont exclus les apprentis, les stagiaires, les salariés agricoles et les salariés des particuliers
+employeurs.
+Source : d’après INSEE, déclarations annuelles de données sociales (DADS) et déclarations
+                                                       sociales nominatives (DSN), 2020.
+
+
+
+
+21-SESJ1ME3                                                                          Page : 7/14
+DOCUMENT 2
+
+L’article […] a entraîné des débats acharnés entre les tenants de la « mort des
+classes » et ceux du « futur prometteur de l’analyse en termes de classe » […]. L’idée
+des premiers est que les « classes sociales » sont des agrégats¹ de moins en moins
+cohérents et à l’appartenance desquelles s’associent de moins en moins de
+comportement particuliers. On a vu que l’immobilité sociale avait diminué au cours du
+temps. La conséquence est qu’en dehors des agriculteurs, aucune catégorie
+socioprofessionnelle ne peut être considérée comme un groupe clos. Ainsi, moins d’un
+quart des membres de la catégorie des « cadres supérieurs » auront été élevés dans
+cette catégorie et un cinquième sont des ouvriers. […]
+L'analyse des sociétés occidentales organisées en classes sociales est remise en
+cause d’un autre point de vue. C’est l’idée que celles-ci sont en fait de plus en plus
+structurées par des formes d'individualisation ou d'individualisme. […]
+L'individualisation correspond à l'idée que les individus auraient de plus en plus la
+possibilité et le désir, voire l'obligation, de choisir leur façon de vivre, leurs pratiques
+culturelles et leurs orientations de valeur, indépendamment de déterminations – liées
+notamment à leur éventuelle appartenance de classe – qui, auparavant, s'imposaient
+à eux sans qu'ils en aient conscience et faisaient correspondre des styles de vie et des
+pratiques culturelles à des groupes sociaux bien différenciés. Le développement de
+l'individualisation des modes de vie et des valeurs, s'il était avéré, affaiblirait
+évidemment le pouvoir de structuration des comportements par d'éventuelles
+appartenances de classes. L'homogénéité interne de celles-ci serait remise en cause
+par l'apparition de styles de vie divers choisis par les individus.
+
+
+       Source : Michel FORSÉ, Olivier GALLAND, Yannick LEMEL, « La stratification
+                           sociale et les inégalités », in La société française, 2011.
+
+1 : ensemble d’éléments.
+
+
+
+
+21-SESJ1ME3                                                                     Page : 8/14
+DOCUMENT 3
+
+         Évolution de la répartition du niveau de diplôme selon le niveau de
+                                  qualification (en %)
+
+                                Employés      Employés    Ouvriers    Ouvriers
+                                qualifiés       non       qualifiés     non
+                                              qualifiés               qualifiés   Ensemble
+
+          Diplôme du
+          supérieur (bac + 3         2             0         0           0              6
+          ou plus)
+
+          Bac + 2                    4             0         1           0              7
+          Bac, brevet
+          professionnel ou          16             3         3           2              10
+ 1982-
+          équivalent
+ 1984
+          CAP¹, BEP² ou             34             18        38          22             25
+          autre diplôme
+          équivalent
+          Aucun diplôme,
+          CEP³ ou brevet des        44             79        58          76             52
+          collèges
+          Total                    100             100      100         100          100
+          Diplôme du
+          supérieur                  9             3         2           3              21
+          (bac + 3 ou plus)
+
+          Bac + 2                   17             5         5           4              16
+
+ 2012- Bac, brevet
+ 2014 professionnel ou              31             16        17          16             19
+       équivalent
+          CAP, BEP ou autre         28             34        47          34             25
+          diplôme équivalent
+          Aucun diplôme,
+          CEP ou brevet des         15             42        29          43             19
+          collèges
+          Total                    100             100      100         100          100
+
+Champ : actifs occupés de France métropolitaine ayant terminé leurs études initiales.
+
+Source : d’après enquêtes Emploi, INSEE, moyenne annuelle sur les années 1982 à 1984 et
+                                                              2012 à 2014, janvier 2017.
+1 : CAP : Certificat d’aptitude professionnelle.
+2 : BEP : Brevet d’études professionnelles.
+3 : CEP : Certificat d’études primaires.
+
+
+
+
+21-SESJ1ME3                                                                       Page : 9/14
+                              EPREUVE COMPOSEE – SUJET B
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+.
+
+Première partie : Mobilisation des connaissances (4 points)
+
+À l’aide de deux exemples, vous montrerez que les politiques de flexibilisation
+permettent de lutter contre les rigidités du marché du travail.
+
+
+
+
+21-SESJ1ME3                                                                                Page : 10/14
+       Deuxième partie : Étude d’un document (6 points)
+
+           Origine sociale des étudiants de nationalité française en 2018-2019, en %
+
+                          Agriculteurs,
+                             artisans,  CPIS Professions          Employés    Ouvriers   Retraités   Ensemble
+                          commerçants    (2) intermédiaires                                  et         (3)
+                             et chefs                                                     inactifs
+                           d’entreprise
+                                 (1)
+Université                      9,4     33,3      14,8              16,7        11,3       14,5           100
+Section de Technicien          12,5     15,6      14,6              19,6        23,5       14,2           100
+Supérieur (STS)
+CPGE (4) et
+préparations intégrées        11,1       51,6         12,7          11,1         7,0        6,6           100
+École de commerce,
+gestion et comptabilité       19,5       51,5         9,5            8,5         4,3        7,2           100
+Établissements privés
+d’enseignement                15,2       45,6         11,4          11,5         6,9        9,6           100
+universitaire
+Écoles Normales
+Supérieures (ENS) (5)         6,8        62,5         10,5           7,0         2,3       11,0           100
+Écoles artistiques,
+d’architecture et de          14,0       47,4         14,9          10,9         5,2        7,6           100
+journalisme
+Écoles paramédicales
+et sociales (6)               15,1       23,0         9,2           31,6        19,0        2,0           100
+Autres écoles et
+formations (7)                12,8       44,6         11,3          11,7         7,3       12,3           100
+Ensemble des
+étudiants français            11,1       34,3         13,8          16,5        11,9       12,4           100
+
+       (1) Les agriculteurs sont intégrés aux artisans, commerçants et chefs d’entreprises du fait de
+       la faiblesse de leurs effectifs.
+       (2) Cadres et Professions Intellectuelles Supérieures.
+       (3) Hors valeurs manquantes.
+       (4) Classes Préparatoires aux Grandes Écoles.
+       (5) Les Écoles Normales Supérieures proposent une formation en 4 ans de haut niveau, dans
+       des domaines variés. Le recrutement se fait par un concours très sélectif, à l’issue des classes
+       préparatoires aux grandes écoles.
+       (6) Les données concernant les écoles paramédicales et sociales sont celles de 2017-2018.
+       (7) Comprend notamment les écoles juridiques et administratives.
+
+                                                      Source : d’après www.education.gouv.fr, 2019.
+
+       Questions :
+           1. À l’aide des données du document, vous comparerez l’origine sociale des
+              étudiants en Classes Préparatoires aux Grandes Écoles (CPGE) avec celle des
+              étudiants en écoles paramédicales et sociales. (2 points)
+           2. À l’aide des données du document et de vos connaissances, vous montrerez
+              que la démocratisation scolaire reste inachevée. (4 points)
+
+       21-SESJ1ME3                                                                       Page : 11/14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                            Cette partie comporte trois documents
+
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que les pouvoirs publics disposent de plusieurs instruments pour
+faire face aux externalités négatives sur l’environnement.
+
+
+
+DOCUMENT 1
+
+
+    Pourcentage de réduction des émissions de CO2 en 2030, par rapport au
+                            scénario tendanciel1
+
+
+
+
+   Arabie Saoudite
+              France
+      Royaume-Uni
+              Russie
+          Allemagne                                                     Taxe à 35 dollars la tonne
+                                                                        de CO2
+          Etats-Unis
+                                                                        Taxe à 70 dollars la tonne
+            Pologne                                                     de CO2
+                 Inde
+               Chine
+     Afrique du Sud
+                        0       10       20      30       40       50
+                                              % de réduction des émissions de CO2
+
+
+
+
+                                                                    Source : d’après FMI, 2019.
+1 : Niveau qui serait atteint si aucune mesure contre les gaz à effet de serre n’était prise.
+
+
+
+
+21-SESJ1ME3                                                                         Page : 12/14
+     DOCUMENT 2
+
+
+                        Le marché européen du carbone (SEQE-UE)1
+
+                                     En euro par tonne
+
+
+
+30
+
+25
+                                                                                            16,35
+20
+
+
+
+15
+
+
+10
+
+
+
+ 5
+
+
+ 0
+
+
+     2015        2016            2017             2018             2019              2020
+
+                                               Source : d’après www.lesechos.fr, 26/03/2020.
+
+
+     1 : SEQE-UE : Système d’Échange de Quotas d’Émissions de l’Union Européenne.
+
+
+
+
+     21-SESJ1ME3                                                               Page : 13/14
+DOCUMENT 3
+L’existence de politiques environnementales créant une demande pour les
+technologies vertes (normes, écotaxes, marchés de permis d’émission) ne suffit pas.
+Leur développement et leur déploiement se heurtent en effet à des obstacles bien
+connus qui justifient des politiques complémentaires ciblant l’offre d’innovation. En
+premier lieu, les entreprises privées tendent à sous-investir dans l’innovation et la
+recherche développement car il est souvent plus facile de copier un concurrent qui a
+innové que d’innover soi-même. L’existence des brevets fournit certes une protection
+à l’innovateur, mais elle reste partielle. Ce problème est renforcé par l’existence
+d’imperfections dans l’accès au crédit : les investisseurs et banquiers, sensés financer
+l’innovation, n’ont pas toute l’information ni les compétences nécessaires pour évaluer
+les probabilités de réussite des projets. Ils ont donc une tendance à sous-financer les
+projets les plus innovants. C’est pourquoi tous les gouvernements financent la
+recherche et l’innovation, que ce soit par la recherche publique ou par des aides à
+l’innovation des entreprises. En France, le soutien direct à l’innovation privée verte
+prend deux formes principales : le Crédit Impôt Recherche (CIR) et les programmes
+Investissements d’Avenir. Le CIR est un dispositif consistant à rembourser de 30 à
+40% des dépenses de recherche et développement par un crédit d’impôt. Son coût
+budgétaire était de 5,3 milliards d’euros en 2015 pour l’ensemble des secteurs (et pas
+seulement pour l’innovation environnementale). Le programme des Investissements
+d’Avenir est lui sélectif en ce sens qu’il cible des domaines particuliers. Il est ainsi
+prévu de dépenser 2,3 milliards d’euros de 2014 à 2024 dans le domaine de
+l’environnement pour soutenir de gros projets de recherche privés sélectionnés par
+appels d’offres dans les énergies renouvelables et décarbonées, la ville durable, la
+chimie verte, les réseaux électriques intelligents, les véhicules du futur et l’économie
+circulaire.
+
+
+                                             Source : d’après www.ecologie.gouv.fr, 2016.
+
+
+
+
+21-SESJ1ME3                                                                 Page : 14/14
+

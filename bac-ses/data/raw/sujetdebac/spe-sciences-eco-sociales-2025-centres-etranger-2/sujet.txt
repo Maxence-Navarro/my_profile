@@ -1,0 +1,423 @@
+               BACCALAURÉAT GÉNÉRAL
+
+               ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+                               SESSION 2025
+
+
+         Sciences économiques et sociales
+                                      ______
+
+
+
+
+                                   JOUR 2
+
+
+
+                         Durée de l’épreuve : 4 heures
+
+
+
+         L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+        Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+             Ce sujet comporte 9 pages numérotées de 1/9 à 9/9.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou de l’épreuve composée.
+
+
+                    Il indique sur sa copie le sujet choisi.
+
+
+
+
+25-SESJ2G11                                                              Page 1 sur 9
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+                             Ce sujet comporte quatre documents.
+
+
+                                                SUJET
+
+L'engagement politique ne dépend-il que de variables sociodémographiques ?
+
+
+
+
+25-SESJ2G11                                                                                             Page 2 sur 9
+
+
+                                                     EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+DOCUMENT 1
+  Participation aux élections présidentielles et législatives en France en 2022
+                       selon différentes variables (en %)
+
+                                                  Vote         Vote      Abstention Total
+                                              systématique intermittent systématique
+                       Agriculteurs
+                                                           50,5                                    41,1   8,5         100
+                       exploitants
+                       Artisans,
+                       commerçants et                           36                                 53,5   10,6        100
+                       chefs d'entreprise
+                       Cadres et
+Groupe             professions
+socioprofessionnel intellectuelles                         47,6                                    45,7   6,8         100
+                       supérieures
+                       Professions
+                                                           36,4                                    52,5   11,1        100
+                       intermédiaires
+                       Employés                            31,7                                    52,6   15,7        100
+                       Ouvriers                            27,2                                    53,1   19,7        100
+                       Aucun
+                                                           28,8                                    40,8   30,4        100
+                       diplôme
+                       Inférieur
+Niveau                                                     38,1                                    44     18          100
+                       au baccalauréat
+de diplôme
+                       Baccalauréat                        33,3                                    51,5   15,2        100
+                       Supérieur au
+                                                           43,7                                    46,8   9,5         100
+                       baccalauréat
+                       18-29 ans                           17,3                                    59     23,7        100
+Âge                    30-64 ans                           37,2                                    50,2   12,7        100
+                       65 ans ou plus                      47,7                                    35,3   17,1        100
+Ensemble                                                        37                                 47,2   15,8        100
+
+Champ : personnes inscrites sur les listes électorales et qui résident en France métropolitaine.
+
+                  Source : d’après « Vingt ans de participation électorale : en 2022, les écarts
+                                         selon l’âge et le diplôme continuent de se creuser »,
+                                                              Insee Première, novembre 2022.
+
+Note : dans le cadre du vote systématique, l’électeur participe à toutes les élections de l’année
+(les deux tours des présidentielles et des législatives). Dans le cadre du vote intermittent,
+l’électeur ne se mobilise que pour quelques scrutins. Enfin, en cas d’abstention systématique,
+l’électeur ne s’est jamais mobilisé.
+
+En raison des arrondis, le total n’est pas toujours égal à 100.
+
+
+
+
+25-SESJ2G11                                                                                                     Page 3 sur 9
+
+
+                                                EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+      DOCUMENT 2
+
+       Évolution de la consommation de produits alimentaires en France selon des
+                          critères sociodémographiques (en %)
+
+                     Part d’individus De quelles manières avez-vous modifié votre comportement
+                      ayant modifié                         depuis 2018 ?
+                     leurs habitudes Privilégie Achète de       Réduit     Limite les Achète plus
+                       d’achat et/ou      les     plus en    l’utilisation achats      de produits
+                       alimentaires    produits   plus de          de         de      respectueux
+                       depuis 2018    locaux et   produits   plastiques produits de l’environ-
+                                       circuits biologiques         et     importés     nement
+                                        courts              emballages
+        Hommes              44              52                             36                           33   34          28
+Sexe
+        Femmes              55              46                             43                           37   29          27
+        18-24 ans           58              32                             37                           29   19          30
+        25-34 ans           60              35                             34                           27   17          24
+        35-49 ans           52              48                             42                           33   26          24
+Âge
+        50-64 ans           47              56                             42                           41   35          31
+        65 ans et
+                            39              63                             42                           44   55          31
+        plus
+        CSP +1              58              50                             37                           35   29          29
+CSP
+        CSP -2              54              41                             39                           30   21          23
+
+      Champ : échantillon de 2100 Français, représentatif au plan national de la population française
+      âgée de 18 ans et plus.
+
+         Source : d’après « Baromètre de consommation et de perception des produits biologiques
+                                                                            en France », 2022.
+
+      1 : CSP + : Catégories socioprofessionnelles supérieures.
+      2 : CSP - : Catégories socioprofessionnelles inférieures.
+
+      Lecture : 44 % des hommes interrogés indiquent avoir modifié leurs habitudes ou
+      comportements alimentaires depuis 2018. Parmi ces derniers, 52 % déclarent privilégier les
+      produits locaux et circuits courts.
+
+
+
+
+      25-SESJ2G11                                                                                             Page 4 sur 9
+
+
+                                                     EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+DOCUMENT 3
+
+   Motivations avancées par les bénévoles pour expliquer leur engagement
+   Question posée : « Quelles principales satisfactions éprouvez-vous dans votre
+                               activité bénévole ? »
+                       Plusieurs réponses sont possibles.
+
+            Part (en %) des bénévoles avançant les motivations suivantes :
+ Le contact et les échanges                                                                        72
+ La convivialité                                                                                   52
+ Être efficace et utile                                                                            64
+ Sentiment de changer les choses                                                                   41
+ Faire progresser l'association                                                                    33
+ Le sentiment du devoir accompli                                                                   30
+ L'épanouissement personnel                                                                        33
+ Découvrir un univers jusque-là inconnu                                                            25
+ La reconnaissance sociale                                                                         12
+ Tester des solutions et innover                                                                   14
+ Accéder à des responsabilités                                                                     7
+
+Champ : échantillon de 4 395 bénévoles interrogés en France en 2022.
+
+                          Source : d’après « La France bénévole : évolutions et perspectives »,
+                                                  Enquête IFOP pour France Bénévolat, 2022.
+
+
+DOCUMENT 4
+
+La Suède présente l’un des taux de syndicalisation les plus élevés du monde. […] Les
+syndicats offrent différents services à leurs adhérents (conseils juridiques, en matière
+de carrière, de négociation d’une augmentation de salaire ; formation ; tarifs négociés
+par exemple sur des voyages, des assurances ; assurances sociales
+complémentaires). Un élément important de cette offre est l’assurance contre la perte
+de revenu en cas de chômage. […] Beaucoup de syndicats ont proposé à leurs
+membres des dispositifs complémentaires, voire supplémentaires pour compenser la
+perte de revenu. Ainsi, Unionen1 propose à ses membres deux assurances cumulables
+qui permettent de couvrir les pertes de revenu jusqu’à 150 000 couronnes suédoises
+par mois (soit six fois le plafond de l’assurance chômage, environ 15 000 euros).
+                    Source : Annie JOLIVET, « Entre attractivité et organizing : les stratégies
+                                  des syndicats suédois pour (re)conquérir des adhérents »,
+                                                  Chronique internationale de l’IRES, 2017.
+1 : Unionen : syndicat important en Suède, qui défend principalement les salariés des grandes
+entreprises (IKEA, H&M, Volvo…).
+
+
+
+
+25-SESJ2G11                                                                                             Page 5 sur 9
+
+
+                                                EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+                                      Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous présenterez les principales caractéristiques du modèle taylorien d’organisation du
+travail.
+
+
+
+
+25-SESJ2G11                                                                                             Page 6 sur 9
+
+
+                                                     EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+Deuxième partie : Étude d’un document (6 points)
+
+     Demande de brevets dans les secteurs technologiques les plus actifs
+                              en Europe en 2022
+
+
+                                   Nombre de demandes                                         Variation entre 2021 et 2022
+                                       de brevets                                                        (en %)
+
+ Communication numérique                   16 705                                                        11,2
+
+ Technologies médicales                    15 683                                                         1,0
+
+ Informatique                              15 193                                                         1,8
+
+ Machines et énergie électriques           13 951                                                        18,2
+
+ Produits pharmaceutiques                  9 310                                                          1,0
+
+ Transports                                9 272                                                         - 2,6
+
+ Techniques de mesure                      9 185                                                          1,0
+
+ Biotechnologies                           8 168                                                         11,0
+
+ Autres machines spécialisées              6 382                                                         - 1,8
+
+ Chimie fine organique1                    5 955                                                         - 0,4
+
+                                     Source : d’après l’Office européen des brevets, 2023.
+
+1 : la chimie fine organique consiste en la fabrication de produits comme les arômes, les
+cosmétiques, les colorants et les pesticides.
+
+
+Questions :
+
+   1. À l’aide du document, vous comparerez les demandes de brevets enregistrées
+      dans le secteur des machines et énergie électriques aux demandes de brevets
+      enregistrées dans le secteur de la chimie fine organique, ainsi que leurs
+      évolutions. (2 points)
+
+   2. À l’aide du document et de vos connaissances, vous montrerez que les droits
+      de propriété incitent à investir et à innover. (4 points)
+
+
+
+
+25-SESJ2G11                                                                                                      Page 7 sur 9
+
+
+                                           EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                           Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que les instruments dont disposent les pouvoirs publics pour faire
+face aux externalités négatives sur l’environnement présentent des avantages.
+
+
+
+DOCUMENT 1
+
+
+                  Évolution des recettes fiscales environnementales
+                                 (en milliards d’euros)
+
+   50
+   45
+   40
+   35
+   30
+   25
+   20
+   15
+   10
+    5
+    0
+           1995
+           1996
+           1997
+           1998
+           1999
+           2000
+           2001
+           2002
+           2003
+           2004
+           2005
+           2006
+           2007
+           2008
+           2009
+           2010
+           2011
+           2012
+           2013
+           2014
+           2015
+           2016
+           2017
+           2018
+           2019
+           2020
+          2021p
+
+
+
+
+                Énergie             Transport                                                      Pollution-Ressources1
+
+
+Champ : France.
+
+p : données provisoires.
+
+     Source : Ministère de la transition écologique et du développement des territoires, 2023.
+
+1 : prélèvements sur les émissions polluantes et sur les ressources naturelles.
+
+
+
+
+25-SESJ2G11                                                                                                            Page 8 sur 9
+
+
+                                                EN_MOzgzNT8QzNjAc0ND2UzMsTYxMj6A2MDAUwMzwE3OUTcx
+DOCUMENT 2
+
+  Évolution du prix du quota d’émission sur le marché européen du carbone
+                         (en euros par tonne de CO2)
+
+
+
+
+                                                        Source : www.ecologie.gouv.fr.
+
+DOCUMENT 3
+
+La réglementation RE2020, qui s'applique aux logements neufs depuis 2022 et est
+vouée à s'étendre progressivement à toutes les constructions, impose d'abaisser les
+émissions de gaz à effet de serre de 740 kg par mètre carré en 2022 à 490 en 2031.
+[…]
+Parce qu'elle prend en compte le poids carbone au mètre carré de construction, intègre
+la notion de performance thermique des matériaux et s'inscrit sur le long terme, la
+RE2020 donne une plus grande flexibilité et visibilité aux entreprises du bâtiment pour
+atteindre leurs objectifs environnementaux. Cette nouvelle norme contribue aussi à
+établir un standard sur lequel la plupart des bâtiments existants seront évalués.
+Conséquence ? Les performances énergétiques et environnementales seront à
+l'avenir mieux prises en compte dans les transactions, affirme une étude de 2022
+publiée par l'Observatoire de l'immobilier durable (OID). Les immeubles performants
+bénéficieront d'une surcote ; ceux qui ne le sont pas subiront une décote et trouveront
+donc moins facilement à se louer ou à se vendre. Le nouveau DPE (diagnostic de
+performance énergétique) conforte cette tendance, puisqu'il sert de base à
+l'interdiction progressive de la location des passoires thermiques énergivores prévue
+par la loi Climat et Résilience de 2021.
+
+       Source : Frédéric BRILLET, « Immobilier : une réglementation environnementale plus
+                                       exigeante », www.lesechos.fr, 21 septembre 2023.
+
+
+
+
+25-SESJ2G11                                                                 Page 9 sur 9
+

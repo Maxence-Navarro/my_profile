@@ -1,0 +1,69 @@
+{
+  "id": "21-SESJ2ME3-EC1-A",
+  "slug": "21-sesj2me3-ec1-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "A",
+  "examCode": "21-SESJ2ME3",
+  "year": 2021,
+  "session": "remplacement",
+  "day": "J2",
+  "center": "France métropolitaine",
+  "question": "À l'aide d'un exemple, vous montrerez que la croissance économique se heurte à des limites écologiques.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Peut-on expliquer l'engagement politique seulement par des variables sociodémographiques ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez l'évolution du taux de chômage des personnes possédant un diplôme supérieur à bac plus 2 avec celle de l'ensemble des personnes entre 1987 et 2017. / À l'aide des données"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le commerce international a des effets sur les inégalités."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ2ME3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-2-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 205, 2021_metro_rplct_ec_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=205&cle=4a3028caf97d47360a4c411b398dbc9f9d2a3a622974e57810f4350c156d6ef3&file=docx%2F2021_metro_rplct_ec_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 205",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=205&cle=4a3028caf97d47360a4c411b398dbc9f9d2a3a622974e57810f4350c156d6ef3&file=docx%2F2021_metro_rplct_ec_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 205) indique « Polynésie », alors que le fichier (2021_metro_rplct_ec_1.docx) et le sujet officiel correspondent à France métropolitaine.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ2ME3",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-2-remplacement-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ2ME3 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.873) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

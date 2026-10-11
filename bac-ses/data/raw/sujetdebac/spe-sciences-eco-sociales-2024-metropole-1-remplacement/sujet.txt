@@ -1,0 +1,377 @@
+               BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+                                 SESSION 2024
+
+
+
+
+         Sciences économiques et sociales
+
+
+
+                       Mercredi 11 septembre 2024
+
+                         Durée de l’épreuve : 4 heures
+
+
+
+         L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+        Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+             Ce sujet comporte 9 pages numérotées de 1/9 à 9/9.
+
+
+Le candidat traite au choix le sujet de dissertation ou de l’épreuve composée.
+
+
+                    Il indique sur sa copie le sujet choisi.
+
+
+
+
+24-SESJ1ME3                                                                  1/9
+          Dissertation s’appuyant sur un dossier documentaire
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+         notamment celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la
+         question et en organisant le développement sous la forme d'un plan cohérent qui
+         ménage l'équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la
+présentation.
+
+                                          SUJET
+
+                             Ce sujet comporte quatre documents.
+
+ Quels sont les effets et contraintes de l’intervention des pouvoirs publics en
+                           matière de justice sociale ?
+
+DOCUMENT 1
+
+Accès à l’enseignement supérieur selon l’âge et le milieu social en 2020 (en %)
+
+       90,0%
+       80,0%
+       70,0%
+       60,0%
+       50,0%
+       40,0%
+       30,0%
+       20,0%
+       10,0%
+        0,0%
+                20-24 ans   25-29 ans   30-34 ans   35-39 ans   40-44 ans    45-49 ans
+                     Ensemble de la génération
+                     Enfants de cadres ou de professions intermédiaires
+                     Enfants d'ouvriers ou d'employés
+
+Champ : France métropolitaine + Départements et Régions d’Outre-Mer hors Mayotte.
+                                                                   Source : https://www.insee.fr
+
+Lecture : En 2020, 51,5% des enfants d’ouvriers ou d’employés de 20 à 24 ans fréquentent
+ou ont fréquenté l’enseignement supérieur.
+
+
+ 24-SESJ1ME3                                                                               2/9
+DOCUMENT 2
+
+    Montants moyens des prélèvements et prestations en euros par unité de
+                         consommation1 en 2020
+
+                                     Quintiles de niveau de vie avant redistribution
+                                               2ième      3ième      4ième       5ième
+                                1er quintile
+                                              quintile   quintile   quintile    quintile
+Niveau de vie avant
+                                  7 070      16 700      23 090      30 720      60 720
+redistribution (A)
+  Dont      indemnités    de
+                                   310         540        660         780         740
+chômage partiel
+Prélèvements :                    -360        -910       -1 670      -3 150     -13 190
+ Financement de la
+                                  -380        -940       -1 550      -2 220      -5 430
+   protection sociale2
+ Impôts directs :                 20          30         -120        -930       -7 760
+  Impôt sur le revenu (y.c.
+                                   20          30         -110        -830       -6 910
+crédits d’impôt3)
+  Taxe d’habitation                 0           0           0         -100        -660
+  Impôt sur la fortune
+                                    0           0           0           0         -190
+immobilière
+Prestations :                     5 620       1 720       830         500         340
+ Prestations familiales          1 590        820        510         300         140
+ Aides au logement               1 310        180        40          30          30
+ Prime        d’activité  et
+                     4            2 440        620        230         130          90
+   minima sociaux
+ Aides exceptionnelles            280         100         50          40          80
+Niveau de vie après
+                                 12 340      17 510      22 260      28 070      47 870
+redistribution (B)
+Taux de redistribution (B-
+                                  74,4         4,8        -3,6        -8,6        -21,2
+A)/A (en %)
+
+Champ : France métropolitaine, personnes vivant dans un ménage dont le revenu est positif
+ou nul et dont la personne de référence n’est pas étudiante.
+
+                                          Sources : INSEE, 2020 ; Insee-Drees-Cnaf, 2020.
+
+1. Au sens de l’INSEE, une unité de consommation (UC) permet de comparer les niveaux de
+   vie de ménages de taille ou de composition différente :1 UC pour le premier adulte du
+   ménage ; 0,5 UC pour les autres personnes de 14 ans ou plus ; 0,3 UC pour les enfants
+   de moins de 14 ans.
+2. Cotisations sociales et contributions sociales.
+3. Somme versée par l’État quand il accorde une réduction d’impôt supérieur au montant de
+   l’impôt dû.
+4. Prestations sociales d’assistance.
+
+Lecture : En 2020, les personnes situées dans le 3ème quintile de niveau de vie payent en
+moyenne 110 euros d’impôt sur le revenu par unité de consommation.
+
+
+
+
+ 24-SESJ1ME3                                                                         3/9
+DOCUMENT 3
+
+Toutes les entreprises de vingt salariés et plus sont dans l’obligation d’embaucher des
+salariés en situation de handicap, à hauteur de 6 % de l’effectif, depuis la loi du
+10 juillet 1987. À défaut, elles sont tenues de verser une compensation financière à
+l’Agefiph1.
+Afin de compenser les surcoûts éventuels liés à l’embauche d’un travailleur en
+situation de handicap, plusieurs aides financières existent. […]
+L’employeur d’une personne concernée par l’obligation d’emploi des travailleurs
+handicapés (OETH), ou dont la demande est en cours, en CDI ou en CDD de six mois
+minimum, a d’abord la possibilité de bénéficier d’une aide financière à l’accueil, à
+l’intégration et à l’évolution professionnelle du salarié.
+Forfaitaire, cette aide sert par exemple à financer un programme de sensibilisation des
+salariés au handicap de leur nouveau collègue, l’accompagnement du manageur à la
+prise en compte de ses difficultés ou encore un tuteur pour l’aider dans sa prise de
+fonctions. […] Afin de bénéficier de ce dispositif, l’employeur doit définir un « plan
+d’actions » précisant les mesures mises en place : cela suppose qu’il ait déjà identifié
+la personne à recruter avant de déposer son dossier de demande d’aide. Il a tout
+intérêt à se rapprocher de l’Agefiph en amont du recrutement. […]
+Pour le financement d’équipements spécifiques, l’employeur a aussi la possibilité de
+mobiliser l’aide à l’adaptation des situations de travail. Ce dispositif sert à couvrir en
+partie les frais ponctuels liés à l’aménagement de l’environnement de travail : logiciels
+spécifiques, masques de protection inclusifs, recours à un auxiliaire pour aider la
+personne dans la réalisation de ses tâches… […]
+D’un côté, des pénalités financières pour les entreprises qui n’atteignent pas le quota
+des 6 % ; de l’autre, des aides pour favoriser le recrutement de travailleurs
+handicapés : cette politique de la carotte et du bâton semble avoir porté ses fruits.
+Tandis que le taux d’emploi des actifs en situation de handicap a crû de façon régulière
+entre 2006 et 2014, le taux de chômage des travailleurs handicapés atteignait 14 % à
+la fin décembre 2021, contre 18 % en 2018.
+
+            Source : Catherine QUIGNON, « Travailleurs handicapés : le coup de pouce des
+                                     aides à l’embauche », Le Monde, 4 novembre 2022.
+
+1. AGEFIPH : Association nationale de gestion du fonds pour l'insertion professionnelle des
+personnes handicapées. Depuis 1987, l'Agefiph soutient le développement de l'emploi et le
+maintien en poste des personnes en situation de handicap dans les entreprises du secteur
+privé.
+
+
+
+
+ 24-SESJ1ME3                                                                          4/9
+DOCUMENT 4
+
+        Dépenses et recettes publiques, entre 1993 et 2022, en % du PIB
+
+
+
+
+                                                              Source : https://www.insee.fr.
+
+Lecture : en 2022, les dépenses des administrations publiques s’établissent à 58,2 % du PIB.
+
+
+
+
+ 24-SESJ1ME3                                                                           5/9
+                                Épreuve composée
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la
+question en faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en
+mobilisant ses connaissances acquises dans le cadre du programme et en adoptant une
+démarche méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat
+de traiter le sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la
+présentation.
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+
+Présentez deux caractéristiques du modèle d’organisation du travail taylorien.
+
+
+
+
+ 24-SESJ1ME3                                                                          6/9
+Deuxième partie : Étude d’un document (6 points)
+
+     Destinées sociales des hommes selon la catégorie socioprofessionnelle de
+                                leur père en 2020
+
+                                      Catégorie socioprofessionnelle du fils
+
+CSP1 du père                                                Employés Employés et
+                      Agriculteurs
+                                     ACCE2 CPIS3     PI4    et ouvriers ouvriers non   Ensemble
+                      Exploitants
+                                                            qualifiés   qualifiés
+
+Agriculteurs
+exploitants
+                          24,0        8,2    13,0    15,1     26,8          12,9        100,0
+
+
+ACCE2                      0,6       20,4    24,6    22,2     24,7           7,5        100,0
+
+
+CPIS3                      0,2        8,9    51,6    22,3     13,1           4,0        100,0
+
+Professions
+intermédiaires
+                           0,7        7,6    30,2    31,4     22,7           7,4        100,0
+
+Employés et
+ouvriers qualifiés
+                           0,6        7,9    14,6    25,3     40,6          11,2        100,0
+
+Employés et
+ouvriers non               0,4        9,1    10,0    21,2     39,2          20,1        100,0
+qualifiés
+
+Ensemble                   2,1        9,9    23,5    24,1     30,2          10,2        100,0
+
+Champ : France, hommes français en emploi ou ayant travaillé, âgés de 35 à 59 ans à la
+date de l'enquête.
+
+                                                                  Source : https://www.insee.fr.
+
+1.    CSP : Catégorie Socioprofessionnelle.
+2.    ACCE : Artisans, commerçants et chefs d’entreprise.
+3.    CPIS : Cadres et professions intellectuelles supérieures.
+4.    PI : Professions intermédiaires
+
+
+Questions :
+
+1. Vous caractériserez la mobilité sociale des enfants de professions intermédiaires.
+   (2 points)
+
+2. À l’aide du document et de vos connaissances personnelles vous illustrerez une
+   situation de reproduction sociale, et pour les salariés, de mobilité ascendante et de
+   déclassement. (4 points)
+
+
+
+ 24-SESJ1ME3                                                                                7/9
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                       Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez comment la politique budgétaire agit sur la conjoncture dans le cadre
+européen.
+
+DOCUMENT 1
+
+Le Pacte de stabilité et de croissance (PSC) est l’instrument dont les pays de la zone
+euro se sont dotés afin de coordonner leurs politiques budgétaires nationales et
+d’éviter l’apparition de déficits budgétaires excessifs. Il impose aux États de la zone
+euro d’avoir à terme des budgets proches de l’équilibre ou excédentaires.
+Il correspond au souci de l’Allemagne d’éviter qu’une fois entrés dans la monnaie
+unique, certains pays profitent de leur appartenance à la zone euro pour mener des
+politiques laxistes. En effet, les critères de Maastricht réglementaient l’entrée dans
+l’union économique et monétaire (UEM) mais aucune règle n’avait été fixée pour
+contrôler les finances publiques des États une fois qu’ils en étaient membres.
+Le PSC a été adopté au Conseil européen d’Amsterdam en juin 1997. Il prolonge
+l’effort de réduction des déficits publics engagé en vue de l’adhésion à l’UEM.
+Cependant, à l’inverse de la politique monétaire, la politique budgétaire demeure une
+compétence nationale.
+
+                                                           Source : www.vie-publique.fr.
+
+
+
+
+ 24-SESJ1ME3                                                                       8/9
+DOCUMENT 2
+
+       Principaux indicateurs conjoncturels dans quelques pays de l’Union
+                            Européenne (UE) en 2022
+
+               Taux       de    Taux       de
+                                                              Dette
+               chômage (en      croissance    Taux                     Déficit
+                                                              publique
+               %     de    la   du PIB réel d’inflation                public (en %
+                                                              (en % du
+               population       (en %)        (en%)                    du PIB)
+                                                              PIB)
+               active)
+Allemagne            3,1             1,8               8,7       66,3           -2,6
+Autriche            4,9              4,8            8,6          78,4           -3,2
+Estonie             5,3            - 0,5           19,4          18,4           -0,9
+France              7                2,5            5,9         111,6           -4.7
+Grèce              13,3              5,9            9,3         171,3           -2,3
+UE                  6,2              3,4               9,2       84             -3,4
+
+                                                                   Source : Eurostat, 2023.
+
+DOCUMENT 3
+
+En juillet 2020, l’Union européenne a mis sur pied un plan de relance de 750 milliards
+d’euros. […] Intitulé « Next Generation EU »1, il vise à « atténuer les conséquences
+économiques et sociales de la pandémie de COVID-19 » et à rendre l’Europe « mieux
+[préparée] aux défis posés par les transitions écologique et numérique », explique la
+Commission européenne.
+Il finance en majorité des programmes nationaux dans l’ensemble des États membres,
+sous forme de subventions (312,5 milliards d’euros) et de prêts (360 milliards d’euros).
+[…] Chaque pays peut compter sur une enveloppe partiellement prédéfinie : 70 % de
+la somme dépend notamment de sa population, de son PIB par habitant et de son taux
+de chômage avant le début de la pandémie, de 2015 à 2019. Les 30 % restants
+dépendent quant à eux des baisses du PIB et de l’emploi observées sur 2020, pour
+tenir compte de l’impact économique de l’épidémie de coronavirus. […]
+Pour financer ce nouvel instrument, les États membres ont décidé de s’endetter en
+commun. Mais avant de lever un tel emprunt, la Commission européenne a dû
+répondre à un certain nombre d’impératifs. Le remboursement de l’emprunt commun
+doit débuter en 2028. Il s’étalera sur 30 ans, jusqu’en 2058. Pour y parvenir, l’Union
+européenne prévoit d’augmenter ses recettes budgétaires. La Commission a ainsi
+proposé de créer de nouvelles ressources propres, qui pourraient alimenter le budget
+européen à hauteur de 36 milliards d’euros par an.
+Une première d’entre elles, la nouvelle contribution sur le plastique, est entrée en
+vigueur le 1er janvier 2021. Calculée sur le poids des déchets d’emballages plastiques
+non recyclés, elle est financée par les États membres.
+
+                                                             Source : www.touteleurope.eu.
+
+     1. « Future génération de l’Union européenne ».
+
+
+
+ 24-SESJ1ME3                                                                           9/9
+

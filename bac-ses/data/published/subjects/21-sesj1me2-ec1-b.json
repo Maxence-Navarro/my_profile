@@ -1,0 +1,69 @@
+{
+  "id": "21-SESJ1ME2-EC1-B",
+  "slug": "21-sesj1me2-ec1-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "21-SESJ1ME2",
+  "year": 2021,
+  "session": "candidats libres",
+  "day": "J1",
+  "center": "France métropolitaine (candidats libres)",
+  "question": "Vous montrerez comment les droits de propriété peuvent favoriser la croissance économique.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Dans quelle mesure l'approche en termes de classes sociales est-elle pertinente pour rendre compte de la société française aujourd'hui ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez l'impact qu'aurait une hausse de la taxe carbone sur le coût de l'énergie et sur les émissions de CO2 des entreprises de la branche « Boissons » et des entreprises de la "
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'engagement politique ne se limite pas à la pratique du vote."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1ME2 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 213, 2021_metro_norm_ec_6.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=213&cle=a813c9b493d0eaa02057cc6af764c328f51fa4ff474eb6575b65660cf6c4c6de&file=docx%2F2021_metro_norm_ec_6.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 213",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=213&cle=a813c9b493d0eaa02057cc6af764c328f51fa4ff474eb6575b65660cf6c4c6de&file=docx%2F2021_metro_norm_ec_6.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ1ME2C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ1ME2 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.857) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

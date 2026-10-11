@@ -1,0 +1,80 @@
+{
+  "id": "23-SESJ1ME1-EC2",
+  "slug": "23-sesj1me1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "23-SESJ1ME1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "Évolution du nombre de brevets et du PIB par habitant (indice base 100 en 2011) au Royaume-Uni entre 2011 et 2019 116 114",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "Caractérisez l'évolution du nombre de brevets au Royaume-Uni entre 2011 et 2019.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide du document et de vos connaissances, montrez le rôle des droits de propriété sur la croissance économique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** Évolution du nombre de brevets et du PIB par habitant (indice base 100 en 2011) au Royaume-Uni entre 2011 et 2019 116 114\n\n*Source indiquée : Organisation Mondiale de la Propriété Intellectuelle, 2022.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment l'action collective s'est-elle transformée dans les sociétés démocratiques ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous montrerez, à travers deux arguments, que l'approche en termes de classes sociales reste pertinente pour rendre compte de la société française."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez pourquoi il existe des échanges commerciaux entre pays comparables."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1ME1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-metropole-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 226, 2023_metro_norm_ec_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=226&cle=8097b836ebbec8aa846f501afdcbe71932f6551b4f4527f2561b82c35fe0b712&file=docx%2F2023_metro_norm_ec_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC2 - Étude de document · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 226",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=226&cle=8097b836ebbec8aa846f501afdcbe71932f6551b4f4527f2561b82c35fe0b712&file=docx%2F2023_metro_norm_ec_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "23-SESJ1ME1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-metropole-1-corrige.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 23-SESJ1ME1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.821) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

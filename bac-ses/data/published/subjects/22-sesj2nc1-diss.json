@@ -1,0 +1,85 @@
+{
+  "id": "22-SESJ2NC1-DISS",
+  "slug": "22-sesj2nc1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "22-SESJ2NC1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J2",
+  "center": "Nouvelle-Calédonie",
+  "question": "Quel est le rôle de l'innovation sur la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Évolution du PIB en volume (en %) de 1950 à 2018, en France *(source : INSEE, Comptes nationaux, 2020.)*\n- Document 2 — Exécution de la dépense intérieure de recherche et développement (DIRD) *(source : d'après Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation,)*\n- Document 3 — Brevets liés à l'environnement par rapport au total des brevets (en %, 2006-2018) *(source : d'après OCDE, 60 ans de données, 2018.)*\n- Document 4 — Plusieurs projets de robots pollinisateurs sont actuellement en phase de tests pour *(source : d'après Peggy BARON, « Des robots pollinisateurs pour remplacer les abeilles ? »,)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement politique, malgré le paradoxe de l'action collective."
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide des données du document, vous caractériserez l'évolution du ratio inter- décile entre 2014 et 2018. / À l'aide des données du document et de vos connaissances, vous présenterez les principaux outils de mesure (s"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez quels sont les processus qui remettent en cause une approche en termes de classes sociales pour rendre compte de la société française actuelle."
+    },
+    {
+      "part": "EC1 (question 1) — sujet B",
+      "question": "À partir d'un exemple, illustrez l'internationalisation de la chaîne de valeur."
+    },
+    {
+      "part": "EC1 (question 2) — sujet B",
+      "question": "Comment peut-on expliquer la difficulté à gérer les chocs asymétriques dans la zone euro ?"
+    },
+    {
+      "part": "EC1 (question 3) — sujet B",
+      "question": "Présentez deux descripteurs de la qualité des emplois."
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez quels sont les processus qui remettent en cause une approche en termes de classes sociales pour rendre compte de la société française actuelle."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2NC1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 126, 2022_nc_norm_dissert_2.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=126&cle=68e39d8595eda6239df144916b49f12ed922c1e37300d51bdd959074966c0e4f&file=docx%2F2022_nc_norm_dissert_2.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Nouvelle-Calédonie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 126",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=126&cle=68e39d8595eda6239df144916b49f12ed922c1e37300d51bdd959074966c0e4f&file=docx%2F2022_nc_norm_dissert_2.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ2NC1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-nouv-caledonie-2-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ2NC1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.795) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

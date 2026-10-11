@@ -1,0 +1,80 @@
+{
+  "id": "21-SESJ2ME2-EC2-B",
+  "slug": "21-sesj2me2-ec2-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": "B",
+  "examCode": "21-SESJ2ME2",
+  "year": 2021,
+  "session": "candidats libres",
+  "day": "J2",
+  "center": "France métropolitaine (candidats libres)",
+  "question": "Évolutions passées et projetées du PIB, des émissions de gaz à effet de serre (GES) et de l'intensité des émissions de gaz à effet de serre (GES) dans l'Union européenne Source : Commission européenne, Deuxième rapport sur l'état de l'union de l'énergie,",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, comparez l'évolution du PIB avec celle des émissions de GES entre 1990 et 2019.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, vous montrerez comment l'innovation peut rendre la croissance économique soutenable.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** Évolutions passées et projetées du PIB, des émissions de gaz à effet de serre (GES) et de l'intensité des émissions de gaz à effet de serre (GES) dans l'Union européenne Source : Commission européenne, Deuxième rapport sur l'état de l'union de l'énergie,\n\n*Source indiquée : Commission européenne, Deuxième rapport sur l'état de l'union de l'énergie,*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Quels sont les facteurs explicatifs de la mobilité sociale ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Á l'aide d'un exemple, vous montrerez comment la différenciation des produits peut expliquer le commerce entre pays comparables."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la catégorie socioprofessionnelle et le revenu ne sont pas les seuls facteurs qui structurent l'espace social."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ2ME2 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 239, 2021_metro_norm_ec_8.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=239&cle=64000532c4c8ada8c74c37acb3150b5ed772b178fe4fd5d79491f46a78d9cc9f&file=docx%2F2021_metro_norm_ec_8.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC2 - Étude de document · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 239",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=239&cle=64000532c4c8ada8c74c37acb3150b5ed772b178fe4fd5d79491f46a78d9cc9f&file=docx%2F2021_metro_norm_ec_8.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ2ME2C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-2-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ2ME2 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.848) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

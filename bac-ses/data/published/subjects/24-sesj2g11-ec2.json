@@ -1,0 +1,80 @@
+{
+  "id": "24-SESJ2G11-EC2",
+  "slug": "24-sesj2g11-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "24-SESJ2G11",
+  "year": 2024,
+  "session": "normale",
+  "day": "J2",
+  "center": "Centres étrangers",
+  "question": "Évolution de la part des innovations dans le domaine de l'environnement (en % des innovations totales) et des émissions de gaz à effet de serre (en milliards de tonnes de CO2) dans les pays de l'Union européenne Source : D'après les données de l'OCDE, juin 2023.",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide de données du document, vous caractériserez l'évolution de la part des innovations dans le domaine de l'environnement entre 1990 et 2018, au sein de l'Union européenne.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide du document et de vos connaissances, vous expliquerez comment l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "expliquer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** Évolution de la part des innovations dans le domaine de l'environnement (en % des innovations totales) et des émissions de gaz à effet de serre (en milliards de tonnes de CO2) dans les pays de l'Union européenne Source : D'après les données de l'OCDE, juin 2023.\n\n*Source indiquée : D'après les données de l'OCDE, juin 2023.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment les différentes politiques permettent-elles de lutter contre le chômage ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Montrez que le capital culturel et les investissements familiaux peuvent conduire à des inégalités de réussite scolaire."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'évolution de la structure socioprofessionnelle en France s'explique par plusieurs facteurs."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 24-SESJ2G11 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 535, 24-sesj2g11_v1-3.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=535&cle=2b1747bc95d2fc4857a2b8a63f5958f0cd3063040e870057c47b1e1292ca0413&file=docx%2F24-sesj2g11_v1-3.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC2 - Étude de document · Quels sont les sources et les défis de la croissance économique ? · Autres centres étrangers · 2024 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 535",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=535&cle=2b1747bc95d2fc4857a2b8a63f5958f0cd3063040e870057c47b1e1292ca0413&file=docx%2F24-sesj2g11_v1-3.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 535) indique « Autres centres étrangers », alors que le fichier (24-sesj2g11_v1-3.docx) et le sujet officiel correspondent à Centres étrangers.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "24-SESJ2G11C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-2-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 24-SESJ2G11 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.881) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

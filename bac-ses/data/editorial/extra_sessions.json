@@ -1,0 +1,15 @@
+{
+  "_doc": "Sessions absentes de sujetdebac.fr mais disponibles dans le catalogue de Versailles (sujet complet dans un même fichier). Segmentées comme les autres par pipeline/segment.py.",
+  "versailles-2024-amerique-sud-2": {
+    "official_code": "24-SESJ2AS1",
+    "year": 2024,
+    "text_path": "data/raw/documents/781/text.txt",
+    "source": "Académie de Versailles, doc SPIP 781 (24-sesj2as1_suj_v1-3.pdf), copie Wayback du 14/04/2026"
+  },
+  "versailles-2024-amerique-sud-1": {
+    "official_code": "24-SESJ1AS1",
+    "year": 2024,
+    "text_path": "data/raw/documents/775/text.txt",
+    "source": "Académie de Versailles, doc SPIP 775 (24-sesj1as1_suj_v2.pdf) — NON RÉCUPÉRÉ (archive injoignable lors de la collecte)"
+  }
+}

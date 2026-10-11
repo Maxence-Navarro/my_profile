@@ -1,0 +1,483 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2021
+
+
+
+          Sciences économiques et sociales
+
+
+
+                                      Jour 2
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 15 pages numérotées de 1/15 à 15/15.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ2ME3                                                                   Page : 1/15
+                                          DISSERTATION
+
+Il est demandé au candidat :
+         de répondre à la question posée par le sujet ;
+         de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+         de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+          notamment celles figurant dans le dossier ;
+         de rédiger, en utilisant le vocabulaire économique et social spécifique et approprié à la
+          question et en organisant le développement sous la forme d'un plan cohérent qui ménage
+          l'équilibre des parties
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+                                                SUJET
+
+                               Ce sujet comporte quatre documents.
+
+
+        Peut-on expliquer l’engagement politique seulement par des variables
+                               sociodémographiques ?
+
+
+
+
+DOCUMENT 1
+
+         Indemnités de fonction maximales dans les communes (en France)
+
+ POPULATION TOTALE                  INDEMNITÉS MAXIMALES AU 1er JANVIER 2019
+ (tranches                                   Maires                Adjoints
+ démographiques)                     Montant des indemnités Montant des indemnités
+                                           en euros                en euros
+                                      Annuel       Mensuel   Annuel       Mensuel
+ < 500                                11901          991      4620          385
+ 500 à 999                            18809         1567      4993          416
+ 1000 à 3499                          24083         2006      9241          770
+ 10000 à 19999                        25670         2139     10262          855
+ 20000 à 49999                        42005         3500     15403          1283
+ 50000 à 99999                        51340         4278     20536          1711
+ 100000 à 200000                      67675         5639     30804          2567
+ > 200000                             67675         5639     33837          2819
+ Paris, Marseille, Lyon               67675         5639     33837          2819
+
+   Source : D’après Les Centres de Gestion de la Fonction Publique Territoriale de Bretagne,
+                                                                                       2020.
+
+
+
+
+21-SESJ2ME3                                                                                 Page : 2/15
+DOCUMENT 2
+
+Écarts d’abstention à des élections (en points de pourcentage) selon différents
+                        critères sociodémographiques
+
+ Écarts d’abstention 25-29 ans/65-69 ans
+                     Présidentielle      Présidentielle       Législatives       Législatives
+                         1er tour           2nd tour            1er tour            2nd tour
+
+ 2007                      8,9                11,5                32,8               37,1
+
+ 2012                     15,5                18,9                36,7               39,6
+
+ 2017                     18,2                21,1                35,1               37,1
+
+ Écarts d’abstention ouvriers/cadres
+                     Présidentielle      Présidentielle       Législatives       Législatives
+                          er                  nd                  er
+                         1 tour             2 tour              1 tour              2nd tour
+
+ 2007                      5,8                 6,5                16,6               13,9
+
+ 2012                      6,8                11,2                 20                20,7
+
+ 2017                     12,55              12,01                25,8                23
+
+ Écarts d’abstention Baccalauréat/études supérieures
+                     Présidentielle      Présidentielle       Législatives       Législatives
+                         1er tour           2nd tour            1er tour            2nd tour
+
+ 2007                      2,4                 2,3                 7,1                6,4
+
+ 2012                          4               4,9                 8,7                9,9
+
+ 2017                      4,3                 5,5                 12                10,4
+
+    Source : d’après Céline BRACONNIER, Baptiste COULMONT, Jean-Yves DORMAGEN,
+   « Toujours pas de chrysanthèmes pour les variables lourdes de la participation électorale.
+    Chute de la participation et augmentation des inégalités électorales au printemps 2017 »,
+                                                 Revue française de science politique, 2017.
+
+Lecture : En 2007, lors du premier tour de l’élection présidentielle, le taux d’abstention des 25-
+29 ans était supérieur de 8,9 points à celui des 65-69 ans.
+
+
+
+
+21-SESJ2ME3                                                                         Page : 3/15
+DOCUMENT 3
+
+              Part des femmes parmi les députés
+
+
+
+
+               Part des femmes parmi les députés
+
+                           Source : INSEE, Observatoire des inégalités, 2017.
+
+
+
+
+21-SESJ2ME3                                                     Page : 4/15
+DOCUMENT 4
+
+Jérôme Bourbigot, administrateur du comité départemental des médailles de la
+jeunesse et des sports et délégué du secteur de Cornouaille, a rappelé qu'il existait
+aujourd'hui trois médailles d'État : la légion d'honneur, la médaille du mérite et celle de
+la jeunesse et des sports.
+« L'objectif de la Fédération française de médaillés de la jeunesse et des sports, régie
+par la loi 1901, consiste à intervenir auprès des pouvoirs publics et des organismes
+sportifs, socio-éducatifs et des mouvements d'éducation populaire afin d'appuyer tout
+projet, en faveur des jeunes et des moins jeunes. C'est soutenir également toute action
+visant à la valorisation du bénévolat, menée dans le mouvement associatif de la
+jeunesse et des sports. »
+Il a fait remarquer que ce comité départemental restait méconnu alors qu'il existe un
+grand nombre de bénévoles impliqués. « Si dans vos clubs respectifs, vous sentez
+que des personnes peuvent réunir les conditions pour obtenir cette médaille, il ne faut
+pas hésiter à le signaler au comité », recommande-t-il.
+Michel Loussouarn, le maire, a souligné que cette décoration saluait un nombre
+d'années d'engagement au quotidien, dans un club ou une association, au service,
+notamment, de la collectivité.
+Bernard Guillou s'est vu remettre cette décoration pour son implication, depuis 23 ans,
+au sein du club d'aïkido de la commune dont il est le président. Il
+remarque : « C'est difficile pour cette discipline d'arts martiaux d'être visible, étant
+donné que l'on n'organise pas de compétition. C'est davantage une pratique
+philosophique, où l'on se sert du sport pour améliorer son esprit. »
+Quant à Yves Bernard, bénévole impliqué depuis 1970, que ce soit au don du sang,
+pour les Joutes de l'Aven ou lors de la création du club de football kernévellois, l'ASK,
+il résume ainsi sa vision du bénévolat : « La vie associative est un combat qu'il faut
+mener avec détermination. Dans mon rôle de bénévole, je suis toujours allé à la
+rencontre des autres ».
+
+
+                                                       Source : Ouest-France, 22/05/2017.
+
+
+
+
+21-SESJ2ME3                                                                   Page : 5/15
+                              EPREUVE COMPOSEE – SUJET A
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+À l’aide d’un exemple, vous montrerez que la croissance économique se heurte à des
+limites écologiques.
+
+
+
+
+21-SESJ2ME3                                                                                 Page : 6/15
+Deuxième partie : Étude d’un document (6 points)
+
+        Évolution du taux de chômage selon le niveau de diplôme (en %)
+
+
+
+
+                                   Aucun diplôme ou CEP1 en %
+
+                                   Ensemble en %
+
+                                   Diplôme supérieur à bac + 2 en %
+
+                                           Source : Observatoire des inégalités, INSEE, 2019.
+
+1 : CEP : Certificat d'Études Primaires.
+
+
+Questions :
+
+    1. À l’aide des données du document, vous comparerez l’évolution du taux de
+    chômage des personnes possédant un diplôme supérieur à bac plus 2 avec celle
+    de l’ensemble des personnes entre 1987 et 2017. (2 points)
+
+    2. À l’aide des données du document et de vos connaissances, vous montrerez en
+    quoi les inadéquations de qualifications peuvent expliquer le chômage structurel.
+    (4 points)
+
+
+
+
+21-SESJ2ME3                                                                     Page : 7/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+                        Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que le commerce international a des effets sur les inégalités.
+
+DOCUMENT 1
+
+De fait, la croissance des pays en développement croît depuis 2003 trois fois plus vite
+que celle des pays du G7. On est très loin de la caricature d'un monde s'appauvrissant
+sous les yeux d'une minorité de privilégiés indécents.
+[…] Reste néanmoins à savoir pourquoi les inégalités de revenus à l'intérieur d'un très
+grand nombre de pays augmentent, au point qu'aujourd'hui, la Chine est
+statistiquement aussi inégalitaire que les États-Unis. […] Il est indéniable que la
+première source d'inégalités internes résulte de l'écart croissant de rémunération entre
+travailleurs qualifiés et travailleurs non qualifiés. […] Beaucoup d'études montrent que
+la rareté du travail disponible profite avant tout aux travailleurs qualifiés. Autrement dit,
+même si le travail est non qualifié, ce sont des travailleurs qualifiés qui le prennent.
+C'est un problème que l'on connaît d'ailleurs en France aussi et notamment dans les
+emplois de la fonction publique où l'on ne peut pas refuser un emploi à une personne
+sous prétexte qu'elle serait surqualifiée.
+[…] Sur le moyen-long terme, le choix de l'ouverture est le plus bénéfique au
+développement. Car il n'y a tout simplement aucun contre-exemple démentant cette
+réalité. Simultanément, il serait illusoire de penser que l'ouverture économique serait
+un bienfait en soi en l'absence de stratégie globale de développement ou de
+redistribution.
+
+    Source : Zaki LAÏDI, « La mondialisation accentue-t-elle les inégalités ? », Les Échos, 01
+                                                   octobre 2007, mis à jour le 06 août 2019.
+
+
+
+
+21-SESJ2ME3                                                                      Page : 8/15
+DOCUMENT 2
+
+Évolution de la part du revenu des 10% les plus aisés dans le revenu national,
+                                    en %
+
+
+
+
+   Source : d’après « Rapport mondial sur les inégalités », Banque mondiale, 2018.
+
+
+
+
+21-SESJ2ME3                                                           Page : 9/15
+DOCUMENT 3
+
+                     Les évolutions des inégalités entre pays
+    Indice de
+      Theil1
+
+
+
+
+     Source : d’après Centre d’Etudes Prospectives et d’Informations Internationales,
+       « Carnets graphiques, l’économie mondiale dévoile ses courbes », avril 2018.
+
+Note : Le document présente deux mesures des inégalités entre pays :
+   - par niveaux de vie moyens entre pays, appréhendés par leur PIB par tête
+       (« inégalités entre pays ») ;
+   - par la prise en compte du nombre des individus plutôt que des seuls pays, en
+       attribuant à chaque pays un poids proportionnel à sa population (« inégalités
+       internationales »).
+
+
+1 : Indice de Theil : comme le coefficient de Gini, l’indice de Theil est un indicateur
+d’inégalité compris entre 0 et 1; plus l’indicateur est élevé, plus les inégalités sont
+fortes.
+
+
+
+
+21-SESJ2ME3                                                              Page : 10/15
+                              EPREUVE COMPOSEE – SUJET B
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous présenterez deux limites des tables de mobilité comme instrument de mesure de
+la mobilité sociale.
+
+
+
+
+21-SESJ2ME3                                                                               Page : 11/15
+   Deuxième partie : Étude d’un document (6 points)
+
+              Salaires nets mensuels¹ selon le sexe et la catégorie sociale
+                                            (en euros)
+
+                                Hommes        Femmes      Ensemble   Écart femmes/hommes
+                                                                             (en %)
+Cadres supérieurs                 4 377           3 477    4 060              - 21
+Professions intermédiaires        2 396           2 055    2 241               -14
+Employés                          1 681           1 549    1 590               -8
+Ouvriers                          1 731           1 441    1 681              - 17
+Ensemble                          2 431           1 968    2 238              - 19
+Écart ouvriers/cadres (en         2 646           2 036    2 379
+euros)
+Écart ouvriers/cadres (en %)       - 60           - 59      - 59
+
+   1 : Salaires nets en équivalent temps plein.
+
+
+                     Source : d’après INSEE, Données 2016, Observatoire des inégalités, 2019.
+
+   Questions :
+
+
+       1. À l’aide des données du document, vous comparerez les salaires nets mensuels
+          des différentes catégories sociales (colonne « Ensemble »). (2 points)
+
+       2. À l’aide des données du document et de vos connaissances, vous montrerez
+          que le sexe est un facteur de structuration de l’espace social. (4 points)
+
+
+
+
+   21-SESJ2ME3                                                                 Page : 12/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                        Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez comment les différents instruments à disposition des pouvoirs
+publics peuvent permettre de faire face au changement climatique.
+
+
+
+DOCUMENT 1
+
+Le transport est le mauvais élève du protocole de Kyoto. Depuis 1990, la plupart des
+secteurs économiques ont diminué leurs émissions de gaz à effet de serre (GES) dans
+l’Union européenne. Seul le transport, qui représente plus d’un quart des rejets de la
+zone, a vu son bilan s’aggraver : + 28 % en 2017 par rapport à 1990. […] Les voitures
+particulières représentent près de la moitié des émissions de GES du transport. Elles
+font l’objet d’une attention particulière de la Commission européenne, dont l’objectif
+est d’atteindre en 2050 une réduction de 60 % des émissions de GES du secteur du
+transport par rapport à 1990. À l’horizon rapproché de 2021, les constructeurs
+automobiles européens ont obligation de réduire les émissions moyennes de leurs
+ventes de voitures neuves de plus de 120 grammes de CO2 par km en 2018 à 95
+grammes. […] Les constructeurs qui failliront se verront infliger une amende de 95
+euros par gramme de CO2 excédentaire par voiture vendue, amende qui pourrait se
+chiffrer en milliards d’euros pour les moins vertueux d’entre eux. […]
+Pour tenir l’objectif de 95 g/km en 2021, les constructeurs devront vendre une
+proportion significative de voitures à faibles émissions, comme c’est le cas en Norvège,
+où les émissions moyennes des voitures neuves ont atteint ce seuil dès 2016 […]
+La Norvège a en effet mis en place depuis plus de vingt-cinq ans un ensemble
+d’incitations directes et indirectes très favorables au développement de la mobilité
+électrique en appliquant à la lettre le principe « pollueur payeur ». C’est un des seuls
+pays au monde où une voiture électrique coûte moins cher à l’achat que son équivalent
+thermique. La voiture électrique a bénéficié d’une exemption de la taxe à l’importation
+dès le début des années 1990, puis d’une taxation réduite de 50 % sur les voitures de
+société en 2000 et enfin d’une exemption de TVA en 2001. […]
+À l’instar de Londres, les villes européennes pourraient aussi instaurer des zones où
+ne circuleraient que des véhicules à très faibles émissions. Le véhicule électrique,
+encore pénalisé par rapport à son équivalent thermique car peu adapté aux longues
+distances, acquerrait instantanément un bénéfice à l’usage, les véhicules thermiques
+ne pouvant plus couvrir l’ensemble des besoins de mobilité du quotidien car interdits
+de centre-ville.
+
+         Source : France Stratégie, « Comment faire enfin baisser les émissions de CO2 des
+                                             voitures », La note d’analyse n°78, juin 2019.
+
+
+
+
+21-SESJ2ME3                                                                  Page : 13/15
+DOCUMENT 2
+
+   Évolution de la taxe carbone (en euro par tonne de CO2) et son impact sur
+               l’emploi total et sur les émissions de CO2 (en %),
+                     dans le secteur manufacturier français
+
+
+
+
+      Source : Damien DUSSAUX, « Les effets conjugués des prix de l’énergie et de la taxe
+ carbone sur la performance économique et environnementale des entreprises françaises du
+          secteur manufacturier », OECD Environment Working Papers n°154, janvier 2020.
+
+
+Note : Les effets sur l’emploi total sont des valeurs estimées de l’impact de l’évolution de la
+taxe carbone à partir des calculs de l’auteur.
+
+
+
+
+21-SESJ2ME3                                                                     Page : 14/15
+DOCUMENT 3
+
+   Évolution du cours du permis négociable d’émissions d’une tonne de CO2
+                                 (en euros)
+
+
+
+
+  Source : « Rapport sur le fonctionnement du marché européen du carbone », Commission
+                                       au parlement européen et au conseil, Octobre 2019.
+
+Note : En 2018, des ajustements ont permis de réduire l’offre de quotas sur le marché.
+
+
+
+
+21-SESJ2ME3                                                                   Page : 15/15
+

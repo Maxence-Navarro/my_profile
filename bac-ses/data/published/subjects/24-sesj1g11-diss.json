@@ -1,0 +1,69 @@
+{
+  "id": "24-SESJ1G11-DISS",
+  "slug": "24-sesj1g11-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "24-SESJ1G11",
+  "year": 2024,
+  "session": "normale",
+  "day": "J1",
+  "center": "Centres étrangers",
+  "question": "Quelles sont les sources de la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Taux de croissance du Produit Intérieur Brut (en %) *(source : D'après OCDE, 2023.)*\n- Document 2 — Dépenses de Recherche-Développement (en % du PIB) et nombre de *(source : OCDE, 2023.)*\n- Document 3 — Dépenses publiques d'éducation (en % du PIB) *(source : D'après la Banque Mondiale, 2023.)*\n- Document 4 — L611-1. Toute invention peut faire l'objet d'un titre de propriété industrielle délivré par *(source : Code de la propriété intellectuelle, Article L-611.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1",
+      "question": "Vous présenterez le paradoxe de l'action collective."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous décrirez l'évolution de la part du revenu national détenue par les 10 % les plus riches en Russie depuis 1985. / À l'aide de vos connaissances et du document, vous montrerez que le "
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les facteurs de structuration de l'espace social sont multiples."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 24-SESJ1G11 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 529, 24-sesj1g11_v1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Autres centres étrangers · 2024 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 529",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 529) indique « Autres centres étrangers », alors que le fichier (24-sesj1g11_v1.docx) et le sujet officiel correspondent à Centres étrangers.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "24-SESJ1G11C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 24-SESJ1G11 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.783) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

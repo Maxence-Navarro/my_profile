@@ -1,0 +1,80 @@
+{
+  "id": "25-SESJ1PO1-EC2",
+  "slug": "25-sesj1po1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "25-SESJ1PO1",
+  "year": 2025,
+  "session": "normale",
+  "day": "J1",
+  "center": "Polynésie",
+  "question": "Nombre de brevets verts1 déposés par les entreprises françaises à l'Institut national de la propriété intellectuelle ou à l'Office européen des brevets et part des brevets verts dans le total des brevets déposés (en %) Source : Valentin LIGNAU, « Le brevet, un instrument de valorisation de la recher",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide de données du document et d'un outil statistique de votre choix, vous caractériserez l'évolution de la part des brevets verts entre 2001 et 2020.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide du document et de vos connaissances, vous expliquerez comment l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "expliquer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Nombre de brevets verts1 déposés par les entreprises françaises à l'Institut national de la propriété intellectuelle ou à l'Office européen des brevets et part des brevets verts dans le total des brevets déposés (en %) Source : Valentin LIGNAU, « Le brevet, un instrument de valorisation de la recher\n\n*Source indiquée : Valentin LIGNAU, « Le brevet, un instrument de valorisation de la recherche et*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "À quelles difficultés se heurtent les politiques conjoncturelles dans la zone euro ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous distinguerez l'approche des classes sociales de Marx de celle de Weber."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les configurations et les ressources familiales contribuent à expliquer la mobilité sociale."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 25-SESJ1PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2025/spe-sciences-eco-sociales-2025-polynesie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 373, 2021_metro_norm_ec_4_6_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=373&cle=5600f52106d14827fa5e6eba8813b24068f0e66d503b8129b88b322183830085&file=docx%2F2021_metro_norm_ec_4_6_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 373",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=373&cle=5600f52106d14827fa5e6eba8813b24068f0e66d503b8129b88b322183830085&file=docx%2F2021_metro_norm_ec_4_6_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 373) indique « France métropolitaine », alors que le fichier (2021_metro_norm_ec_4_6_.docx) et le sujet officiel correspondent à Polynésie.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

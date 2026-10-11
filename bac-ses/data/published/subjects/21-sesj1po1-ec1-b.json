@@ -1,0 +1,69 @@
+{
+  "id": "21-SESJ1PO1-EC1-B",
+  "slug": "21-sesj1po1-ec1-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "21-SESJ1PO1",
+  "year": 2021,
+  "session": "normale",
+  "day": "J1",
+  "center": "Polynésie",
+  "question": "Présentez un mécanisme par lequel le progrès technique peut engendrer des inégalités de revenus.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "présenter",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment expliquer les inégalités de réussite scolaire ?"
+    },
+    {
+      "part": "EC2",
+      "question": "Présentez les données de l'année 2009 et de l'année 2017. / À l'aide des données du document et de vos connaissances, montrez que les fluctuations de l'activité économique ont des conséquences sur le chômage conjoncturel"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que malgré le paradoxe de l'action collective, les individus s'engagent politiquement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-polynesie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 206, 2021_poly_norm_ec_2_2_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=206&cle=ac4e4d16487e3c57925e308dab1512c4110b70892a270675f59f18b874b60a70&file=docx%2F2021_poly_norm_ec_2_2_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 206",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=206&cle=ac4e4d16487e3c57925e308dab1512c4110b70892a270675f59f18b874b60a70&file=docx%2F2021_poly_norm_ec_2_2_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

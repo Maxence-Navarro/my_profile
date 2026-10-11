@@ -1,0 +1,305 @@
+  DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : Comment les pouvoirs publics peuvent-ils lutter contre le changement
+climatique ?
+Programme officiel : Regards croisés
+
+Questionnement        Objectifs d’apprentissage
+Quelle action         - Savoir identifier les différents acteurs (pouvoirs publics, ONG,
+publique pour         entreprises, experts, partis, mouvements citoyens) qui participent
+l’environnement ?     à la construction des questions environnementales comme
+                      problème public et à leur mise à l’agenda politique ; comprendre
+                      que ces acteurs entretiennent des relations de coopération et de
+                      conflit.
+                      - Comprendre que l’action publique pour l’environnement articule
+                      différentes échelles (locale, nationale, européenne, mondiale).
+                      - En prenant l’exemple du changement climatique :
+                               - connaître les principaux instruments dont disposent les
+                               pouvoirs publics pour faire face aux externalités négatives
+                               sur l’environnement : réglementation, marchés de quotas
+                               d’émission, taxation, subvention à l’innovation verte ;
+                               comprendre que ces différents instruments présentent des
+                               avantages et des limites, et que leur mise en œuvre peut
+                               se heurter à des dysfonctionnements de l’action publique ;
+                               - comprendre qu’en présence de biens communs les
+                               négociations et accords internationaux liés à la
+                               préservation de l’environnement sont contraints par des
+                               stratégies de passager clandestin et les inégalités de
+                               développement entre pays.
+
+
+
+
+24-SESJ1JA1C                                                               Page 1 sur 7
+Exploitation possible des documents :
+
+
+Document 1 - Le document montre l’existence de taxes environnementales et le poids
+           croissant de la fiscalité environnementale : en 2020, les recettes fiscales
+           environnementales s’élèvent à environ 50 milliards d’euros. Elles
+           représentent environ 5 % du montant total des prélèvements obligatoires
+           (impôts et cotisations sociales) et environ 2,2 % du PIB. La part des recettes
+           fiscales environnementales dans les prélèvements obligatoires et dans le
+           PIB a nettement augmenté depuis 2015, si l’on fait abstraction de l’année
+           particulière 2020 en raison de la crise sanitaire.
+           - La fiscalité environnementale incite les agents à internaliser le coût des
+           externalités dans leur calcul économique.
+Document 2 - Ce document montre l’existence des subventions publiques pour les
+           énergies renouvelables et leur détail. On note une hausse des subventions
+           de 2019 à 2021.
+           - Les subventions pour les innovations vertes constituent un des instruments
+           publics qui permettent de réduire le réchauffement climatique.
+Document 3 - Le document expose les différences entre pays de l’Union européenne en
+           termes de réduction des émissions de CO2 des secteurs soumis au marché
+           de quotas.
+           - Alors qu’en moyenne, l’UE voit une baisse de ses émissions de plus de
+           10 % entre 2005 et 2016, certains pays ayant recours à ce marché ont plus
+           réduit leurs émissions que d’autres : le Danemark avec une baisse de 35 %
+           peut être comparé à l’Allemagne (- 5 % environ).
+Document 4 Le document illustre la réglementation environnementale européenne :
+           - les normes d’émission : les véhicules neufs vendus en 2030 devront
+           produire entre 50 et 55 % d’émissions carbone en moins par rapport aux
+           niveaux de 2021 ;
+           - les normes de procédés : les constructeurs ne pourront proposer que des
+           voitures et camionnettes électriques ou à hydrogène à partir de 2035.
+
+
+Problématique possible :
+
+Face à la crise climatique, les pouvoirs publics signent des accords pour protéger
+l’environnement. En quoi consistent les instruments utilisés pour lutter contre le
+réchauffement climatique ?
+
+
+
+
+24-SESJ1JA1C                                                             Page 2 sur 7
+Proposition de plan détaillé :
+
+I. Les pouvoirs publics utilisent des II. Les pouvoirs publics utilisent aussi la
+instruments économiques pour inciter à contrainte et les mécanismes du marché
+protéger l’environnement.              pour protéger l’environnement.
+A) Le rôle de la fiscalité environnementale. A) Le rôle de la réglementation.
+ • La taxation, qui modifie la structure des prix,   • Les pouvoirs publics peuvent imposer des
+   a un effet incitatif sur le comportement des        interdictions ou des obligations dans un
+   agents économiques.                                 objectif de limitation du réchauffement
+  Appliquant le principe du « pollueur-                climatique.
+   payeur », elle permet d’internaliser les          • Différents types de normes existent : les
+   externalités négatives. En renchérissant les        normes de procédés, d’émission, de
+   prix, notamment de l’énergie, elle incite           produits, …
+   producteurs et consommateurs à opter pour         • Le document 4 illustre cet instrument en
+   des produits et techniques moins polluants.         rappelant les normes récemment fixées
+ • Les recettes fiscales peuvent être également        par l’Union européenne concernant les
+   utilisées pour subventionner les énergies           constructeurs    automobiles :    normes
+   renouvelables.                                      d’émission et de procédés.
+ • Les recettes des taxes environnementales
+   sont passées de 32,7 milliards d’euros en
+   2000 à 56,4 milliards d’euros en 2019.
+   Depuis 2015, la taxation représente plus de
+   2 % du PIB en France (Document 1).
+B) Le rôle des subventions à l’innovation B) Le rôle                du    marché     des      quotas
+verte.                                    d’émission.
+  • On relève au document 2 une hausse des           • Les pouvoirs publics peuvent installer un
+    subventions accordées aux énergies                 marché des quotas d’émission qui incite
+    renouvelables entre 2019 et 2021.                  les entreprises industrielles à réduire les
+  • L’incitation à investir dans des produits ou       émissions de CO2, selon un calcul : coût
+    des techniques de production moins                 de la pollution / avantage de la dépollution.
+    polluantes passe        aussi    par     des     • Ainsi, le marché du carbone européen
+    subventions à l’innovation verte qui               repose sur l’échange de quotas
+    permettent de réduire les contraintes ou les       d’émission, dont le prix est fixé par la
+    coûts supplémentaires qui pèsent sur les           rencontre entre l’offre et la demande. Ce
+    entreprises innovantes ou adoptant des             système peut inciter à réduire les
+    dispositions innovantes.                           émissions de CO2.
+                                                     • On constate au document 3 que les
+                                                       émissions de GES des secteurs industriels
+                                                       concernés par ce marché ont diminué de
+                                                       plus de 10 % dans l’UE entre 2005 et 2016.
+
+Le candidat pourra aussi faire référence aux différentes échelles de l’action publique et
+aux négociations et accords internationaux liés à la préservation de l’environnement.
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ1JA1C                                                                   Page 3 sur 7
+                                ÉPREUVE COMPOSÉE
+
+                            PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Présentez deux explications de l’évolution de la structure
+socioprofessionnelle en France depuis la seconde moitié du XXe siècle. (4 points)
+Sociologie et science politique
+Comment est structurée la société française actuelle ?
+
+Réponse possible :
+La structure socioprofessionnelle correspond à la part relative des différents groupes
+socio-professionnels. Depuis la seconde moitié du XXe siècle, elle s’est profondément
+transformée et la part de chaque catégorie socioprofessionnelle au sein de la
+population active a évolué. Quatre principales explications de l’évolution de la structure
+socioprofessionnelle peuvent être distinguées : la salarisation, la tertiarisation,
+l’élévation du niveau de qualification et la féminisation des emplois. Nous en
+présenterons deux.
+    – La salarisation correspond à l’augmentation de la part des salariés dans la po-
+       pulation active. Elle peut être illustrée par l’augmentation des cadres et profes-
+       sions intellectuelles supérieures (CPIS), des professions intermédiaires et des
+       employés au sein de la population active et par conséquent la baisse des indé-
+       pendants au sein de celle-ci jusqu’au milieu des années 2010.
+    – La tertiarisation est l’augmentation de la part des emplois du secteur tertiaire
+       dans la population active. Depuis les années 1980, les emplois de service aux
+       particuliers et aux entreprises sont en hausse et expliquent l’augmentation des
+       CPIS et des employés au sein de la population active.
+
+
+
+
+24-SESJ1JA1C                                                                 Page 4 sur 7
+Deuxième partie (6 points) : Étude d’un document
+
+Sociologie et science politique
+Comment expliquer l’engagement politique dans les sociétés démocratiques ?
+
+Question 1 : À l'aide des données du document, vous comparerez le taux de
+syndicalisation des salariés de la fonction publique et celui des salariés du privé.
+(2 points)
+
+Réponse possible :
+En 2019, en France métropolitaine, 18,1 % des salariés de la fonction publique étaient
+syndiqués contre 7,7 % du secteur privé, soit une différence de 10,4 points de
+pourcentage, selon la Dares. Cette différence est encore plus marquée chez les cadres
+car le taux de syndicalisation des cadres de la fonction publique est 12,8 points de
+pourcentage plus élevé que celui des cadres du secteur privé. De plus, les salariés de
+moins de 30 ans, bien moins syndiqués que leurs aînés, ont un taux de syndicalisation
+plus de 4 fois moindre dans le secteur privé que dans la fonction publique, à comparer
+avec un taux de syndicalisation un peu plus de 2 fois moindre, toute générations
+confondues. Pour finir, la syndicalisation est beaucoup plus forte dans la fonction
+publique quel que soit le sexe.
+
+Question 2 : À l'aide des données du document et de vos connaissances, vous
+montrerez que l'engagement politique dépend de variables sociodémographiques.
+(4 points)
+
+Réponse possible :
+L’engagement politique correspond aux formes d’activité politique que les individus
+peuvent exercer afin d’influencer les détenteurs du pouvoir politique. L’adhésion à un
+syndicat en est une forme. L’engagement politique dépend de variables
+sociodémographiques comme la catégorie socioprofessionnelle, l’âge ou encore le
+sexe.
+   – Les catégories socioprofessionnelles sont une variable de l’engagement poli-
+      tique. En 2019, en France métropolitaine, 20,4 % des cadres de la fonction pu-
+      blique étaient syndiqués tandis que 15,5 % des ouvriers de la fonction publique
+      soit une différence de 4,9 points de pourcentage, selon la DARES. Ce constat
+      peut s’expliquer par des niveaux ou des sentiments de compétence politique
+      inégaux qui peuvent être liés à des différences de niveau de qualification.
+   – Le sexe est une variable de l’engagement politique. Le taux de syndicalisation
+      des hommes salariés dans la fonction publique est 4 points de pourcentage
+      supérieur à celui des femmes salariées de la fonction publique. Cet écart peut
+      s’expliquer par des différences de représentativité politique et par la socialisa-
+      tion genrée incitant davantage les hommes à s’engager politiquement.
+   – L’âge est une variable de l’engagement politique. Le militantisme syndical est
+      en déclin chez les plus jeunes salariés (Cf. question 1) au profit de nouvelles
+      formes de mobilisation et d’autres objets que le travail.
+
+
+
+
+24-SESJ1JA1C                                                               Page 5 sur 7
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+le progrès technique est endogène.
+
+
+Programme officiel :
+Science économique
+
+Questionnement               Objectifs d’apprentissage
+Quels sont les sources et    - Comprendre que le progrès technique est endogène et
+les défis de la croissance   qu’il résulte en particulier de l’innovation.
+économique ?
+
+
+Exploitation possible des documents :
+
+ Document 1 Ce document permet d’illustrer que la DIRD et le nombre chercheurs
+            en proportion des actifs favorisent l’innovation, donc le progrès
+            technique et la croissance économique qui soutient le niveau de vie
+            mesuré ici.
+ Document 2 Ce document fait référence aux externalités positives générées par
+            les transferts de connaissances et l’augmentation du capital humain.
+                - Durant le processus d’innovation, les connaissances se trans-
+                   mettent entre les entreprises et entre les pays via la présence
+                   externalités positives ;
+                - L’augmentation des brevets en Chine et en Inde s’explique, en
+                   partie, par les réseaux mondiaux de R&D ;
+                - Ces transferts et ces réseaux mondiaux de R&D permettent
+                   une augmentation des connaissances et du capital humain fa-
+                   vorisant alors la croissance.
+ Document 3 Ce document montre l’évolution du nombre de brevets dans les pays
+            de l’OCDE de 1990 à 2019.
+                – Entre 1990 et 2007, le nombre de brevets a plus que doublé.
+                – On observe une légère diminution entre 2007 et 2009 s’expli-
+                   quant par la crise économique et financière, puis une aug-
+                   mentation jusqu’en 2013 s’approchant de 300 000 brevets dé-
+                   posés par an.
+                – Puis à partir de 2013, on constate une stagnation du nombre
+                   de brevets aux alentours de 290 000 par an.
+
+
+Raisonnement possible :
+
+Le progrès technique est l’ensemble des innovations, qui transforment les produits et
+les activités productives, permettant de réaliser des gains de productivité. À partir des
+années 1980, les théories de la croissance endogène ont montré le caractère
+endogène c’est à dire auto-entretenu et cumulatif du progrès technique. Le progrès
+technique favorise la croissance, qui a son tour, favorise le progrès technique.
+
+24-SESJ1JA1C                                                                Page 6 sur 7
+Les investissements en recherche et développement (R&D) favorisent le progrès
+technique endogène. Les investissements en recherche et développement sont
+nécessaires pour stimuler les découvertes, les inventions et leurs commercialisations.
+D’après le document 1, en 2020, les dépenses intérieures de R&D (DIRD) des pays
+de l’OCDE représentaient 2,6 % du PIB soit 0,5 point de pourcentage de plus que les
+DIRD de l’Union européenne à 27. La R&D est également stimulée par des
+investissements en capital humain qui augmentent les compétences des travailleurs,
+favorisant ainsi la productivité. Ces investissements favorisent donc le progrès
+technique et la croissance économique est alors stimulée. En Allemagne, les DIRD
+représentaient 3,1 % du PIB en 2020, la même année on dénombrait 10,3 chercheurs
+pour mille actifs selon l’OCDE et le PIB par habitant était de 64 146 dollars en 2022
+selon l’Insee. Les revenus générés par le progrès technique peuvent ensuite servir à
+financer de nouveaux investissements favorisant une dynamique cumulative.
+
+Le progrès technique génère des externalités positives favorisant le caractère
+endogène et cumulatif de celui-ci. Les investissements en R&D ou en capital humain
+vont jouer sur d’autres agents ou d’autres activités économiques que ceux qui les ont
+lancés. Le document 2 montre que lors du processus d’innovation, les savoirs des
+chercheurs sont enrichis et renouvelés et leur mobilité entre entreprises à l’échelle
+internationale va permettre un transfert de connaissances et de technologies entre
+pays et entre firmes.
+
+L’instauration de brevets favorise le progrès technique. Les brevets sont des droits de
+propriété temporaires sur une innovation. Ils protègent l’innovation car seule
+l’entreprise qui aura supporté les coûts de l’innovation peut en tirer profit pendant un
+certain temps, ce qui l’incite à investir de nouveau et à innover. D’après le document
+3, entre 1990 et 2019, le nombre de brevets a été presque multiplié par 2,6 dans les
+pays de l’OCDE. En effet, en 1990, environ 110 000 brevets étaient déposés tandis
+qu’ils étaient 290 000 en 2019 selon l’OCDE. Cela est la preuve d’une dynamique
+croissante concernant les dépôts de brevets. À ce titre, d’après le document 1, les
+DIRD représentaient 2,6% du PIB des pays de l’OCDE en 2020 et on comptabilisait
+8,5 chercheurs pour mille actifs la même année.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ1JA1C                                                               Page 7 sur 7
+

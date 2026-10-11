@@ -1,0 +1,68 @@
+{
+  "id": "21-SESJ1JA1-EC2-A",
+  "slug": "21-sesj1ja1-ec2-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": "A",
+  "examCode": "21-SESJ1JA1",
+  "year": 2021,
+  "session": "normale",
+  "day": "J1",
+  "center": "Asie",
+  "question": "Contribution des facteurs de production et de la productivité globale des facteurs (PGF) à la croissance économique en 2017 Pays Contribution des Contribution du Contribution de Taux de heures facteur capital la PGF croissance",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, comparez la répartition des différentes contributions à la croissance économique de l'Allemagne et des Etats-Unis en 2017.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, montrez que les contributions à la croissance ne se réduisent pas à la seule accumulation des facteurs de production.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** Contribution des facteurs de production et de la productivité globale des facteurs (PGF) à la croissance économique en 2017 Pays Contribution des Contribution du Contribution de Taux de heures facteur capital la PGF croissance\n\n*Source indiquée : OCDE, 2019.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'approche en termes de classes sociales demeure-t-elle pertinente pour rendre compte de la structuration de la société française actuelle ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Expliquez en quoi les asymétries d'information sur le marché du travail sont-elles sources de chômage structurel ?"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'engagement politique dépend de variables sociodémographiques."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ1JA1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.826) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

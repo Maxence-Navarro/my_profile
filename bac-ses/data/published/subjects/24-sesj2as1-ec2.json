@@ -1,0 +1,68 @@
+{
+  "id": "24-SESJ2AS1-EC2",
+  "slug": "24-sesj2as1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "24-SESJ2AS1",
+  "year": 2024,
+  "session": "normale",
+  "day": "J2",
+  "center": "Amérique du Sud",
+  "question": "Contribution à la croissance du PIB en 2022 Croissance du (En point de pourcentage) Pays PIB en 2022 (En %) Productivité",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "Comparez les sources de la croissance économique de la France et du Japon en 2022.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, vous montrerez que les sources de la croissance sont multiples.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Contribution à la croissance du PIB en 2022 Croissance du (En point de pourcentage) Pays PIB en 2022 (En %) Productivité\n\n*Source indiquée : D'après OCDE, 2023.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'approche en termes de classes sociales suffit-elle à rendre compte de la structure de la société française actuelle ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Présentez un argument pour montrer que les niveaux de formation contribuent à expliquer la mobilité sociale."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les pouvoirs publics disposent de plusieurs instruments pour préserver l'environnement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source du sujet",
+      "url": "https://ses.ac-versailles.fr/spip.php?rubrique18",
+      "kind": "officiel",
+      "note": "Académie de Versailles, doc SPIP 781 (24-sesj2as1_suj_v1-3.pdf), copie Wayback du 14/04/2026"
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

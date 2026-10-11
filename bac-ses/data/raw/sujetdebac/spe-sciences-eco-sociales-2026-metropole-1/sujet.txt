@@ -1,0 +1,395 @@
+       BACCALAURÉAT GÉNÉRAL
+
+      ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                             SESSION 2026
+
+
+
+ Sciences économiques et sociales
+
+              ÉPREUVE DU MARDI 16 JUIN 2026
+
+
+                           Durée de l'épreuve : 4h00
+
+
+
+              L’usage de la calculatrice et du dictionnaire n’est pas autorisé
+
+
+
+               Dès que le sujet est remis, assurez-vous qu'il est complet.
+
+                Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+
+    Le candidat traite au choix le sujet de dissertation ou l’épreuve composée.
+
+                         Il indique sur sa copie le sujet choisi.
+
+
+
+
+26-SESJ1ME1                                 1/10
+               Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+         figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+         organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+                                                    SUJET
+
+                                 Ce sujet comporte quatre documents.
+
+
+    Comment les questions environnementales peuvent-elles devenir un problème
+                                    public ?
+
+DOCUMENT 1
+
+Nombre de publications scientifiques de 15 pays sur la protection de l’environnement
+
+                                   Nombre de publications                                                   Évolution entre 2010 et 2020
+                                   2010              2020                                                    (coefficient multiplicateur)
+ Chine                            10 709            62 918                                                                5,9
+ États-Unis                       14 976            24 783                                                                1,7
+ Inde                             2 501             13 577                                                                5,4
+ Royaume-Uni                      3 680             7 933                                                                 2,2
+ Allemagne                        3 361             7 131                                                                 2,1
+ Italie                           2 249             6 691                                                                 3,0
+ Corée du Sud                     2 041             6 520                                                                 3,2
+ Espagne                          2 644             6 486                                                                 2,5
+ Brésil                           1 681             6 294                                                                 3,7
+ Iran                              858              6 022                                                                 7,0
+ Australie                        2 271             5 756                                                                 2,5
+ Canada                           2 632             5 433                                                                 2,1
+ France                           2 545             4 724                                                                 1,9
+ Japon                            2 834             4 472                                                                 1,6
+ Taïwan                            1732             2 352                                                                 1,5
+ Total                            75 509           230 900                                                                3,1
+
+           Source : d’après Ministère chargé de l’Enseignement supérieur et de la recherche, État de
+    l’enseignement supérieur, de la recherche et de l’innovation en France, n° 15, d’après Base OST
+                                                   (Observatoire des Sciences et Techniques), 2022.
+
+
+
+
+26-SESJ1ME1                                            2/10
+
+                                                         EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+DOCUMENT 2
+
+Sondage : « Dans cette liste, quelle est la question qui vous paraît la plus importante
+            aujourd’hui pour la France ? (Une seule réponse possible) »
+
+ En %              2013   2014   2015   2016   2017                 2018                               2019   2020   2021   2022   2023   2024
+
+
+ La hausse des      10     9      6      5      6                            8                         12      7      8     38     28     26
+ prix
+
+
+ L’immigration       3     10    16     15     14                         19                           14      9     14      9     13     15
+
+ L'environ-
+ nement / La
+                     7     2      4      5      6                            8                         16     10     13     10     12      9
+ transition
+ écologique
+ La sécurité des
+ biens et des        5     4      5     12      9                            8                          8      5      11     5     12      9
+ personnes
+
+
+ Les inégalités     10     7      7      8      9                         10                           10      8      7      7      6      7
+
+
+
+ L'emploi           37     35    37     30     29                         22                           16     19     12      7      5      5
+
+
+
+            Source : d’après ADEME (Agence De l’Environnement et de la Maîtrise de l’Énergie), Les
+                Représentations sociales du changement climatique, 25e vague du baromètre, 2024.
+
+
+
+
+26-SESJ1ME1                                     3/10
+
+                                                    EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+DOCUMENT 3
+
+        Investissements des entreprises pour protéger l’environnement en 2023
+
+
+
+
+Champ : France, industries extractive et manufacturière (y compris artisanat commercial) et énergie ;
+établissements de 20 salariés ou plus.
+
+             Source : INSEE, Investissements des entreprises pour protéger l’environnement, 2025.
+
+Lecture : En 2023, en matière d’énergies renouvelables, les entreprises ici analysées ont investi
+environ 560 millions d’euros, et prévoient d’investir 40 millions d’euros à l’avenir.
+
+26-SESJ1ME1                                     4/10
+
+                                                 EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+DOCUMENT 4
+
+        Il est assez rare de voir sur une même scène un chef d’entreprise du CAC 40 et un
+pirate. Ce 23 juin, sur les quais de Seine à Paris, dans un lieu à mi-chemin entre péniche et
+bar branché, Alexandre Ricard, le PDG du groupe Pernod Ricard, et Paul Watson posent
+ensemble pour la postérité.
+        Dans le milieu de la protection des océans, Paul Watson est une star. Un militant
+écologiste connu pour ses faits d’armes – le fameux sauvetage de bébés phoques avec
+Brigitte Bardot sur la banquise en 1977, quelques baleiniers coulés depuis –, exilé en France
+sous le coup de deux mandats d’arrêt internationaux. Barbe blanche et chemise ouverte sur
+tee-shirt pour l’un, costume sérieux et sourire mesuré pour l’autre. Inutile de préciser qui porte
+quoi.
+Tous deux sont venus soutenir le lancement de Take OFF (Take Ocean For Future), une
+opération menée par l’Institut océanographique Paul-Ricard pour lever des fonds et mettre la
+recherche au cœur de la protection de l’océan. « Je suis très à l’aise avec ce mélange des
+genres, précise Patricia Ricard, la présidente de l’institut. Parce que chacun peut attirer
+l’attention avec ses méthodes. » […]
+        Watson a […] rappelé que « si l’océan meurt, nous mourrons aussi ». Alexandre
+Ricard a, lui, endossé son costume rassurant de « plus jeune chef d’entreprise du CAC 40 »,
+dont le groupe finance déjà à 75% l’action de l’institut. « Il faut que notre action sorte du petit
+monde de la mer. Il y a urgence », souligne sa cousine Patricia Ricard, aux manettes depuis
+dix ans. Pour elle, le déclic a eu lieu avec la COP 21 en France : « On a pensé que tout ce
+qu’on disait et faisait depuis des années dans notre coin pouvait avoir un écho. Et quand
+Alexandre prend la parole, il est plus facilement entendu par ses pairs, il touche un public
+plus large que le nôtre. » […]
+        Et le PDG du numéro deux mondial dans le secteur des vins et spiritueux d’expliquer
+avec pédagogie qu’« en Australie les vendanges ont, en dix ans, été déplacées de janvier à
+mars pour cause de dérèglement climatique ». Or, pour un bon champagne, il faut du raisin
+de qualité. Pour une bonne vodka, un climat adapté aux champs. Surtout, « il ne faut pas
+oublier que le pastis est constitué en majorité d’eau ». Un pirate est un pirate, un patron est
+un patron.
+
+     Source : Lisa VIGNOLI, « Paul Watson l’écolo et Alexandre Ricard le patron unis pour protéger
+                                                               l’océan », Le Monde, 30 juin 2016.
+
+
+
+
+26-SESJ1ME1                                    5/10
+
+                                                EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+                                          Épreuve composée
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en faisant
+appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant ses
+connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter le
+sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous expliquerez une difficulté soulevée par les chocs asymétriques dans le cadre de la zone
+euro.
+
+
+
+
+26-SESJ1ME1                                            6/10
+
+                                                        EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+Deuxième partie : Étude d’un document (6 points)
+
+
+Vote systématique1 aux élections nationales de l’année en 2002, 2012 et 2022 par âge
+et diplôme (en % des inscrits)
+
+                                                  2002                                               2012   2022
+Ensemble de la population                           47,6                                             47,8    37
+Par âge
+18-29 ans                                           31,4                                             26,8   17,3
+30-64 ans                                           49,1                                             50,1   37,2
+65 ans et plus                                      55,7                                             56,5   47,7
+Par diplôme
+Aucun diplôme                                       45,6                                             42,2   28,8
+Diplôme inférieur au baccalauréat                   51,8                                             49,2   38,1
+Baccalauréat                                        52,2                                             46,9   33,3
+Diplôme de l’enseignement supérieur                 54,5                                             53,8   43,7
+
+Champ : Personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+
+    Source : D’après Élisabeth ALGAVA et Kilian BLOCH, « Vingt ans de participation électorale : en
+               2022, les écarts selon l’âge et le diplôme continuent de se creuser », Insee Première,
+                                                                                n° 1929, 17/11/2022.
+
+1 : Vote systématique : ont voté à tous les tours des élections nationales de cette année-là
+(présidentielles et législatives).
+
+
+Questions :
+   1. À l’aide des données du document et d’un calcul simple, vous comparerez l’évolution
+       du vote systématique des 18-29 ans à celle de l’ensemble de la population entre
+       2012 et 2022. (2 points)
+
+   2. À l’aide du document et de vos connaissances vous montrerez que l’engagement
+      politique dépend de variables sociodémographiques. (4 points)
+
+
+
+
+26-SESJ1ME1                                     7/10
+
+                                                  EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                            Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+la productivité des firmes sous-tend la compétitivité d’un pays, c’est-à-dire son
+aptitude à exporter.
+
+DOCUMENT 1
+
+ Secteurs industriels avec l’excédent commercial le plus élevé en France sur un an
+                (septembre 2023 - août 2024), en milliards d'euros
+
+
+
+
+  Source : Tristan GAUDIAUT, « Les fleurons de l'industrie française à l’export », www.statista.com,
+                                                                                    24 octobre 2024.
+
+
+
+
+26-SESJ1ME1                                    8/10
+
+                                                EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+DOCUMENT 2
+
+       Aequs Aerospace France1 monte en capacité en se dotant d'une nouvelle machine
+d'usinage cinq axes à très haute vitesse. Un investissement de 2 millions d'euros pour ce
+sous-traitant aéronautique de Cholet (Maine-et-Loire). « C'est la première machine neuve
+que nous achetons depuis sept ans. Elle répond à un impératif de productivité demandé par
+notre principal client. Sans cet investissement, nous perdions le marché », explique Olivier
+de Rohan-Chabot, directeur de l'usine choletaise. Le nouvel équipement doit en effet usiner
+24 heures sur 24 et 7 jours sur 7 des pièces de fonderie en aluminium destinées à la
+fabrication de trains d'atterrissage, pour le compte de Safran Landing Systems2.
+       La filiale française du groupe indien Aequs Aerospace est en effet active dans
+l'usinage de pièces aéronautiques complexes et à forte valeur ajoutée pour les programmes
+neufs des avionneurs et pour la fourniture de pièces de rechange à destination des
+compagnies aériennes. Elle produit ainsi des éléments de trains d'atterrissage et des
+composants moteur équipant l'Airbus A320, l'ATR 72 pour les trains d'atterrissage, ou encore
+le Falcon 7X de Dassault, ainsi que certains programmes militaires. « Les commandes
+d'avions neufs explosant, nous enregistrons une croissance de 20 % depuis la sortie de crise
+du Covid. Cette tendance devrait se maintenir au cours des trois prochaines années »,
+indique le directeur d'Aequs Aerospace France.
+       Depuis 2022, cette entreprise de 70 salariés a en effet vu son chiffre d'affaires passer
+de 6,5 à 11 millions d'euros sur son dernier exercice clôt en mars 2025. Olivier de Rohan-
+Chabot table ainsi sur un atterrissage à 15 millions d'euros pour l'exercice 2025-2026.
+« […], nous prenons de nouveaux marchés notamment dans les pièces de prototypage. Un
+domaine très spécifique qui nous permet de nous positionner auprès de nos clients en vue
+de l'adoption en série des prochaines motorisations », ajoute le dirigeant. En conséquence,
+Aequs Aerospace a créé dix postes ces deux dernières années à Cholet.
+
+         Source : d’après Cédric MENUET, « Aequs Aerospace France augmente ses capacités de
+                                  production en Maine-et-Loire », wwww.lesechos.fr, 16 mai 2025.
+
+1 : Aequs Aerospace France : filiale du groupe indien Aequs Aerospace.
+2 : Safran Landing Systems : entreprise française, filiale du groupe Safran, spécialisée dans le
+domaine aéronautique.
+
+
+
+
+26-SESJ1ME1                                  9/10
+
+                                               EN_NODgzNT8QzNjAc0ND2UzMsTYxMj4A2MDAUwMzfEzNITgx
+DOCUMENT 3
+
+  Évolution du salaire moyen par tête (en indice), et croissance de la productivité
+          globale des facteurs (en indice) dans quelques pays, 2000-2022
+
+                                   2000       2005       2010        2015       2020       2022
+
+                                            Allemagne
+
+   Salaire moyen par tête,
+   indice base 100 en 2000          100        102        103        112         117        115
+
+   Croissance de la productivité
+   globale des facteurs,            100        103        103        108         111        112
+   indice base 100 en 2000
+
+                                             Espagne
+
+   Salaire moyen par tête,
+   indice base 100 en 2000          100         99        108        104         102        100
+
+   Croissance de la productivité
+   globale des facteurs,            100         98         98         99         98         102
+   indice base 100 en 2000
+
+                                            États-Unis
+   Salaire moyen par tête,
+   indice base 100 en 2000          100        105        110        115         127        127
+
+   Croissance de la productivité
+   globale des facteurs,            100        108        113        113         117        117
+   indice base 100 en 2000
+
+                                              France
+
+   Salaire moyen par tête,
+   indice base 100 en 2000          100        107        114        118         116        121
+
+   Croissance de la productivité
+   globale des facteurs,            100        103        102        104         103        101
+   indice base 100 en 2000
+
+                                               Japon
+
+   Salaire moyen par tête,
+   indice base 100 en 2000          100        101         99         97         100        100
+
+   Croissance de la productivité
+   globale des facteurs,            100        104        103        108         108        109
+   indice base 100 en 2000
+
+
+      Source : d’après Un monde en mutation – Productivité, compétitivité et transition numérique,
+                                    Rapport du Conseil National de Productivité, 14 avril 2025.
+
+
+
+
+26-SESJ1ME1                                  10/10
+

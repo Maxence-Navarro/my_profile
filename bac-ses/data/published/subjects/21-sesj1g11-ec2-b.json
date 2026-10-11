@@ -1,0 +1,68 @@
+{
+  "id": "21-SESJ1G11-EC2-B",
+  "slug": "21-sesj1g11-ec2-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": "B",
+  "examCode": "21-SESJ1G11",
+  "year": 2021,
+  "session": "normale",
+  "day": "J1",
+  "center": "Centres étrangers",
+  "question": "L'effort d'innovation dans différents pays de l'Union européenne DIRD1 en % Dépenses publiques PIB/habitant dans l'UE en du PIB d'éducation en % du PIB indice base 100 pour l'UE (en 2017) (en 2016) (en 2017)",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "Comparez les données du document concernant la France et la Roumanie.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide des données du document et de vos connaissances, montrez le caractère endogène du progrès technique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** L'effort d'innovation dans différents pays de l'Union européenne DIRD1 en % Dépenses publiques PIB/habitant dans l'UE en du PIB d'éducation en % du PIB indice base 100 pour l'UE (en 2017) (en 2016) (en 2017)\n\n*Source indiquée : INSEE, 2020.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Quel est le rôle du progrès technique dans le processus de croissance économique ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Présentez deux évolutions de la structure socioprofessionnelle française depuis la seconde moitié du XXe siècle."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'engagement politique peut prendre des formes variées."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1G11 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-centres-etranger-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ1G11",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-centres-etranger-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ1G11 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.742) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

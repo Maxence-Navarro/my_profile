@@ -1,0 +1,538 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2021
+
+
+
+          Sciences économiques et sociales
+
+                                     JOUR 1
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 15 pages numérotées de 1/15 à 15/15.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ1PO1                                                                   Page : 1/15
+Dissertation s’appuyant sur un dossier documentaire
+
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+                Comment expliquer les inégalités de réussite scolaire ?
+
+
+
+
+21-SESJ1PO1                                                                                 Page : 2/15
+DOCUMENT 1
+
+          Niveau de diplôme des 25-34 ans selon le milieu social, en 2018,
+                                en France (en %)
+
+     Enfant de :
+
+        Agriculteur, artisan,
+      commerçant, chef d'ent.             13             16              14            9         15                34
+
+
+
+       Cadre ou prof. int. sup.   4 5 4              9         14                                     65
+
+
+
+           Prof. Intermédiaire        7         13            11         9             17                     44
+
+
+
+                     Employé              15                  20                  14        12        14                26
+
+
+
+                       Ouvrier             18                       28                      17        9       13             16
+
+
+
+                    Ensemble              13              18                 12         9        14                  33
+
+
+                                  0                      20                   40                 60             80                100
+
+
+        Brevet ou aucun diplôme                           CAP, BEP                                        Baccalauréat pro ou éq.
+        Baccalauréat GT                                   Supérieur court                                 Supérieur long
+
+
+
+
+Note : la catégorie socioprofessionnelle d’un retraité ou d’un chômeur est celle de son dernier
+emploi. La profession du père est privilégiée, celle de la mère y est substituée lorsque le père
+est absent, décédé, ou n’a jamais travaillé.
+
+Champ : France métropolitaine + DOM (hors Mayotte), données provisoires.
+
+     Source : L’état de l’École 2019, Ministère de l’Éducation nationale, de la jeunesse et des
+                                                                                        sports.
+
+
+Note : CAP / BEP : Certificat d’Aptitude Professionnelle / Brevet d’Études Professionnelles.
+
+
+
+
+21-SESJ1PO1                                                                                                                  Page : 3/15
+DOCUMENT 2
+Les parents [de Lucie, 5 ans, en grande section de maternelle], Pierre et Aline, se sont
+rencontrés en 1994 et pacsés en 2012. Né en 1964, Pierre a 51 ans au moment de
+l'enquête. C'est un écrivain connu et reconnu, publiant dans une maison d'édition
+parisienne renommée […].
+Née en 1974, Aline, la mère, a 41 ans et enseigne actuellement à trois quarts de temps
+la philosophie dans un lycée de Besançon. Depuis ses maternités, elle a utilisé les
+congés parentaux et les temps partiels pour être plus présente auprès de ses filles et
+avoir aussi du temps pour elle. […]
+Des tableaux, essentiellement d'art contemporain, originaux ou simples reproductions,
+tapissent les murs. Dans toutes les pièces, les livres envahissent les étagères. […] Les
+chambres se trouvent à l'étage. Celles des filles, chacune disposant de la sienne, se
+situent de part et d'autre de celle de leurs parents. Dans la chambre de Lucie, une
+bibliothèque regroupe des livres pour enfants et des bandes dessinées de toutes
+sortes […].
+À la maison, le livre est central, et banal. […] Objets du quotidien, dont la présence est
+banalisée, ils n'ont plus rien d'exceptionnel pour des enfants qui peuvent
+quotidiennement en constater l'usage et en mesurer l'importance aux yeux des
+adultes. Lucie et Élise voient cependant que les livres ne sont pas des objets comme
+les autres, qu'ils sont destinés à être lu et qu'il faut pour ça acquérir des compétences
+qui permettent d'entrer en contact avec eux. L'envie de lire est générée presque
+naturellement chez les enfants vivant une telle situation, tant ils souhaitent pouvoir à
+leur tour accéder aux mystères contenus par ces objets. À propos de Lucie, Pierre dit :
+« Parfois, elle prétend presque savoir déjà lire, enfin elle déchiffre quand même. Dès
+qu'elle peut déchiffrer un mot, elle est toute fière. »
+
+                  Source : Enfances de classe, sous la direction de Bernard LAHIRE, 2019.
+
+
+
+
+21-SESJ1PO1                                                                  Page : 4/15
+DOCUMENT 3
+
+  Attentes des familles en matière de formation et vœu d’orientation en fin de
+  troisième générale, selon qu’au moins un des parents est ou non bachelier
+
+                                      Aucun des parents    Au moins un des
+                                      n’a le baccalauréat     parents a le
+                                                             baccalauréat
+ Diplôme considéré comme le plus utile pour trouver un emploi (en %)
+ Aucun                                     1,8                      1,3
+              1
+ CAP ou BEP                               14,1                     1,7
+ Baccalauréat professionnel               21,7                    10,4
+ Baccalauréat général ou                  15,2                     9,1
+ technologique
+ Diplôme de l’enseignement                19,1                    57,0
+ supérieur
+ Ne sait pas                              28,0                    20,4
+ Vœu d’orientation en seconde générale et technologique en fin de troisième
+ générale selon les notes au contrôle continu du brevet2 (en %)
+ Moins de 8/20                            11,5                    31,6
+ De 8/20 à moins de 10/20                 38,9                    65,7
+ De 10/20 à moins de 12/20                70,0                    90,3
+ De 12/20 à moins de 15/20                91,8                    98,8
+ 15/20 ou plus                            99,3                    99,7
+ Part des élèves qui choisissent la voie professionnelle quand ils ont obtenu
+ 10/20 ou plus au contrôle continu du brevet (en %)
+                                          17,4                     3,3
+
+Champ : France métropolitaine, entrants en sixième en 1995.
+
+                                      Source : d’après France, portrait social, INSEE, 2009.
+
+Lecture : quand aucun d’entre eux n’avait le baccalauréat, 14,1 % des parents déclarent que
+le CAP ou le BEP sont les diplômes les plus utiles pour trouver un emploi.
+
+1 : CAP / BEP : Certificat d’Aptitude Professionnelle / Brevet d’Études Professionnelles.
+2 : Moyenne des notes obtenues par l’élève en français, mathématiques et première langue
+vivante.
+
+
+
+
+21-SESJ1PO1                                                                    Page : 5/15
+DOCUMENT 4
+
+          Effectifs de l’enseignement supérieur en 2018-2019, en France
+
+                                                                     Part des
+                                                                   élèves ayant       Part des
+                                                                   des parents1     élèves ayant
+                                                     Part des       cadres ou       des parents1
+                                    Effectifs en
+                                                   femmes en       professions      ouvriers ou
+                                      milliers
+                                                   2018 (en %)    intellectuelles    inactifs en
+                                                                   supérieures          2018
+                                                                      en 2018          (en %)
+                                                                       (en %)
+ Université                            1 615           57,4             33,3            18,3
+   Préparation au DUT                   120            40,3             30,7            18,3
+   Droit, sciences politiques           207            66,6             36,6            17,0
+   Économie, AES                        192            53,4             28,1            22,7
+   Arts, lettres, langues, SHS          506            69,5             27,1            21,2
+   Staps                                 57            31,0             29,7            18,4
+   Santé                                233            64,0             47,8            10,8
+   Sciences                             270            41,1             33,6            18,6
+   Formations d’ingénieurs               31            28,8             43,2            12,3
+ Formations d’ingénieurs hors           133            27,4             53,9             7,6
+ université
+ Écoles de commerce, gestion,           188            50,9            51,1             6,1
+ vente et comptabilité
+ Écoles artistiques,                     95            58,9            47,4             7,7
+ d’architecture et de journalisme
+ Écoles paramédicales et                135            85,6            23,0             19,0
+ sociales
+ CPGE et prépas intégrées                96            41,1            52,6             10,3
+ STS et assimilés                       263            49,0            15,6             34,3
+ Autres écoles et formations2           155            53,8            44,2             11,7
+ Ensemble                              2 679           55,3            34,3             18,1
+
+1. Les proportions sont calculées en excluant les étudiants pour lesquels l’origine sociale n’est
+pas renseignée, soit 14 % d'entre eux en moyenne. Cette proportion est inférieure à 20 %,
+sauf dans les écoles de commerce (37 %), les autres écoles et formations (31 %) et les écoles
+artistiques (45 %).
+2. Comprend notamment les établissements privés d’enseignement universitaire, les ENS, les
+écoles juridiques et administratives.
+
+                                                                 Source : d’après INSEE, 2020.
+
+Note : DUT : Diplôme Universitaire de Technologie / AES : Administration Économique et
+Sociale / SHS : Sciences Humaines et Sociales / STAPS : Sciences et Technique des Activités
+Physiques et Sportives / CPGE : Classe Préparatoire aux Grandes Écoles / STS : Section de
+Technicien Supérieur / ENS : École Normale Supérieure.
+
+
+
+
+21-SESJ1PO1                                                                         Page : 6/15
+                          ÉPREUVE COMPOSÉE – SUJET A
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Distinguez la mobilité            sociale    intergénérationnelle        de    la   mobilité     sociale
+professionnelle.
+
+
+
+
+21-SESJ1PO1                                                                                 Page : 7/15
+     Deuxième partie : Étude d’un document (6 points)
+
+                                  Les moyens d’expression publique
+
+      « Selon vous, qu’est ce qui permet aux citoyens d’exercer le plus d’influence sur les
+                                décisions prises en France ? »1
+
+                          Décembre    Décembre     Décembre     Décembre     Décembre       Février
+           %
+                            2009        2012         2014         2016         2018          2020
+
+   Voter aux élections       61           65           61           60           55           54
+
+     Boycotter des
+   entreprises ou des        35           38           29           39           37           28
+        produits
+
+       Faire grève           27           21           22           19           27           23
+
+   Manifester dans la
+                             30           32           30           26           42           23
+          rue
+  Militer dans un parti
+                             12            9            6            7            8            5
+         politique
+      Discuter sur
+  internet, sur un blog       8            7            4            6            5            4
+      ou un forum
+
+Champ : étude réalisée auprès d’un échantillon de 2098 personnes inscrites sur les listes électorales
+âgées de 18 ans et plus.
+
+          Source : d’après « En quoi les Français ont-ils confiance aujourd’hui ? », Baromètre de la
+                             confiance politique, vague 11, Sciences Po – CEVIPOF, Février 2020.
+
+1 : les données correspondent aux moyens d’expression cités en premier ou en second choix.
+
+Questions :
+
+1. Comparez les évolutions concernant « voter aux élections » et « manifester dans la
+   rue » mises en évidence dans le document. (2 points)
+
+2. À l’aide du document et de vos connaissances, présentez deux explications des
+   transformations des répertoires de l’engagement politique en France. (4 points)
+
+
+
+
+     21-SESJ1PO1                                                                        Page : 8/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+
+                         Cette partie comporte trois documents.
+
+
+Sujet : Vous montrerez que les dotations factorielles et technologiques peuvent
+expliquer les échanges internationaux.
+
+
+DOCUMENT 1
+Bien que leur productivité moyenne soit très faible, certains pays parviennent à prendre
+une part importante du marché mondial dans certains secteurs. C’est par exemple le
+cas du Bangladesh, dont la place centrale dans le secteur de la confection a fait les
+gros titres lors de la tragédie du Rana Plaza, en avril 20131. La trame de fond de cette
+tragédie a été la croissance très rapide des exportations de vêtements du Bangladesh
+qui est rapidement devenu le deuxième exportateur mondial de textile. Comment
+expliquer cette croissance subite ? Le Bangladesh est un pays très pauvre, avec une
+productivité très faible, dans tous les secteurs. La productivité est cependant
+relativement moins faible dans le secteur de la confection que dans les autres
+branches de l’économie. Le pays a donc un avantage comparatif dans la confection
+de vêtements. Cet avantage s’est creusé depuis le début des années 2000,
+notamment face à la Chine, qui reste son principal concurrent. Le boom économique
+chinois a, en effet, poussé les salaires et les capacités d’investissement à la hausse
+dans l’empire du Milieu2, ce qui a renforcé ses avantages comparatifs dans les
+secteurs industriels plus intensifs en capital et en travail qualifié que l’industrie de la
+confection.
+1 : Rana Plaza était un immeuble-usine de Dacca, la capitale du Bangladesh, qui accueillait
+plusieurs entreprises de confection travaillant pour le compte de marques internationales de
+vêtements. En avril 2013, cet immeuble s’est soudainement effondré, faisant plus d’un millier
+de victimes. Ce tragique accident a révélé au grand public l’intensité de la spécialisation du
+Bangladesh dans la production textile, mais aussi les conditions de travail très dures que
+subissent les travailleurs des pays en développement.
+2 : empire du Milieu : Chine
+    Source : Paul KRUGMAN, Maurice OBSTFELD, Marc MELITZ, Économie internationale,
+                                                                            2018.
+
+
+
+
+21-SESJ1PO1                                                                      Page : 9/15
+DOCUMENT 2
+    Exportations de produits industriels par les principaux exportateurs de
+                      produits industriels manufacturés
+                     (en % des exportations mondiales)
+
+
+
+
+Note : les données concernent les exportations de produits industriels manufacturés et
+excluent ainsi les produits agricoles transformés. Figurent sur ce graphique les quatre
+premiers exportateurs.
+
+                        Source : Exportations de produits manufacturés Le choc chinois,
+        Françoise LEMOINE, in « L’économie mondiale dévoile ses courbes », CEPII 2018.
+
+
+
+
+21-SESJ1PO1                                                              Page : 10/15
+    DOCUMENT 3
+         Répartition des exportations et importations manufacturières par gamme
+             (en % des exportations et importations manufacturières totales,
+                                   moyenne 2016-2018)
+
+                    Bas de gamme                 Gamme moyenne                  Haut de gamme
+                Exportations   Importations   Exportations   Importations   Exportations   Importations
+
+France              30             33             28             28              42             39
+
+Bangladesh          61             49             27             35              12             16
+
+Chine               57             19             25             31              18             50
+
+Etats-Unis          26             34             25             33              49             33
+
+Allemagne           22             30             26             32              52             38
+
+
+
+                                                                      Source : d’après CEPII, 2020.
+
+
+
+
+    21-SESJ1PO1                                                                       Page : 11/15
+                          ÉPREUVE COMPOSÉE – SUJET B
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Présentez un mécanisme par lequel le progrès technique peut engendrer des inégalités de
+revenus.
+
+
+
+
+21-SESJ1PO1                                                                               Page : 12/15
+Deuxième partie : Étude d’un document (6 points)
+
+         Évolution du PIB en volume par rapport à l’année précédente (en %)
+                      et du taux de chômage (en %) en France
+
+
+
+
+                                                                   Source : INSEE, 2019.
+
+
+Questions :
+
+
+   1. Présentez les données de l’année 2009 et de l’année 2017. (2 points)
+
+
+   2. À l’aide des données du document et de vos connaissances, montrez que les
+      fluctuations de l’activité économique ont des conséquences sur le chômage
+      conjoncturel. (4 points)
+
+
+
+
+21-SESJ1PO1                                                                  Page : 13/15
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                        Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que malgré le paradoxe de l’action collective, les individus
+s’engagent politiquement.
+
+DOCUMENT 1
+
+         Le syndicalisme : une forme d’engagement dans la vie collective
+« À votre avis, qu’est-ce qui dissuade ou empêche les salariés de s’investir dans une
+activité syndicale ? »
+
+
+
+
+Les répondants pouvaient donner plusieurs réponses.
+
+    Source : d’après le « 12e baromètre de la perception des discriminations dans l’emploi »,
+                       Défenseurs des droits et Organisation Internationale du Travail, 2019.
+
+Champ : 1 001 personnes actives, en France métropolitaine, ont été enquêtées du 3 au 27
+avril 2019.
+
+
+
+
+21-SESJ1PO1                                                                   Page : 14/15
+DOCUMENT 2
+                     Les satisfactions des bénévoles en France
+
+« Quelles principales satisfactions éprouvez-vous dans votre activité bénévole ? »
+
+
+
+
+    Source : « La France bénévole : Évolutions et perspectives », Recherches & Solidarités,
+                                                                                    2019.
+
+
+Champ : l’enquête a été réalisée en France en 2019, auprès d’un échantillon de 4 466
+bénévoles.
+
+
+
+DOCUMENT 3
+Le mouvement des gilets jaune prend naissance autour d'un enjeu bien cadré qui est
+celui de la taxe carbone, puis très rapidement de la pression fiscale. Cet enjeu est bien
+cadré, car il parle à la société française et l'opinion publique a facilement suivi le
+mouvement. La réduction de la pression fiscale est généralement une cause plutôt
+populaire. Ce cadrage de l'enjeu évolue depuis le 1er décembre 2018, et l'on parle
+désormais d'une réforme du système, ou de manière plus extrême et excessive, de
+démission ou encore de destitution du président de la République. Ce nouveau
+cadrage devrait se montrer beaucoup moins efficace et il est probable que ses élans
+révolutionnaires refroidiront très vite une partie de l'opinion publique. […]
+Le mouvement des gilets jaunes […] peine à trouver une institution cible sur laquelle
+se retourner et focaliser sa colère et ses revendications. Il se retourne contre la classe
+politique française et les partis politiques traditionnels. Le sommet de ce système étant
+le président de la République, il est aujourd'hui érigé en bouc-émissaire1 idéal qu'il
+suffirait […] d'expulser de la cité pour régler les troubles sociaux. Un tel phénomène
+de focalisation sur le président de la République est commun en France du fait des
+caractéristiques de la Ve République qui donne un rôle et une visibilité centrale au
+président.
+                                                 Source : www.theconversation.com, 2018.
+
+1 : considéré comme le principal responsable.
+
+
+
+
+21-SESJ1PO1                                                                  Page : 15/15
+

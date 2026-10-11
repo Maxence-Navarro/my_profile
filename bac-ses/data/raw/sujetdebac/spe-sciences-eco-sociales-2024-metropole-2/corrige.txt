@@ -1,0 +1,538 @@
+          BACCALAURÉAT GÉNÉRAL
+                    ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+                                    SESSION 2024
+
+
+
+         Sciences économiques et sociales
+                                       CORRIGÉ
+
+
+
+             Ce document comporte 13 pages numérotées de 1/13 à 13/13.
+           Dès que ce document vous est remis, assurez-vous qu’il est complet.
+
+
+
+
+24-SESJ2ME1C                                                                     1/13
+Dissertation :
+Sujet : Quels facteurs structurent et hiérarchisent la société française actuelle ?
+
+Programme officiel :
+Sociologie et science politique
+Questionnement Objectifs d’apprentissage
+Comment est        - Savoir identifier les multiples facteurs de structuration et de
+structurée la      hiérarchisation       de      l’espace      social     (catégorie
+société française socioprofessionnelle, revenu, diplôme, composition du ménage,
+actuelle ?         position dans le cycle de vie, sexe, lieu de résidence).
+
+
+1/ Consignes de notation
+Dissertation : /20
+
+     Objectif(s) d’apprentissage concerné(s) et liste des notions, mécanismes
+               et/ou processus attendus pour une très bonne copie :
+
+ -   Notions à mobiliser : espace social, structuration de l’espace social,
+     hiérarchisation de l’espace social, catégorie socioprofessionnelle, revenu,
+     diplôme, composition de ménage, position dans le cycle de vie, sexe, lieu de
+     résidence.
+ -   Mécanismes et processus à mobiliser : multiplicité des facteurs de structuration
+     et de hiérarchisation de l’espace social.
+
+ Copies quasiment blanches ou ne traitant pas du tout le sujet.                 1
+
+ Manque très important de références de base (pas de mécanismes ou de
+ notions au programme, pas d’argumentation). Aucune utilisation des           2–5
+ documents.
+
+ Sujet mal traité : manque de rigueur dans la démonstration, manque de
+ pertinence du plan (voire hors sujet) - Trop peu de mécanismes ou de         6–9
+ notions du programme mobilisés - Trop peu de références aux documents.
+
+ Une problématique et une démonstration, quelques références aux
+                                                                               Pas
+ mécanismes ou aux notions au programme, des références aux
+                                                                              moins
+ documents, MAIS des maladresses (réponse partielle ou superficielle ; des
+                                                                              de 10
+ erreurs ; quelques passages hors-sujet).
+
+ Problématique et démonstration correctes - Références aux mécanismes          Pas
+ et aux notions au programme assez bien maîtrisées - Documents assez          moins
+ bien exploités.                                                              de 13
+
+ 24-SESJ2ME1C                                                                    2/13
+Bonnes copies (bonne maîtrise du sujet avec une bonne maîtrise des               Pas
+mécanismes et notions au programme, exploitation pertinente des                 moins
+documents).                                                                     de 16
+
+Très bonnes copies (très bonne maîtrise du sujet, avec une très bonne            Pas
+maîtrise des mécanismes et notions au programme, exploitation                   moins
+particulièrement pertinente des documents), voire copies excellentes (20).      de 19
+
+Quelques remarques :
+
+   1. Toute l’échelle des notes est utilisée, de 1 à 20.
+   2. Les notes les plus basses sont attribuées à des copies nettement déficientes.
+   3. Pour obtenir la note 20/20, une copie n’est pas tenue d’être parfaite ; elle peut
+      même contenir des erreurs. Elle est simplement remarquable par rapport à ce
+      que l’on peut attendre d’un élève de terminale.
+   4. Si la mobilisation des notions est attendue, la définition explicite ne l’est pas.
+   5. A partir de la note 10, chaque ligne du tableau correspond à un plancher (il ne
+      faut pas attribuer une note plus basse), mais elle ne constitue pas un plafond.
+   6. Un candidat qui n’utiliserait pas l’ensemble des documents du dossier
+      documentaire ne sera pas pénalisé.
+   7. Un point au maximum pourra être retiré pour des problèmes d’orthographe et
+      d’expression – au contraire, une copie exemplaire en termes d’orthographe et
+      d’expression pourra être valorisée d’un point.
+
+
+Consignes particulières
+Une copie qui ne présenterait pas la totalité des facteurs de structuration et de
+hiérarchisation pourrait obtenir le maximum de points.
+
+
+
+
+2/ Proposition de corrigé des concepteurs
+Exploitation possible des documents :
+
+Document 1         En 2019, selon l’INSEE, le niveau de vie médian est de 24 000
+                    euros ce qui signifie que 50 % de la population dispose d’un
+                    niveau de vie supérieur et 50 % d’un niveau de vie inférieur.
+                   Présence de fortes inégalités de niveau de vie médian entre
+                    les catégories socioprofessionnelles. Les personnes exerçant
+                    un emploi de cadre ou une profession intellectuelle supérieure,
+                    disposent du niveau de vie médian le plus élevé en 2019 :
+                    34000 euros par an, soit près de deux fois celui des ouvriers
+                    ou des employés.
+
+
+
+24-SESJ2ME1C                                                                       3/13
+                 Les ouvriers, les employés et les agriculteurs, artisans,
+                   commerçants et chefs d’entreprise ont un niveau de vie médian
+                   inférieur à celui de l’ensemble de la population en 2019.
+ Document 2 Le document 2 présente les écarts de situation par rapport à l’emploi
+            selon la situation familiale et le sexe.
+            − Selon le sexe, on constate des écarts importants. Ainsi, la part du
+            temps partiel chez les femmes est plus de 4 fois plus importante que
+            celle des hommes ; le taux d’activité féminin est moins élevé que le
+            taux d’activité masculin (moins 9,4 points).
+            − Selon la situation familiale, on constate qu’avoir des enfants a un
+            impact sur l’emploi. Le taux d’activité féminin est corrélé négativement
+            au nombre d’enfants, par exemple il est presque 2 fois moins élevé
+            pour les femmes en couple avec 3 enfants ou plus (47,5 %),
+            comparativement aux femmes en couple sans enfant (88 %).
+            Il en est de même avec le temps partiel : sa part augmente pour les
+            femmes avec enfants.
+ Document 3 Le document 3 nous présente les inégalités concernant certaines
+            pratiques culturelles selon différents facteurs :
+                 L’âge : les personnes les plus âgées et en particulier la
+                   catégorie des 40-59 ans sont plus nombreux à visiter des
+                   musées et expositions, à lire au moins 20 livres dans l’année
+                   et à regarder la télévision tous les jours ou presque. Corrélation
+                   positive entre âge et fréquence des pratiques culturelles.
+                 Le sexe : les femmes sont plus nombreuses que les hommes
+                   à avoir ces pratiques culturelles (9 points d’écart pour la lecture
+                   de livres).
+                 Le niveau de diplôme : corrélation positive entre le niveau de
+                   diplôme et les pratiques culturelles excepté pour la télévision
+                   où la corrélation est négative.
+                 La PCS : même constat lorsque l’on compare les pratiques des
+                   cadres à celle des employés et ouvriers.
+                 Le lieu de résidence : la visite de musées et expositions est
+                   plus fréquente en milieu urbain et a fortiori à Paris intramuros
+                   (offre culturelle plus grande).
+
+Problématique possible :
+
+Les positions sociales qu’occupent les individus d’une société, distinctes les unes des
+autres, constituent l’espace social. Cet espace social est structuré et hiérarchisé par
+une multitude de facteurs qui interagissent entre eux.
+Dans les sociétés modernes, l’emploi occupé par les individus est l’un des principaux
+facteurs à la fois de structuration et de hiérarchisation de l’espace social : il définit à la
+fois la place que l’individu occupe dans la société et les rétributions symboliques
+(prestige) et matérielles (revenu) qu’il en retire.
+D’autres facteurs participent à structurer et hiérarchiser l’espace social, parfois
+indépendamment de l’emploi, parfois se combinant avec lui.
+
+ 24-SESJ2ME1C                                                                           4/13
+Proposition de plan détaillé :
+    I)      Une société structurée et        II)     Toutefois, d’autres facteurs
+            hiérarchisée     autour      de          de structuration et de
+            l’emploi                                 hiérarchisation existent.
+ A)     L’emploi, par le revenu qu’il A)         L’importance       des      facteurs
+ procure, est un élément structurant et sociodémographiques.
+ hiérarchisant de l’espace social
+     Le critère essentiel aujourd’hui qui    La position dans le cycle de vie
+        structure l’espace social relève de      structure également l’espace
+        la     sphère    économique       et     social. Les jeunes et les plus âgés
+        notamment de l’emploi. Le revenu         se     différencient    par    leurs
+        est en effet à l’origine du              pratiques sociales et culturelles,
+        positionnement des individus             par exemple la lecture (document
+        dans différents groupes distincts        3).
+        et hiérarchise ces groupes. Le        Le sexe est aujourd’hui un facteur
+        revenu est corrélé positivement au       déterminant dans la répartition
+        patrimoine ce qui accentue les           des individus dans l’espace
+        inégalités économiques entre les         social: il permet de définir des
+        groupes sociaux.                         groupes et de hiérarchiser les
+     Le document 1 présente ainsi les           individus. On peut ainsi souligner
+        inégalités de niveau de vie qui          des inégalités entre les femmes et
+        traversent      notre       société      les hommes, par exemple en
+        contemporaine. Les revenus vont          termes de salaires, de conditions
+        différencier les individus et les        de travail, dans les situations
+        hiérarchiser en permettant à             d’emploi (document 2) plus
+        certains d’accéder plus facilement       favorables pour les hommes
+        à certaines ressources valorisées        (promotion, accès à certains
+        par la société : le logement, les        emplois) ou encore en termes de
+        pratiques      culturelles,    une       pratiques culturelles (document
+        alimentation saine…                      3).
+
+ B)      Les                     catégories B) Les facteurs socio-culturels jouent
+ socioprofessionnelles, construites à également un rôle.
+ partir des différentes situations d’emploi,
+ rendent compte de la structuration et de
+ la hiérarchisation de l’espace social
+      La catégorie socioprofessionnelle        Le lieu de résidence ou encore la
+         d’un individu est également             composition du ménage sont
+         déterminante dans la structuration      autant de facteurs qui structurent
+         de la société. Une CSP se définit       l’espace social et le hiérarchisent.
+         par plusieurs critères dont le          Le lieu de résidence induit des
+         principal   est    la   profession      inégalités dans l’accès à certaines
+         occupée.     En     créant    cette     ressources       comme        l’offre
+         nomenclature, l’INSEE avait pour        culturelle ou l’accès aux soins
+
+ 24-SESJ2ME1C                                                                     5/13
+        objectif de définir des groupes               (document 3) ; la composition du
+        sociaux relativement homogènes.               ménage peut être à l’origine par
+       La catégorie socioprofessionnelle             exemple de disparités dans
+        révèle         une          certaine          l’emploi (document 2).
+        hiérarchisation    des     groupes,          Le niveau de diplôme est aussi un
+        notamment à travers l’accès aux               facteur clivant dans notre société
+        ressources économiques, revenu                contemporaine.        Il   permet
+        et patrimoine (document 1) et                 d’expliquer des disparités de
+        culturelles (pratiques culturelles            pratiques culturelles (document 3)
+        différenciées selon le document               et d’accès à certaines ressources,
+        3). Par exemple, la nomenclature              comme l’utilisation des nouvelles
+        permet de révéler la position                 technologies, ce qui peut être
+        privilégiée    des    cadres      et          source d’inégalités (accès à
+        professions          intellectuelles          l’information, à certains services
+        supérieures par rapport aux                   par exemple).
+        autres                   catégories
+        socioprofessionnelles.
+
+Épreuve composée
+             EC1
+
+Question : Présentez deux canaux de transmission d’une crise financière à
+l’économie réelle. (4 points)
+
+1/ Consignes de notation
+EC1 : /4
+
+  Attentes générales pour une très bonne                  Consignes particulières
+                     copie
+ - Notion à mobiliser : crise financière        Il n’est pas attendu une parfaite maîtrise
+ - Mécanismes et processus à mobiliser : technique des canaux de transmission.
+     explicitation   du     mécanisme       de
+     transmission de deux canaux sur les
+     trois présentés dans le programme :
+     effets de richesse négatif, baisse du prix
+     du collatéral et ventes forcées,
+     contraction du crédit.
+
+2/ Proposition de corrigé des concepteurs
+Réponse possible :
+
+
+24-SESJ2ME1C                                                                         6/13
+Une crise financière est une crise qui touche le système de financement de l’activité
+économique. Elle se décline en crise boursière, crise bancaire et/ou crise de change.
+Le système de financement étant essentiel à l’activité économique, une crise de celui-
+ci se transmet à cette dernière en affectant la consommation et l’investissement.
+
+- Un premier canal de transmission d’une crise financière à l’activité économique réelle
+est l’effet de richesse négatif résultant du krach boursier. L’effondrement de la valeur
+des titres entraîne une baisse de la valeur du patrimoine des agents économiques.
+Ces derniers, se sentant moins riches, réduisent leurs dépenses. Ainsi les ménages
+consomment moins et réduisent leurs investissements immobiliers. Les entreprises,
+quant à elles, investissent moins. Les activités réelles sont d’autant plus affectées que
+les agents économiques se sont endettés pour acquérir leurs actifs. Ils sont donc
+obligés d’épargner pour rembourser leurs dettes, ce qui réduit encore plus leurs
+dépenses.
+
+- Une crise se transmet à l’économie réelle par un deuxième canal qui est le recul du
+crédit bancaire lié à la crise bancaire. Celle-ci crée un climat de défiance provoquant
+un assèchement du marché interbancaire sur lequel les banques s’échangent des
+liquidités dont elles ont besoin pour se refinancer quand elles accordent des crédits à
+leurs clients. Elles sont alors plus réticentes à accorder de nouveaux crédits. Ce
+phénomène s’est produit lors de la crise de 2008 qui a touché particulièrement les
+banques américaines exposées au risque de crédit lié aux « subprimes ». Le recul du
+crédit pèse sur la consommation et l’investissement, ce qui contracte l’activité
+économique. Ajouté à cela la réticence des banques à prêter des fonds à des agents
+dont la solvabilité est moins garantie étant donné le contexte de crise économique.
+
+- Dans une situation de crise bancaire, le prix du collatéral, actif offert en garantie lors
+d’une opération de crédit, peut également baisser. Dans ce climat de défiance, les
+prêteurs peuvent exiger un remboursement des crédits accordés ou davantage de
+collatéral pour octroyer un même montant de prêt. Les créanciers sont alors forcés à
+vendre rapidement leurs actifs pour obtenir des liquidités afin d’honorer leurs
+engagements. Le volume des crédits accordés par les banques diminue ce qui réduit
+le financement de l’économie. Le recul du crédit pèse sur la consommation et
+l’investissement, ce qui contracte l’activité économique.
+
+Deux canaux de transmission sont attendus.
+
+
+             EC2
+Question 1 : Comparez l’engagement bénévole selon le niveau de diplôme en 2023.
+(2 points)
+
+Question 2 : A l’aide du document et de vos connaissances, montrez que
+l’engagement politique dépend de différentes variables sociodémographiques (4
+points).
+ 24-SESJ2ME1C                                                                         7/13
+1/ Consignes de notation
+EC2 : /6
+
+               Attentes générales pour une très              Consignes particulières
+                           bonne copie
+ Question 1    - Utilisation       de      données     On n’attend pas de calcul et on admet
+  /2              statistiques.                        une simple lecture littérale des
+               - L’engagement est croissant            données.
+                  avec le diplôme.
+ Question 2    - Notion          à       mobiliser :   Les explications    ne    sont   pas
+  /               engagement politique                 attendues.
+               - Mécanismes         et   processus
+                  mobilisés : effets du diplôme, de
+                  l’âge     et    du    sexe    sur
+                  l’engagement politique
+               - Mobilisation d’au moins une
+                  donnée statistique du document
+
+
+
+2/ Proposition de corrigé des concepteurs
+Question 1
+Réponse possible :
+L’engagement bénévole dans des associations est influencé par le niveau de diplôme.
+En effet, plus l’individu est diplômé, plus il s’engage comme bénévole dans des
+associations. Ainsi, tandis que 23 % des personnes interrogées dans l’enquête « Les
+Français et le bénévolat » menée en mars 2023 sont bénévoles, 29 % des personnes
+qui détiennent un diplôme supérieur à bac +2 sont bénévoles contre 16 % des
+personnes qui n’ont pas ou peu de diplôme (CEP, BEPC) en 2023.
+
+
+Question 2 :
+
+Réponse possible :
+
+L’engagement politique recoupe toutes les actions qui ont pour but d’influencer les
+décisions politiques, d’orienter la vie politique dans un sens qui est favorable à ceux
+qui    s’engagent.     Cet     engagement        dépend    de    plusieurs     variables
+sociodémographiques.
+
+      L’importance de la catégorie sociale et du diplôme. Dans le document, on peut
+       quantifier l’importance du diplôme concernant l’engagement dans des
+       associations. La proportion de bénévoles qui s’est engagé dans des
+       associations est systématiquement plus élevée dès lors que les personnes
+       interrogées disposent d’un niveau bac + 2 ou plus : par exemple, en 2023, 24
+
+ 24-SESJ2ME1C                                                                           8/13
+      % des personnes titulaires d’un bac + 2 sont bénévoles en association contre
+      17 % parmi les titulaires d’un CAP ou BEP, soit un écart de 7 points de
+      pourcentage. Les personnes diplômées et celles occupant des postes qualifiés
+      ont acquis des savoir-faire (capacité à s’exprimer à l’oral en public, à organiser
+      un évènement, …) et un sentiment de compétence qui leur permettent de se
+      sentir légitimes en s’engageant sur le plan associatif ou politique. Ces facteurs
+      peuvent s’acquérir par la socialisation familiale et les études.
+     L’influence de l’âge et du sexe : On peut constater l’influence du genre dans
+      l’engagement politique. Les femmes, malgré les progrès récents, n’occupent
+      pas les positions de pouvoir les plus élevées : la parité est presque atteinte pour
+      les députés, mais les présidents de Région et de Département ou les maires
+      restent majoritairement des hommes. Cela peut être relié aux inégalités de
+      genre et à la socialisation différentielle.
+     La variable de l’âge en matière de comportement politique. L’abstention est plus
+      fréquente chez les jeunes. De même l’engagement militant sera plus ponctuel,
+      sur des causes spécifiques. Ces comportements politiques peuvent s’expliquer
+      par un degré d’intégration sociale moins élevé et une situation économique
+      moins favorable que les plus âgés (précarité, revenus, patrimoine).
+
+
+
+
+24-SESJ2ME1C                                                                       9/13
+            EC3
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+qu’il existe de multiples explications au commerce entre pays comparables.
+
+Programme officiel : Science économique
+Questionnement         Objectifs d’apprentissage
+Quels      sont    les - Comprendre le commerce international entre pays
+fondements          du comparables (différenciation des produits, qualité des produits,
+commerce               et fragmentation de la chaîne de valeur).
+international et de
+l’internationalisation
+de la production ?
+
+
+1/ Consignes de notation
+Pour l’EC3 : /10
+   Objectif(s) d’apprentissage concerné(s) et liste des notions, mécanismes
+             et/ou processus attendus pour une très bonne copie :
+ - Mobilisation des notions : commerce international, commerce entre pays
+    comparables, différenciation des produits, qualités des produits, fragmentation
+    de la chaîne de valeur.
+ - Mobilisation des mécanismes et processus : explication du commerce entre pays
+    comparables par les trois raisons principales.
+
+ Copies quasiment blanches ou ne traitant pas du tout le sujet                    1
+
+ Manque très important de références de base (pas de mécanismes ou de           1,5 -
+ notions au programme). Aucune utilisation des documents.                        2,5
+
+ Sujet mal traité : la consigne n’est pas respectée - Manque de pertinence     3 - 4,5
+ du raisonnement (voire hors sujet) - Trop peu de mécanismes ou de notions
+ au programme en lien avec la consigne - Trop peu ou pas de références
+ aux documents - Pas de connaissances personnelles adaptées.
+
+ Un raisonnement à peu près conforme à la consigne, quelques références         Pas
+ aux mécanismes ou aux notions au programme, des références aux                moins
+ documents, MAIS des maladresses (des oublis ; des erreurs…).                  de 5
+
+ Un raisonnement correct et à peu près conforme à la consigne - Des             Pas
+ références aux mécanismes ou aux notions au programme maîtrisées -            moins
+ Des documents relativement bien exploités.                                    de 6,5
+
+
+
+
+ 24-SESJ2ME1C                                                                    10/13
+ Bonnes copies (traitement précis de la consigne avec une bonne maîtrise         Pas
+ des mécanismes et notions au programme, exploitation pertinente des            moins
+ documents).                                                                    de 8
+
+ Très bonnes copies (très bon traitement de la consigne avec une très           Pas
+ bonne maîtrise des mécanismes et notions au programme, exploitation           moins
+ particulièrement pertinente des documents), voire copies excellentes (10).    de 9,5
+
+Quelques remarques :
+         1. Toute l’échelle des notes est utilisée, de 1 à 10.
+         2. Les notes les plus basses sont attribuées à des copies nettement
+            déficientes.
+         3. Pour obtenir la note 10/10, une copie n’est pas tenue d’être parfaite ; elle
+            peut même contenir des erreurs. Elle est simplement remarquable par
+            rapport à ce que l’on peut attendre d’un élève de terminale.
+         4. Un candidat qui n’utiliserait pas l’ensemble des documents du dossier
+            documentaire ne sera pas pénalisé.
+         5. On ne pénalisera pas une EC3 dont une partie serait hors sujet dès lors
+            que le reste de la copie répond pertinemment au sujet.
+         6. A partir de la note 5, chaque ligne du tableau correspond à un plancher
+            (il ne faut pas attribuer une note plus basse), mais elle ne constitue pas
+            un plafond.
+
+
+Remarque concernant l’épreuve composée : un point au maximum pourra être retiré
+pour des problèmes d’orthographe et d’expression – au contraire, une copie
+exemplaire en termes d’orthographe et d’expression pourra être valorisée d’un point.
+Même si ce point concerne l’ensemble de l’épreuve composée, il ne sera soustrait ou
+attribué que sur la note de l’EC 3.
+
+
+
+ Consignes particulières
+ Bienveillance sur l’utilisation du document 3 qui peut donner lieu à des erreurs
+ d’interprétation (complexité de la fragmentation de la chaîne de valeur).
+ La différenciation des produits et la qualité des produits peuvent être traités
+ en un seul paragraphe.
+
+
+2/ Proposition de corrigé réalisé à partir de celui des
+concepteurs
+Exploitation possible des documents :
+
+
+
+ 24-SESJ2ME1C                                                                    11/13
+ Document 1 Ce document explique, à partir de la réalisation d’un sondage
+            prodigué par Statista auprès de consommateurs répartis dans
+            plusieurs pays, que l’Allemagne bénéficie d’une image de marque en
+            ce qui concerne « la qualité, l’efficacité et la confiance » de ses
+            produits.
+            Un rapport d’enquête réalisé avec le renfort de Dalia Research
+            conclue également que l’Allemagne bénéficie d’une première place
+            mondiale en ce qui concerne l’appréciation de la qualité de ses
+            produits par les consommateurs étrangers.
+            Il permet donc d’expliquer que des consommateurs de pays
+            comparables à l’Allemagne vont acheter des produits fabriqués dans
+            ce pays compte tenu de la qualité de ces derniers.
+ Document 2 Ce document, qui étudie deux pays comparables (la France et
+            l’Allemagne), met en lumière la proximité dans plusieurs secteurs des
+            exportations françaises de produits à destination de l’Allemagne et
+            des importations de produits en provenance d’Allemagne. Cela peut
+            notamment s’expliquer par la différenciation des produits. Les
+            données sont celles du premier semestre 2019.
+            En effet, la France exporte en Allemagne 1,6 milliard d’euros de
+            produits liés aux équipements électriques et ménagers et en importe
+            1,9 milliard d’euros d’Allemagne.
+            Il en est de même pour les produits chimiques, parfums et
+            cosmétiques, qui constituent 4,5 milliards d’exportations à destination
+            de l’Allemagne et 4,9 milliards d’euros d’importations en provenance
+            d’Allemagne.
+            Enfin, il en est de même pour les produits pharmaceutiques, avec 1,5
+            milliard d’euros d’exportations à destination de l’Allemagne et 1,8
+            milliard d’importations en provenance de l’Allemagne.
+ Document 3 Ce document montre d’une part le rôle de la fragmentation de la
+            chaine de valeur dans le commerce international. Cette dernière est
+            par ailleurs internationalisée. En l’occurrence, il s’agit du choix
+            d’Apple, dont la conception des Iphone est effectuée en Californie,
+            aux États-Unis d’Amérique, de faire appel à des partenaires
+            commerciaux (Taïwan, Foxconn), de confier la majorité de la
+            fabrication de ces derniers en Inde plutôt qu’en Chine pour diverses
+            raisons.
+            Ce document montre d’autre part que même dans le cadre de la
+            spécialisation internationale en fonction des dotations factorielles
+            avec les avantages comparatifs (il est précisé que la main d’œuvre
+            est moins coûteuse en Chine), une production peut être substituée
+            entre des pays comparables (la Chine et l’Inde).
+
+Raisonnement possible :
+
+Le commerce international peut s’expliquer de multiples façons qui diffèrent en
+fonction du type de commerce. Un tiers des échanges internationaux s’effectuent entre
+
+
+ 24-SESJ2ME1C                                                                  12/13
+des pays comparables. On distingue trois raisons principales du commerce entre pays
+comparables.
+
+- Premièrement, la différenciation des produits joue un rôle important, notamment dans
+des pays dans lesquels les consommateurs détiennent un pouvoir d’achat élevé et
+peuvent souhaiter choisir précisément les produits qu’ils achètent (document 2). C’est
+l’exemple classique d’un consommateur français qui achète une voiture fabriquée en
+Allemagne pour des raisons liées au design alors que des voitures aux propriétés
+équivalentes sont construites en France. Dans ce cas-là, il s’agit de véhicules de
+qualité et de prix équivalents. N’importe quelle raison justifiée par le goût des
+consommateurs est alors applicable.
+
+- Deuxièmement, des motivations en termes de qualité déterminent aussi le choix du
+consommateur. Ainsi, un consommateur français peut privilégier un véhicule fabriqué
+en Allemagne parce qu’il a une image de marque supérieure (document 1). Les
+stratégies des firmes concernant les gammes des produits commercialisés sont donc
+déterminantes.
+
+- Troisièmement, la fragmentation de la chaîne de valeur joue un rôle important. La
+production d’un produit peut être scindée en de multiples tâches distinctes les unes
+des autres : conception, fabrication, assemblage, commercialisation, etc. Cela
+engendre des échanges de biens et services dans de multiples cas de figure
+(document 3).
+
+
+
+
+ 24-SESJ2ME1C                                                                   13/13
+

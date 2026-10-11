@@ -1,0 +1,159 @@
+# score de localisation : 0.857
+# https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-2-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : Le commerce international ne présente-t-il que des avantages ?
+
+Programme officiel :
+
+Science économique
+Questionnement         Objectifs d’apprentissage
+Quels sont les         - Comprendre le rôle des dotations factorielles et
+fondements du          technologiques (avantages comparatifs) dans les échanges
+commerce               commerciaux et la spécialisation internationale.
+international et de    - Comprendre le commerce entre pays comparables
+l’internationalisation (différenciation des produits, qualité des produits, et
+de la production ? fragmentation de la chaîne de valeur).
+                       - Comprendre que la productivité des firmes sous-tend la
+                       compétitivité d’un pays, c’est-à-dire son aptitude à exporter.
+                       - Comprendre l’internationalisation de la chaîne de valeur et
+                       savoir l’illustrer.
+                       - Comprendre les effets induits par le commerce international
+                       : gains moyens en termes de baisse de prix, réduction des
+                       inégalités entre pays, accroissement des inégalités de
+                       revenus au sein de chaque pays ; comprendre les termes du
+                       débat entre libre-échange et protectionnisme.
+
+Exploitation possible des documents :
+ Document 1 − Le document montre les gains moyens induits par le commerce
+                 international en termes de baisse des prix. Entre 2000 et 2015, on
+                 constate une nette augmentation des prix dans les secteurs abrités
+                 de la concurrence internationale (l’indice des prix progresse
+                 d’environ 27 points) tandis que les prix restent relativement stables
+                 dans les secteurs exposés à la concurrence (l’indice des prix
+                 fluctue entre 105,5 et 100 points sur la même période).
+              − Si en 2015, les prix dans les secteurs exposés ont progressé de
+                 3 % par rapport à 2010, dans les secteurs abrités la hausse est
+                 plus nette (5 % soit 2 points d’écart).
+ Document 2 − Le document montre les effets contrastés du commerce
+                 international sur les inégalités et invite à s’interroger sur les effets
+                 redistributifs induits par l’ouverture internationale.
+              − L’accélération de l’ouverture internationale depuis les années 1980
+                 s’est accompagnée d’une baisse sensible des inégalités entre les
+                 pays. En 1990, le coefficient de Theil est de 0,75 contre seulement
+                 0,45 en 2010. De même, les inégalités de niveau de vie entre
+                 individus du monde entier se sont réduites, suggérant l’émergence
+                 de nouvelles couches moyennes dans les grands pays émergents
+                 du fait de leur rattrapage économique.
+
+
+
+
+23-SESJ2JA1C                                                                 Page 1 sur 7
+            − En revanche, les inégalités entre les plus aisés et les plus
+              modestes au sein des pays connaissent une résurgence depuis
+              les années 1970, après s’être réduites tout au long du XIXe siècle.
+ Document 3 − Le document propose un exemple de rattrapage économique d’un
+              pays autrefois émergent : la Corée du Sud. Cette dernière a connu
+              une forte croissance économique, liée à d’importants gains de
+              productivité. Ce décollage économique coïncide avec une phase
+              d’ouverture internationale.
+            − La Corée du Sud a pu faire évoluer ses avantages comparatifs et
+              orienter son économie vers des secteurs plus capitalistiques,
+              demandant des qualifications plus importantes, en s’insérant dans
+              les chaînes de valeurs mondiales. Cette évolution des avantages
+              comparatifs vers des secteurs à forte valeur ajoutée a permis son
+              enrichissement progressif.
+ Document 4 − Ce document montre l’évolution de la part de l’emploi industriel
+              dans trois pays. En France et aux États-Unis, la part de l’emploi
+              industriel dans l’emploi total a fortement baissé (- 8 points environ
+              en France entre 1991 et 2019 et - 6 points aux États-Unis). Dans
+              le même temps, elle s’est accrue en Chine (+ 6 points), notamment
+              à partir de 2002.
+
+Problématique possible :
+
+L’essor du commerce international, soit le flux d’échanges commerciaux entre les
+différents pays, s’est accompagné d’une réallocation internationale des activités de
+production (internationalisation des chaînes de valeur), les rendant interdépendants.
+Les théories traditionnelles du commerce international expliquent l’intensification des
+échanges internationaux par l’existence de gains à l’échange. Pourtant, le libre-
+échange est aujourd’hui remis en cause par les tenants d’un retour à certaines formes
+de protectionnisme. On pourra donc se demander quelle est la nature des gains à
+l’échange que les pays retirent à échanger et quelles sont les éventuelles limites du
+commerce international expliquant certaines intentions protectionnistes.
+
+Proposition de plan détaillé :
+
+ I) Le commerce international présente II) Le commerce international
+ des avantages.                        présente cependant des limites.
+                                       A) Le commerce international
+ A) Le commerce international permet
+                                       transforme la structure des emplois
+ une baisse du niveau moyen des prix,
+                                       et accroît les inégalités de revenu
+ améliorant le niveau de vie.
+                                       internes.
+
+
+
+
+23-SESJ2JA1C                                                              Page 2 sur 7
+                                                 • Dans         les     pays      développés
+ • Le commerce international permet aux             spécialisés dans des secteurs
+   consommateurs d’acheter moins chers              exigeant une main-d’œuvre très
+   les biens importés que s’ils étaient             qualifiée, la spécialisation entraîne
+   produits sur le territoire national, ce qui      une baisse de la demande de travail
+   augmente leur pouvoir d’achat.                   non qualifié au profit du travail
+ • Grâce à la spécialisation, le commerce           qualifié. Cet argument peut être
+   international favorise la baisse des prix        illustré par la baisse de la part de
+   grâce à plusieurs effets : spécialisation        l’emploi industriel en France et aux
+   des pays dans les secteurs où ils                États-Unis (document 4).
+   disposent d’un avantage comparatif ;          • Cette distorsion de la structure des
+   économies d’échelles du fait de la               emplois entraîne une hausse des
+   hausse de la taille des marchés ;                inégalités de revenu internes.
+   intensification de la concurrence.            • La disparition des entreprises les
+ • Ainsi, la baisse des prix est plus               moins efficaces sous l’effet de
+   importante dans les secteurs les plus            l’intensification de la concurrence,
+   exposés à la concurrence internationale          accroît le chômage, et renforce les
+   (document 1).                                    inégalités de revenu internes dans
+                                                    tous les pays.
+                                                 B) Le protectionnisme est parfois
+ B) Le commerce international a permis
+                                                 avancé comme moyen de répondre
+ une     réduction   des    inégalités
+                                                 aux        limites       du       commerce
+ internationales.
+                                                 international.
+ • L’insertion des pays émergents dans           • Les        mesures         protectionnistes
+   les chaînes de valeur mondiale a                 permettent              de          mettre
+   permis des transferts de technologie             temporairement certaines activités à
+   (grâce aux innovations incorporées               l’abri       de      la      concurrence
+   dans les exportations ; implantations de         internationale           (protectionnisme
+   firmes multinationales sur leur sol). La         éducateur ou activités stratégiques)
+   diffusion des innovations permet des             et de préserver ainsi l’emploi.
+   avantages comparatifs dans des                • Le protectionnisme peut consister en
+   secteurs à plus forte valeur ajoutée,            l’adoption            de           normes
+   contribuant à une forte croissance tirée         environnementales, sanitaires et
+   par les exportations et à un                     sociales       sans       pénaliser    les
+   enrichissement.                                  entreprises domestiques vis-à-vis de
+ • Cela     a   permis     un    rattrapage         la concurrence internationale.
+   économique       de    certains     pays      • Toutefois, le protectionnisme a un
+   émergents, se traduisant par un                  coût économique car il implique de
+   rapprochement des niveaux de vie et              renoncer aux gains à l’échange :
+   une      réduction    des      inégalités        perte de compétitivité, prix plus
+   économiques globales, entre citoyens             élevés,        risque       de      guerre
+   du monde (document 2). Pour illustrer            commerciale, baisse de la variété
+   cet argument, l’exemple de la Corée du           des produits pour le consommateur,
+   Sud est présenté au document 3.                  etc.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+Ainsi, il n’est pas nécessairement attendu que le candidat traite du protectionnisme.
+
+
+
+23-SESJ2JA1C                                                                     Page 3 sur 7

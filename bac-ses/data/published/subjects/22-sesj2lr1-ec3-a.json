@@ -1,0 +1,69 @@
+{
+  "id": "22-SESJ2LR1-EC3-A",
+  "slug": "22-sesj2lr1-ec3-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": "A",
+  "examCode": "22-SESJ2LR1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J2",
+  "center": "Mayotte – Liban",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les institutions jouent un rôle dans la croissance économique.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Dépenses de R&D1 (en % du PIB) et PIB par habitant *(source : Banque mondiale, 2020.)*\n- Document 2 — Les pays pauvres ont accès à la majeure partie du savoir technique qui existe. Dans *(source : Olivier BLANCHARD et Daniel COHEN, Macroéconomie, 2017.)*\n- Document 3 — La corruption (l'abus d'une charge publique à des fins personnelles) nuit à l'activité de *(source : Fonds Monétaire International, « Freiner la corruption »,)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Le travail est-il encore facteur d'intégration sociale aujourd'hui en France ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous présenterez deux évolutions de la structure socioprofessionnelle en France depuis la seconde moitié du XXe siècle."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide du document, vous comparerez les amendes infligées contre les cartels par l'Union européenne et par les États-Unis. / À l'aide du document et de vos connaissances, vous présenterez les objectifs de la politique "
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2LR1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-mayotte-liban-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 376, 2022_reunion_norm_ec_3_2_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=376&cle=c294fca431712b5dd8334af3ea456fbc4ed2bc5da8ae4b6739483a7f6c4e1875&file=docx%2F2022_reunion_norm_ec_3_2_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · La Réunion · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 376",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=376&cle=c294fca431712b5dd8334af3ea456fbc4ed2bc5da8ae4b6739483a7f6c4e1875&file=docx%2F2022_reunion_norm_ec_3_2_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Exercice reproduit à l'identique (question et dossier) dans le sujet B de la même épreuve (22-SESJ2LR1-EC3-B) : un seul exercice, recensé une fois. Incohérence relevée : le catalogue de Versailles (doc. 376) indique « La Réunion », alors que le fichier (2022_reunion_norm_ec_3_2_.docx) et le sujet officiel correspondent à Mayotte – Liban.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

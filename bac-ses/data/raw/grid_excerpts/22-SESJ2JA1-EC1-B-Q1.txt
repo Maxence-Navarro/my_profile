@@ -1,0 +1,154 @@
+# score de localisation : 0.885
+# https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-2-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : Quels sont les effets de l’évolution des formes de l’organisation du travail sur
+                               les conditions de travail ?
+
+
+Programme officiel : Sociologie et science politique
+
+Questionnement       Objectifs d’apprentissage
+Quelles mutations    - Savoir distinguer les notions de travail, activité, statut d’emploi
+du travail et de     (salarié, non-salarié), chômage ; comprendre que les évolutions
+l’emploi ?           des formes d’emploi rendent plus incertaines les frontières entre
+                     emploi, chômage et inactivité.
+                     - Connaître les principaux descripteurs de la qualité des emplois
+                     (conditions de travail, niveau de salaire, sécurité économique,
+                     horizon de carrière, potentiel de formation, variété des tâches).
+                     - Comprendre les principales caractéristiques des modèles
+                     d’organisation taylorien (division du travail horizontale et
+                     verticale, relation hiérarchique stricte) et post-taylorien
+                     (flexibilité, recomposition des tâches, management participatif)
+                     ; comprendre les effets positifs et négatifs de l’évolution des
+                     formes de l’organisation du travail sur les conditions de travail.
+                     - Comprendre comment le numérique brouille les frontières du
+                     travail (télétravail, travail / hors travail), transforme les relations
+                     d’emploi et accroît les risques de polarisation des emplois.
+                     - Comprendre que le travail est source d’intégration sociale et
+                     que certaines évolutions de l’emploi (précarisation, taux
+                     persistant de chômage élevé, polarisation de la qualité des
+                     emplois) peuvent affaiblir ce pouvoir intégrateur.
+
+Exploitation possible des documents :
+ Document 1  Ce document permet de montrer les effets ambivalents de la
+                 flexibilité liée à l’organisation post-taylorienne du travail.
+               En effet, le travail à domicile, permis par l’organisation post-
+                 taylorienne, est facilité par les nouvelles technologies ; par
+                 exemple en 2018, 41% des CPIS travaillent à domicile. Cette
+                 lecture peut être mise en lien avec le document 3.
+               Par ailleurs, l’organisation post-taylorienne basée sur plus de
+                 flexibilité engendre des horaires de travail atypiques, par exemple
+                 14% des ouvriers ont des horaires habituels alternés contre 6%
+                 des salariés en moyenne.
+               Enfin, 25% des salariés travaillent le dimanche contre seulement
+                 19% des salariés en moyenne.
+ Document 2  Ce document permet de montrer qu’il y a une amélioration des
+                 conditions de travail depuis 1994 du fait de la mise en place de
+                 l’organisation post-taylorienne mais certains risques physiques
+                 persistent.
+
+
+  22-SESJ2JA1-C                                                                 Page 1 sur 10
+             28,4% des salariés en 1994 travaillaient en position debout contre
+              21,2% en 2017, soit une diminution de 7,2 points de pourcentage.
+              De même, on note une diminution de la part des salariés réalisant
+              un geste répétitif (20,3% en 1994 contre 16,1% en 2017).
+             On observe que les nuisances sonores touchent plus de salariés
+              (31,6% en 2017 contre 27,4% en 1994) mais ce sont les ouvriers
+              qualifiés les plus touchés (67,5% en 2017) et les employés de
+              commerce et de service qui ont connu la plus forte hausse (12,5%
+              en 1994 contre 20,8% en 2017, soit presque une multiplication par
+              2)
+             Dans l’ensemble, la part des salariés qui ont un travail exigeant,
+              une position forcée d'une ou plusieurs articulations reste stable
+              (18,2% contre 18,8%), en revanche, on observe une augmentation
+              de la part des ouvriers qualifiés concernés par cette contrainte
+              (31,2% en 1994 contre 36% en 2017) et pour les ouvriers non
+              qualifiés (34,1% contre 38,8%).
+ Document 3  Ce document permet de montrer les effets positifs du télétravail.
+             Dans l’ensemble, les hommes et les femmes interrogés en 2018
+              estiment que le télétravail a amélioré la qualité de leur vie
+              personnelle (presque 96%).
+             88% des femmes interrogées considèrent que le télétravail
+              diminue la fatigue physique liée au transport.
+             79% des femmes et 82% des hommes interrogés considèrent que
+              le télétravail augmente les marges de liberté dans la gestion du
+              temps.
+             En revanche les hommes et femmes interrogés considèrent que le
+              télétravail n’a pas amélioré leurs relations avec leurs collègues,
+              collaborateurs et managers.
+ Document 4  Ce texte permet de montrer les effets négatifs des gestes répétitifs
+              (TMS) qui persistent (taylorisme). Idée à mettre en lien avec le
+              document 2.
+             Les nouvelles organisations du travail prennent davantage en
+              compte les contraintes physiques et psychiques des salariés en
+              respectant un certain nombre de principes ergonomiques
+              (conception des sièges, des écrans, etc).
+             Le document montre également que les salariés participent à la
+              réflexion concernant l’amélioration des conditions de travail.
+
+Problématique possible :
+
+Depuis les années 1980, le travail a connu des transformations profondes qui ont
+engendré des effets ambivalents sur les conditions de travail. Pour répondre à cette
+question, on peut donc se demander si l’apparition de nouvelles formes d’organisation
+du travail s’accompagne uniquement d’effets positifs.
+
+
+
+
+  22-SESJ2JA1-C                                                          Page 2 sur 10
+Proposition de plan détaillé :
+ I) Les effets positifs de l’organisation       II) L’organisation post-taylorienne fait
+ post-taylorienne.                              apparaître de nouvelles contraintes
+                                                sans faire disparaître celles du
+                                                modèle d’organisation taylorien.
+ A) L’organisation post-taylorienne A) Les nouvelles contraintes de
+ permet de dépasser les effets négatifs l’organisation post-taylorienne.
+ de l’organisation taylorienne.
+  Réorganisation         du     travail    et  La nouvelle importance donnée à
+    redéfinition         des         tâches :       l’autonomie a renforcé l’importance de
+    l’élargissement et l’enrichissement             l’autocontrôle des salariés, devenus
+    des tâches suppose une certaine                 seuls responsables de l’organisation
+    polyvalence chez les salariés, qui              de      leur    travail,    donc       seuls
+    doivent      maîtriser des aspects              responsables de leurs échecs
+    différents de la production,                    éventuels. Le poids de l’incertitude
+  Ré-humanisation du travail : cette               repose désormais sur les salariés,
+    organisation        valorise       l’esprit     chargés d’anticiper et d’apporter des
+    d’initiative et la communication entre          réponses aux incidents de production,
+    les différents services. Leur expertise         ce qui augmente leur charge mentale.
+    est valorisée au sein d’instances  La                   valorisation     de     l’initiative
+    participatives.                                 individuelle s’accompagne dans le
+                                                    même temps d’une intensification du
+                                                    travail pour satisfaire aux exigences
+                                                    fortes de l’entreprise (adaptabilité,
+                                                    flexibilité (document 1), réactivité à la
+                                                    demande, polyvalence).
+ B) Les innovations organisationnelles B) La permanence et l’extension des
+ liées à ce nouveau modèle permettent contraintes du modèle d’organisation
+ d’améliorer les conditions de travail taylorien.
+ des salariés.
+  Les          nouvelles       technologies  La rationalisation, notamment la
+    permettent de nouvelles organisations           division verticale du travail, reste la
+    (télétravail - horaires modulables).            logique fondamentale de certains
+    Une meilleure adéquation entre vie              secteurs (textile, bâtiment, grande
+    professionnelle et vie personnelle              distribution, logistique) et s’est
+    (documents 1 et 3).                             étendue à d’autres (le secteur des
+  Meilleure prise en compte des                    services :       grande       distribution,
+    principes ergonomiques (document 4)             logistique,         centres        d’appel,
+    et diminution des risques physiques             restauration rapide, mais aussi santé,
+    (document 2).                                   soins à la personne) (documents 2 et
+                                                    4).
+                                                 L’organisation du travail en équipe
+                                                    favorise la surveillance mutuelle plutôt
+                                                    que de favoriser la cohésion du
+                                                    groupe.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+  22-SESJ2JA1-C                                                                     Page 3 sur 10

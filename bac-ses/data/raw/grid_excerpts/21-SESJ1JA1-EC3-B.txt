@@ -1,0 +1,142 @@
+# score de localisation : 0.844
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-asie-1-corrige-officiel.pdf
+
+ée du capital culturel et des stratégies des familles.
+
+
+
+
+21-SESJ1JA1C                                                                      Page 10/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10 points)
+
+
+Sujet : A l'aide de vos connaissances et du dossier documentaire, vous montrerez que le
+progrès technique peut engendrer des inégalités de revenus.
+
+
+Programme officiel : Science économique
+Questionnement                                Objectifs d’apprentissage
+
+
+Quels sont les sources et les défis de la - Comprendre le processus de croissance
+                                          économique et les sources de la croissance :
+croissance économique ?
+                                          accumulation des facteurs et accroissement
+                                          de la productivité globale des facteurs ;
+                                          comprendre le lien entre le progrès technique
+                                          et l’accroissement de la productivité globale
+                                          des facteurs.
+                                          - Comprendre que le progrès technique est
+                                          endogène et qu’il résulte en particulier de
+                                          l’innovation.
+                                          - Comprendre comment les institutions
+                                          (notamment les droits de propriété) influent
+                                          sur la croissance en affectant l’incitation à
+                                          investir et innover ; savoir que l’innovation
+                                          s’accompagne d'un processus de destruction
+                                          créatrice.
+                                          - Comprendre comment le progrès
+                                          technique peut engendrer des inégalités de
+                                          revenus.
+                                          - Comprendre qu’une croissance économique
+                                          soutenable se heurte à des limites
+                                          écologiques (notamment l’épuisement des
+                                          ressources, la pollution et le réchauffement
+                                          climatique) et que l’innovation peut aider à
+                                          reculer ces limites.
+Exploitation possible des documents :
+Document 1      Relier productivité et PT.
+                Relier hausse de la productivité moyenne et hausse moyenne des
+               rémunérations ⇒ Entre 1948 et 2020, la productivité du travail a
+               augmenté en moyenne d'environ 250 %, une partie de cette augmentation
+               a permis de multiplier en moyenne les revenus par 2.
+                Montrer que les salariés les moins qualifiés n'ont pas bénéficié de ces
+               gains de productivité surtout à partir des années 1980 (numérisation de la
+               production) .
+               ⇒ Entre 1948 et 1980, la rémunération moyenne des salariés d’exécution a
+               augmenté dans les mêmes proportions que celle de la productivité (100%)
+               mais entre 1948 - 2020, l'augmentation de leur rémunération moyenne est
+               toujours de 100 % alors que la productivité sur cette période a augmenté
+               de 250 %.
+
+21-SESJ1JA1C                                                                  Page 11/13
+Document 2     Montrer que le progrès technique engendre des inégalités entre salariés :
+                    Entre les salariés peu qualifiés : Le salaire moyen progresse plus si
+               le salarié travaille dans une entreprise innovante. A 30 ans un salarié peu
+               qualifié dans une entreprise innovante perçoit un salaire horaire moyen 1
+               euro plus élevé qu'un salarié peu qualifié.
+                    Entre les salariés qualifiés, le salaire horaire moyen n'est pas
+               influencé par le fait que son entreprise soit innovante ou non,
+                    Entre les salariés qualifiés et peu qualifiés : Le travail qualifié qui
+               intègre par sa formation le PT perçoit des revenus environ 3 fois plus
+               élevés qu'un salarié peu qualifié dans une entreprise non innovante et 2,5
+               fois plus qu'un salarié peu qualifié dans une entreprise innovante.
+                    PT et âge : Les salariés âgés sont plus pénalisés par l'intégration du
+               PT en effet, on constate que le salaire horaire moyen stagne autour de 24
+               euros à partir de 40 ans pour les salariés qualifiés et baisse pour les
+               salariés peu qualifiés avec une perte d'environ 1 euro.
+
+Document 3     La pandémie de la COVID a montré que tous les salariés sont inégaux face
+               au PT :
+                   Dans le monde : Dans les PDEM, Le télétravail a pu être rapidement
+               mis en place, car les salariés avaient la maîtrise de leur outil info + dotés
+               en matériel info + connexion suffisante. Dans les pays moins développés
+               les ménages n'avaient pas les conditions nécessaires pour le mettre en
+               place + spécialisation dans les échanges plus axées sur le travail que le
+               capital ⇒ perte de rémunération .
+                   En France :
+                         o Le télétravail ne peut pas concerner l'ensemble des actifs.
+                             Ex : les compagnies d'assurances ont pu délocaliser le travail
+                             fortement numérisé du bureau vers le domicile                  mais
+                             concernant le travail qui nécessite de la main d’œuvre comme
+                             la grande distribution les salariés ont dû rester sur leur lieu de
+                             travail ⇒ inégalités entre les qualifiés et les non qualifiés,
+                         o La possibilité de télé-travailler n'a pas hypothéqué les
+                             résultats des entreprises qui ont pu le mettre en place, par
+                             contre les activités comme la restauration / commerce
+                             physique et non alimentaire ont dû fermer leur établissement
+                             et donc connaître plus de deux mois de perte d'exploitation
+                             ⇒ risque de voir le chômage augmenter/ plutôt du travail
+                             féminin.
+               L'élève peut opposer commerce physique et en ligne pour montrer les
+               inégalités
+
+
+Raisonnement possible :
+L'introduction de progrès technique et plus particulièrement les NTIC dans la production a
+permis de réaliser des gains de productivité qui n'ont pas profité l'ensemble des actifs.
+Comment expliquer cette répartition inégale des ressources ?
+
+
+
+
+21-SESJ1JA1C                                                                        Page 12/13
+PT et inégalités des revenus selon les actifs occupés qualifiés et peu qualifiés dans
+les pays développés
+   -   Selon la qualification (doc 2): L'introduction du PT nécessite de la main d’œuvre
+       qualifiée car la numérisation des emplois les moins qualifiés est facilitée.
+   -   Entre les salariés qualifiés, le salaire horaire moyen n'est pas influencé par le fait
+       que son entreprise soit innovante ou non.
+   -   Selon l 'âge (doc 2) : cette inégalité s'explique par les difficultés à intégrer les
+       nouvelles technologies + jeunes diplômés plus performants dans ces nouvelles
+       technologies et moins chers.
+   -   Les moins qualifiés sont plus fragilisés sur le marché du travail (doc 3) : Commerce
+       physique et non alimentaire ont dû fermer leur établissement et donc connaître
+       plus de deux mois de perte d'exploitation ⇒ risque de voir le chômage augmenter/
+       plutôt du travail féminin.
+La spécialisation dans les échanges entraîne des inégalités de revenus entre les
+pays
+   -   la spécialisation : Pays développés + émergents comme la Chine ⇒ intègre du PT +
+       pays innovateurs ⇒ inégalités de revenus.
+   -   La main d’œuvre qualifiée, au niveau mondial, n'est pas égale en terme d'accès
+       aux nouvelles technologies ⇒ (doc 3 exemple du télétravail).
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+21-SESJ1JA1C                                                                      Page 13/13
+

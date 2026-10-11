@@ -1,0 +1,69 @@
+{
+  "id": "25-SESJ2AN1-EC1",
+  "slug": "25-sesj2an1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "25-SESJ2AN1",
+  "year": 2025,
+  "session": "normale",
+  "day": "J2",
+  "center": "Amérique du Nord",
+  "question": "Vous montrerez comment une institution peut contribuer à la croissance économique.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "À quelles limites et contraintes l'action publique et les négociations internationales pour la préservation de l'environnement se heurtent-elles ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, caractérisez l'évolution du taux de chômage depuis 2011. / À l'aide des données du document et de vos connaissances, expliquez comment les problèmes d'appariement sont source de chômage."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'analyse de la société française en termes de classes sociales peut être contestée."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 25-SESJ2AN1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2025/spe-sciences-eco-sociales-2025-amerique-nord-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 837, sujets_ses_mai_2025_jr1-2.pdf)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=837&cle=bc3db0f7832367c42495f9a045b8184cc8e0a7e7622e4d49d41bd5cfeb7b92f2&file=pdf%2Fsujets_ses_mai_2025_jr1-2.pdf",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Amérique du Nord · 2025 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 837",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=837&cle=bc3db0f7832367c42495f9a045b8184cc8e0a7e7622e4d49d41bd5cfeb7b92f2&file=pdf%2Fsujets_ses_mai_2025_jr1-2.pdf",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

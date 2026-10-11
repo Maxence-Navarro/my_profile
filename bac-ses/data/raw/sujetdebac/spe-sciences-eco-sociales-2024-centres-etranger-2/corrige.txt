@@ -1,0 +1,334 @@
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : Comment les différentes politiques permettent-elles de lutter contre le
+chômage ?
+
+Programme officiel :
+Science économique
+
+Questionnement      Objectifs d’apprentissage
+Comment lutter      - Savoir définir le chômage et le sous-emploi et connaître les
+contre le           indicateurs de taux de chômage et de taux d’emploi.
+chômage ?           - Comprendre que les problèmes d’appariements (frictions,
+                    inadéquations spatiales et de qualifications) et les asymétries
+                    d’information (salaire d’efficience) sont des sources de chômage
+                    structurel.
+                    - Comprendre les effets (positifs ou négatifs) des institutions sur
+                    le chômage structurel (notamment salaire minimum et règles de
+                    protection de l'emploi).
+                    - Comprendre les effets des fluctuations de l’activité économique
+                    sur le chômage conjoncturel.
+                    - Connaître les principales politiques mises en œuvre pour lutter
+                    contre le chômage : politiques macroéconomiques de soutien de
+                    la demande globale, politiques d’allégement du coût du travail,
+                    politiques de formation et politiques de flexibilisation pour lutter
+                    contre les rigidités du marché du travail.
+
+
+Exploitation possible des documents :
+ Document 1 − Le graphique permet de comparer l’évolution du taux de chômage
+                 en France entre 2000 et 2021 à la variation du PIB réel sur la
+                 même période.
+              − On observe assez souvent sur cette période que la baisse du taux
+                 de chômage est associée à un maintien à un niveau élevé voire
+                 une amélioration de la conjoncture économique mesurée par
+                 l’indicateur du PIB réel. Par exemple, la bonne conjoncture avant
+                 la crise de 2008 était associée à une baisse du taux de chômage.
+              − Une chute de la demande globale (consommation,
+                 investissement, exportations) réduit la production, ce qui entraîne
+                 une moindre demande de main-d’œuvre voire une augmentation
+                 des licenciements faisant augmenter le chômage conjoncturel.
+              − Si la production devrait s’ajuster au niveau de la demande
+                 anticipée, dans les faits, les producteurs recourent à des formes
+                 de flexibilité pour ne réduire leurs effectifs que si le ralentissement
+                 économique se confirme. C'est pourquoi le niveau de chômage
+                 n’augmente pas systématiquement en même temps que chute le
+                 taux de croissance du PIB réel, et inversement.
+ Document 2 − Le tableau met en relation le coût horaire moyen de la main-
+24-SESJ2G11C                                                                 Page 1 sur 7
+                    d’œuvre et le taux de chômage pour quelques pays européens en
+                    2021.
+               −    On observe que les deux indicateurs ont tendance à évoluer dans
+                    le même sens : le classement du coût horaire moyen de la main-
+                    d’œuvre par ordre décroissant se retrouve en partie avec le
+                    classement des taux de chômage par pays.
+               −    En effet, plus le coût du travail est élevé, moins les employeurs
+                    sont incités à recourir au facteur travail dans leur combinaison
+                    productive. Ils peuvent également délocaliser certaines étapes de
+                    la production à l’étranger.
+ Document 3 −       Le graphique de l’INSEE représente la part des CDD et des
+                    intérimaires dans l’emploi de 1982 à 2020.
+               −   Le recours à chacune de ces formes d’emploi atypique a tendance
+                   à progresser. Par exemple, entre 1984 et 2017, la part des CDD et
+                   des intérimaires dans l’emploi a triplé en France. Cela reflète la
+                   politique de flexibilisation du marché du travail depuis les années
+                   1980 en France. Il s’agit ici pour les employeurs d’ajuster leurs
+                   effectifs salariés au volume de la production avec ces contrats de
+                   travail.
+            −      Ce type d’embauches limite l’ampleur du chômage.
+ Document 4 −       Le tableau détaille les politiques de l’emploi menées par les
+                    pouvoirs publics en vue de lutter contre le chômage.
+               −    Quel que soit le type de mesure ou la période observée, la part
+                    dépensée dans le PIB n’a pas varié. Chaque mesure contribue à
+                    conserver, à créer ou à maintenir l’emploi. En France, en 2016, on
+                    consacre près de 16 milliards d’euros pour financer la formation
+                    professionnelle, inciter au retour à l’emploi, aider à la création
+                    d’entreprises. Ainsi, les politiques de formation améliorent
+                    l’appariement entre l’offre et la demande de travail, surtout en
+                    raison du progrès technique qui oblige à entretenir et améliorer les
+                    compétences des salariés et des chômeurs. Cela peut réduire le
+                    chômage structurel.
+
+Problématique possible :
+
+Les différents gouvernements luttent contre le chômage par des politiques de l’emploi
+définies comme l’ensemble des mesures prises par les pouvoirs publics pour réduire
+le chômage. Pour autant, les causes de ce déséquilibre du marché du travail sont
+diverses.
+Comment peuvent alors agir les politiques macroéconomiques de soutien de la
+demande globale ? Quel rôle jouent également la réduction du coût du travail et
+la flexibilisation du marché du travail ? En quoi les politiques de formation agissent-
+elles aussi sur le chômage structurel ?
+
+
+
+
+24-SESJ2G11C                                                                Page 2 sur 7
+Proposition de plan détaillé :
+
+ I) Soutenir la demande globale par des        II) Les politiques de l’emploi peuvent
+ politiques macroéconomiques afin de           aussi agir sur coût et les rigidités du
+ lutter contre le chômage conjoncturel.        travail.
+ A) Le chômage peut être                       A) Alléger le coût du travail.
+ conjoncturel.
+ • Si         la     demande         globale   •   Généralement, le coût horaire moyen
+     (consommation,         investissement,        de la main-d’œuvre et le taux de
+     exportations) baisse ou ralentit, cela        chômage sont corrélés positivement
+     réduit la production, nécessitant alors       (document 2).
+     une moindre demande de main-              •   Un coût du travail élevé peut
+     d’œuvre (baisse des recrutements,             constituer un frein à l’embauche dans
+     hausse des licenciements).                    le cadre de certaines productions qui
+ • Le niveau du chômage peut être en               ne nécessitent pas un personnel
+      partie corrélé à la conjoncture              qualifié ou conduire les firmes à
+      économique mesurée par l’indicateur          produire à l’étranger.
+      du PIB réel (Document 1).
+
+ B) Les politiques macroéconomiques            B) Flexibiliser et dépenser en faveur
+ de soutien de la demande globale.             de l’emploi.
+ • Pour relancer l’activité économique et      • Un marché du travail trop rigide
+   soutenir la demande, les pouvoirs             empêche les employeurs d’ajuster la
+   publics peuvent recourir à la politique       demande de travail selon leurs
+   budgétaire (augmenter les dépenses            besoins. La flexibilisation du marché
+   publiques ou réduire les impôts).             du travail (augmentation des emplois
+   Ainsi, lors de la crise sanitaire, l’État     atypiques,       législation    moins
+   français a soutenu les entreprises et         protectrice de l’emploi) favorise une
+   les salariés par diverses mesures             meilleure adéquation entre offre et
+   d’accompagnement.                             demande de travail (document 3).
+ • Les pouvoirs publics peuvent alors          • Miser sur la formation professionnelle
+   mettre en œuvre une politique                 est bénéfique pour les salariés en
+   monétaire       expansionniste,       en      termes de compétences et améliore
+   abaissant par exemple le taux d'intérêt       l’appariement entre l’offre et la
+   directeur pour stimuler l’activité par le     demande de travail (document 4).
+   canal du crédit.                            • Soutenir les actifs en cas de perte
+                                                 d’emploi, les accompagner dans leur
+                                                 recherche, voire dans la création
+                                                 d’une activité peut aussi favoriser le
+                                                 retour à l’emploi (document 4).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ2G11C                                                                 Page 3 sur 7
+                                 ÉPREUVE COMPOSÉE
+
+                             PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Montrez que le capital culturel et les investissements familiaux peuvent
+conduire à des inégalités de réussite scolaire. (4 points)
+
+Sociologie et science politique
+Questionnement : Quelle est l’action de l’École sur les destins individuels et sur
+l’évolution de la société ?
+
+Réponse possible :
+Le capital culturel est l’ensemble des ressources culturelles, connaissances, savoir-
+faire et savoir-être, valorisables. Elles différent selon le milieu social, et par conséquent
+peuvent expliquer les inégalités de réussite scolaire. En effet, les ressources
+culturelles sont différentes selon le milieu social des parents. Les enfants issus de
+milieux sociaux plus favorisés disposeront d’un capital culturel valorisé et en
+adéquation avec celui dispensé par l’École. Les enfants issus de ces milieux ont donc
+davantage de chance de réussite scolaire tandis que ceux ne disposant pas de ce
+capital culturel valorisé pourront rencontrer des difficultés, ce qui alimente les
+inégalités scolaires. D’ailleurs ce capital culturel peut être le fruit d’un investissement
+familial important des parents dans la scolarité de leurs enfants consistant à être en
+contact régulier avec l’institution scolaire, à suivre les résultats scolaires ou encore le
+travail personnel à la maison. Cet investissement alimente le capital culturel.
+
+
+Deuxième partie (6 points) : Étude d’un document
+
+Science économique
+Quels sont les sources et les défis de la croissance économique ?
+
+Question 1 : À l’aide de données du document, vous caractériserez l’évolution de la
+part des innovations dans le domaine de l’environnement entre 1990 et 2018, au sein
+de l’Union européenne. (2 points)
+
+Réponse possible :
+En 1990, les innovations dans le domaine de l’environnement représentaient 7,6 %
+des innovations totales dans les pays de l’UE contre 12,9 % en 2018. La part de ce
+type d’innovation a donc augmenté de 5,3 points de pourcentage en 28 ans.
+
+Question 2 : À l’aide du document et de vos connaissances, vous expliquerez
+comment l’innovation peut aider à reculer les limites écologiques de la croissance
+économique. (4 points)
+
+Réponse possible :
+La croissance économique - hausse de la création de richesses sur une longue période
+- se heurte actuellement à trois grandes limites environnementales : le réchauffement
+climatique, la pollution et l’épuisement des ressources naturelles non renouvelables.
+24-SESJ2G11C                                                                    Page 4 sur 7
+L’innovation peut aider à faire reculer ces limites et ainsi favoriser une croissance
+soutenable.
+En effet, l’introduction de nouveaux produits ou de nouveaux procédés passe par des
+investissements en recherche et développement importants afin de limiter les
+émissions de gaz à effet de serre (GES) ou la surexploitation des ressources
+naturelles. Les innovations vertes vont ainsi permettre le développement de nouveaux
+secteurs d’activité qui remplaceront les secteurs les plus polluants, par un phénomène
+de destruction créatrice.
+Dans le document, nous pouvons remarquer que la hausse des innovations dans le
+domaine environnemental va de pair avec une baisse des émissions de gaz à effet de
+serre ce qui est particulièrement visible à partir de 2006. Ainsi, entre 2006 et 2010, la
+part des innovations environnementales dans le total des innovations de l’UE a
+augmenté de 5,5 points pour atteindre 14,1% des innovations totales, les émissions
+de GES de l’UE sont quant à elles passées de 5,2 milliards de tonnes en 2006 à 4,7
+en 2010 et 4,3 milliards de tonnes en 2015.
+
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+l’évolution de la structure socioprofessionnelle en France s’explique par plusieurs
+facteurs.
+
+Programme officiel :
+Sociologie et science politique
+Questionnement     Objectifs d’apprentissage
+Comment est        Comprendre les principales évolutions de la structure
+structurée la      socioprofessionnelle en France depuis la seconde moitié du
+société française  XXe siècle (salarisation, tertiarisation, élévation du niveau de
+actuelle ?         qualification, féminisation des emplois).
+
+Exploitation possible des documents :
+ Document 1 Ce document met en évidence le phénomène de salarisation, de
+              tertiarisation et la hausse des qualifications.
+              - Les CSP 1 (agriculteurs exploitants) et 2 (ACCE) diminuent entre
+              1982 et 2021 au profit des autres CSP de salariés.
+              – La baisse du secteur primaire s’observe par la baisse des
+              agriculteurs qui, en 1982 représentaient environ 7,5 % des individus
+              en emploi en France contre 2 % en 2021, soit une diminution de près
+              de 5,5 points de pourcentage en 39 ans.
+              – La baisse de la part des ouvriers dans la population active
+              témoigne de la baisse de la part relative du secteur secondaire : en
+              1982, 30 % des personnes en emploi étaient des ouvriers contre 19 %
+              en 2021, soit une baisse de 11 points.
+              – La hausse des qualifications peuvent être identifiées par la hausse
+              des professions intermédiaires qui atteignent presque 25 % des
+              personnes en emploi en 2021, hausse de 6 points en 39 ans et les
+              « cadres » qui, après une hausse de 14 points entre 1982 et 2021,
+
+24-SESJ2G11C                                                                Page 5 sur 7
+            représentent 22 % des personnes en emploi.
+ Document 2 Ce document donne des explications sur la féminisation des emplois :
+            – L’allongement de la scolarité des filles depuis les années 1950 a
+            renforcé un mouvement émancipateur (évolution des normes
+            sociales) où l’emploi est vu comme une source d’autonomie
+            économique.
+            – Le besoin de main d’œuvre pendant les Trente Glorieuses a facilité
+            l’entrée des femmes sur le marché du travail.
+            – L’écart entre le taux d’activité des hommes et des femmes est de
+            50 points en 1931 et de 10 points à la fin des années 2000.
+            – Au milieu des années 1970, 97 % des hommes de 25 à 49 ans sont
+            actifs contre 60 % des femmes qui seront 85 % en 2010.
+ Document 3 Ce document met en évidence la montée du salariat au cours du XXe
+            siècle.
+            – L’industrialisation au XIXe siècle va nourrir le salariat qui
+            concernera la très grande majorité des actifs à la fin du XXe siècle.
+            – En 1955, 1/3 des actifs sont encore non-salariés, ils seront 1/9 en
+            1997.
+            – Cette baisse vient essentiellement de la baisse du nombre
+            d’agriculteurs dans la population active.
+            – La montée du salariat s’explique par une hausse du nombre
+            d’ouvriers mais aussi par la tertiarisation.
+
+Raisonnement possible :
+
+La structure socioprofessionnelle met en évidence la répartition de la population active.
+Celle-ci a largement évolué en France depuis le début des Trente Glorieuses. On peut
+mettre en évidence quatre grandes explications.
+
+Tout d’abord, la salarisation qui signifie la montée de la part du travail salarié dans la
+population active a transformé la structure socioprofessionnelle.
+Ce processus a débuté dès le XIXe siècle sous l’effet de l’industrialisation et s’est
+largement poursuivi à partir des années 1950 avec le déclin des indépendants,
+notamment les paysans. Le salariat est alors devenu la norme d’emploi offrant une
+certaine protection aux salariés alors liés à l’employeur par un contrat de travail. Celui-
+ci, en contrepartie, implique une subordination à l’employeur pendant les heures de
+travail. Ainsi, en 1955, 1/3 des actifs sont encore non-salariés, ils sont 1/9 en 1997.
+
+La salarisation a également été renforcée, à partir du milieu des années 1970 par la
+tertiarisation, processus d’essor des emplois de services et de déclin des emplois liés
+aux secteurs primaire (extraction de ressources et production agricole) et secondaire
+(industrie). Celle-ci s’observe notamment avec le déclin de différentes CSP (Ouvriers ;
+Agriculteurs) et l’essor des CSP exerçant majoritairement dans le secteur tertiaire
+(Professions intermédiaires, CPIS). Ce processus s’explique par d’importants gains de
+productivité dans les secteurs primaire et secondaire limitant le besoin de main
+d’œuvre mais aussi par une demande accrue dans le secteur des services.
+Dans le document 1, nous constatons la baisse de la part des ouvriers et celle des
+agriculteurs ainsi que la hausse de la part des employés, de celle des professions
+intermédiaires et de celle des cadres et professions intellectuelles supérieures.
+
+24-SESJ2G11C                                                                  Page 6 sur 7
+La hausse de la CSP des professions intermédiaires et celle des cadres et professions
+intellectuelles supérieures met également en avant l’augmentation globale des
+qualifications depuis les années 1950.
+Ce processus est principalement dû à une massification du système scolaire en France
+après la deuxième guerre mondiale.
+Ainsi, en 1982, moins de 20 % de la population en emploi appartenait à la CSP des
+professions intermédiaires, alors qu’elles sont presque 25 % en 2021, soit une hausse
+de 5 points de pourcentage en 39 ans. Parallèlement, les cadres et professions
+intellectuelles supérieures représentaient 8% de la population en emploi en 1982 et
+22% en 2021, soit une hausse de 14 points entre 1982 et 2021.
+Enfin, la structure socioprofessionnelle s’est aussi largement transformée avec
+l’augmentation de la part des femmes dans la population active occupée.
+Cette féminisation des emplois est due à la salarisation et à la tertiarisation mais aussi
+la montée des qualifications des femmes qui permet aux femmes d’occuper des
+emplois de plus en plus qualifiés. Le mouvement d’émancipation des femmes est
+également une explication importante à la féminisation : l’évolution des normes
+sociales favorise l’autonomie économique et leur indépendance.
+Ainsi, l’écart entre le taux d’activité des hommes et des femmes est de 50 points en
+1931 et de 10 points seulement à la fin des années 2000.
+Au milieu des années 70, 97 % des hommes de 25 à 49 ans sont actifs contre 60 %
+des femmes qui seront 85 % en 2010.
+
+La conjonction de ces quatre évolutions (la salarisation, la tertiarisation, la qualification
+croissante et la féminisation) a ainsi profondément modifié, depuis le milieu du XXe
+siècle, la structure socioprofessionnelle en France.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ2G11C                                                                    Page 7 sur 7
+

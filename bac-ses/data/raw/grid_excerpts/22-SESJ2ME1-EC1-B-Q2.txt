@@ -1,0 +1,148 @@
+# score de localisation : 0.886
+# https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                            PROPOSITION DE CORRIGÉ
+
+
+Sujet : Comment peut-on expliquer le commerce international ?
+Programme officiel :
+Science économique
+
+Questionnement       Objectifs d’apprentissage
+
+Quels      sont    les - Comprendre le rôle des dotations factorielles et technologiques
+fondements          du (avantages comparatifs) dans les échanges commerciaux et la
+commerce               spécialisation internationale.
+international et de - Comprendre le commerce entre pays comparables
+l’internationalisation (différenciation des produits, qualité des produits, et
+de la production ? fragmentation de la chaîne de valeur).
+                       - Comprendre que la productivité des firmes sous-tend la
+                       compétitivité d’un pays, c’est-à-dire son aptitude à exporter.
+                       - Comprendre l’internationalisation de la chaîne de valeur et
+                       savoir l’illustrer.
+                       - Comprendre les effets induits par le commerce international :
+                       gains moyens en termes de baisse de prix, réduction des
+                       inégalités entre pays, accroissement des inégalités de revenus
+                       au sein de chaque pays ; comprendre les termes du débat entre
+                       libre-échange et protectionnisme.
+
+Exploitation possible des documents :
+ Document 1 - Ce document montre la diversité des avantages comparatifs qui sont
+              issus de différentes dotations factorielles et technologiques.
+              - La spécialisation de la France et de l’Allemagne est en lien avec
+              leurs dotations technologiques (aéronautique, automobiles,
+              machines).
+              - Le Bangladesh se spécialise dans le textile en raison de sa dotation
+              factorielle en travail peu qualifié.
+              - Le Brésil et la Russie exportent des produits agricoles et du pétrole
+              grâce à leur forte dotation en capital naturel.
+ Document 2 - Ce graphique présente le poids des exportations de haute-
+              technologie dans le total des exportations de biens manufacturés, en
+              2019, dans plusieurs économies différentes.
+              - Au niveau mondial, cette part représente environ 20 % des
+              exportations de produits manufacturés, mais elle est très variable d’un
+              pays à l’autre.
+              - La spécialisation dans les biens de haute technologie est bien plus
+              importante en Corée du Sud et en France qu’au Pérou par exemple :
+              la part des exportations de haute technologie dans les exportations
+              de biens manufacturés est 8 fois plus importante en Corée du Sud
+              qu’au Pérou.
+
+22-SESJ2ME1C                                                                Page 1 sur 9
+            - Ce document met en évidence la grande hétérogénéité des
+            dotations technologiques. Cette spécialisation en fonction des
+            dotations technologiques est une des explications du commerce
+            international.
+ Document 3 - Ce graphique présente l’importance croissante du commerce lié aux
+            chaînes de valeur mondiales (matières premières, produits semi-finis)
+            dans les échanges internationaux entre 1970 et 2015 : la part des
+            chaînes de valeur mondiales dans les échanges internationaux est
+            passée de 37 % en 1970 à 48 % en 2015, soit un gain de 11 points
+            environ. Globalement, pour exporter, les firmes ont tendance à
+            importer de plus en plus de consommations intermédiaires pour
+            fabriquer un produit.
+            - Le commerce lié aux chaînes de valeur mondiales représente
+            environ la moitié des échanges mondiaux.
+            - Ce document montre que l’internationalisation de la chaîne de valeur
+            explique une partie importante du commerce international actuel.
+ Document 4 - Ce graphique fait état du commerce extérieur de la France dans le
+            secteur automobile, en milliards d’euros entre 1999 et 2019.
+            L’économie française est un important exportateur et importateur
+            d’automobiles.
+            - Dans le secteur automobile, l’économie française connaît un
+            excédent commercial entre 1999 et 2008, puis un déficit commercial
+            après 2009.
+            - En 2019, l’économie française a exporté pour environ 52 milliards
+            d’euros d’automobiles (vers des pays à spécialisation différente ou
+            comparable) et en a importé pour 66 milliards d’euros (en provenance
+            d’économies en grande partie comparables).
+            - Ce document illustre en particulier l’importance du commerce
+            intrabranche entre pays comparables, dans le secteur de l’automobile
+            notamment.
+
+Problématique possible :
+
+Traditionnellement, le commerce s’explique par des échanges de produits différents
+entre des pays à spécialisations différentes. Pour autant, on observe quotidiennement
+des échanges croisés de produits de qualité et de variété différentes entre pays. Si le
+commerce international ne s’explique pas uniquement par des échanges entre pays à
+spécialisations différentes, quels sont les autres déterminants du commerce
+international ?
+
+
+
+
+22-SESJ2ME1C                                                              Page 2 sur 9
+Proposition de plan détaillé :
+
+ I)    Le    commerce       international      II) Le commerce international est
+ s’explique par des échanges entre             aussi un commerce entre pays
+ pays différents et entre branches             comparables et s’explique aussi par
+ différentes.                                  l’existence de firmes exportatrices.
+ A)    Le    commerce       international      A) La différenciation des produits
+ s’explique     par     des     dotations      favorise un commerce entre pays
+ factorielles très différentes entre les       comparables.
+ pays.
+
+ • Les différents pays ne sont pas             • Les échanges croisés de produits de
+    également dotés en travail et en             même          nature         (commerce
+    capital. Chacun a intérêt à se               intrabranche) s’expliquent par des
+    spécialiser dans la production utilisant     stratégies de différenciation verticale :
+    son facteur abondant. Le commerce            recherche de la qualité (dans le
+    international permet d’allouer plus          document 4, cela peut être le cas avec
+    efficacement     les    facteurs     de      les     importations    de      produits
+    production, d’où une augmentation de         automobiles par la France, pourtant
+    la productivité et une baisse des            elle-même productrice de ces biens).
+    coûts.                                     • Ces échanges viennent aussi de
+ • Certains vont donc se spécialiser             stratégies       de      différenciation
+    dans la production et l’exportation de       horizontale : recherche de variété.
+    ressources naturelles ou énergétiques      • Il s’agit donc de se différencier des
+    (document 1 : Brésil, Russie), tandis        concurrents en répondant aux désirs
+    que d’autres vont se spécialiser dans        de choix et de variété du
+    des activités intensives en main-            consommateur.
+    d’œuvre (document 1 : Bangladesh).
+ B) L’hétérogénéité des dotations              B)      L’activité      des     firmes
+ technologiques       expliquent aussi         multinationales     est   aussi    une
+ l’échange interbranches.                      explication        aux      échanges
+                                               commerciaux.
+
+ • Tous les pays ne sont pas aussi • Les grandes firmes contribuent à
+    avancés sur le plan technologique           l’internationalisation de la chaîne de
+    (document 2 : Afrique du Sud, Pérou).       valeurs en profitant des avantages
+ • Les plus avancés (document 2 :               comparatifs propres à chaque pays.
+    Corée du Sud, France) mobilisent • Ainsi, le commerce international ne
+    leurs dotations technologiques pour         concerne pas uniquement des
+    exporter des produits à haute valeur        produits finis, mais aussi et, de plus en
+    ajoutée.                                    plus, des échanges de biens
+ • Le commerce international permet             intermédiaires (document 3).
+    aux pays les moins avancés • Plus la productivité des firmes est
+    d’accéder à ces produits par les            importante, plus celles-ci exportent et
+    importations.                               donc plus les économies où elles sont
+                                                implantées        sont     elles-mêmes
+                                                exportatrices.
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+22-SESJ2ME1C                                                                  Page 3 sur 9

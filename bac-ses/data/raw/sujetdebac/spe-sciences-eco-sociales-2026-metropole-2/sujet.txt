@@ -1,0 +1,325 @@
+       BACCALAURÉAT GÉNÉRAL
+
+      ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                             SESSION 2026
+
+
+
+ Sciences économiques et sociales
+
+        ÉPREUVE DU MERCREDI 17 JUIN 2026
+
+
+                           Durée de l'épreuve : 4h00
+
+
+
+              L’usage de la calculatrice et du dictionnaire n’est pas autorisé
+
+
+
+               Dès que le sujet est remis, assurez-vous qu'il est complet.
+
+                  Ce sujet comporte 9 pages numérotées de 1/9 à 9/9.
+
+
+
+
+    Le candidat traite au choix le sujet de dissertation ou l’épreuve composée.
+
+                         Il indique sur sa copie le sujet choisi.
+
+
+
+
+26-SESJ2ME1                                 1/9
+                 Dissertation s’appuyant sur un dossier documentaire
+
+
+  Il est demandé au candidat :
+       - de répondre à la question posée par le sujet ;
+       - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+       - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+           figurant dans le dossier ;
+       - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+           organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+  Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+                                                      SUJET
+
+                                      Ce sujet comporte 4 documents.
+
+
+
+       Dans quelle mesure la politique européenne de la concurrence atteint-elle ses
+                                        objectifs ?
+
+
+
+
+  DOCUMENT 1
+
+  Décisions rendues par l’autorité de la concurrence sur des projets de concentration1
+                 entre 2009 et 2023 (en nombre de projets présentés)
+
+                                   Nombre total         Nombre total                                      Nombre total     En %
+                                    de projets           de projets                                        2009-2023      du total
+                                    2009-2015            2016-2023                                                       2009-2023
+  Autorisations du projet
+  de concentration                      1220                                 1899                            3119          96,59
+  Autorisations du projet
+  sous conditions                         51                                       57                         108          3,35
+  Interdictions                            0                                           2                       2           0,06
+  Total                                 1271                                 1958                            3229          100
+
+       Source : d’après Annexe du rapport annuel 2023, www.autoritedelaconcurrence.fr, 30 mai 2024.
+
+  1 : Concentration : regroupement d’entreprises par fusion ou acquisition.
+
+
+
+
+26-SESJ2ME1                                          2/9
+
+                                                       EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  DOCUMENT 2
+
+  Amendes infligées par l’Autorité de la concurrence pour pratiques anticoncurrentielles1
+                            de 2014 à 2024 en millions d’euros
+
+
+
+
+           Source : D’après Autorité de la concurrence, « 2024, année historique pour l’Autorité de la
+   concurrence : 1,4 milliard d’euros de sanctions prononcées et un nombre record de 295 opérations
+                                         de concentration examinées », Chiffres clés, 15 janvier 2025.
+  1 : les pratiques anticoncurrentielles sanctionnées sont les ententes et les abus de position
+  dominante.
+
+
+  DOCUMENT 3
+
+          L'Europe durcit encore son bras de fer avec Pékin sur les subventions du régime
+  chinois à ses exportations. Après les véhicules électriques, le ferroviaire et les panneaux
+  solaires, la Commission européenne a annoncé, mardi, une enquête visant les fabricants
+  chinois d'éoliennes et les subventions qu'ils reçoivent, soupçonnées de fausser le marché en
+  Europe.
+          « Aujourd'hui, nous lançons une nouvelle enquête sur les fournisseurs chinois
+  d'éoliennes. Nous étudions les conditions de développement de parcs éoliens en Espagne,
+  en Grèce, en France, en Roumanie et en Bulgarie », a déclaré Margrethe Vestager, vice-
+  présidente exécutive de la Commission, en charge de la concurrence, lors d'un discours à
+  l'université de Princeton, aux États-Unis. Selon la commissaire, Pékin exporte « à bas prix »
+  vers le reste du monde pour compenser son propre ralentissement économique.
+          Elle a accusé la Chine d'être déjà parvenue à dominer l'industrie des panneaux
+  solaires, en « accordant des subventions massives à ses fournisseurs nationaux, tout en
+  fermant simultanément et progressivement le marché chinois aux entreprises étrangères ».
+  Ce n'est pas encore le cas dans le marché de l'éolien, mais c'est la crainte du secteur. Les
+  éoliennes chinoises sont vendues à des prix jusqu'à 50 % inférieurs à ceux des concurrents
+  européens, selon WindEurope, le lobby européen du secteur. « Il n'est pas possible de faire
+  cela sans subventions publiques injustes », assure Giles Dickson, son directeur général, qui
+  se félicite du déclenchement de l'enquête.
+
+   Source : Florentin COLLOMP, « Éoliennes : l'Union européenne lance une enquête antisubventions
+                                                 visant la Chine », Le Figaro économie, 9 avril 2024.
+
+
+
+
+26-SESJ2ME1                                   3/9
+
+                                               EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  DOCUMENT 4
+
+   Part de marché mondiale des principaux moteurs de recherche sur ordinateur entre
+               janvier 2018 et janvier 2024 en % des utilisateurs d’internet
+
+                        Janvier 2018     Janvier 2020                                            Janvier 2024   Nationalité
+     Google                  87,5             87,4                                                  81,9        Américaine
+     Bing                    5,8                5,5                                                 10,5        Américaine
+     Yahoo                    3,1               2,8                                                  2,7        Américaine
+     Yandex                   0,6               0,4                                                  2,4          Russe
+     DuckDuckGo               0,3               0,6                                                  0,7        Américaine
+     Baidu                    0,7               0,7                                                  0,5         Chinoise
+
+       Source : D’après Maxime GAUTIER, « Part de marché mondiale des moteurs de recherche sur
+                                               ordinateurs 2018-2024 », Statista, 14 janvier 2025.
+
+  Lecture : En janvier 2024, 81,9 % des utilisateurs d’internet choisissent Google comme moteur de
+  recherche dans le monde.
+
+
+
+
+26-SESJ2ME1                                 4/9
+
+                                              EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+                                            Épreuve composée
+
+
+  Cette épreuve comprend trois parties :
+
+  Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en faisant
+  appel à ses connaissances acquises dans le cadre du programme.
+  Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant ses
+  connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+  rigoureuse, de collecte et de traitement de l'information.
+  Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter le
+  sujet :
+          - en développant un raisonnement ;
+          - en exploitant les documents du dossier ;
+          - en faisant appel à ses connaissances personnelles ;
+          - en composant une introduction, un développement, une conclusion.
+
+  II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+  Première partie : Mobilisation des connaissances (4 points)
+
+  À l’aide de deux arguments, vous présenterez les intérêts des tables de mobilité comme
+  instrument de mesure de la mobilité sociale.
+
+
+
+
+26-SESJ2ME1                                          5/9
+
+                                                       EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  Deuxième partie : Étude d’un document (6 points)
+
+       Les principales difficultés de recrutement envisagées par les employeurs
+                                          (en %)
+
+
+
+
+                    Source : d’après France travail, Enquête Besoins en Main-d’œuvre 2025, 2025.
+
+
+  Questions :
+
+    1. À l'aide des données du document et d’un calcul simple, vous caractériserez
+       l’évolution du type de difficulté « pénurie de candidats » entre 2015 et 2025. (2 points)
+
+    2. À l’aide du document et de vos connaissances, vous présenterez deux sources
+       différentes de chômage structurel. (4 points)
+
+
+
+
+26-SESJ2ME1                                6/9
+
+                                             EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+  (10 points)
+
+                              Cette partie comporte trois documents.
+
+
+  Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+  que le revenu et le diplôme ne sont pas les seuls facteurs qui structurent et
+  hiérarchisent l’espace social.
+
+
+
+  DOCUMENT 1
+
+                Écarts de salaires selon le sexe et le niveau de rémunération
+             (salaires nets mensuels en euros du secteur privé en équivalent temps plein)
+
+                                                                                                   Ensemble   Hommes   Femmes
+
+  10% des salariés gagnent moins de…                                                                 1512      1539     1487
+  20%...                                                                                             1671      1716     1622
+  30%...                                                                                             1871      1881     1751
+  40%...                                                                                             1988      2062     1896
+  50%...                                                                                             2183      2275     2069
+  60%...                                                                                             2432      2544     2285
+  70%...                                                                                             2769      2909     2583
+  80%...                                                                                             3281      3475     3025
+
+  10% des salariés gagnent plus de...                                                                4302       4607    3875
+  5%...                                                                                              5562       6017    4903
+  1%...                                                                                             10222      11431    8392
+
+  Rapport entre les 10% les mieux payés et les 10%                                                   2,8        3,0     2,6
+  les moins bien payés
+  Écart entre les 10% les mieux payés et les 10% les                                                 2790      3068     2388
+  moins bien payés (en euros)
+  Rapport entre le 1% le mieux payé et les 10% les                                                   6,98       7,4     5,6
+  moins bien payés
+  Écart entre le 1% le mieux payé et les 10% les                                                     8710      9892     6905
+  moins bien payés (en euros)
+
+  Lecture : les 10% des salariés les moins bien payés perçoivent un salaire mensuel net inférieur ou
+  égal à 1512 euros, en équivalent temps plein.
+
+                                                         Source : d’après l’INSEE, INSEE Références, 2023.
+
+
+
+
+26-SESJ2ME1                                   7/9
+
+                                                EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  DOCUMENT 2 :
+
+          Dans l'ensemble, l'élévation du niveau de formation entraîne l'amélioration des
+  débouchés sur le marché du travail et l'augmentation de la rémunération. Conjuguée à
+  d'autres retombées sociales, la perspective de percevoir une rémunération plus élevée et de
+  la voir de surcroît augmenter au fil du temps est un aiguillon1 important qui incite à poursuivre
+  ses études. L'avantage salarial associé à des niveaux de formation plus élevés peut toutefois
+  varier selon l'âge, la filière et le domaine d'études. Le temps de travail est, au-delà du niveau
+  de formation, un autre facteur déterminant de la rémunération (les travailleurs à temps partiel
+  gagnent moins non seulement en valeur absolue, mais également en valeur relative). Les
+  plus qualifiés qui travaillent plus sont plus susceptibles de gagner davantage. Toutefois, la
+  rémunération varie toujours selon le sexe indépendamment de l'âge, du niveau de formation
+  et de la filière dans tous les pays. D'autres facteurs interviennent dans la rémunération et
+  contribuent aux différences dans la répartition des travailleurs entre les catégories de
+  rémunération : la demande de compétences sur le marché du travail, l'offre de main-d’œuvre
+  aux divers niveaux de formation, la législation sur le salaire minimum et le droit du travail et
+  les structures et les usages professionnels (dont la puissance des syndicats, le champ
+  d'application des conventions collectives et la qualité des conditions de travail).
+
+                                                              Source : OCDE, Regards sur l’éducation, 2023.
+
+  1 : Aiguillon : un stimulant, un encouragement.
+
+
+
+
+26-SESJ2ME1                                    8/9
+
+                                                    EN_NOzgzNT8QzNjAc0ND4UzMsTYxMj8A2MDAUwMzqEzNSDEx
+  DOCUMENT 3
+
+  Répartition des ménages par statut d’occupation selon la composition du ménage au
+                                 1er janvier 2020 en %
+
+       Composition du         Propriétaire     Locataire ou         Logé         Ensemble
+           ménage                             sous-locataire    gratuitement
+       Personne seule              45,4             51,8             2,8            100,0
+     Couple sans enfant            74,6             24,0             1,4            100,0
+    Couple avec enfants            67,8             30,4             1,8            100,0
+   Famille monoparentale           37,9             60,2             2,0            100,0
+   Autre type de ménage            31,8             64,4             3,7            100,0
+          Ensemble                 57,6             40,2             2,1            100,0
+
+  Lecture : Au 1er janvier 2020, 45,4% des ménages constitués d’une personne seule sont propriétaires
+  de leur résidence principale.
+
+  Champ : France métropolitaine.
+
+                                               Source : INSEE, Recensement de la population, 2020.
+
+
+
+
+26-SESJ2ME1                                   9/9
+

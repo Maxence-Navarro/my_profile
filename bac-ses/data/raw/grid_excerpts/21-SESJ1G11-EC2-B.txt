@@ -1,0 +1,151 @@
+# score de localisation : 0.742
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-centres-etranger-1-corrige-officiel.pdf
+
+                          BACCALAUREAT GENERAL
+                               SESSION 2021
+                        ENSEIGNEMENT DE SPECIALITE
+                    SCIENCES ECONOMIQUES ET SOCIALES
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+Sujet : Quel est le rôle du progrès technique dans le processus de croissance
+économique ?
+
+Programme officiel :
+
+Science économique
+Questionnement       Objectifs d’apprentissage
+Quels sont les       - Comprendre le processus de croissance économique et les
+sources et les défis sources de la croissance : accumulation des facteurs et
+de la croissance     accroissement de la productivité globale des facteurs ;
+économique ?         comprendre le lien entre le progrès technique et l’accroissement
+                     de la productivité globale des facteurs.
+                     - Comprendre que le progrès technique est endogène et qu’il
+                     résulte en particulier de l’innovation.
+                     - Savoir que l’innovation s’accompagne d'un processus de
+                     destruction créatrice.
+
+Exploitation possible des documents :
+ Document 1  Le document 1 montre la décomposition de la croissance entre les
+                 facteurs de production capital et travail, et la part de la croissance
+                 attribuée à la PGF, assimilée aux effets du progrès technique.
+               On observe particulièrement que les pays ayant un rythme de
+                 croissance relativement faible (France, Japon et Royaume uni) ont
+                 une contribution de la PGF très modeste. A contrario, la Corée tire
+                 sa croissance d’une contribution plus importante de sa PGF.
+               En tendance, la contribution de la PGF semble moins importante
+                 au fil des années pour l’ensemble des pays observés : le progrès
+                 technique s’estompe, ce qui peut être une explication du
+                 ralentissement de la croissance.
+                Le progrès technique et son caractère endogène, déterminant
+                  l’accroissement de la productivité globale des facteurs, jouent
+                  donc bien un rôle essentiel dans la croissance.
+ Document 2  L’industrie musicale a connu plusieurs innovations récentes, qui
+                 modifient rapidement ses structures de marché : chute des ventes
+                 de supports physiques, essor des ventes digitales puis
+                 effondrement, développement actuellement rapide du streaming
+                 légal…
+               L’innovation peut donc s’accompagner d’un processus de
+                 destruction créatrice, que l’on observe bien avec les variations de
+                 revenus par formes de diffusion entre 2001 et 2019.
+               Ces revenus sont une composante de la croissance économique.
+
+
+                                                                                          1
+21-SESJ1G11 C
+ Document 3          Ce document montre l’accroissement des dépenses de
+                    financement nécessaire pour le développement d’un produit
+                    nouveau ou d’une entreprise en amorçage, en France sur la
+                    période récente.
+                   Ce document peut donc permettre de montrer le caractère
+                    endogène, volontairement entretenu, d’un progrès technique qui
+                    résulte en particulier d’une innovation qu’il aura fallu financer en
+                    amont.
+ Document 4         Les dépenses de recherche et développement représentent une
+                     part relativement constante du PIB en France.
+                    Si les dépenses des administrations publiques sont en proportion
+                     un peu moins fortes (passant de 39 à 34,7% sur la période), elles
+                     restent relativement importantes. Les entreprises exécutent la
+                     majeure partie des dépenses de recherche et développement.
+                    Ces dépenses participent bien évidemment à un progrès
+                     technique endogène, qui tire la croissance économique.
+
+
+Problématique possible :
+
+Si on observe la décomposition de la croissance de la plupart des pays, le moteur
+qu’est la productivité globale des facteurs (PGF) reste l’une des plus importantes
+explications de l’augmentation des PIB. Cette PGF est généralement associé à l’effet
+du progrès technique, au sens large.
+Se pose donc la question d’identifier l’apport réel du progrès technique à la croissance,
+et son caractère endogène par une somme de décisions d’acteurs publics et privés.
+
+Proposition de plan détaillé :
+ I) le progrès technique est une                 II) Le progrès technique est endogène,
+ composante          essentielle    de      la   favorisant ainsi le caractère cumulatif
+ croissance.                                     de la croissance.
+ A) Il y a un lien entre progrès                 A) Le progrès technique résulte des
+ technique et accroissement de la                décisions d’investissement en R&D et
+ productivité globale des facteurs.              des innovations qui en découlent.
+  L’efficacité d’une entreprise ou d’une         A l’origine des innovations, il y a bien
+    nation sera d'autant plus grande                 souvent une décision des acteurs
+    qu'elle produira une quantité donnée             économiques. Ces innovations sont à
+    supplémentaire avec autant de                    la source du progrès technique.
+    facteurs de production (capital et            Les structures de l’économie et
+    travail). La croissance s’explique donc          l’action de l’Etat (financer la recherche
+    avant tout par l’efficacité de ces               et développement, garantir les droits
+    facteurs, c’est à dire leur productivité.        de propriétés, sécuriser les brevets…)
+    La productivité est bien une mesure              peuvent ainsi favoriser ce progrès
+    de l’efficacité du système productif             technique endogène, tout comme des
+    (document 1).                                    décisions individuelles (se former,
+  Il est difficile de déterminer une origine        acheter du capital technique plus
+    certaine et unique à un gain de                  performant…).
+    productivité des ou d’un facteur de           Ces        décisions      d’acteurs    sont
+    production. On considère alors que la            notamment visibles dans le document
+    PGF mesure principalement l’effet                4 et le document 3.
+
+                                                                                                 2
+21-SESJ1G11 C
+   progrès technique au sens large, dont
+   les déterminants sont essentiellement
+   l'innovation    et     les    progrès
+   organisationnels des firmes.
+
+ B) La productivité globale des              B) Le progrès technique a un effet
+ facteurs est déterminante dans le           d’entrainement sur la croissance
+ processus de croissance.                    économique.
+  La contribution des deux facteurs de       Des innovations ont donné lieu à des
+    production à la croissance ne suffit        révolutions technologiques entrainant
+    généralement pas à expliquer la             une croissance de long terme.
+    totalité de la croissance du PIB : la       L’effet des innovations est parfois
+    productivité globale des facteurs est       cependant plus ambigu : l’innovation
+    ainsi une composante importante de          s’accompagne aussi d’un mouvement
+    la croissance.                              de destruction créatrice, même
+  Cette PGF détermine largement le             lorsque de nouveaux marchés
+    rythme      de      croissance     des      apparaissent (document 2).
+    économies : une contribution faible de    Le progrès technique est alors créé et
+    la PGF entraine une croissance faible       amélioré            grâce           aux
+    et inversement (Document 1).                « investissements » de chacun, au
+                                                bénéfice de tous. En effet, lorsque l’on
+                                                innove, on améliore non seulement sa
+                                                propre productivité, mais l’on assure
+                                                aussi une série d’effets bénéfiques
+                                                pour toute la collectivité par des
+                                                externalités positives.
+                                              Cela se traduit par une croissance
+                                                économique, inscrite dans le temps
+                                                long : les gains de productivité
+                                                peuvent être partagés et réinvestis en
+                                                faveur de la poursuite du processus
+                                                de croissance.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+                                                                                           3
+21-SESJ1G11 C

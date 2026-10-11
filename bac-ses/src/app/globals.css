@@ -1,0 +1,129 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Source Serif 4", "Iowan Old Style", "Charter", "Georgia", "Times New Roman", serif;
+
+  --color-ink-50: #f6f7fb;
+  --color-ink-100: #eceef6;
+  --color-ink-200: #d6dae9;
+  --color-ink-300: #b2b9d3;
+  --color-ink-400: #7d87ad;
+  --color-ink-500: #59628a;
+  --color-ink-600: #434b6e;
+  --color-ink-700: #333a57;
+  --color-ink-800: #20253b;
+  --color-ink-900: #141829;
+  --color-ink-950: #0b0e1a;
+
+  --color-brand-50: #eef4ff;
+  --color-brand-100: #dbe7ff;
+  --color-brand-200: #bfd3ff;
+  --color-brand-300: #93b4fd;
+  --color-brand-400: #608cf9;
+  --color-brand-500: #3b66f2;
+  --color-brand-600: #2849df;
+  --color-brand-700: #2139bc;
+  --color-brand-800: #213398;
+  --color-brand-900: #202f78;
+
+  /* Une couleur par type d'exercice (doublée d'un libellé texte : jamais la couleur seule). */
+  --color-ec1: #0e7490;
+  --color-ec1-soft: #e0f5fa;
+  --color-ec2: #047857;
+  --color-ec2-soft: #dcf5ea;
+  --color-ec3: #b45309;
+  --color-ec3-soft: #fdf0dc;
+  --color-diss: #6d28d9;
+  --color-diss-soft: #efe7fd;
+
+  --animate-fade-up: fade-up 0.45s ease-out both;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+:root {
+  color-scheme: light;
+}
+.dark {
+  color-scheme: dark;
+  --color-ec1-soft: #0f2f38;
+  --color-ec2-soft: #0f2d23;
+  --color-ec3-soft: #35240d;
+  --color-diss-soft: #2a1b47;
+  --color-ec1: #67d3ea;
+  --color-ec2: #5fd6a6;
+  --color-ec3: #f3b45c;
+  --color-diss: #b79cf6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  @apply bg-ink-50 text-ink-900 antialiased dark:bg-ink-950 dark:text-ink-100;
+  font-feature-settings: "cv11", "ss01";
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Lecture des corrigés : confortable sur mobile, tableaux défilables. */
+.reading {
+  @apply prose max-w-none dark:prose-invert;
+  --tw-prose-body: var(--color-ink-800);
+  --tw-prose-headings: var(--color-ink-950);
+  --tw-prose-links: var(--color-brand-700);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+.dark .reading {
+  --tw-prose-invert-body: var(--color-ink-200);
+  --tw-prose-invert-headings: #fff;
+  --tw-prose-invert-links: var(--color-brand-300);
+}
+.reading table {
+  @apply block overflow-x-auto text-sm;
+  max-width: 100%;
+}
+.reading th,
+.reading td {
+  @apply whitespace-nowrap px-2 py-1;
+}
+.reading td:first-child,
+.reading th:first-child {
+  @apply whitespace-normal;
+  min-width: 10rem;
+}
+.reading img {
+  @apply rounded-lg border border-ink-200 bg-white dark:border-ink-700;
+}
+.reading blockquote {
+  @apply not-italic;
+}
+.reading .doc-ref {
+  @apply rounded bg-brand-50 px-1 font-medium text-brand-800 dark:bg-brand-900/40 dark:text-brand-200;
+}
+
+.focus-ring {
+  @apply outline-none focus-visible:ring-2 focus-visible:ring-brand-500 focus-visible:ring-offset-2 focus-visible:ring-offset-ink-50 dark:focus-visible:ring-offset-ink-950;
+}

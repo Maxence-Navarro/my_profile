@@ -1,0 +1,57 @@
+{
+  "id": "24-SESJ1PO1-EC3",
+  "slug": "24-sesj1po1-ec3",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": null,
+  "examCode": "24-SESJ1PO1",
+  "year": 2024,
+  "session": "normale",
+  "day": "J1",
+  "center": "Polynésie",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique est une source endogène de croissance économique.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Part des dépenses de Recherche et Développement dans le PIB et PIB par habitant *(source : d'après INSEE, « Indicateurs de richesse nationale » et « Produit intérieur brut par)*\n- Document 2 — Dépense moyenne (en euros) par élève ou étudiant selon le niveau de formation *(source : d'après Mélanie DREGOIR et Sylvie ROUSSEAU, \"169 milliards d'euros consacrés à)*\n- Document 3 — Les effets économiques positifs de la première génération de l'internet à haut débit sont *(source : d'après Anne FAURE et Pierre-Jean BENGHOZI, « Infrastructures numériques et)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Le travail est-il toujours facteur d'intégration sociale ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Présentez un moyen par lequel les pouvoirs publics peuvent contribuer à la justice sociale."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous mettrez en évidence le fait qu'être parent n'a pas les mêmes conséquences sur la situation professionnelle des femmes cadres et des femmes ouvrières. / À l'aide du document et de vo"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 24-SESJ1PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-polynesie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

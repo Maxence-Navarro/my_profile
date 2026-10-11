@@ -1,0 +1,552 @@
+                BACCALAURÉAT GÉNÉRAL
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2021
+
+
+
+          Sciences économiques et sociales
+
+
+
+                              Mardi 8 juin 2021
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 13 pages numérotées de 1/13 à 13/13.
+
+
+
+
+  Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                   d’épreuve composée (sujet A ou sujet B).
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ2ME2                                                                   Page : 1/13
+                                          DISSERTATION
+
+
+Il est demandé au candidat :
+ - de répondre à la question posée par le sujet ;
+ - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+ - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+      celles figurant dans le dossier ;
+ - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et
+      en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+      parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+              Quels sont les facteurs explicatifs de la mobilité sociale ?
+
+
+DOCUMENT 1
+
+               Évolution de la structure des emplois entre 1977 et 2015
+
+                                                      1977               1993                2015
+                   En %
+                                              Pères          Fils   Pères       Fils    Pères       Fils
+
+Agriculteurs exploitants                       25,4      10,3        15,8       4,7       8,3       2,8
+Artisans, commerçants et chefs
+                                               16,0      11,5        13,1       10,5      13,0      9,1
+d'entreprise
+Cadres et professions
+                                                5,0      10,6        8,2        18,0      13,9      20,4
+intellectuelles supérieures
+Professions intermédiaires                      7,5      20,2        11,4       23,6      15,9      25,3
+Employés et ouvriers qualifiés                 26,0      33,0        34,1       34,3      35,6      32,4
+Employés et ouvriers non qualifiés             20,0      14,3        17,4       8,9       13,1      10,1
+Ensemble                                       100           100     100        100       100       100
+
+Lecture : En 2015, 2,8 % des hommes et 8,3 % de leurs pères sont agriculteurs exploitants;
+en 1977, ils étaient respectivement 10,3 % et 25,4 % à exercer cette profession.
+Champ : France métropolitaine, femmes et hommes français actifs occupés ou anciens actifs
+occupés, âgés de 35 à 59 ans au 31 décembre de l’année d’enquête.
+
+      Source : INSEE, enquêtes Formation et qualification professionnelle 1977, 1993, 2015.
+
+
+
+
+21-SESJ2ME2                                                                                 Page : 2/13
+DOCUMENT 2
+
+
+          Évolution du nombre de personnes en emploi par niveau de diplôme
+                       entre 1982-1984 et 2012-2014 (en millions)
+
+
+12,0
+
+
+
+
+10,0
+
+
+
+
+ 8,0
+
+
+
+
+ 6,0
+
+
+
+
+ 4,0
+
+
+
+
+ 2,0
+
+
+
+
+ 0,0
+        1982-1984
+                    1983-1985
+                                1984-1986
+                                            1985-1987
+                                                        1986-1988
+                                                                    1987-1989
+                                                                                1988-1990
+                                                                                            1989-1991
+                                                                                                        1990-1992
+                                                                                                                    1991-1993
+                                                                                                                                1992-1994
+                                                                                                                                            1993-1995
+                                                                                                                                                        1994-1996
+                                                                                                                                                                    1995-1997
+                                                                                                                                                                                1996-1998
+                                                                                                                                                                                            1997-1999
+                                                                                                                                                                                                        1998-2000
+                                                                                                                                                                                                                    1999-2001
+                                                                                                                                                                                                                                2000-2002
+                                                                                                                                                                                                                                            2001-2003
+                                                                                                                                                                                                                                                        2002-2004
+                                                                                                                                                                                                                                                                    2003-2005
+                                                                                                                                                                                                                                                                                2004-2006
+                                                                                                                                                                                                                                                                                            2005-2007
+                                                                                                                                                                                                                                                                                                        2006-2008
+                                                                                                                                                                                                                                                                                                                    2007-2009
+                                                                                                                                                                                                                                                                                                                                2008-2010
+                                                                                                                                                                                                                                                                                                                                            2009-2011
+                                                                                                                                                                                                                                                                                                                                                        2010-2012
+                                                                                                                                                                                                                                                                                                                                                                    2011-2013
+                                                                                                                                                                                                                                                                                                                                                                                2012-2014
+
+
+
+
+        Diplôme supérieur (bac + 3 ou plus)                                                                                                                                                                   Bac + 2
+
+
+        Bac, brevet professionnel ou équivalent                                                                                                                                                               CAP, BEP ou autre diplôme équivalent
+
+
+        Aucun diplôme, CEP ou brevet des collèges                                                                                                                                                             En cours d'études initiales
+
+
+       Champ : Actifs occupés de France métropolitaine.
+
+                                                            Source : D’après enquêtes Emploi, DARES analyses, INSEE, janvier 2017.
+
+
+
+21-SESJ2ME2                                                                                                                                                                                                                                                                                                                                 Page : 3/13
+DOCUMENT 3
+
+ Destinées par groupes sociaux d’origine selon le nombre de frères et sœurs
+                                  (en %)
+        Destinée                       Artisan,      Cadre,
+               Nombre                commerçant, profession       Profession
+Groupe social            Agriculteur                                           Employé Ouvrier
+               de frères                 chef     intellectuelle intermédiaire
+   du père
+               et sœurs              d’entreprise supérieure
+   Cadre,         2 ou       0,2         5,7           56,4           25,8       6,5    5,5
+ profession     moins
+intellectuelle
+ supérieure 3 ou plus        0,8         8,0           49,5           22,0       7,9    11,5
+
+                 2 ou         0,4          5,5             25,3          27,4       19,5     21,9
+                moins
+   Employé
+               3 ou plus      0,3          5,7             17,8          32,1       12,6     31,5
+
+                 2 ou         0,9          6,2             15,2          26,4       14,1     37,2
+                moins
+   Ouvrier
+               3 ou plus      0,5          6,6             7,4           21,2       12,6     51,7
+
+                 2 ou         5,2          8,4             25,1          26,0       11,4     24,0
+                moins
+  Ensemble1
+               3 ou plus      3,8          8,1             14,2          3,3        11,2     39,4
+
+
+
+Champ : France métropolitaine, Français de naissance âgés de 40 à 59 ans en 2003, ayant
+déjà travaillé.
+
+                                                 Source : D’après l’INSEE, Portrait social, 2007.
+
+
+Lecture : 17,8% des fils d’employés, qui ont trois frères ou sœurs ou plus, sont devenus cadres
+et professions intellectuelles supérieures. Cette proportion est de 25,3% pour les fils
+d’employés qui ont deux frères ou sœurs ou moins.
+
+1 : La ligne « Ensemble » regroupe l’ensemble des catégories socioprofessionnelles.
+
+
+
+
+21-SESJ2ME2                                                                         Page : 4/13
+DOCUMENT 4
+
+
+Mathilde a 5 ans et sept mois au moment de l’enquête. […] Les parents de Mathilde,
+Isabelle (36 ans) et Renaud (38 ans), sont tous deux fonctionnaires d’État
+catégorie A. Ils travaillent comme inspecteurs de la concurrence, de la consommation
+et de la répression des fraudes (DGCCRF) dans deux départements différents, mais
+géographiquement proches. Leur activité professionnelle suppose une connaissance
+du droit, notamment la rédaction de procès-verbaux et de lettres aux juges.
+[…] Du côté de la branche maternelle, l’histoire montre une ascension sociale continue.
+Si Isabelle ne sait rien des professions de ses grands-parents paternels, ses grands-
+parents maternels en revanche étaient contremaître et ouvrière dans une usine de
+fabrication de chaussures. Sortant de leur milieu par la voie scolaire, ses parents
+étaient tous deux enseignants. Sa mère a une licence d’espagnol et a été institutrice
+dans le privé ; son père a un diplôme d’instituteur dans le privé, mais exerçait de fait
+comme enseignant vacataire dans un collège privé.
+[…] Mathilde a toujours été baignée dans une culture livresque et a très tôt été attirée
+par les livres : « Elle a été bercée à ça, comme j’en ai toujours lu à son frère… […]
+Les enfants n’ont par ailleurs pas accès à Internet, et les parents veillent de façon
+générale à limiter les temps passés devant les écrans. […] Elle emmène aussi les
+enfants dans des musées en privilégiant une approche didactique. Pour ce faire,
+refusant de les inscrire sur les temps d’activités périscolaires du vendredi après-midi,
+elle « pédagogise » les sorties : « Alors, on est pas mal allés au musée d’Arts parce
+que c’est long, du coup comme ils saturent quand même relativement vite au-delà
+d’une heure, voilà donc on y est allés trois-quatre fois et on n’a pas encore fini, il nous
+reste la peinture à partir des impressionnistes. Ils aiment bien, mais voilà, faut pas y
+passer trop longtemps. Ils avaient demandé à voir une exposition sur le cinéma, donc
+on y est allés, ils avaient demandé un musée avec des automates donc on y est allés,
+on les a emmenés dans différents musées historiques, scientifiques et techniques. »
+
+              Source : D’après Bernard LAHIRE, Enfances de classe, Le Seuil, 2019.
+
+
+
+
+21-SESJ2ME2                                                                   Page : 5/13
+                              EPREUVE COMPOSEE – SUJET A
+
+Cette épreuve comprend trois parties :
+
+Partie 1 – Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 – Étude d’un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l’information.
+Partie 3 – Raisonnement s’appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+    - en développant un raisonnement ;
+    - en exploitant les documents du dossier ;
+    - en faisant appel à ses connaissances personnelles ;
+    - en composant une introduction, un développement, une conclusion.
+
+Il sera tenu compte, dans la notation, de la clarté de l’expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+À l’aide d’un exemple, vous montrerez en quoi les stratégies de passager clandestin
+peuvent contraindre la mise en place d’accords environnementaux à l’échelle
+internationale.
+
+
+
+
+21-SESJ2ME2                                                                                 Page : 6/13
+Deuxième partie : Étude d’un document (6 points)
+
+
+
+    Profil des votants et des abstentionnistes au second tour des élections
+                           législatives de 2017 (en %)
+
+                                     Votants    Abstentionnistes    Total
+        Ensemble                      43,4           56,6           100
+        Sexe
+        Homme                          42              58            100
+        Femme                          45              55            100
+        Âge
+        18-24 ans                      26              74            100
+        25-34                          30              70            100
+        35-49                          38              62            100
+        50-59 ans                      45              55            100
+        60-69 ans                      57              43            100
+        70 ans et plus                 61              39            100
+        Dernier diplôme obtenu
+        Inférieur au bac               44              56            100
+        Baccalauréat                   37              63            100
+        Bac +2                         43              57            100
+        Au moins Bac +3                50              50            100
+        Profession
+        Cadre                          50              50            100
+        Profession intermédiaire       37              63            100
+        Employé                        35              65            100
+        Ouvrier                        31              69            100
+        Retraité                       60              40            100
+
+                                                       Source : d’après IPSOS, 2017.
+
+Questions :
+
+  1. À l’aide des données du document, vous comparerez la participation des ouvriers
+     avec celle des cadres lors du second tour des élections législatives de
+     2017. (2 points)
+
+  2. À l’aide des données du document et de vos connaissances, vous montrerez que
+     le vote dépend de plusieurs variables sociodémographiques. (4 points)
+
+
+
+
+21-SESJ2ME2                                                             Page : 7/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que les politiques de soutien de la demande globale peuvent
+permettre de lutter contre le chômage.
+
+
+
+DOCUMENT 1
+
+
+                      Taux d’intérêt directeur1 de la BCE (en %)
+
+
+
+
+                                           Source : d’après www.euribor-rates.eu, Juin 2020.
+
+1 : Le taux d’intérêt directeur de la Banque Centrale Européenne permet d’agir sur la capacité
+des banques commerciales à distribuer du crédit.
+
+
+
+
+21-SESJ2ME2                                                                      Page : 8/13
+DOCUMENT 2
+
+
+Avant les années 1930, la fonction principale du budget de l’État était d’assurer le
+financement des administrations (des services publics). On ne lui attribuait pas de rôle
+économique. La gravité de la crise de 1929 va conduire les pouvoirs publics à
+considérer le budget de l’État comme un levier de la politique économique. Les travaux
+de l’économiste britannique J.M. Keynes montrant que l’utilisation du budget pouvait
+avoir une influence sur la demande des agents économiques (consommation,
+investissement) et, par conséquent sur le niveau de l’activité, vont donner un
+fondement théorique à cette nouvelle approche.
+La politique budgétaire est un levier de la politique de régulation de la conjoncture. […]
+En période de ralentissement de la croissance ou de crise, elle va servir à soutenir
+l’activité économique. On parle de politique de relance budgétaire. […]
+Lorsque la conjoncture économique se dégrade fortement ou en cas de crise, les
+pouvoirs publics peuvent décider d’intervenir directement et de mettre en œuvre des
+mesures spécifiques en termes de dépenses, d’impôts ou de transferts sociaux afin
+d’influer volontairement sur la conjoncture. Les pouvoirs publics prévoient un montant
+de dépenses publiques supérieur aux ressources prélevées sur les agents
+économiques.
+
+                                                Source : www.viepublique.fr, Septembre 2019.
+
+DOCUMENT 3
+
+Boris Johnson va dévoiler mardi 30 juin 2020 un grand plan de relance, fondé sur la
+construction d'infrastructures, pour soutenir l'économie britannique, durement affectée
+par la pandémie de Covid-19, rapportent des médias dimanche. « Cela a été un
+énorme, énorme choc pour le pays, mais nous allons très bien rebondir », a affirmé le
+dirigeant conservateur dans une interview au Daily Mail. « Si le Covid-19 était un éclair,
+nous n'allons pas tarder à entendre le tonnerre en termes de conséquences
+économiques. Nous serons prêts », a-t-il assuré.
+Le pays « ne reviendra absolument pas à l'austérité comme il y a dix ans », sous le
+gouvernement du conservateur David Cameron, a-t-il assuré au tabloïd1. Selon le
+journal, le locataire du 10, Downing Street va annoncer les détails de ce plan, qu'il
+décrit comme un « très grand moment », lors d'un discours mardi. […]
+Interviewée dimanche sur Sky News, la ministre de l'Intérieur, Priti Patel, a affirmé que
+le gouvernement était déterminé à « faire redémarrer le Royaume-Uni ». « Nous
+élaborons un plan vers la reprise, une feuille de route qui se concentre sur
+l'infrastructure », a-t-elle déclaré, citant des investissements pour « les routes » ou
+encore « l'Internet à haut débit ». Le ministère de la Justice a annoncé dimanche la
+création de quatre nouvelles prisons en Angleterre pour réduire la criminalité et
+soutenir l'économie locale, ainsi que le secteur de la construction, assurant que cela
+créerait des milliers d'emplois.
+                                                         Source : www.lepoint.fr, 20 Juin 2020.
+
+1 : Tabloïd : Journal, périodique de petit format, souvent populaire, à grand tirage.
+
+
+
+21-SESJ2ME2                                                                        Page : 9/13
+                              EPREUVE COMPOSEE - SUJET B
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Á l’aide d’un exemple, vous montrerez comment la différenciation des produits peut
+expliquer le commerce entre pays comparables.
+
+
+
+
+21-SESJ2ME2                                                                               Page : 10/13
+Deuxième partie : Étude d’un document (6 points)
+
+
+   Évolutions passées et projetées du PIB, des émissions de gaz à effet de
+   serre (GES) et de l’intensité des émissions de gaz à effet de serre (GES)
+                            dans l’Union européenne
+
+
+
+
+      Source : Commission européenne, Deuxième rapport sur l’état de l’union de l’énergie,
+                                                                             février 2017.
+
+
+Questions :
+   1. À l’aide des données du document, comparez l’évolution du PIB avec celle des
+      émissions de GES entre 1990 et 2019. (2 points)
+
+   2. À l’aide des données du document et de vos connaissances, vous montrerez
+      comment l’innovation peut rendre la croissance économique soutenable. (4
+      points)
+
+
+
+
+21-SESJ2ME2                                                                 Page : 11/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la catégorie socioprofessionnelle et le revenu ne sont pas les
+seuls facteurs qui structurent l’espace social.
+
+
+DOCUMENT 1
+   Niveau de vie1 moyen selon la catégorie socioprofessionnelle, en 2018, en
+                                    euros
+
+
+
+
+Champ : France métropolitaine, individus actifs de 18 ans ou plus ayant déjà travaillé, vivant
+dans un ménage dont le revenu déclaré est positif ou nul et dont la personne de référence
+n'est pas étudiante.
+
+                                                                       Source : INSEE, 2018.
+1 : Le niveau de vie correspond au revenu disponible du ménage rapporté au nombre de
+personnes composant le ménage.
+
+
+21-SESJ2ME2                                                                    Page : 12/13
+DOCUMENT 2
+           Écarts de salaires selon le sexe et le niveau de rémunération
+                (Salaires mensuels nets en équivalent temps plein en 2015)
+
+                            Hommes         Femmes         Ensemble        Écart        Écart
+                            en euros       en euros       en euros         en          en %
+                                                                          euros
+ 10% des salariés             1262            1171           1213          -91           -7
+ gagnent moins de …
+ 20%...                       1427            1288           1357           -139        -10
+ 30%...                       1573            1396           1490           -177        -11
+ 40%...                       1728            1512           1630           -216        -13
+ 50%...                       1906            1650           1797           -256        -13
+ 60%...                       2130            1830           2004           -300        -14
+ 70%...                       2451            2073           2286           -378        -15
+ 80%...                       2996            2432           2752           -564        -19
+ 90%...                       3990            3149           3646           -841        -21
+ 5% des salariés              5155            3899           4652          -1256        -24
+ gagnent plus de
+ 1% des salariés              9503            6317           8283          -3186        -34
+ gagnent plus de
+ Ensemble                     2438            1986           2250            - 452      -19
+Lecture : 50% des femmes ont un salaire inférieur à 1650€ par mois (en équivalent temps plein).
+Ce salaire médian est inférieur de 13% à celui des hommes.
+                                     Source : www.observatoiredesinégalités.fr, mars 2019.
+
+
+DOCUMENT 3
+Les zones rurales isolées sont celles où le niveau de vie médian est le moins élevé :
+1 568 euros par mois, selon les données 2015 de l’INSEE. Les territoires les plus aisés
+sont les banlieues situées au sein des grands pôles urbains (1 773 euros) et leurs
+couronnes (1 811 euros). Avec 1 611 euros, les villes-centres occupent une position
+intermédiaire. Les couronnes périphériques des grandes villes sont le plus souvent
+occupées par des ménages des couches moyennes qui disposent d’un niveau de vie
+leur permettant d’accéder à la propriété individuelle. Le milieu rural isolé est, lui, en
+partie composé de ménages d’agriculteurs âgés avec de faibles retraites, du fait
+notamment de l’inactivité (officielle) des femmes. […] Les grands pôles urbains, et tout
+particulièrement les villes-centres, réunissent les situations les plus contrastées. Ils
+sont à la fois le lieu des revenus les plus élevés et celui de la plus grande pauvreté.
+Notamment parce que l’essentiel des logements sociaux se situe dans les grands
+pôles. Le périurbain se distingue par des revenus médians plus élevés et par une plus
+grande homogénéité sociale. Quant au rural isolé, il abrite une population pour partie
+très défavorisée. Le poids désormais très faible dans la population totale de ces
+populations rurales très modestes accentue encore leur sentiment d’isolement.
+  Source : « Grandes villes, le cœur des inégalités », www.inegalites.fr, 20 septembre 2019.
+
+
+21-SESJ2ME2                                                                    Page : 13/13
+

@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-10-11T17:48:16Z",
+  "inventory": {
+    "totalQuestions": 68,
+    "byType": {
+      "EC1": 27,
+      "EC2": 17,
+      "EC3": 12,
+      "dissertation": 12
+    },
+    "withAnswer": 0,
+    "withOfficialGrid": 0,
+    "toVerify": 1
+  },
+  "toVerify": [
+    {
+      "id": "VERS-218-EC1",
+      "note": "Tuile datée « 2020, France métropolitaine, Normale » sur le site de Versailles (fichier 2020_metro_norm_ec_2.docx). La première session des épreuves de spécialité étant 2021, la nature exacte de ce sujet (sujet d'examen, sujet préparé pour une session annulée, ou sujet d'entraînement) n'a pas pu être établie. Non publié tant que non vérifié.",
+      "question": "Comment les droits de propriété favorisent-ils la croissance économique ?",
+      "versailles_doc_ids": [
+        218
+      ]
+    }
+  ],
+  "outOfScope": [
+    {
+      "versailles_doc_ids": [
+        789,
+        792
+      ],
+      "note": "Sujets de l'épreuve orale de contrôle (2022, métropole) : hors périmètre de l'épreuve écrite. Recensés, non publiés."
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "id": "INT-21-ME-J1-EC2-A",
+      "reason": "Croissance du PIB mise en relation avec le chômage : questionnement « Comment lutter contre le chômage ? » (classement Versailles concordant)."
+    },
+    {
+      "id": "21-SESJ1PO1-EC2-B",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "21-SESJ2G11-EC2-B",
+      "reason": "Productivité des firmes et capacité à exporter : chapitre commerce international."
+    },
+    {
+      "id": "21-SESJ2PO1-EC2-B",
+      "reason": "Productivité des firmes et compétitivité : chapitre commerce international."
+    },
+    {
+      "id": "22-SESJ2AN1-EC2-A",
+      "reason": "Dotations factorielles et technologiques, spécialisation : commerce international (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ2AN1-EC1-B-Q1",
+      "reason": "Effet du marché unique sur la croissance : questionnement « Quelles politiques économiques dans le cadre européen ? » (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ2AS1-EC2-A",
+      "reason": "Choc asymétrique en zone euro : chapitre politiques européennes."
+    },
+    {
+      "id": "22-SESJ1NC1-EC3-A",
+      "reason": "Productivité des firmes et compétitivité : commerce international (Versailles concordant)."
+    },
+    {
+      "id": "22-SESJ1NC1-EC3-B",
+      "reason": "Même exercice que 22-SESJ1NC1-EC3-A (commerce international)."
+    },
+    {
+      "id": "22-SESJ2PO3-EC2-A",
+      "reason": "Commerce entre pays comparables : commerce international."
+    },
+    {
+      "id": "23-SESJ2AN1-EC3",
+      "reason": "Institutions et chômage structurel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "23-SESJ2ME1-EC2",
+      "reason": "Qualification et structure socioprofessionnelle : chapitre structure sociale (Versailles concordant)."
+    },
+    {
+      "id": "23-SESJ2NC1-EC2",
+      "reason": "Politiques de formation et chômage : chapitre chômage."
+    },
+    {
+      "id": "24-SESJ1AN1-EC1",
+      "reason": "Effets du marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "24-SESJ2PO1-EC2",
+      "reason": "Milieu social et trajectoires de formation : questionnement sur l'école, hors écrit à partir de 2027."
+    },
+    {
+      "id": "24-SESJ2AN1-EC2",
+      "reason": "Prix des logements et chômage : hors chapitre croissance."
+    },
+    {
+      "id": "24-SESJ1PO3-EC2",
+      "reason": "Écarts de dotations technologiques et commerce : commerce international."
+    },
+    {
+      "id": "25-SESJ1AS1-EC2",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2JA1-EC1",
+      "reason": "Effet du marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2JA1-EC2",
+      "reason": "Fluctuations et chômage conjoncturel : chapitre chômage (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ2ME3-EC2",
+      "reason": "Marché unique : chapitre politiques européennes (Versailles concordant)."
+    },
+    {
+      "id": "25-SESJ1ME2-EC1",
+      "reason": "Institutions et chômage structurel : chapitre chômage."
+    },
+    {
+      "id": "25-SESJ2NC1-EC2",
+      "reason": "Commerce international et inégalités entre pays : commerce international."
+    },
+    {
+      "id": "26-SESJ1AN1-EC2",
+      "reason": "Coordination des politiques en zone euro : chapitre politiques européennes."
+    },
+    {
+      "id": "26-SESJ1ME1-EC3",
+      "reason": "Productivité des firmes et compétitivité : commerce international."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "24-SESJ2JA1-EC2",
+  "slug": "24-sesj2ja1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "24-SESJ2JA1",
+  "year": 2024,
+  "session": "normale",
+  "day": "J2",
+  "center": "Asie",
+  "question": "Croissance du PIB (en %) et contributions à la croissance du PIB (en points de pourcentage) en 2021 Contribution Contribution Taux de Contribution",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, vous comparerez les contributions à la croissance en France et aux États-Unis.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide de vos connaissances et du document, vous distinguerez les sources de la croissance des pays observés.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "distinguer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Document :** Croissance du PIB (en %) et contributions à la croissance du PIB (en points de pourcentage) en 2021 Contribution Contribution Taux de Contribution\n\n*Source indiquée : d'après OCDE, 2022.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment expliquer les difficultés des politiques économiques qui agissent sur la conjoncture en zone euro ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous montrerez que la différenciation des produits peut expliquer le commerce entre pays comparables."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'évolution des formes d'organisation du travail a des effets positifs et négatifs sur les conditions de travail."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 24-SESJ2JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-asie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 566, sujet_asie_j2-3.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=566&cle=0737550f2c68524e358fa98dfbba4126bb2b384c9a43a7da58dd65eb9fac7ac4&file=docx%2Fsujet_asie_j2-3.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC2 - Étude de document · Quels sont les sources et les défis de la croissance économique ? · Asie · 2024 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 566",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=566&cle=0737550f2c68524e358fa98dfbba4126bb2b384c9a43a7da58dd65eb9fac7ac4&file=docx%2Fsujet_asie_j2-3.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "24-SESJ2JA1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-asie-2-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 24-SESJ2JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.812) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "23-SESJ1PO1-DISS",
+  "slug": "23-sesj1po1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "23-SESJ1PO1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "Polynésie",
+  "question": "Les limites écologiques sont-elles le seul défi posé par la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Les émissions de gaz à effet de serre dues aux transports ont été multipliées par 2,5 *(source : Cecilia BELLORA, « Émissions de gaz à effet de serre dues aux transports », dans)*\n- Document 2 — L'élévation de la température dans le monde (en degrés Celsius) par rapport à *(source : d'après « Environnement : 2021, nouvelle année folle pour le climat », Les Échos,)*\n- Document 3 — Part des emplois fortement menacés par l'automatisation1 *(source : www.brief.eco, 26 septembre 2018.)*\n- Document 4 — Salaire horaire moyen par âge pour les travailleurs peu qualifiés des *(source : d'après Philippe AGHION, Antonin BERGEAUD, Richard BLUNDELL et Rachel)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1",
+      "question": "À partir d'un exemple, vous montrerez que l'action publique pour l'environnement articule différentes échelles."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez le montant des importations de l'Union Européenne en provenance de la Chine à celles en provenance des États-Unis sur la période janvier-avril 2022. / À l'aide des donnée"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que, depuis la seconde moitié du XXe siècle, la structure socioprofessionnelle française a connu des évolutions importantes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-polynesie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 125, 2023_poly_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=125&cle=1670f21296b3d8487223aca99542bcb2ad6c9be43ff2a73bc19c1aeeba3376df&file=docx%2F2023_poly_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 125",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=125&cle=1670f21296b3d8487223aca99542bcb2ad6c9be43ff2a73bc19c1aeeba3376df&file=docx%2F2023_poly_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

@@ -1,0 +1,159 @@
+# score de localisation : 0.875
+# https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-1-corrige-officiel.pdf
+
+      DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                     PROPOSITION DE CORRIGÉ
+
+
+     Sujet : Comment l’innovation peut-elle contribuer à reculer les limites
+                 écologiques d’une croissance soutenable ?
+
+
+Programme officiel :
+Science économique
+
+Questionnement      Objectifs d’apprentissage
+Quels sont les      -Comprendre le processus de croissance économique et les
+  sources et les    sources de la croissance : accumulation des facteurs et
+  défis de la       accroissement de la productivité globale des facteurs ;
+  croissance        comprendre le lien entre le progrès technique et l’accroissement
+  économique ?      de la productivité globale des facteurs.
+                    -Comprendre que le progrès technique est endogène et qu’il
+                    résulte en particulier de l’innovation.
+                    -Comprendre comment les institutions (notamment les droits de
+                    propriété) influent sur la croissance en affectant l’incitation à
+                    investir et innover; savoir que l’innovation s’accompagne d'un
+                    processus de destruction créatrice.
+                    -Comprendre comment le progrès technique peut engendrer
+                    des inégalités de revenus.
+                    -Comprendre qu’une croissance économique soutenable se
+                    heurte à des limites écologiques (notamment l’épuisement des
+                    ressources, la pollution et le réchauffement climatique) et que
+                    l’innovation peut aider à reculer ces limites.
+
+
+
+
+Exploitation possible des documents :
+ Document 1 Ce document propose des exemples d’innovations de procédé
+              permettant de réduire l’impact écologique de la croissance
+              économique (moindre pollution, moindre réchauffement climatique,
+              préservation des ressources).
+              - exemples de nouvelles technologies peu voire pas polluantes du fait
+              d’une dépollution des rejets : les technologies ajoutées.
+              - exemples de nouvelles technologies qui utilisent moins de
+              ressources naturelles fossiles car moins gourmandes en énergie et
+              donc peu émettrices de GES : les technologies intégrées.
+ Document 2 - La croissance économique a un impact environnemental.
+              Effectivement, la croissance du PIB et celle des émissions de CO2
+              sont corrélées positivement dans les deux pays en développement
+              présentés (Chine et Brésil) : la croissance économique est, dans
+              l’ensemble, à l’origine d’une hausse des émissions de C02. Ainsi, en
+              Chine, la hausse continue du PIB s’est accompagnée d’émissions de
+              CO2 de plus en plus fortes : selon la Banque Mondiale, en 1989, le
+
+ 22-SESJ1JA1-C                                                            Page 1 sur 10
+            PIB s’accroît de 4,21 % et 2,15 tonnes de CO2 sont émises par
+            habitant. Le PIB augmente ensuite chaque année du tableau et les
+            émissions de CO2 s’élèvent à 7,41 tonnes par habitant en 2018 pour
+            une hausse de 6,75 % du PIB, soit une augmentation des émissions
+            de CO2 de 5,26 tonnes par habitant entre 1989 et 2018. D’ailleurs, a
+            contrario, en 2008, au Brésil, le PIB augmente de 5,09 % alors qu’il
+            baisse de 0,13 % en 2009 et dans le même temps, les émissions de
+            CO2 ont diminué de 0,13 tonne de CO2 par habitant.
+            - Cette corrélation positive n’est pas systématique. Les innovations
+            peuvent aider à reculer les limites écologiques auxquelles se heurte
+            la croissance économique. En effet, contrairement aux pays en
+            développement, la France voit ses émissions de CO2 diminuer à partir
+            de 2001 alors que le PIB progresse chaque année présentée sauf en
+            2009 : les émissions de CO2 passent de 6,14 tonnes par habitant
+            avec une hausse du PIB de 1,98 % à 4,62 tonnes par habitant en
+            2018, le PIB augmentant de 1,79 % cette année-là.
+ Document 3 La croissance économique conduit à l’épuisement des ressources
+             naturelles ici renouvelables, ce qui peut la ralentir. Des espèces de
+             poissons sont surexploitées, ce qui nuit à leur renouvellement et leur
+             part progresse de 25 points entre 1974 et 2017 : environ 10 % des
+             stocks de poissons marins mondiaux sont surexploités en 1974
+             contre environ 35 % en 2017. Inversement, en 1974 et 2017, les
+             poissons sous-exploités représentent respectivement environ 40 %
+             et 8 % des stocks de poissons marins mondiaux, soit une baisse de
+             32 points.
+ Document 4 Les investissements favorables au climat c’est-à-dire favorisant les
+            objectifs de réduction des émissions de gaz à effet de serre (GES) et
+            de transition énergétique progressent et permettent de reculer les
+            limites écologiques auxquelles se heurtent une croissance
+            économique soutenable. Ces innovations peuvent être favorisées par
+            les mesures incitatives des pouvoirs publics, par une meilleure
+            rentabilité d’innovations auparavant trop chères comparativement aux
+            anciens procédés ou produits, mais aussi par la demande des
+            consommateurs plus soucieux de la préservation de l’environnement.
+            Effectivement, selon l’I4EC, en France, en 2019, 47,9 milliards d’euros
+            étaient consacrés aux investissements favorables au climat contre
+            34,8 milliards en 2011 soit 13,1 milliards d’euros de plus.
+
+
+Problématique possible :
+
+L’importance des préoccupations environnementales s’est renforcée ces dernières
+décennies, avec une prise de conscience des effets négatifs d’une croissance
+économique.
+La croissance économique soutenable se confronte à des limites écologiques
+(notamment l’épuisement des ressources, la pollution et le réchauffement climatique).
+On peut dès lors se demander comment l’innovation peut contribuer à repousser ses
+limites.
+Proposition de plan détaillé :
+
+
+ 22-SESJ1JA1-C                                                           Page 2 sur 10
+ I)    Une      croissance      soutenable II) Mais, l’innovation peut aider à
+ incertaine en raison des limites reculer les limites écologiques
+ écologiques                                 auxquelles se heurte la croissance
+                                             soutenable
+ A)     La    croissance       économique A) Des innovations nécessaires pour
+ engendre de la pollution et un reculer les limites écologiques de la
+ réchauffement climatique qui rendent croissance soutenable
+ difficile sa soutenabilité
+ • La croissance économique est source • Les attentes des consommateurs sont
+ de pollution, ayant comme conséquence de plus en plus fortes : ils sont donc prêts
+ des dégâts environnementaux et en à payer un prix plus élevé pour des
+ particulier un réchauffement climatique. produits peu ou pas polluants. De même,
+ (document 2, exemple de la Chine), ce la raréfaction des ressources naturelles
+ qui remet en cause sa soutenabilité. Une engendre une hausse de leur prix, ce qui
+ croissance soutenable ou durable doit accroît la rentabilité de procédés
+ préserver le capital naturel pour alternatifs moins polluants et plus
+ permettre aux générations futures de se coûteux.
+ développer.                                 • Des innovations de produits et de
+ • Ces conséquences négatives de la procédés peuvent réduire l’impact de la
+ croissance économique conduisent à un croissance sur la pollution, donc sur le
+ dérèglement climatique s’accompagnant réchauffement climatique (documents 1
+ d’ouragans, de périodes de sécheresses, et 2, exemple de la France). De même,
+ d’inondations … qui peuvent détruire des des innovations de procédés et de
+ entreprises, les mettre, temporairement, produits peuvent aider à préserver les
+ à l’arrêt, mais aussi, entraîner des pertes ressources naturelles (document 1).
+ humaines,        des     migrations      de
+ populations.
+ B) De même, produire conduit à B) Par différents aspects, l’innovation
+ l’épuisement         des       ressources permet de relever les défis d’une
+ naturelles,                  actuellement croissance soutenable
+ indispensables
+ • La croissance économique conduit • Ces changements incitent les
+ aussi à la destruction du capital naturel : entreprises à effectuer des dépenses
+ la production de richesses conduit d’investissements favorables au climat.
+ effectivement à un épuisement des (document 4). Les économies post-
+ ressources naturelles (document 3).         industrielles ont ainsi tendance à
+ • Cette surexploitation des ressources augmenter           leurs    dépenses     en
+ naturelles expose l'économie mondiale à innovations favorables à l’environnement
+ une pénurie, qui peut affecter la et à la préservation des ressources
+ soutenabilité      de     la     croissance naturelles.
+ économique.                                 • Les innovations assurent ainsi un
+                                             renouveau des produits et procédés,
+                                             faisant progressivement disparaître des
+                                             technologies        énergivores       et
+                                             consommatrices        de     ressources
+                                             naturelles (processus de destruction
+                                             créatrice).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+ 22-SESJ1JA1-C                                                            Page 3 sur 10

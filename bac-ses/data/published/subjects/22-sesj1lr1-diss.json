@@ -1,0 +1,85 @@
+{
+  "id": "22-SESJ1LR1-DISS",
+  "slug": "22-sesj1lr1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "22-SESJ1LR1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J1",
+  "center": "Mayotte – Liban",
+  "question": "L'accroissement de la productivité globale des facteurs suffit-il à expliquer la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Variation annuelle de la population active (en %) de 2004 à 2019 *(source : d'après la Banque mondiale, 2021.)*\n- Document 2 — Formation brute de capital fixe1 entre 2004 et 2019 (en % du PIB) *(source : d'après les données de la Banque mondiale, 2021.)*\n- Document 3 — Contributions du travail, du capital et de la PGF1 (en points de pourcentage) à *(source : d'après OCDE, 2021.)*\n- Document 4 — Le nombre de demandes de brevets déposées à l'office européen des brevets *(source : d'après l'Office Européen des Brevets, 2019.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "Présentez deux raisons expliquant le commerce international entre pays comparables."
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide du document, vous caractériserez les grandes évolutions qu'ont connues les catégories socioprofessionnelles des cadres et professions intellectuelles supérieures et des agriculteurs exploitants entre 1982 et 201"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les acteurs de l'action collective sont divers."
+    },
+    {
+      "part": "EC1 (question 1) — sujet B",
+      "question": "Présentez une limite de la politique européenne de la concurrence."
+    },
+    {
+      "part": "EC1 (question 2) — sujet B",
+      "question": "En quoi le modèle d'organisation post-taylorien se distingue-t- il du modèle d'organisation taylorien ?"
+    },
+    {
+      "part": "EC1 (question 3) — sujet B",
+      "question": "À l'aide d'un exemple, vous montrerez que l'action des pouvoirs publics en matière de justice sociale s'exerce sous contrainte de financement."
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les acteurs de l'action collective sont divers."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1LR1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-mayotte-liban-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 129, 2022_reunion_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=129&cle=4d96ddac779e356f5d2b8dce9755b9ad592a8c7d6f6eade0d05d6bddc1556fa7&file=docx%2F2022_reunion_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · La Réunion · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 129",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=129&cle=4d96ddac779e356f5d2b8dce9755b9ad592a8c7d6f6eade0d05d6bddc1556fa7&file=docx%2F2022_reunion_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 129) indique « La Réunion », alors que le fichier (2022_reunion_norm_dissert_1.docx) et le sujet officiel correspondent à Mayotte – Liban.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

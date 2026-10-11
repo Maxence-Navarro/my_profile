@@ -1,0 +1,92 @@
+[
+  {
+    "id": "croissance",
+    "number": 1,
+    "title": "Quels sont les sources et les défis de la croissance économique ?",
+    "shortTitle": "Croissance économique",
+    "field": "science-economique",
+    "status": "published",
+    "summary": "Sources de la croissance (accumulation des facteurs, productivité globale des facteurs), progrès technique endogène, rôle des institutions et des droits de propriété, destruction créatrice, inégalités de revenus et limites écologiques d'une croissance soutenable.",
+    "subjectCount": 68
+  },
+  {
+    "id": "commerce",
+    "number": 2,
+    "title": "Quels sont les fondements du commerce international et de l'internationalisation de la production ?",
+    "shortTitle": "Commerce international",
+    "field": "science-economique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "chomage",
+    "number": 3,
+    "title": "Comment lutter contre le chômage ?",
+    "shortTitle": "Chômage",
+    "field": "science-economique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "europe",
+    "number": 4,
+    "title": "Quelles politiques économiques dans le cadre européen ?",
+    "shortTitle": "Politiques européennes",
+    "field": "science-economique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "structure-sociale",
+    "number": 5,
+    "title": "Comment est structurée la société française actuelle ?",
+    "shortTitle": "Structure sociale",
+    "field": "sociologie-science-politique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "mobilite",
+    "number": 6,
+    "title": "Quels sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ?",
+    "shortTitle": "Mobilité sociale",
+    "field": "sociologie-science-politique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "travail",
+    "number": 7,
+    "title": "Quelles mutations du travail et de l'emploi ?",
+    "shortTitle": "Travail et emploi",
+    "field": "sociologie-science-politique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "engagement",
+    "number": 8,
+    "title": "Comment expliquer l'engagement politique dans les sociétés démocratiques ?",
+    "shortTitle": "Engagement politique",
+    "field": "sociologie-science-politique",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  },
+  {
+    "id": "environnement",
+    "number": 9,
+    "title": "Quelle action publique pour l'environnement ?",
+    "shortTitle": "Action publique pour l'environnement",
+    "field": "regards-croises",
+    "status": "coming_soon",
+    "summary": null,
+    "subjectCount": 0
+  }
+]

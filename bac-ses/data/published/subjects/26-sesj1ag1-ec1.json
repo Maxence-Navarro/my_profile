@@ -1,0 +1,69 @@
+{
+  "id": "26-SESJ1AG1-EC1",
+  "slug": "26-sesj1ag1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "26-SESJ1AG1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J1",
+  "center": "Antilles – Guyane",
+  "question": "Vous montrerez qu'une croissance économique soutenable se heurte à des limites écologiques.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Ce sujet comporte quatre documents Le commerce international ne s'explique-t-il que par des échanges entre pays à spécialisations différentes ?"
+    },
+    {
+      "part": "EC2",
+      "question": "A l'aide des données du document et d'un calcul simple, vous comparerez l'évolution de la part de la catégorie socioprofessionnelle « cadres » à celle des « ouvriers ». / A l'aide des données du document et de vos connai"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que certaines évolutions du travail et de l'emploi affaiblissent le pouvoir intégrateur du travail."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ1AG1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-antilles-guyane-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 414, 2023_liban_norm_ec_1-2.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=414&cle=84693b1661e45fb919534e29614213b2e37201d96f2c4bd5e4b54439fd5bc3d9&file=docx%2F2023_liban_norm_ec_1-2.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · Liban · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 414",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=414&cle=84693b1661e45fb919534e29614213b2e37201d96f2c4bd5e4b54439fd5bc3d9&file=docx%2F2023_liban_norm_ec_1-2.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 414) indique « Liban », alors que le fichier (2023_liban_norm_ec_1-2.docx) et le sujet officiel correspondent à Antilles – Guyane.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

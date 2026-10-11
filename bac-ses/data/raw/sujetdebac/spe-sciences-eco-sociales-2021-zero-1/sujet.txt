@@ -1,0 +1,265 @@
+                                            Épreuve terminale
+                                                  ------
+                                     Sciences économiques et sociales
+
+                    Dissertation s’appuyant sur un dossier documentaire
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d’une problématique qu’il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+         figurant dans le dossier ;
+     - de rédiger en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+         organisant le développement sous la forme d’un plan cohérent qui ménage l’équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l’expression et du soin apporté à la présentation.
+
+                                                     SUJET
+
+                                     Ce sujet comporte quatre documents.
+
+         Comment la préservation de l’environnement est-elle devenue un problème public ?
+
+DOCUMENT 1
+
+                                   Les parlementaires et l’environnement
+
+Question posée aux parlementaires et à la population : « De ces trois opinions, laquelle se rapproche le plus
+de la vôtre ? »
+
+                                                         Parlementaires                       Public
+                                           En %        2003          2010              2003            2009
+ Les désordres du climat (tels que les
+ tempêtes ou les inondations en France) sont            21              34              35                  50
+ causés par l’effet de serre.
+ Les désordres du climat (tels que les
+ tempêtes ou les inondations en France) sont
+                                                        18              19              14                  13
+ des phénomènes naturels comme il y en a
+ toujours eu.
+ Aujourd’hui, personne ne peut dire avec
+ certitude les vraies raisons du désordre du            60              44              48                  36
+ climat.
+ Sans réponse                                           1               3               3                1
+ Total                                                100 %           100 %           100 %            100 %
+     Source : Daniel BOY, « Les parlementaires et l’environnement », Les cahiers du CEVIPOF, n°52, 2010.
+
+DOCUMENT 2
+
+                  Les périodes historiques de la politique environnementale française
+
+1971 : Création du ministère de l’environnement → phase de fondation
+- Institutionnalisation et popularisation d’un concept flou.
+- Rassemblement des politiques (précédemment gérées de façon discontinue par plusieurs ministères).
+- Enclenchement d’un travail de création ou de remise en ordre législatif ou réglementaire.
+- Stimulation des autres ministères à ranimer leurs départements environnementaux (entre autres par souci
+de ne pas les voir transférés au nouvel arrivant).
+  1990 : Plan national pour l’environnement → phase de consolidation
+  - Territorialisation (décentralisation) : création des DIREN (directions régionales de l’environnement).
+  - Création d’agences périphériques : l’ADEME (devenue agence de la transition écologique), l’INERIS (institut
+  national de l’environnement industriel et des risques) et l’IFEN (institut français de l’environnement).
+  - Augmentation substantielle du budget du ministère.
+  - Définition d’objectifs chiffrés.
+  - Intégration de l’environnement dans les activités économiques.
+
+  2007 : Grenelle de l’environnement → phase d’ouverture
+  - Instauration d’une procédure participative incluant cinq collèges : État, collectivités territoriales, patronat,
+  syndicats et associations écologistes.
+  - Annonce de l’intégration de l’environnement au cœur de la décision publique, ainsi que de mesures
+  structurantes telles que la contribution climat-énergie, la trame verte, ou encore le plan massif de reconversion
+  du bâti.
+      Source : Valérie LACROIX et Edwin ZACCAI, « Quarante ans de politique environnementale en France :
+                                                     évolutions, avancées, constantes », Revue française
+                                                                   d’administration publique, n°134, 2010.
+
+  DOCUMENT 3
+
+  Évolution du traitement des dimensions du changement climatique dans les journaux télévisés de 20
+                                 h de TF1 et France2 entre 1997 et 2006
+                        1997    1998     1999     2000    2001     2002     2003    2004     2005    2006      Total
+Conséquences en %         29      33       56       41      19       33       51      63       46      69        44
+Causes en %               23      17       33       12       6       14       22       8       17       5        15
+Solutions en %            49      50       11       47      74       50       27      29       37      26        40
+Total en %               100     100      100      100     100      100      100     100      100     100       100
+Effectif                  35       6        9       49      31       42       55      62      102      78       469
+  N.B. : Ce codage thématique donne un échantillon de 469 unités car certains des 396 sujets analysés
+  abordent plusieurs dimensions du problème.
+        Source : Jean-Baptiste COMBY, « Quand l’environnement devient “médiatique”. Conditions et effets de
+                                                       l’institutionnalisation d’une spécialité journalistique »,
+                                                                                        Réseaux, n°5-6, 2009.
+  Lecture : En 1997, 29 % des sujets consacrés par les journaux télévisés de TF1 et de France 2 au changement
+  climatique concernaient les conséquences de ce changement.
+
+  DOCUMENT 4
+
+                                Les acteurs du « Grenelle de l’environnement1 »
+                                                                                           Part en %
+             Collectivités territoriales                                                     10,6
+             Employeurs                                                                       28
+             État                                                                            39,8
+             Experts                                                                          6,8
+             Organisations non gouvernementales environnementales                             8,1
+             Associations non environnementales                                               2,3
+             Salariés                                                                         4,2
+             Total                                                                          100 %
+  Note : Au cours de l’analyse, deux catégories d’acteurs ont été introduites pour proposer une vision plus fine
+  des participants : les experts (universitaires, souvent assimilés au collège État en raison de leur appartenance
+  à la fonction publique) et les associations non environnementales (consommateurs et familles).
+   Source : d’après « Les effets du Grenelle de l’environnement sur l’action publique. Analyse comparée entre
+                        deux secteurs : déchets et bâtiment », Gouvernement et action publique, vol. 6, 2017.
+  1 : Grenelle de l’environnement : ensemble de rencontres politiques organisées en France en 2007 visant à
+  prendre des décisions à long terme en matière d’environnement et de développement durable.
+                                                     Épreuve composée
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en faisant
+appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d’un document : il est demandé au candidat de répondre aux questions en mobilisant ses
+connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l’information.
+Partie 3 - Raisonnement s’appuyant sur un dossier documentaire : il est demandé au candidat de traiter le
+sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement et une conclusion.
+II sera tenu compte, dans la notation, de la clarté de l’expression et du soin apporté à la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+En quoi la consommation engagée peut-elle être comprise comme une forme d’engagement politique ?
+
+Deuxième partie : Étude d’un document (6 points)
+
+ Décomposition de la mobilité sociale observée entre 1977 et 2015 pour les femmes et les hommes
+                                  par rapport à leur père (en %)
+
+                                          1977                      1985                      1993                      2003                      2015
+                                                 Hommes
+
+
+
+
+                                                                           Hommes
+
+
+
+
+                                                                                                     Hommes
+
+
+
+
+                                                                                                                               Hommes
+
+
+
+
+                                                                                                                                                         Hommes
+                                 Femmes
+
+
+
+
+                                                           Femmes
+
+
+
+
+                                                                                     Femmes
+
+
+
+
+                                                                                                               Femmes
+
+
+
+
+                                                                                                                                         Femmes
+ Immobilité sociale             36,0         36,2         34,0         33,8         31,5         32,6         30,2         33,6         29,9         34,8
+
+ Mobilité non verticale1        33,7         33,2         30,6         31,9         28,6         27,4         25,6         24,7         23,3         22,6
+
+ Mobilité verticale2
+
+  Mobilité ascendante           12,7         23,5         15,7         26,6         19,0         30,3         21,0         30,8         21,8         27,6
+
+  Mobilité descendante          17,6         7,2          19,6         7,7          20,9         9,7          23,2         10,9         25,0         15,0
+        Source : INSEE, « La mobilité sociale des femmes et des hommes : évolutions entre 1977 et 2015 »,
+                                                                     France, portrait social, édition 2019.
+     1 La mobilité non verticale correspond soit à une mobilité entre une catégorie de salariés et une
+
+      catégorie de non-salariés, soit à une mobilité entre des catégories de non-salariés.
+     2 La mobilité verticale correspond aux trajectoires, ascendantes ou descendantes, entre catégories
+
+      salariées.
+
+Questions :
+1. Comparez la mobilité observée des femmes et des hommes par rapport à leur père pour l’année 2015. (2
+   points)
+2. À l’aide du document et de vos connaissances, présentez deux facteurs permettant d’expliquer l’évolution
+   des situations de déclassement. (4 points)
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10 points)
+
+                                       Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que le commerce
+international a des effets sur les inégalités entre les pays et au sein de chaque pays.
+
+DOCUMENT 1
+
+                  Évolution du PIB par habitant pour quelques pays entre 1980 et 2018
+                                        Indice, base 100 = monde
+
+                       1980     1985        1990      1995       2000       2005       2010      2015       2018
+
+France                 231       235         252       261       269        255        234        215        206
+
+Japon                  194       221         256       267       247        235        215        205        198
+
+Corée du Sud           63        83          114       156       172        184        193        188        n.r.
+
+Chine                  14        23          22        29         32         43         63         82         99
+
+Brésil                 147       133         121       126       114        106        109         95         83
+
+Monde                  100       100         100       100       100        100        100        100        100
+
+n.r : non renseigné.
+                                             Source : WID.world (Base de données mondiale sur les inégalités),
+                                                                                                 mars 2020.
+
+
+DOCUMENT 2
+Un double retournement est en cours. D’une part, après deux siècles de hausse continue, l’inégalité des
+niveaux de vie entre pays a commencé à décroître : si l’on vivait vingt fois mieux en France ou en Allemagne
+qu’en Chine et en Inde il y a vingt ans, l’écart a aujourd’hui diminué plus que de moitié. D’autre part, l’inégalité
+a augmenté au sein de nombreux pays, souvent après plusieurs décennies de stabilité. Ainsi aux États-Unis,
+l’inégalité est revenue aujourd’hui à un niveau jamais observé depuis un siècle. [...] Parce que l’on a tendance
+à regarder autour de soi plutôt qu’au-delà des frontières, la montée des inégalités nationales a tendance à
+éclipser la baisse – pourtant incontestable – de l’inégalité mondiale. [...] Dès qu’on l’aborde sous ce double
+aspect national et international, la relation entre mondialisation et inégalités se révèle plus complexe qu’il n’y
+paraît. [...] Bien sûr, ces deux perspectives ne sont pas indépendantes. L’extension des échanges
+internationaux, la mobilité du capital et de la main d’œuvre, la diffusion des innovations technologiques
+comblent peu à peu le fossé entre pays riches et pays en développement. Mais, en même temps, elles
+contribuent à modifier la répartition des revenus au sein même de ces économies. La croissance du commerce
+mondial explique que certaines lignes de production émigrent des pays les plus développés vers les pays
+émergents, que la demande de main-d’œuvre non qualifiée diminue dans les pays les plus avancés –
+entraînant une chute des rémunérations relatives –, que, partout dans le monde, le haut de la distribution des
+salaires s’aligne sur le pays où l’élite économique est la mieux rémunérée et que, partout aussi, les revenus
+du capital s’accroissent plus vite que ceux du travail.
+                              Source : François BOURGUIGNON, La mondialisation de l’inégalité, Seuil, 2012.
+DOCUMENT 3
+       Évolution de la part du décile supérieur dans le revenu national de quelques puissances
+                                       économiques (1980 – 2018)
+
+
+
+
+                                                 Source : http://piketty.pse.ens.fr/files/ideologie/pdf/G0.3.pdf.
+Lecture : La part du décile supérieur (les 10 % des revenus les plus élevés) dans le revenu national total
+était de 26 % en 1980 en Russie.
+

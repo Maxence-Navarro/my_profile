@@ -1,0 +1,474 @@
+              BACCALAURÉAT GÉNÉRAL
+              ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                              SESSION 2021
+
+
+
+        Sciences économiques et sociales
+
+
+
+
+                        Durée de l’épreuve : 4 heures
+
+
+
+
+        L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+       Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+         Ce sujet comporte 13 pages numérotées de 1/13 à 13/13.
+
+
+
+
+Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                 d’épreuve composée (sujet A ou sujet B).
+
+                   Il indique sur sa copie le sujet choisi.
+
+
+
+
+                                                                            Page : 1/13
+                                       DISSERTATION
+
+
+
+    Il est demandé au candidat :
+         - de répondre à la question posée par le sujet ;
+         - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+         - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+             notamment celles figurant dans le dossier ;
+         - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la
+             question et en organisant le développement sous la forme d'un plan cohérent qui ménage
+             l'équilibre des parties.
+
+    Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la
+    présentation.
+
+                                             SUJET
+
+                           Ce sujet comporte quatre documents.
+
+        Les facteurs travail et capital sont-ils suffisants pour expliquer la
+                                   croissance ?
+
+
+DOCUMENT 1
+
+
+     Contributions en points de pourcentage à la croissance du PIB en 2017
+
+                             PIB (%)          Heures              Capital          Productivité
+                                            travaillées                            globale des
+                                              totales1                               facteurs
+        France                 2,2              - 0,1                0,7               1,6
+         Grèce                 1,5               1,5                - 0,2              0,2
+     Corée du Sud              3,1              - 0,9                1,4               2,6
+      Allemagne                2,4               0,8                 0,4               1,2
+      États-Unis               2,1               0,8                 0,6               0,7
+
+                                                                 Source : d’après OCDE, 2019.
+
+
+1 : Les heures travaillées totales correspondent au facteur travail.
+
+
+
+
+                                                                                      Page : 2/13
+DOCUMENT 2
+
+L’intensité de la recherche et développement (R&D) (dépenses de R&D en
+pourcentage du produit intérieur brut, PIB) dans la zone OCDE est passée de 2,34%
+en 2017 à 2,38 en 2018. […] Cette hausse […] a été tirée par une croissance réelle
+plus rapide des dépenses de R&D (+3,9%) par rapport au PIB (+2,3%). La zone OCDE
+n’a pas connu de croissance comparable des dépenses de R&D sur une période de
+deux ans depuis avant la crise financière mondiale de 2008. La croissance de
+l’intensité de la R&D était généralisée dans la majorité des pays de l’OCDE en 2018,
+le États-Unis, le Japon, l’Allemagne et la Corée représentant une grande partie de
+cette augmentation […]. L’intensité de R&D dans la zone UE28 1 a dépassé pour la
+première fois le seuil de 2%, passant de 1,98% à 2,03%, en grande partie en raison
+des tendances en Allemagne, au Royaume-Uni et en Pologne. Israël et la Corée ont
+affiché les niveaux d’intensité de R&D les plus élevés parmi les pays de l’OCDE en
+2018, à 4,9% et 4,5% du PIB.
+Les dépenses réelles de R&D dans la zone OCDE ont augmenté de 3,9% en 2018,
+principalement sous l’effet du comportement des entreprises en matière de
+performance en matière de R&D, qui a représenté plus de 75% de cette croissance.
+[…]
+La position de la Chine en tant que deuxième producteur mondial de R&D est
+confirmée pour 2018.
+                                                                  Source : OCDE, 2020.
+
+1 : L’UE28 désigne l’ensemble des 28 membres de l’Union européenne entre 2013 et 2020.
+
+
+
+
+                                                                           Page : 3/13
+DOCUMENT 3
+
+
+ Indicateurs1 de gouvernance2                      Norvège Haïti Allemagne            Chine
+ mondiaux (2018)
+ Lutte contre la corruption                           2,1      - 1,3        1,9        - 0,3
+ Qualité de la réglementation                         1,8      - 1,2        1,8        - 0,2
+ État de droit (respect des règles, compétences       2,0      - 1,0        1,6        - 0,2
+ de la police et de la justice…)
+ Efficacité des pouvoirs publics (application de      1,9      - 1,9        1,6           0,5
+ politiques favorables au développement…)
+ Stabilité politique et absence de violence / de      1,1      - 0,6        0,6        - 0,3
+ terrorisme
+ Voix3 et responsabilisation (sélection des           1,7      - 0,7        1,4        - 1,4
+ gouvernants par les citoyens, liberté
+ d’expression…)
+
+                                           Source : d’après Banque mondiale, données 2019.
+
+1 : Les indicateurs de la Banque mondiale varient de - 2,5 à 2,5 : plus la valeur est élevée,
+plus la gouvernance peut favoriser le développement.
+2 : Selon la Banque mondiale, la « bonne gouvernance est la manière avec laquelle le pouvoir
+est exercé dans la gestion publique des ressources économiques et sociales en vue du
+développement ». Elle se mesure par les 6 indicateurs du tableau.
+3 : Prise de parole citoyenne.
+
+DOCUMENT 4
+
+               Les dépenses intérieures pour l’éducation, en France.
+
+                                                            1980                  2018p
+  Dépense intérieure d’éducation (DIE)                      77,7                  157,2
+  en milliards d’euros
+  DIE/PIB (en %)                                             6,5                    6,7
+  Dépense moyenne par élève en euros                        4 770                 8 810
+  Structure du financement (en %)
+  État                                                      67,9%                 57,4%
+  Collectivités territoriales                               14,3%                 23,4%
+  Autres administrations publiques et                       0,4%                   2,9%
+  Caisses d’allocations familiales
+  Entreprises                                               6,7%                   8,5%
+  Ménages                                                   10,7%                  7,8%
+
+2018p : données provisoires.
+Champ : France métropolitaine + DOM.
+
+ Source : d’après L’état de l’École 2019, ministère de l’Éducation nationale, de la jeunesse et
+                                                                  des sports, novembre 2019.
+
+                                                                                  Page : 4/13
+                              EPREUVE COMPOSEE – SUJET A
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+   - en développant un raisonnement ;
+   - en exploitant les documents du dossier ;
+   - en faisant appel à ses connaissances personnelles ;
+   - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez, à partir d’un exemple, comment les configurations familiales
+contribuent à expliquer la mobilité sociale.
+
+
+
+
+                                                                                            Page : 5/13
+Deuxième partie : Étude d’un document (6 points)
+
+
+ Taux de croissance du PIB (en %) et taux de chômage (en % de la population
+                             active) en France
+
+
+
+
+                                                               Source : OCDE, 2020.
+Questions :
+     1. À l'aide des données du document, vous présenterez l’évolution du taux de
+        croissance du PIB entre 2010 et 2017. (2 points)
+
+     2. À l'aide des données du document et de vos connaissances, vous
+        expliquerez la corrélation entre le taux de chômage et le taux de croissance
+        du PIB de 2010 à 2017. (4 points)
+
+
+
+
+                                                                        Page : 6/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+                        Cette partie comporte trois documents.
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la structure socioprofessionnelle a évolué en France depuis la
+seconde moitié du XXe siècle.
+
+
+DOCUMENT 1
+    Part dans l’emploi selon la catégorie socioprofessionnelle, par sexe, en
+                               moyenne annuelle
+                                     1982                               2019
+                        Homme Femme Ensemble Homme Femme Ensemble
+ Agriculteurs
+                           7,3       6,7         7,1         2,1        0,8        1,5
+ exploitants
+ Artisans,
+ commerçants,              9,1       7,2         8,3         9,3        3,9        6,7
+ chefs d’entreprise
+ Cadres et
+ professions
+                          10,3        4          7,8        21,6        16,8       19,3
+ intellectuelles
+ supérieures
+ Professions
+                          19,2       19,8       19,5        23,1        28,3       25,6
+ intermédiaires
+ Employés qualifiés        6,9       27,4       15,2         6,9        21,4       13,9
+ Employés non
+                           3,8       19,4       10,1          6         20,3       12,9
+ qualifiés
+ Ouvriers qualifiés       24,5       3,8        16,1        21,7        3,5        12,9
+ Ouvriers non
+                          16,1       11,3       14,2         8,8        4,6        6,8
+ qualifiés
+ Autres                    2,8       0,3         1,8         0,4        0,4        0,4
+ Ensemble                 100        100         100        100         100        100
+ Effectifs (en
+                         13 600     9 243      22 842      13 992      13 184    27 176
+ milliers)
+
+Note : données de 1982 à 2019, corrigées pour les ruptures de série.
+Champ : France hors Mayotte, population des ménages, personnes de 15 ans et plus.
+                                               Source : d’après INSEE Résultats, juin 2020.
+
+                                                                                Page : 7/13
+DOCUMENT 2
+
+
+               Emploi salarié par secteur d'activité de 1989 à 2019
+
+
+
+
+Champ : France hors Mayotte, personnes de 15 ans ou plus.
+          Source : « Emploi, chômage, revenus du travail », INSEE Références, juillet 2020.
+
+
+
+
+                                                                              Page : 8/13
+DOCUMENT 3
+Quels que soient les chiffres, les taux, les indicateurs que l’on utilise, les faits sont là :
+depuis le début des années 1960, la montée de l’activité féminine est l’élément moteur
+de la croissance de la population active. Dans la période récente, ce sont les femmes
+qui ont assuré l’essentiel de l’augmentation des forces de travail. [...]
+Les faits étant établis, comment peut-on expliquer ce mouvement [...] ? Il serait bien
+commode, ici, de pouvoir parler d’un « changement de mentalités », de l’émergence
+de nouveaux courants socioculturels : les femmes en veulent plus, comme on dit, elles
+s’accrochent à leur travail, elles affirment leur désir d’indépendance économique, etc.
+Tout cela est juste, mais n’explique rien. [...] On pourrait, bien sûr, renvoyer à des
+mutations socioculturelles d’un autre ordre : c’est la même génération de femmes qui
+a inauguré, à la fin des années 1960, la liberté de la contraception et de l’avortement,
+l’apparition d’un mouvement féministe radical, l’émergence de nouveaux modèles
+familiaux et la poussée de l’activité féminine. La coïncidence est trop belle pour n’être
+pas mentionnée. Mais au fond, qu’est-ce qui explique quoi ? Est-ce la maîtrise de la
+conception qui pousse au développement du travail féminin ou l’inverse ? Est-ce le
+renouveau du féminisme qui est à l’origine de la volonté d’autonomie économique des
+femmes, ou l’inverse ? La prudence, ici, s’impose. Ne parlons pas d’explication, mais
+de corrélation. Ces phénomènes forment un tout. Ils sont le signe des temps, ils sont
+concomitants, mais c’est tout ce que l’on peut dire. À défaut de pouvoir expliquer, on
+peut tenter de caractériser cette mutation sociale, d’en identifier les acteurs. Qui sont
+les femmes qui, depuis le début des années 1960, ont afflué sur le marché du travail ?
+Ce sont pour l’essentiel des mères de famille, des salariées du tertiaire, des femmes
+instruites et qualifiées.
+Depuis la fin des années 1950, deux tendances ont caractérisé l’évolution de la
+structure des emplois : la tertiarisation et la salarisation du marché du travail. Au cœur
+de ces mutations, les femmes n’ont pas accompagné le mouvement, elles ont très
+fortement contribué à le produire. Et inversement : c’est parce que l’emploi devenait
+de plus en plus tertiaire et salarié que les femmes y ont accédé nombreuses.
+          Source : Margaret MARUANI, Travail et emploi des femmes, La Découverte, 2017.
+
+
+
+
+                                                                                 Page : 9/13
+                              EPREUVE COMPOSEE - SUJET B
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+   - en développant un raisonnement ;
+   - en exploitant les documents du dossier ;
+   - en faisant appel à ses connaissances personnelles ;
+   - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances
+
+
+Distinguez les processus de massification et de démocratisation scolaires. (4 points)
+
+
+
+
+                                                                                          Page : 10/13
+  Deuxième partie : Étude d’un document (6 points)
+
+   Valeur et part des dix premiers produits exportés et importés entre la France et
+                                  l’Allemagne en 2017
+                         (Valeur en milliards d’euros, part en %)
+
+
+  Dix premiers produits exportés par la       Dix premiers produits importés par la France
+      France en Allemagne en 2017                     depuis l’Allemagne en 2017
+                     Valeur         Part                               Valeur           Part
+                        En       En % des                            En milliards      En %
+                     milliards    produits                             d’euros      des produits
+                     d’euros     exportés                                            importés
+Aéronefs et engins     9,80          14      Aéronefs et engins         11,24            13
+spatiaux                                     spatiaux
+Véhicules              5,48          8       Véhicules                  10,68           12
+automobiles                                  automobiles
+Autres parties et      3,51          5
+accessoires pour                             Préparations
+                                                                        3,40             4
+véhicules                                    pharmaceutiques
+automobiles
+Produits               2,67          4       Autres parties et          3,18             4
+sidérurgiques de                             accessoires pour
+base et                                      véhicules
+ferroalliages                                automobiles
+Composants             2,55          4       Matières plastiques        2,33             3
+électroniques                                sous formes
+                                             primaires
+Préparations           2,38          3       Autres produits            2,00             2
+pharmaceutiques                              chimiques
+                                             organiques de base
+Matières               1,97          3       Produits                   1,91             2
+plastiques sous                              sidérurgiques de
+formes primaires                             base et ferroalliages
+Parfums et             1,58          2       Gaz naturel, liquéfié      1,52             2
+produits pour la                             ou gazeux
+toilette
+Autres produits        1,27          2       Autres produits            1,42             2
+chimiques                                    chimiques
+Autres produits        1,16          2       Instruments et             1,25             1
+chimiques                                    appareils de
+organiques de                                mesure, d’essai et
+base                                         de navigation
+      Source : d’après « Les échanges commerciaux entre la France et l’Allemagne en 2017 »,
+                                        Ambassade de France en Allemagne, 27 mars 2018.
+
+  Questions :
+
+      1. À l’aide du document, vous mettrez en évidence les trois principaux produits
+         échangés entre la France et l’Allemagne. (2 points)
+
+      2. À l’aide du document et de vos connaissances, en prenant l’exemple du secteur
+         automobile, vous expliquerez les échanges entre pays comparables. (4 points)
+
+                                                                                Page : 11/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que la préservation de l’environnement implique une diversité
+d’acteurs à différentes échelles.
+
+
+DOCUMENT 1
+
+   Les acteurs identifiés comme les plus à même d’agir efficacement pour
+                                   l’environnement
+ « Parmi la liste suivante, quels sont les trois acteurs qui vous semblent les plus à
+ même d’agir efficacement pour l’environnement ? En premier ? En deuxième ? En
+                                      troisième ? »
+
+
+
+
+Champ : Enquête réalisée auprès d’un échantillon de 1002 personnes, représentatif de la
+population française âgée de 18 ans et plus, à travers un questionnaire en ligne du 27 au 29
+novembre 2019.
+
+                           Source : IFOP, Les Français et l’environnement, décembre 2019.
+
+
+
+
+                                                                              Page : 12/13
+DOCUMENT 2
+
+Le développement des énergies renouvelables repose généralement sur des
+installations de taille plus modeste que les centrales électriques conventionnelles et la
+réduction de la consommation d’électricité passe par des projets locaux. La transition
+du secteur électrique a donc pour effet de redonner l’initiative aux territoires et aux
+acteurs locaux : collectivités, associations, coopératives… […] L’action au niveau des
+collectivités peut permettre d’expérimenter, de compléter ou au contraire de
+contourner la politique mise en place au niveau national. En Chine par exemple, des
+marchés du carbone ont été créés à partir de 2011 par des villes comme Pékin, et
+Shanghai. Un système national devrait voir le jour prochainement sur la base de ces
+expériences. En France, l’État a fait le choix de donner aux collectivités un rôle de chef
+de file dans la mise en œuvre de la transition énergétique : la plupart des groupements
+de communes doivent ainsi établir avant la fin de l’année 2018 un plan climat-air-
+énergie, territorial comprenant notamment des actions pour maîtriser la demande
+d’énergie locale et développer la production renouvelable. […] Responsables de
+l’aménagement du territoire et de la gestion des services publics, les collectivités sont
+aussi au premier rang pour déployer des technologies innovantes dans le secteur de
+l’électricité et de la chaleur. Elles peuvent aussi devenir des moteurs pour la transition
+d’autres secteurs en favorisant l’intégration des véhicules électriques, en modernisant
+les flottes de transport public et en rendant obligatoire l’utilisation des biocarburants
+ou du chauffage solaire de l’eau pour répondre aux besoins de chauffage municipal.
+Par ailleurs, les leçons apprises au niveau local éclairent souvent la construction des
+politiques nationales.
+
+    Source : D’après Climate Chance, « L’action sectorielle », Cahier 1 du rapport annuel de
+                 l’observatoire mondial de l’action climatique non-étatique, décembre 2018.
+
+
+DOCUMENT 3
+
+ Engagements volontaires de réduction des émissions de dioxyde de carbone
+     pris par différents pays à l’occasion de l’organisation de la COP211
+
+
+
+
+   Source : D’après Jean-Paul MARECHAL, « L’accord de Paris : un tournant décisif dans la
+                           lutte contre le changement climatique ? », Géoéconomie, 2016.
+
+1 : Une COP (Conférence des Parties) est une conférence internationale sur le climat
+réunissant les pays signataires de la Convention cadre des Nations Unies sur les changements
+climatiques. La 21ème COP s’est tenue à Paris en 2015 et a débouché sur un nouvel accord
+international pour lutter contre le réchauffement climatique : l’accord de Paris.
+
+
+                                                                              Page : 13/13
+

@@ -1,0 +1,69 @@
+{
+  "id": "22-SESJ2ME3-EC1-A",
+  "slug": "22-sesj2me3-ec1-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "A",
+  "examCode": "22-SESJ2ME3",
+  "year": 2022,
+  "session": "remplacement",
+  "day": "J2",
+  "center": "France métropolitaine",
+  "question": "Comment les droits de propriété influent-ils sur la croissance économique ?",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": null,
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Le commerce international s'explique-t-il uniquement par les échanges entre pays à spécialisations différentes ?"
+    },
+    {
+      "part": "EC2",
+      "question": "Quel lien peut-on établir entre l'âge et le vote ? / A l'aide du document et de vos connaissances, montrez que le vote, comme forme d'engagement politique, dépend de variables sociodémographiques."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le numérique transforme l'emploi."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2ME3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 193, 2022_metro_rplct_ec_3.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=193&cle=515334347931174df81f7756484b94aedbced4ad8d820dd23f2f219e62c163f8&file=docx%2F2022_metro_rplct_ec_3.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2022 · Remplacement."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 193",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=193&cle=515334347931174df81f7756484b94aedbced4ad8d820dd23f2f219e62c163f8&file=docx%2F2022_metro_rplct_ec_3.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ2ME3C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-remplacement-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ2ME3 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.833) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

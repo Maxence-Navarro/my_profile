@@ -1,0 +1,68 @@
+{
+  "id": "26-SESJ2JA1-EC2",
+  "slug": "26-sesj2ja1-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "26-SESJ2JA1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J2",
+  "center": "Asie",
+  "question": "Taux de croissance du PIB par tête, dépenses en R&D1 et dépenses publiques d'éducation dans plusieurs pays européens en 2023 Dépenses Taux de publiques",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "A l'aide des données du document et d'un calcul simple, vous comparerez la part des dépenses dans la R&D et l'éducation du Danemark et de la Hongrie.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "A l'aide du document et de vos connaissances, vous montrerez le caractère endogène du progrès technique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Taux de croissance du PIB par tête, dépenses en R&D1 et dépenses publiques d'éducation dans plusieurs pays européens en 2023 Dépenses Taux de publiques\n\n*Source indiquée : d'après EUROSTAT, 2023.*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Les politiques économiques menées dans la zone euro se limitent-elles à la politique de la concurrence ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Vous montrerez comment le marché des quotas d'émission permet de faire face aux externalités négatives sur l'environnement."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les principales évolutions de la structure socioprofessionnelle en France depuis la seconde moitié du XXe siècle s'expliquent par plusieurs fac"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ2JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-asie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

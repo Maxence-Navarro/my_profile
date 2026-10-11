@@ -1,0 +1,224 @@
+                                        ÉPREUVE COMPOSÉE
+                                      PROPOSITION DE CORRIGÉ
+Première partie : Mobilisation de connaissances (4 points)
+
+Question : Comment les droits de propriété favorisent-ils la croissance économique ?
+
+Extrait du programme scolaire
+Science économique
+Questionnement                Objectifs d’apprentissage
+Quels sont les sources et les - Comprendre le processus de croissance économique et les sources de
+défis   de    la   croissance   la croissance : accumulation des facteurs et accroissement de la
+économique ?                    productivité globale des facteurs ; comprendre le lien entre le progrès
+                                technique et l’accroissement de la productivité globale des facteurs.
+                              - Comprendre que le progrès technique est endogène et qu’il résulte en
+                                particulier de l’innovation.
+                              - Comprendre comment les institutions (notamment les droits de
+                                propriété) influent sur la croissance en affectant l’incitation à investir et
+                                innover ; savoir que l’innovation s’accompagne d'un processus de
+                                destruction créatrice.
+                              - Comprendre comment le progrès technique peut engendrer des
+                                inégalités de revenus.
+                              - Comprendre qu’une croissance économique soutenable se heurte à
+                                des limites écologiques (notamment l’épuisement des ressources, la
+                                pollution et le réchauffement climatique) et que l’innovation peut aider
+                                à reculer ces limites.
+
+Réponse possible
+Les droits de propriété correspondent au droit d’utiliser, d’exploiter, de tirer un revenu d’un actif dont on est
+propriétaire.
+Les droits de propriété garantissent la croissance économique car les agents économiques ne sont incités à
+entreprendre, produire et investir que s’ils sont assurés de disposer des fruits de leur propriété et de leur
+activité.
+Par ailleurs, des droits de propriété protègent l’innovation qui est un facteur de croissance économique.
+Les droits de propriété tirés des brevets protègent l’innovation : seule l’entreprise qui a innové et donc supporté
+les coûts de l’innovation peut en tirer profit, ce qui incite donc les entreprises à innover. En effet l’incitation
+fondamentale à l’innovation est liée au monopole temporaire qu’elle confère et les surprofits qui lui sont liés.
+Il s’agit d’une protection provisoire/temporaire, si bien qu’au-delà d’un certain temps cette innovation tombe
+dans le domaine public : cela favorise l’imitation, et donc d’autres innovations, ce qui a un effet d’entraînement
+sur l’économie. Cela accroît aussi la concurrence, poussant les entreprises à innover de nouveau.
+Or, les innovations permettent notamment d’améliorer la productivité globale des facteurs sources de
+croissance économique, cette dernière correspondant à une hausse soutenue et durable du PIB réel.
+
+Deuxième partie : Étude d’un document (6 points)
+Extrait du programme scolaire
+Regards croisés
+Questionnement                      Objectifs d’apprentissage
+Quelle action publique pour         - Savoir identifier les différents acteurs (pouvoirs publics, ONG,
+l’environnement ?                     entreprises, experts, partis, mouvements citoyens) qui participent à la
+                                      construction des questions environnementales comme problème public
+                                      et à leur mise à l’agenda politique ; comprendre que ces acteurs
+                                      entretiennent des relations de coopération et de conflit.
+                                    - Comprendre que l’action publique pour l’environnement articule
+                                      différentes échelles (locale, nationale, européenne, mondiale).
+                                    - En prenant l’exemple du changement climatique :
+                                       -   connaître les principaux instruments dont disposent les pouvoirs
+                                           publics pour faire face aux externalités négatives sur
+                                           l’environnement : réglementation, marchés de quotas d'émission,
+                                           taxation, subvention à l’innovation verte ; comprendre que ces
+                                           différents instruments présentent des avantages et des limites, et
+                                           que leur mise en œuvre peut se heurter à des dysfonctionnements
+                                           de l’action publique ;
+                                       -   comprendre qu’en présence de bien commun les négociations et
+                                           accords internationaux liés à la préservation de l’environnement
+                                           sont contraints par des stratégies de passager clandestin et les
+                                           inégalités de développement entre pays.
+
+Question 1 : À l’aide des données du document, caractérisez l’évolution des émissions de CO2 dans le monde
+entre 1990 et 2017. (2 points)
+Réponse possible
+Ce tableau présente la répartition géographique et l’évolution des émissions de dioxyde de carbone aux
+échelons mondial, européen et national. Le CO2 (ou dioxyde de carbone) est le gaz qui a contribué le plus au
+réchauffement climatique du fait des importantes quantités émises.
+En effet, les émissions de CO2 liées aux activités humaines dans le monde représentent en 2017 l’équivalent
+de 37,077 milliards de tonnes. Entre 1990 et 2017, les émissions mondiales de CO2 ont augmenté de 63,5 %,
+avec des évolutions contrastées selon les zones géographiques et les pays.
+Ainsi, durant la période considérée, quand l’Amérique du Nord augmente ses émissions de CO2 de 6,9 %,
+l’Amérique centrale et l’Amérique du Sud les augmentent, quant à elles, de plus de 95 %, avec une hausse
+remarquée de 115,6 % pour le Brésil. Cependant, ce sont les pays d’Asie et du Moyen-Orient qui ont les
+progressions d’émission de CO2 les plus spectaculaires : hausse de 284,4 % pour l’Arabie Saoudite, soit
+presque 4 fois plus de rejets en 2017 par rapport à 1990, et de 353,8 % pour la Chine, avec un coefficient
+multiplicateur de 4,5.
+Seules l’Europe et l’ex-URSS ont diminué leurs émissions de CO2, avec 25,6 % d’émissions de dioxyde de
+carbone en moins en moyenne. La France a quant à elle rejeté 11 % de moins de CO2.
+
+Question 2 : À l’aide des données du document et de vos connaissances, présentez un instrument mis en
+œuvre par les pouvoirs publics permettant d’expliquer l’évolution des émissions de CO2 dans l’UE à 28 sur la
+période. (4 points)
+Réponse possible
+L’intervention des pouvoirs publics pour assurer une croissance soutenable dans laquelle les émissions de
+CO2 diminuent, conformément au protocole de Kyoto (1997), semble nécessaire. En effet, le libre
+fonctionnement du marché sur la base des seuls comportements rationnels des agents économiques ne
+conduit pas à l’optimum social en matière d’environnement. L’activité économique génère des émissions de
+gaz à effet de serre. Cette pollution est une externalité négative. Si les agents à l’origine de la pollution n’en
+subissent pas le coût, ils ne sont pas incités à la réduire. Les pouvoirs publics doivent donc intervenir pour
+pallier cette défaillance du marché, en l’occurrence pour limiter les dommages environnementaux et réduire
+les émissions de CO2. Il faut « internaliser » l’externalité négative dans le calcul économique des pollueurs.
+Pour cela, ils disposent de plusieurs outils : la réglementation, la création de marchés de quotas d’émission,
+l’instauration d’une taxe ou bien les subventions à l’innovation verte.
+L’objectif de l’instauration d’une taxe est de réintégrer dans le système de prix la valeur des coûts due aux
+émissions de carbone.
+Ainsi, une taxe environnementale conduit à une hausse du prix du bien. Il s’agit d’introduire un « signal-prix »
+incitant les agents à adopter des pratiques plus économes en émission de dioxyde de carbone. Du point de
+vue du consommateur, une taxe différenciée selon les produits peut le conduire à effectuer de nouveaux
+arbitrages en faveur des moins polluants : c’est l’exemple du GPL, gaz de pétrole liquéfié. Du côté du
+producteur, le renchérissement de ses coûts de production le conduit à réduire sa production et/ou à envisager
+des investissements en faveur de technologies plus économes en émission de CO2, dont la rentabilité n’était
+pas avérée jusque-là.
+Les instruments mis en œuvre par les pouvoirs publics, comme la taxe environnementale, ont permis à l’UE
+de diminuer ses émissions de dioxyde de carbone de 19,4 % entre 1990 et 2017.
+
+Le développement de tout autre instrument est recevable.
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10 points)
+
+Sujet : À l’aide du dossier documentaire et de vos connaissances, vous montrerez que le numérique
+transforme l’emploi.
+
+Extrait du programme de l’enseignement de spécialité :
+Sociologie et science politique
+
+Questionnement                    Objectifs d’apprentissage
+Quelles mutations du          -    Savoir distinguer les notions de travail, activité, statut d’emploi (salarié, non-
+travail et de l’emploi ?           salarié), chômage ; comprendre que les évolutions des formes d’emploi
+                                   rendent plus incertaines les frontières entre emploi, chômage et inactivité.
+                              -    Connaître les principaux descripteurs de la qualité des emplois (conditions
+                                   de travail, niveau de salaire, sécurité économique, horizon de carrière,
+                                   potentiel de formation, variété des tâches).
+                              -    Comprendre les principales caractéristiques des modèles d’organisation
+                                   tayloriens (division du travail horizontale et verticale, relation hiérarchique
+                                   stricte) et post-tayloriens (flexibilité, recomposition des tâches,
+                                   management participatif) ; comprendre les effets positifs et négatifs de
+                                   l’évolution des formes de l’organisation du travail sur les conditions de
+                                   travail.
+                              -    Comprendre comment le numérique brouille les frontières du travail
+                                   (télétravail, travail/hors travail), transforme les relations d’emploi et accroît
+                                   les risques de polarisation des emplois.
+                              -    Comprendre que le travail est source d’intégration sociale et que certaines
+                                   évolutions de l’emploi (précarisation, taux persistant de chômage élevé,
+                                   polarisation de la qualité des emplois) peuvent affaiblir ce pouvoir
+                                   intégrateur.
+
+Exploitation possible des documents
+
+Document 1          Le document définit les contours du processus d’ubérisation, qui met en relation
+                    directement les utilisateurs et les prestataires via une plateforme numérique.
+                    Il illustre également les différents domaines dans lesquels ce processus est à l’œuvre
+                    (exemples : « voitures de transport avec chauffeur, tourisme, services à la personne,
+                    etc. ») et selon quelles modalités de monétisation.
+                    Il explique comment le processus d’ubérisation remet en cause le salariat comme norme
+                    d’emploi avec le développement du statut d’auto-entrepreneur de ces prestataires.
+                    Enfin, il souligne les enjeux autour du statut des indépendants « ubérisés », un statut
+                    entre salariat et non-salariat (« salariat déguisé »).
+Document 2          Ce document met en lumière l’évolution des emplois et des statuts dans l’emploi dans
+                    l’économie numérique francilienne entre 2007 et 2016.
+                    On constate :
+                    - une hausse des emplois du numérique (+2,5 % sur la période) ;
+                    - une hausse plus spécifique des emplois non-salariés dans le numérique (+43,4 % sur
+                    la période). En effet, on note une baisse des emplois salariés dans l’économie numérique
+                    sur la période (-1,7 %) ;
+                    - une part des emplois non-salariés qui augmente, mais qui reste encore minoritaire
+                    (13,1 % des emplois dans l’économie du numérique, soit +3,8 points depuis 2007).
+                    Les emplois qui se créent dans l’économie numérique francilienne sont donc avant tout
+                    des emplois non-salariés, même s’ils restent minoritaires dans l’ensemble.
+Document 3          Ce document met en avant la polarisation du marché du travail sous l’effet du numérique.
+                    Le numérique crée surtout deux catégories d’emplois :
+                    - des emplois très qualifiés, qui sont « des emplois bien rémunérés, à dimension
+                    managériale ou créative » (exemple : « ingénieurs informatiques ») ;
+                    - des emplois peu/pas qualifiés et qui ne peuvent pas être automatisables. Ces derniers
+                    sont « concentrés dans les services à la personne, qui sont peu rémunérés car leur
+                    productivité reste faible (exemple : « chauffeurs de VTC, les emplois logistiques de la
+                    vente en ligne, les particuliers qui offrent des prestations touristiques, des travaux de
+                    réparation... »).
+                    Parallèlement, on constate une baisse des professions intermédiaires (depuis 1990).
+Raisonnement possible
+Le numérique englobe l’informatique, mais son périmètre est plus large, car il recouvre aussi les
+télécommunications (téléphone, radio, télévision, Internet).
+Au quotidien, on ne peut plus imaginer nos activités sans smartphone ou sans les réseaux sociaux par
+exemple. Ces nouveaux usages génèrent des masses énormes de données et d’informations qu’il faut être
+capable de traiter.
+Si le numérique modifie nos activités, il change en même temps notre façon de comprendre et de penser.
+Notre univers entier est transformé par cet ensemble de technologies. On entend d’ailleurs souvent parler de
+culture numérique ou encore de révolution numérique. Cette révolution du numérique a bouleversé des pans
+entiers de notre économie, parmi lesquels les relations d’emploi.
+   Le numérique transforme l’emploi en brouillant les frontières entre salariat et non-salariat. En effet le
+    processus « d’ubérisation » s’est accompagné de la hausse du nombre d’auto-entrepreneurs, statut des
+    prestataires de ces services. Ainsi, dans l’économie francilienne du numérique, on constate une hausse de
+    43,4 % des emplois non-salariés entre 2007 et 2016, qui représentent 13,1 % des emplois dans ce secteur
+    en 2016 (document 2).
+    Ce processus « d’ubérisation » interroge la nature réelle de la relation d’emploi entre ces prestataires et
+    les plateformes ; ils sont juridiquement indépendants, si bien qu’ils sont « rémunérés à la tâche », ils
+    perçoivent « un revenu », réalisent un « chiffre d’affaires » ; ils sont libres d’organiser leur temps de travail,
+    etc. Toutefois, la relation qu’ils entretiennent dans les faits avec les plateformes témoigne d’une part d’une
+    très forte dépendance économique et d’autre part de l’existence de nombreuses obligations-contraintes
+    rappelant davantage le statut de salariat (exemples : temps de travail imposé, une obligation de connexion
+    pour les chauffeurs livreurs...). Cette situation a conduit le législateur à agir pour requalifier certains contrats
+    et pour encadrer davantage ces nouvelles relations d’emploi (document 1).
+   Le numérique transforme l’emploi en polarisant le marché du travail autour de deux catégories d’emplois :
+    des emplois très qualifiés et des emplois peu ou pas qualifiés. En effet, le numérique entraîne la création
+    d’emplois très qualifiés, « des emplois bien rémunérés, à dimension managériale ou créative », tels que
+    les « ingénieurs informatiques ». Le numérique s’accompagne d’une montée des qualifications et de
+    l’apparition de nouvelles compétences, mais il n’a pas fait disparaître les emplois non qualifiés. Les emplois
+    peu ou pas qualifiés qui ne sont pas automatisables (ni délocalisables) perdurent. Il s’agit surtout d’emplois
+    « concentrés dans les services à la personne, qui sont peu rémunérés car leur productivité reste faible »,
+    par exemple les « chauffeurs de VTC, les emplois logistiques de la vente en ligne, les particuliers qui offrent
+    des prestations touristiques, des travaux de réparation... ». En revanche, on constate une baisse des
+    emplois à qualification intermédiaire, dont le poids a diminué dans la population active depuis 1990
+    (document 3).
+   Enfin, le numérique agit sur la qualité des emplois avec des effets ambigus selon l’organisation du travail
+    mise en œuvre. Si l’entreprise utilise le numérique pour développer l’autonomie, l’initiative des salariés et
+    un management participatif, cela se traduit par une amélioration de la qualité des emplois, tant en matière
+    de conditions de travail, que de formation, de variété-redéploiement des tâches, d’horizon de carrière, etc.
+    Toutefois, si cette même technologie est utilisée principalement comme un outil de contrôle et de
+    surveillance-évaluation des performances, alors la qualité des emplois s’en trouve affectée.
+L’irruption des technologies numériques transforme nos activités, nos façons d’agir. Elle a aussi un impact de
+plus en plus visible sur le travail, son contenu, ses polarisations, son organisation, et ce, pour le meilleur et
+pour le pire. Elle conduit à des formes hybrides de statut, qui échappe aux définitions traditionnelles du droit ;
+elle polarise les emplois ; elle est à la fois un moyen de faire gagner en autonomie les salariés et un moyen
+de contrôle accru de la performance.
+L’ampleur de la révolution numérique est donc telle qu’elle exige de repenser les formes de régulation du
+travail, pour que, facteur de progrès technique, elle soit aussi un facteur de progrès social et ne charrie pas
+de nouvelles inégalités, de nouvelles précarités, de nouvelles aliénations.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques d’entente et
+d’harmonisation, mais il ne doit pas être considéré comme une norme.
+

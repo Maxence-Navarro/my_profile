@@ -1,0 +1,57 @@
+{
+  "id": "25-SESJ1NC1-EC1",
+  "slug": "25-sesj1nc1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "25-SESJ1NC1",
+  "year": 2025,
+  "session": "normale",
+  "day": "J1",
+  "center": "Nouvelle-Calédonie",
+  "question": "Montrez comment l'accumulation du facteur travail participe à la croissance économique.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'analyse en termes de classes sociales est-elle toujours pertinente pour caractériser la structure sociale contemporaine ?"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide du document et d'un outil statistique de votre choix, vous comparerez le vote des personnes âgées de 18 à 24 ans à celui des personnes âgées de 75 à 79 ans. / À l'aide des données du document et de vos connaissa"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous expliquerez le commerce entre pays comparables."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 25-SESJ1NC1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2025/spe-sciences-eco-sociales-2025-nouv-caledonie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

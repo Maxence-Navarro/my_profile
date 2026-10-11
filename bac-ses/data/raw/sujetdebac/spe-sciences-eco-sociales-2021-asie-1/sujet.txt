@@ -1,0 +1,488 @@
+                     BACCALAURÉAT GÉNÉRAL
+                     ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                     SESSION 2021
+
+
+
+               Sciences économiques et sociales
+
+
+
+                                          JOUR 1
+
+
+                               Durée de l’épreuve : 4 heures
+
+
+
+
+               L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+              Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+                Ce sujet comporte 14 pages numérotées de 1/14 à 14/14.
+
+
+
+
+   Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                    d’épreuve composée (sujet A ou sujet B).
+
+                          Il indique sur sa copie le sujet choisi.
+
+
+
+
+21-SESJ1JA1                                                                        1/14
+                Dissertation s'appuyant sur un dossier documentaire
+
+
+ Il est demandé au candidat :
+         - de répondre à la question posée par le sujet ;
+         - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+         - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+    celles figurant dans le dossier ;
+         - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et
+    en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+ Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                    SUJET
+
+                               Ce sujet comporte quatre documents.
+
+  L'approche en termes de classes sociales demeure-t-elle pertinente pour rendre
+           compte de la structuration de la société française actuelle ?
+
+ DOCUMENT 1
+
+     Espérance de vie des hommes à l’âge de 35 ans selon la catégorie sociale
+                                  en années
+
+                                           Hommes Hommes Hommes Hommes Hommes
+                                            1976-  1983-  1991-  2000-  2009-
+                                            1984   1991   1999   2008   2013
+Cadres supérieurs                             41,7          43,7          45,8          47,2          49,0
+Professions intermédiaires                    40,5          41,6          43,0          45,1          46,7
+Agriculteurs                                  40,3          41,7          43,6          44,6          46,2
+Artisans, commerçants et chefs                39,6          41,0          43,1          44,8          46,0
+d'entreprise
+Employés                                      37,2          38,6          40,1          42,3          44,9
+Ouvriers                                      35,7          37,3          38,8          40,9          42,6
+Inactifs                                      27,7          27,5          28,4          30,4          33,1
+Ensemble                                      37,8          39,2          40,8          42,8          44,5
+Ecart entre cadres sup. et                      6            6,4            7            6,3          6,4
+ouvriers
+
+    Source : INSEE – Observatoire des inégalités, « Les inégalités d’espérance de vie entre les
+                       catégories sociales se maintiennent », www.inegalites.fr, 14 avril 2020.
+ Lecture : compte tenu des niveaux de mortalité mesurés entre 2009 et 2013, un homme cadre
+ de 35 ans pouvait espérer vivre en moyenne encore 49 années, soit jusqu’à 84 ans au total.
+
+
+
+
+ 21-SESJ1JA1                                                                                      2/14
+ DOCUMENT 2
+
+  Salaires mensuels moyens nets en EQTP1 dans le secteur privé selon le sexe et
+                    la catégorie socioprofessionnelle en 2016
+
+Catégorie socio-     Montants mensuels nets (en euros)           Différence de salaires (F-H)/H
+professionnelle      Femmes        Hommes        Ensemble                    (en %)
+
+Cadres2                3477          4377           4060                       -20,6
+Professions            2055          2396           2241                       -14,2
+intermédiaires
+Employés               1549          1681           1590                        -7,9
+Ouvriers               1441          1731           1681                       -16,8
+Ensemble               1969          2431           2238                       -19,0
+
+ Champ : France hors Mayotte, salariés en EQTP du secteur privé et des entreprises publiques,
+ y compris bénéficiaires de contrats aidés et de contrats de professionnalisation depuis 2011.
+ Sont exclus les apprentis, les stagiaires, les salariés agricoles et les salariés des particuliers
+ employeurs.
+                                                                          Source : INSEE, DADS.
+
+
+ 1 : Salaires en équivalent temps plein (EQTP)
+ 2 : Y compris chefs d’entreprise salariés
+
+
+ Lecture : En 2016, le salaire mensuel moyen net des femmes cadres en équivalent temps plein
+ était inférieur de 20,6% par rapport aux hommes cadres dans la même situation.
+
+
+
+
+ 21-SESJ1JA1                                                                             3/14
+DOCUMENT 3
+
+
+
+
+  Source : Centre d'observation de la société, « Comment évoluent les catégories sociales en
+                                  France ? », www.observationsociete.fr, 10 décembre 2019.
+
+
+DOCUMENT 4
+
+        « Selon une étude de l’Insee, [les] travailleurs du bas de l’échelle sociale
+rassemblaient 4,8 millions de salariés en 2002, soit 22,6 % de l’emploi salarié. Leur
+nombre s’est remis à progresser à compter du début des années 1990. Cet ensemble
+comporte 2 millions d’ouvriers non-qualifiés, à 60 % des hommes : manutentionnaires,
+ouvriers du bâtiment, de l’industrie, etc. Peuvent y être ajoutés une partie des employés,
+en y incluant les emplois qui nécessitent peu de formation : agents de sécurité,
+caissiers, femmes de ménages, etc. Ce dernier ensemble représentait 2,8 millions de
+personnes en 2002, à 80 % des employées […]
+        Ils ont en commun de faibles rémunérations, de l’ordre d’un gros tiers du salaire
+moyen des cadres. Ils occupent des postes d’exécution, avec 30 % de CDD, d’intérim,
+de contrats aidés ou de temps partiels subis. […] Ils se sentent éloignés de la vie
+politique. Ils déclarent une sociabilité moins étendue que celle des autres groupes
+sociaux et pratiquent moins d’activités. […] Seuls 40 % des non-qualifiés disent avoir le
+sentiment d’appartenir à une classe sociale, contre 60 % des cadres. »
+
+               Source : Louis MAURIN, Déchiffrer la société française, La Découverte, 2009.
+
+
+
+
+21-SESJ1JA1                                                                       4/14
+                                   Épreuve composée-Sujet A
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+
+Expliquez en quoi les asymétries d'information sur le marché du travail sont-elles
+sources de chômage structurel ?
+
+
+
+
+21-SESJ1JA1                                                                                      5/14
+ Deuxième partie : Étude d'un document (6 points)
+
+
+     Contribution des facteurs de production et de la productivité globale des
+                facteurs (PGF) à la croissance économique en 2017
+
+
+     Pays        Contribution des Contribution du Contribution de          Taux de
+                      heures       facteur capital      la PGF            croissance
+                    travaillées   (en points de %) (en points de %)      économique
+                 (en points de %)                                           (en %)
+
+France                  -0,1              0,7               1,6               2,2
+
+Allemagne               0,8               0,4               1,2               2,4
+
+Etats-Unis              0,8               0,6               0,7               2,1
+
+Espagne                 2,1               0,6               0,8               3,5
+
+Royaume-Uni             0,7               0,5               0,6               1,8
+
+Japon                   0,4               0,2                0                0,6
+
+
+                                                                  Source : OCDE, 2019.
+
+ Questions :
+
+ 1. À l'aide des données du document, comparez la répartition des différentes
+ contributions à la croissance économique de l'Allemagne et des Etats-Unis en 2017.
+ (2 points)
+
+ 2. À l'aide des données du document et de vos connaissances, montrez que les
+ contributions à la croissance ne se réduisent pas à la seule accumulation des facteurs
+ de production. (4 points)
+
+
+
+
+ 21-SESJ1JA1                                                                  6/14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+que l'engagement politique dépend de variables sociodémographiques.
+
+
+DOCUMENT 1
+
+Dépolitisés mais hyperconnectés, les jeunes sont loin de se désintéresser de la vie en
+société. Ils se sentent concernés, protestent et manifestent. Depuis les attentats du 13
+novembre 2015, près d’un jeune sur deux considère que ses libertés se sont réduites.
+[Tous] expriment, chacun à leur façon, un même refus : celui de « rester les bras
+croisés ». Ils et elles ont fait le « choix de l’insoumission », souhaitent « défendre leurs
+idées », reprendre la liberté d’expression « à ceux qui ont le pouvoir et se l’accaparent »,
+« dénoncer l’absurdité et les actes graves », « lutter contre les injustices ».
+[…] C’est vrai, les jeunes ne s’engagent plus pour la vie jusqu’à la mort. Ils n’ont pas
+l’intention de s’inscrire dans l’Histoire, mais parient sur le concret. L’efficacité d’un
+engagement ponctuel pour des causes spécifiques. Déjà, dans les années 1990, le
+sociologue Jacques Ion qualifiait cette forme d’engagement de « Post-it ». Qu’on colle
+et qu’on décolle, avec un « moindre souci d’implantation durable et massif » […]
+Le manque de temps serait le premier frein à l’engagement des jeunes […]. Alors, les
+réseaux, ça n’est pas si mal. Pour Mathilde, 23 ans, agent de collectivité dans une
+station d’épuration, « militer, ce n’est plus dans la rue mais sur les réseaux sociaux sur
+des sources sérieuses » […]
+La notion même de « militer », aujourd’hui tombée en désuétude, est glissée entre
+guillemets. « Je ne suis pas ce qu’on pourrait appeler une vraie « militante » : Je ne
+manifeste pas, je ne fais pas de politique et je ne fais partie d’aucun groupe, reconnaît
+Lilou, 20 ans, partie étudier à Montréal. Néanmoins, je milite silencieusement par mes
+choix quotidiens. Je pousse les gens à s’informer, je m’insurge sur les réseaux
+sociaux ».
+
+                              Source : Jean-Baptiste DE MONTVALON et Charlotte HERZOG,
+              « Avoir 20 ans en 2018 : militer, le haut du pavé 2.0 », Le Monde, 26 mars 2018.
+
+
+
+
+21-SESJ1JA1                                                                         7/14
+DOCUMENT 2
+
+Impossible de ne pas les voir. De tous âges, de toutes conditions, elles sont nombreuses
+ces femmes à avoir enfilé le gilet jaune, donnant de leur voix et de leur temps dans les
+manifestations ou sur les barrages routiers. [...]
+« C'est assez inédit de voir les femmes aussi présentes sur des lieux, types barrages
+routiers et blocages, qui jusqu'à présent, dans d'autres mouvements sociaux étaient des
+types d'actions masculins. D'ailleurs, elles y apportent leur propre touche et leur propre
+style, on en a vu certaines danser et faire danser dans les ronds-points, le madison ou
+la country, je ne crois pas avoir vu cela auparavant ! », nous explique Magali Della
+Sudda, chargée de recherches au CNRS et à Sciences-Po Bordeaux. Avec plusieurs
+dizaines de consœurs et confrères chercheurs, 70 environ au total à travers la France,
+elle coordonne une enquête sur cette visibilité forte des femmes au sein des gilets
+jaunes. [...]. « Selon nos premiers résultats, il n'y a pas plus de femmes que d'hommes,
+les hommes semblent même être un peu plus nombreux, mais c'est presque moitié-
+moitié. La différence, c'est qu'on voit plus les femmes cette fois-ci. Il y a sans doute un
+effet réseaux sociaux, qui n'existait pas lors des précédents mouvements de
+contestation, cela nous rend plus attentif à leur présence. Et puis il y a eu des visages
+féminins qui se sont démarqués aussi au tout début du mouvement [...] ajoute la
+chercheure, […] « Même si le mouvement est très disparate, les femmes qui s'expriment
+sur les réseaux sociaux ont pour la plupart les mêmes revendications, il s'agit pour elle
+d'arriver à boucler leurs fins de mois, à nourrir leur famille, d'ailleurs, cela demande
+encore à être totalement vérifié, mais il semblerait que les mères mono-parentales
+soient très nombreuses voire majoritaires parmi ces femmes gilets jaunes ».
+Autre image vue sur les barrages, des femmes venant ravitailler les troupes, notamment
+l'une d'elle, qui vient nourrir les manifestants d'un couscous : « ça nous dit plusieurs
+choses. Une fois de plus la femme se retrouve dans son rôle classique de nourricière,
+mais en plus le couscous, cela a une valeur symbolique, de solidarité et ça montre aussi
+l'extrême diversité de ce mouvement. Avec des personnes de sensibilité très
+différentes » poursuit l'universitaire. […]
+
+
+              Source : Isabelle MOUGERE, « Pourquoi autant de femmes en gilets jaunes ? »,
+                                       www.information.tv5monde.com, 7 décembre 2018.
+
+
+
+
+21-SESJ1JA1                                                                      8/14
+DOCUMENT 3
+
+
+                 Origine sociale des députés selon la CSP en 2017
+
+
+
+
+Lecture : 4,6 % des députés sont des employés en 2017. Cette catégorie socioprofessionnelle
+représente 28,3 % de la population active occupée en 2014.
+
+                                      Source : observatoire des inégalités, www.inegalites.fr
+
+
+
+
+21-SESJ1JA1                                                                        9/14
+                                   Épreuve composée-Sujet B
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d’un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l’information.
+Partie 3 - Raisonnement s’appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement et une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l’expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+
+Comment un marché de quotas d’émission peut-il permettre aux pouvoirs publics de
+faire face aux externalités négatives sur l’environnement ?
+
+
+
+
+21-SESJ1JA1                                                                                     10/14
+      Deuxième partie : Étude d’un document (6 points)
+
+
+
+          Destinées sociales des hommes selon l’origine sociale de leur père en 2015
+                                          (en %)
+
+      CSP des                                  Cadres et
+                                  Artisans,
+        fils                                  professions                   Employés Employés et
+                  Agriculteurs commerçants                     Professions
+                                             intellectuelles                et ouvriers ouvriers non   Ensemble
+                  exploitants     et chefs                   intermédiaires
+CSP                                           supérieures                    qualifiés    qualifiés
+                                d’entreprise
+des pères
+Agriculteurs         26,7           7,9           8,5            20,4          27,4         9,1           100
+exploitants
+Artisans,             0,9          20,6           23,1           23,8          23,6         7,9           100
+commerçants
+et chefs
+d’entreprise
+Cadres et             0,2           7,9            49            25,4          13,7         3,8           100
+professions
+intellectuelles
+supérieures
+Professions           0,6           7,8           26,5           31,1          26,2         7,7           100
+intermédiaires
+Employés et           0,6           7,2           12,7           26,8          42,6        10,1           100
+ouvriers
+qualifiés
+Employés et           0,6           6,5           8,3            18,7          43,9        22,1           100
+ouvriers non
+qualifiés
+Ensemble              2,8           9,1           20,4           25,3          32,4        10,1           100
+
+      Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés,
+      âgés de 35 à 59 ans au 31 décembre de l’année d’enquête.
+
+                      Source : INSEE, enquêtes Formation et qualification professionnelle 2014-2015.
+
+
+
+      Questions :
+
+      1. À l’aide des données du document, vous comparerez la destinée des fils de cadres
+         et des fils d'employés et d'ouvriers non qualifiés. (2 points)
+
+      2. À l’aide du document et de vos connaissances, vous illustrerez et expliquerez une
+         situation de mobilité ascendante et une situation de reproduction sociale. (4 points)
+
+
+
+
+      21-SESJ1JA1                                                                                 11/14
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+que le progrès technique peut engendrer des inégalités de revenus.
+
+
+
+
+DOCUMENT 1
+
+
+   Productivité du travail, rémunération moyenne et rémunération d’un salarié
+           d’exécution aux Etats-Unis (en indices, base 100 en 1948)
+
+
+
+
+                          Source : « Productivité et rémunération : le lien est-il rompu ? »,
+                                National Bureau of Economic Research, décembre 2017.
+
+
+
+
+21-SESJ1JA1                                                                       12/14
+       DOCUMENT 2
+
+
+                Salaire horaire moyen en livres au Royaume-Uni entre 2004 et 2016
+
+
+
+Graphique A : Salaire horaire moyen par âge pour les       Graphique B : Salaire horaire moyen par âge pour les
+travailleurs peu qualifiés des entreprises innovantes et   travailleurs qualifiés des entreprises innovantes et non-
+non-innovantes.                                            innovantes.
+
+
+
+
+                                                                            Source : www.banque-france.fr
+
+
+
+
+       21-SESJ1JA1                                                                                  13/14
+DOCUMENT 3
+
+La pandémie de COVID-19 dévaste les marchés du travail dans le monde entier. […]
+Selon nos estimations, près de 100 millions de travailleurs dans 35 de ces pays (sur
+189 membres du FMI) pourraient être concernés par ce problème, car ils sont dans
+l’incapacité de télétravailler. Ils représentent en moyenne 15 % de la population active,
+mais des différences importantes sont observées en fonction des pays et des
+travailleurs.
+Nous avons constaté des disparités considérables entre les pays même pour des
+professions identiques : il est beaucoup plus simple de télétravailler en Norvège et à
+Singapour qu’en Turquie, au Chili, au Mexique, en Équateur et au Pérou, simplement
+parce que, dans les pays émergents et les pays en développement, plus de la moitié
+des ménages n’ont même pas d’ordinateur chez eux.
+Dans l’ensemble, les personnes qui travaillent dans le secteur alimentaire et celui de
+l’hébergement, ainsi que dans le commerce de gros et de détail, sont les plus touchées,
+car leurs emplois sont ceux qui se prêtent le moins au télétravail. Dans notre échantillon,
+plus de 20 millions de personnes travaillent dans ces secteurs et figurent donc parmi
+celles qui ont le plus de risques de perdre leur emploi. Mais certains travailleurs sont
+encore plus vulnérables que d’autres. Les travailleurs jeunes et les personnes qui n’ont
+pas fait d’études supérieures sont nettement moins susceptibles de télétravailler. Ce
+risque accru correspond aux caractéristiques d’âge des travailleurs dans les secteurs
+les plus durement touchés par les fermetures de sites et les mesures de distanciation
+sociale. […] Les femmes pourraient être particulièrement concernées, ce qui remettrait
+en cause certaines des avancées obtenues durant les dernières décennies en matière
+d’égalité des sexes. En effet, les femmes se concentrent de manière disproportionnée
+dans les secteurs les plus durement touchés comme les services de restauration et
+l’hébergement.
+
+                                                          Source : FMI, www.imf.org., 2020
+
+
+
+
+21-SESJ1JA1                                                                      14/14
+

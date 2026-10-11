@@ -1,0 +1,373 @@
+                BACCALAURÉAT GÉNÉRAL
+
+                ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2026
+
+
+          Sciences économiques et sociales
+                                      ______
+
+
+
+
+                                    JOUR 1
+
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+           Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou de l’épreuve composée.
+
+
+                     Il indique sur sa copie le sujet choisi.
+
+
+
+
+26-SESJ1JA1                                                              Page 1 sur 10
+             Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+         notamment celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre
+         des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+     Les ressources et configurations familiales suffisent-elles à expliquer la
+                               mobilité sociale ?
+
+DOCUMENT 1
+
+  Niveau de vie selon la configuration familiale et le nombre d’enfants en 2021
+                                    (en euros)
+
+                                            Niveau de vie moyen                                         Niveau de vie médian
+                                              des individus du                                             des individus du
+      Configuration familiale
+                                                  ménage                                                       ménage
+                                                 (en euros)                                                   (en euros)
+ Famille monoparentale avec un
+                                                          21 130                                               19 160
+            enfant
+   Famille monoparentale avec
+                                                          17 370                                               15 350
+      deux enfants ou plus
+       Couple avec un enfant                              29 810                                               26 070
+     Couple avec deux enfants                             28 740                                               24 980
+   Couple avec trois enfants ou
+                                                          22 090                                               18 740
+              plus
+
+Champ : France métropolitaine.
+
+                                                                                                           Source : INSEE, 2024.
+
+
+
+
+26-SESJ1JA1                                                                                                       Page 2 sur 10
+
+
+
+
+                                                     EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+DOCUMENT 2
+
+ Évolution des catégories socioprofessionnelles des personnes en emploi de
+                        1982 à 2023 en France (en %)
+
+
+
+
+Champ : France, hors Mayotte.
+
+                                                                                        Source : D’après INSEE, 2023.
+
+
+
+
+26-SESJ1JA1                                                                                            Page 3 sur 10
+
+
+
+
+                                     EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+DOCUMENT 3
+
+ Catégorie socioprofessionnelle occupée par un individu selon son niveau de
+                         diplôme en France (en %)
+
+
+               PCS    Agriculteur                                                                   Profession
+  Niveau                             Ouvrier     Employé                                                           Cadre     Total
+                      et ACCE1                                                                     intermédiaire
+  de diplôme
+
+  Non diplômé             3             42                      40                                      13           2        100
+
+  Diplômé du
+                          4             31                      44                                      19           2        100
+  secondaire
+
+  Diplômé du
+  supérieur               2             9                       26                                      55           8        100
+  court2
+
+  Diplômé du
+                          1             1                          6                                    24          69        100
+  supérieur long3
+
+  Ensemble                2             17                      29                                      30          22        100
+
+
+Champ : Emplois occupés en octobre 2020. Personnes nées en France.
+
+        Source : D’après « les politiques publiques en faveur de la mobilité sociale », France
+                                                                              Stratégie, 2023.
+
+Note : en raison des arrondis, le total ne fait pas toujours 100 %.
+
+1 : Artisans commerçants et chefs d’entreprise.
+2 : Supérieur court : bac + 2 à bac + 4.
+3 : Supérieur long : bac + 5 et plus, y compris grandes écoles.
+
+Lecture : 69 % des diplômés du supérieur long occupent un emploi de cadre.
+
+
+
+
+26-SESJ1JA1                                                                                                              Page 4 sur 10
+
+
+
+
+                                                EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+DOCUMENT 4
+
+
+
+Prenons le cas de Dylan. Celui-ci n’a pas connu ses grands-parents paternels mais,
+aîné d’une fratrie de deux enfants, arrivé 6 ans avant sa petite sœur, il a bénéficié
+d’une attention privilégiée de la part de ses grands-parents maternels. Sa grand-
+mère a quitté les études secondaires sans diplôme. Son grand-père, avait réussi une
+première année de comptabilité mais le manque de ressources familiales et le
+dynamisme économique d’après-guerre l’ont amené à les interrompre. Il a tenu un
+commerce assez florissant qui lui a permis d’entretenir un bon niveau de vie. Ayant
+toujours regretté de ne pas avoir pu poursuivre d’études supérieures, il a poussé sa
+fille, la mère de Dylan, à en faire autant. Cependant, celle-ci tombe enceinte durant
+sa deuxième année d’études supérieures et abandonne alors. Marquée par ces deux
+actes « manqués », la famille de Dylan valorise fortement la réussite scolaire. La
+stabilité financière de ses parents constitue un atout non négligeable en ce sens. Qui
+plus est, la mère de Dylan a toujours aimé les livres et a partagé cette passion avec
+son fils en l’amenant tous les mercredis à la bibliothèque. […]. Durant [ses études à
+l’école primaire], celui-ci s’est lié d’amitié avec Jérôme, dont les parents
+appartiennent à la classe moyenne. Il a insisté pour le suivre dans le même
+établissement secondaire prestigieux. Les parents de Dylan, bien que très investis
+dans la scolarité de leur fils ne disposaient pas des codes leur permettant de choisir
+une école secondaire en adéquation1 avec le projet d’études supérieures de leur fils.
+Par la suite, il aura la chance de rencontrer un professeur de mathématiques, […] qui
+aura à cœur de l’aider à choisir « les bonnes options » pour valoriser son parcours
+secondaire et anticiper le supérieur. Il s’inscrit ensuite à l’université en économie.
+Malheureusement, son grand-père décède quelques mois avant l’obtention de son
+[baccalauréat], avec distinction. […]. Marqué par un nouveau sentiment d’urgence à
+réussir autant que par la frustration de n’avoir pu partager ses résultats avec son
+grand-père, Dylan se dépasse et réussit brillamment son master.
+
+  Source : Hughes DRAELANTS, Branka CATTONAR, Manuel de sociologie de l’éducation,
+                                                                            2022.
+
+1 : Adéquation : en accord ; qui correspond.
+
+
+
+
+26-SESJ1JA1                                                                                       Page 5 sur 10
+
+
+
+
+                                               EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+                                       Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de
+traiter le sujet :
+          - en développant un raisonnement ;
+          - en exploitant les documents du dossier ;
+          - en faisant appel à ses connaissances personnelles ;
+          - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez que l’innovation s’accompagne d’un processus de destruction
+créatrice.
+
+
+
+
+26-SESJ1JA1                                                                                             Page 6 sur 10
+
+
+
+
+                                                     EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+Deuxième partie : Étude d’un document (6 points)
+
+
+              Conditions de travail des salariés en 1991, 2005 et 2019
+
+                       Avoir un rythme de
+                        travail imposé par
+                                                             Occuper                                             Appliquer
+Proportion de salariés    une demande
+                                                          régulièrement                                      strictement des
+  déclarant (en %)     extérieure exigeant
+                                                         plusieurs postes                                       consignes
+                           une réponse
+                            immédiate
+
+         Ouvriers               25,7                                                          5,2                  52,8
+ 1991
+         Ensemble               45,8                                                          5                    41,7
+
+         Ouvriers               37,8                                                          7,2                  46,2
+ 2005
+         Ensemble               53,2                                                          6,2                  35,2
+
+         Ouvriers               41,5                                                     13,4                      44,9
+ 2019
+         Ensemble               55,3                                                     10,5                      34,4
+
+
+Champ : ensemble des personnes salariées, France métropolitaine.
+
+                                                                                                    Source : d’après DARES, 2023.
+
+
+
+Questions :
+
+   1. À l’aide des données du document et de calculs simples, vous comparerez les
+      conditions de travail des ouvriers avec celles de l’ensemble des salariés en
+      1991. (2 points)
+
+   2. À l’aide du document et de vos connaissances, vous présenterez les
+      principales     caractéristiques de l’organisation post-taylorienne du
+      travail. (4 points)
+
+
+
+
+26-SESJ1JA1                                                                                                         Page 7 sur 10
+
+
+
+
+                                           EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                       Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que lorsque le chômage est conjoncturel, les politiques
+macroéconomiques de soutien de la demande globale permettent de lutter
+contre.
+
+
+
+DOCUMENT 1
+
+La « sous-utilisation des capacités de production » désigne la quantité de ressources
+inutilisées dans l’économie. Pour les économistes, une machine non utilisée dans
+une usine ou une personne au chômage constituent des capacités productives
+inutilisées.
+Cette sous-utilisation des capacités productives est généralement due à une
+demande insuffisante par rapport à la capacité de production de l’économie. Les
+économistes s’attachent donc à en suivre l’évolution, car ils y voient un indicateur
+essentiel de l’état de l’économie. L’existence d’importantes capacités inutilisées dans
+l’économie signifie généralement qu’un grand nombre de personnes sont à la
+recherche d’un emploi. […] La banque centrale peut […] envisager de stimuler
+l’économie, par exemple en réduisant les taux d’intérêt.
+
+                                                  Source : Banque centrale européenne, 2018.
+
+
+
+
+26-SESJ1JA1                                                                                   Page 8 sur 10
+
+
+
+
+                                           EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+DOCUMENT 2
+
+Évolution du taux de croissance du PIB et du taux de chômage de 1975 à 2024
+                                   (en %)
+
+
+
+
+Champ : France, personnes actives.
+
+                                                                                        Source : INSEE, 2024.
+
+
+
+
+26-SESJ1JA1                                                                                    Page 9 sur 10
+
+
+
+
+                                     EN_MOTczNT8QzNjAc0ND9UzMsTYxMj4A2MDAUwMziEzMPTEx
+DOCUMENT 3
+
+Plan de relance français en soutien à l’activité économique à la suite de la crise
+                         de 2008 (en milliards d’euros)
+
+
+
+
+                          Source : Projet de loi de finances rectificative pour 2009, 2008.
+
+
+
+
+26-SESJ1JA1                                                                Page 10 sur 10
+

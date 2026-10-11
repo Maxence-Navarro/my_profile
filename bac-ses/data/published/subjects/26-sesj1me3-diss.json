@@ -1,0 +1,69 @@
+{
+  "id": "26-SESJ1ME3-DISS",
+  "slug": "26-sesj1me3-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "26-SESJ1ME3",
+  "year": 2026,
+  "session": "remplacement",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "Les inégalités de revenus sont-elles le seul défi posé par la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Évolution du PIB et du coefficient de Gini (après impôts et prestations sociales), *(source : d'après « Les inégalités en France en 2025 », www.lafinancepourtous.com, 19 juin 2025.)*\n- Document 2 — Revenu salarial annuel moyen, en France, en 2021 *(source : d'après INSEE Références, France, portrait social, 21 novembre 2024.)*\n- Document 3 — Évolution des émissions de CO2 (en Mt éq. CO2)1 *(source : d'après https://banquemondiale.org, 16 juin 2025.)*\n- Document 4 — Dans le gyre1 subtropical du Pacifique Nord, siège du […] « continent de plastique », *(source : d'après Sylvie BURNOUF, « Le « continent de plastique » du Pacifique Nord accumule de)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1",
+      "question": "Vous montrerez que les asymétries d'information sur le marché du travail sont une source de chômage structurel."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document et d'un calcul simple, vous caractériserez les quatre types de réponse d'une personne dont la « profession du père » est « cadres et assimilés ». / À l'aide du document et de vos connaiss"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez les effets du numérique sur le travail et l'emploi."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ1ME3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-metropole-1-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 125, 2023_poly_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=125&cle=1670f21296b3d8487223aca99542bcb2ad6c9be43ff2a73bc19c1aeeba3376df&file=docx%2F2023_poly_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 125",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=125&cle=1670f21296b3d8487223aca99542bcb2ad6c9be43ff2a73bc19c1aeeba3376df&file=docx%2F2023_poly_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 125) indique « Polynésie », alors que le fichier (2023_poly_norm_dissert_1.docx) et le sujet officiel correspondent à France métropolitaine.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

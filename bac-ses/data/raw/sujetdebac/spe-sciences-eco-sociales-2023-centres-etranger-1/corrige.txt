@@ -1,0 +1,366 @@
+          DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                         PROPOSITION DE CORRIGÉ
+
+
+   Sujet : Comment peut-on expliquer le chômage structurel ?
+
+
+   Programme officiel :
+   Science économique
+
+   Questionnement      Objectifs d’apprentissage
+   Comment lutter      - Savoir définir le chômage et le sous-emploi et connaître les
+   contre le chômage ? indicateurs de taux de chômage et de taux d’emploi.
+                       - Comprendre que les problèmes d’appariements (frictions,
+                       inadéquations spatiales et de qualifications) et les asymétries
+                       d’information (salaire d’efficience) sont des sources de chômage
+                       structurel.
+                       - Comprendre les effets (positifs ou négatifs) des institutions sur
+                       le chômage structurel (notamment salaire minimum et règles de
+                       protection de l'emploi).
+                       - Comprendre les effets des fluctuations de l’activité économique
+                       sur le chômage conjoncturel.
+                       - Connaître les principales politiques mises en œuvre pour lutter
+                       contre le chômage : politiques macroéconomiques de soutien de
+                       la demande globale, politiques d’allégement du coût du travail,
+                       politiques de formation et politiques de flexibilisation pour lutter
+                       contre les rigidités du marché du travail.
+
+   Exploitation possible des documents :
+   Document 1 − Ce document permet d’illustrer les effets de la hausse du salaire
+                   minimal sur le chômage. Il peut donc être relié aux effets (positifs ou
+                   négatifs) des institutions sur le chômage structurel.
+                 − On peut en tirer l’idée que la hausse du salaire minimal peut avoir
+                   un effet destructeur sur l’emploi puisqu’il peut réduire le nombre
+                   d’heures de travail (cas de Seattle) ou réduire le nombre d’emplois
+                   (cas de la Hongrie), en particulier pour les emplois les plus exposés
+                   à la concurrence internationale.
+                 − L’effet destructeur semble associé à des hausses importantes du
+                   salaire minimal.
+                 − On peut également montrer que les hausses plus modestes du
+                   salaire minimal n’ont pas d’effet significatif sur le volume d’emploi
+                   (cas de Seattle sur la première vague d’augmentation) et ce d’autant
+                   moins que le salaire minimum est faible au départ.
+
+   Document 2 −      Ce document permet d’interroger le lien entre les règles de
+                     protection de l’emploi et l’existence d’un chômage structurel.
+                 −   Il permet de constater que les pays anglo-saxons qui ont un faible
+                     niveau de protection de l’emploi (l’indicateur est inférieur à 2) ont
+
+23-SESJ1G11C                                                                      Page 1/8
+                    également un faible taux de chômage. En comparaison, l’Espagne,
+                    la France ou l’Italie qui ont une protection de l’emploi plus
+                    importante, ont des taux de chômage plus élevés. A titre d’exemple,
+                    le taux de chômage en Italie est 3 fois plus élevé qu’aux États-Unis.
+                −   A l’inverse, l’Allemagne et la Belgique ont des niveaux de protection
+                    de l’emploi comparables à celui de la France ou l’Espagne mais
+                    connaissent des taux de chômage nettement plus faibles.
+   Document 3 −     Si le taux de chômage pour la France métropolitaine est relativement
+                    faible (7,2 % des actifs), cela cache d’importantes disparités
+                    territoriales.
+                −   Dans la Manche, le taux de chômage est de seulement 5 % alors
+                    qu’il est de 10,5 % en Seine-Saint-Denis, soit 2 fois plus élevé.
+                −   Plus au Sud du pays, les Pyrénées-Atlantiques connaissent un taux
+                    de chômage de 5,9 % alors qu’il s’élève à 11,7 % dans le
+                    département des Pyrénées-Orientales, soit de nouveau un rapport
+                    de 1 à 2 entre deux départements relativement proches
+                    (appariement géographique très différent entre l’offre et la demande
+                    de travail départementales).
+   Document 4 −     Ce document permet d’illustrer les problèmes d’appariements liés
+                    aux inadéquations de qualifications.
+                −   Il permet de constater que les entreprises peuvent être confrontées
+                    à des difficultés de recrutement. Les élèves peuvent faire le lien avec
+                    le document 3 qui montre que le taux de chômage est relativement
+                    faible en France en 2021 (et en baisse par rapport au taux de
+                    chômage 2019 qui est donné dans le document 2).
+                −   On constate alors que les difficultés de recrutement ont doublé dans
+                    le secteur des services entre 2015 et 2021.
+                −   L’augmentation est également importante dans le secteur du
+                    bâtiment qui connaît structurellement des difficultés de recrutement.
+                    Ainsi 72,3 % des entreprises du bâtiment éprouvent des difficultés
+                    de recrutement. On peut bien sûr faire le lien avec le manque de
+                    salariés possédant les compétences dans ce secteur.
+
+
+   Problématiques possibles :
+
+   - Quelles sont les sources du chômage structurel ?
+   - Les problèmes d’appariements suffisent-ils à expliquer le chômage structurel ?
+
+
+
+
+23-SESJ1G11C                                                                     Page 2/8
+   Proposition de plan détaillé :
+
+    I) Les problèmes d’appariements sont         II) Les asymétries d’information et les
+    une source de chômage structurel.            institutions peuvent également être
+                                                 source de chômage structurel.
+   A) L’appariement peut être confronté à        A) En situation d’asymétries
+   des problèmes d’inadéquations.                d’information, il est possible qu’un
+   spatiales.                                    déséquilibre persiste entre offre et
+                                                 demande de travail.
+         • On peut avoir coexistence entre un         • En        situation     d’asymétries
+   niveau de chômage élevé dans certaines d’information, les entreprises peuvent être
+   zones géographiques et un faible taux de tentées d’augmenter les salaires (théorie
+   chômage dans d’autres.                       du salaire d’efficience).
+         • Cette inadéquation est liée au             • Cela leur permet d’attirer les
+   manque de mobilité de travail. En effet, les salariés les plus qualifiés. De même, elles
+   travailleurs ne se déplacent pas vers les peuvent ainsi motiver leurs salariés qui se
+   régions où le chômage est le plus faible (et sentent ainsi valorisés. Enfin, ces salaires
+   ne quittent pas celles où il est élevé). On plus élevés incitent les travailleurs à
+   peut donc avoir un chômage persistant travailler davantage car ils peuvent
+   dans certaines régions.                      craindre de perdre leur emploi.
+         • Le document 2 illustre cette               • Cependant, la généralisation du
+   situation                                    salaire d’efficience dans les entreprises
+                                                conduit à un salaire structurellement
+                                                supérieur au salaire d’équilibre, ce qui
+                                                conduit à un chômage persistant.
+    B) L’appariement peut être confronté à B) L’existence d’un salaire minimum
+    des problèmes d’inadéquation des       peut être une source de rigidité sur le
+    qualifications.                        marché du travail.
+          • On peut avoir une coexistence             • Sur le marché du travail, le salaire
+   d’un niveau de chômage élevé et de minimum peut constituer une rigidité qui
+   difficultés    d’embauches        par     les empêche d’atteindre l’équilibre.
+   entreprises.                                       • En effet, dans la situation où le
+          • Ce problème d’appariement est lié salaire minimum est supérieur au salaire
+   à l’inadéquation des qualifications. Les d’équilibre, la demande de travail est
+   chômeurs possèdent des compétences inférieure à l’offre de travail.
+   qui      ne   correspondent       pas    aux       • Cette situation est illustrée par les
+   compétences       demandées        par    les cas d’augmentation du salaire minimum
+   entreprises. On peut donc avoir un qui conduisent à des destructions
+   chômage qui persiste malgré une d’emploi, en particulier lorsque ces
+   demande de travail élevée.                     augmentations sont fortes (document 3).
+          • Le document 4 illustre la possibilité
+   pour les entreprises d’être confrontées à
+   des difficultés de recrutement. Ces
+   difficultés sont différentes selon les
+   secteurs d’activité et donc selon les
+   compétences demandées.
+
+
+23-SESJ1G11C                                                                       Page 3/8
+    C) L’appariement peut être confronté        C) Les règles de protection de
+    à des frictions sur le marché du            l’emploi peuvent également être une
+    travail.                                    source de rigidité sur le marché du
+                                                travail.
+         • On peut avoir des frictions sur le         • Lorsque les règles de protection de
+   marché du travail. Elles sont liées au délai l’emploi encadrent les licenciements de
+   nécessaire à la recherche de l’emploi façon trop rigide, cela peut désinciter les
+   adéquat par l’offreur de travail.            entreprises à embaucher.
+         • Le fait de rechercher un meilleur          • Face aux fluctuations de l’activité
+   emploi peut conduire à allonger ce délai et économique les entreprises souhaitent
+   empêche les demandeurs de travail de pouvoir adapter rapidement leur main-
+   retrouver immédiatement un emploi.           d’œuvre à leurs besoins. Si les
+         • Ces frictions sont plus importantes licenciements leur apparaissent comme
+   sur un marché du travail où la rencontre trop complexes, elles peuvent être tentées
+   entre l’offre et la demande de travail est de ne pas embaucher dans les périodes de
+   plus compliquée (par exemple, si la reprise économique, par crainte de ne pas
+   communication sur les offres d’emploi est pouvoir licencier lors du retournement
+   défaillante).                                économique.
+                                                      • On peut constater que la faible
+                                                protection de l’emploi aux États-Unis et au
+                                                Royaume-Uni va de paire avec de faibles
+                                                taux de chômage (Document 2), même si
+                                                les résultats dans d’autres pays peuvent
+                                                permettre de relativiser la relation
+                                                (Belgique).
+
+   Le corrigé proposé fournit des indications à destination des commissions académiques
+   d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+23-SESJ1G11C                                                                     Page 4/8
+                                    ÉPREUVE COMPOSÉE
+                                  PROPOSITION DE CORRIGÉ
+
+
+   Première partie : Mobilisation des connaissances
+
+   Question : Expliquez le paradoxe de l’action collective. (4 points).
+   Sociologie et science politique
+   Comment expliquer l’engagement politique dans les sociétés démocratiques ?
+
+   Réponse possible :
+   En 1965, M. Olson dans Logique de l’action collective décrit un paradoxe :
+   rationnellement, les individus n’ont pas intérêt à s’engager, ce qui devrait donner lieu
+   à l’absence d’action collective, cette dernière étant définie comme la coordination
+   d’efforts au nom d’intérêts et de programmes partagés. Or, celle-ci est bien constatée
+   dans la réalité. Pour l’auteur, l’agrégation des comportements individuels rend
+   improbable la mise en œuvre d’une action collective. Il considère les individus comme
+   rationnels au sens où ils comparent les coûts et les avantages des actions qu’ils
+   doivent mener. Les individus pourront donc tout à fait envisager que si l’action
+   collective a lieu, ils pourront se comporter en passager clandestin (free rider) c’est-à-
+   dire qu’ils pourront en retirer les bénéfices sans en supporter les coûts puisque les
+   retombées d’une action collective sont généralement appliquées à l’ensemble de la
+   population. Ainsi, un individu rationnel pourra décider de ne pas faire grève en
+   considérant qu’il ne supportera pas les coûts de l’action (perte d’une journée de
+   salaire) mais profitera des retombées collectives (qu’une réforme passe ou ne passe
+   pas par exemple). Cependant, on observe que certains individus font effectivement
+   grève.
+
+   Deuxième partie (6 points) : Étude d’un document
+   Science économique
+   Quels sont les fondements du commerce international et de l’internationalisation de la
+   production ?
+
+   Question 1 : A l’aide des données du document, vous comparerez la position de la
+   France et de l’Allemagne dans le commerce de véhicules bas de gamme. (2 points)
+
+   Réponse possible :
+   La France a tendance à exporter davantage de véhicules bas de gamme : par
+   exemple, la part des exportations françaises de véhicules bas de gamme (43%) est
+   4,8 fois (ou 34 points de pourcentage) plus élevée que celle de l’Allemagne (9%) entre
+   2015-2017, selon la CEPII.
+
+   Question 2 : A l’aide de vos connaissances et du document, vous expliquerez le
+   commerce entre pays comparables. (4 points)
+
+   Réponse possible :
+   Le commerce international entre pays comparables peut s’expliquer par diverses
+   raisons. Tout d’abord, la volonté de différencier les produits ou la qualité des produits
+   peut justifier le commerce entre pays comparables. Cela permet aux consommateurs
+
+23-SESJ1G11C                                                                      Page 5/8
+    d’avoir accès à une plus large gamme de biens et services et de mieux satisfaire leurs
+    attentes. Ainsi, la France a tout intérêt à exporter des véhicules bas de gamme mais
+    aussi d’importer des véhicules haut de gamme afin d’avoir un marché plus élargi. Par
+    exemple, la France exporte 43 % de véhicules bas de gamme et importe 36 % de
+    véhicules haut de gamme. Il en est de même pour l’Allemagne dont la part des
+    importations de véhicules bas de gamme est 3 fois plus élevée que celle des
+    exportations de véhicules bas de gamme en 2015-2017.
+    Enfin, le commerce international peut s’expliquer par la fragmentation de la chaîne de
+    valeur. Aujourd’hui, la fabrication d’un bien peut se faire dans plusieurs pays en
+    divisant chaque étape en fonction de l’avantage comparatif de chaque pays. On peut
+    par exemple citer Airbus qui décompose son processus de production en France, en
+    Allemagne, en Espagne ou au Royaume-Uni.
+
+
+    Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10
+    points)
+
+    Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+    qu’une société plus mobile n’est pas nécessairement plus fluide.
+
+    Programme officiel : Sociologie et science politique
+
+   Questionnement Objectifs d’apprentissage
+    Quels sont les - Savoir distinguer la mobilité sociale intergénérationnelle des autres formes de
+    caractéristiques mobilité (géographique, professionnelle).
+    contemporaines - Comprendre les principes de construction, les intérêts et les limites des tables de
+    et les facteurs  mobilité comme instrument de mesure de la mobilité sociale.
+    de la mobilité   - Comprendre que la mobilité observée comporte une composante structurelle
+    sociale ?        (mobilité structurelle) ; comprendre que la mobilité peut aussi se mesurer de
+                     manière relative indépendamment des différences de structure entre origine et
+                     position sociales (fluidité sociale) et qu’une société plus mobile n’est pas né-
+                     cessairement une société plus fluide.
+                     - À partir de la lecture des tables de mobilité, être capable de mettre en évidence
+                     des situations de mobilité ascendante, de reproduction sociale et de déclassement,
+                     et de retrouver les spécificités de la mobilité sociale des hommes et de celles des
+                     femmes.
+                     - Comprendre comment l’évolution de la structure socioprofessionnelle, les niveaux
+                     de formation et les ressources et configurations familiales contribuent à expliquer la
+                     mobilité sociale.
+
+ Exploitation possible des documents :
+  Document 1 Le document montre que la mobilité sociale peut s’expliquer par des
+                changements de la structure sociale. Elle ne s’accompagne alors pas
+                nécessairement d’une augmentation du « brassage social ».
+                Ainsi, l’augmentation de la catégorie cadre a conduit à un recrutement plus
+                ouvert dans la catégorie, sans pour autant que les chances de devenir cadres
+                s’égalisent entre les différentes origines. La fluidité sociale demeure faible,
+                car les enfants de cadres ont plus de chances que les autres catégories de
+                devenir cadres plutôt que d’appartenir à une autre catégorie.
+
+
+23-SESJ1G11C                                                                                Page 6/8
+   Document 2    Le document montre que la mobilité sociale est en partie liée à la mobilité
+                 structurelle.
+                     - En effet, en 1977, 42,6 % de la mobilité des femmes par rapport à leur
+                        mère est d’origine structurelle. En 2015, plus d’un tiers de la mobilité
+                        sociale observée des femmes est liée à l’évolution structurelle des
+                        emplois.
+                     - Une part importante de la mobilité observée des femmes s’explique
+                        donc par l’évolution de la structure socioprofessionnelle même si cette
+                        part a tendance à diminuer entre 1977 et 2015 (baisse d’environ 8
+                        points).
+                     - Enfin, on peut noter que la mobilité ascendante a plus que doublé
+                        entre 1977 et 2015, ce qui est également le cas des déclassements,
+                        ce qui peut être mis en lien avec le document 1 (« Une société très
+                        fluide produit alors beaucoup de promotions et, en même temps,
+                        beaucoup de déclassements sociaux. ») Les déclassements restent
+                        toutefois trois fois moins nombreux que les ascensions.
+   Document 3    Ce document présente l’évolution de la fluidité sociale entre 1977 et 2015 en
+                 France.
+                     - En 1977, les chances d’être cadres plutôt que professions intermé-
+                        diaires étaient 3,5 fois plus fortes pour les fils de pères cadres que de
+                        pères professions intermédiaires. En 1985, les chances d’être cadres
+                        plutôt que professions intermédiaires étaient 2,5 fois plus fortes pour
+                        les fils de cadres que pour les fils de professions intermédiaires. Il y a
+                        donc davantage de fluidité sociale en 1985 si l’on s’intéresse aux
+                        hommes. Pour les femmes, le rapport de chances est plus élevé en
+                        1985, ce qui montre une baisse de la fluidité par rapport à 1977.
+                     - Les chances relatives d’être cadres plutôt que professions intermé-
+                        diaires pour les fils de cadres et les fils de professions intermédiaires
+                        restent stables entre 1993 et 2015 autour de 2,3.
+                     - En mettant en relation les données fille/mère avec le document 2, on
+                        peut montrer qu’une société plus mobile n’est pas nécessairement
+                        plus fluide. En effet, la mobilité sociale observée augmente de près de
+                        6 points entre 1977 et 1985, alors que la fluidité sociale est plus faible
+                        en 1985 qu’en 1977.
+
+
+
+    Raisonnement possible :
+    La mobilité sociale fait référence à la mobilité intergénérationnelle. Elle correspond à
+    un changement de position sociale par rapport à son origine sociale, autrement dit à
+    une position sociale différente de celle de ses parents. La fluidité sociale renvoie à
+    l’idée d’égalité des chances. Une société est fluide, quand les chances d’accéder à
+    une position sociale sont les mêmes pour tous. Mobilité et fluidité peuvent fonctionner
+    de pair, toutefois, nous montrerons qu’une société plus mobile n’est pas
+    nécessairement une société plus fluide.
+          - En effet, une société plus mobile peut être une société plus fluide. Davantage
+             de flux de mobilité ascendants et descendants peuvent conduire à davantage
+             d’égalité des chances. « Une société très fluide produit alors beaucoup de
+             promotions et, en même temps, beaucoup de déclassements sociaux. »
+             (document 1). La fluidité de la société suppose donc une forte mobilité. On
+
+23-SESJ1G11C                                                                       Page 7/8
+           constate ainsi que la mobilité sociale observée des femmes par rapport à leur
+           mère a augmenté de 10 points entre 1977 et 1993 (document 2). Sur la même
+           période la fluidité sociale a fortement augmenté. En effet, alors qu’en 1977,
+           une fille de femme cadre a 5,6 fois plus de chances qu’une fille de femme
+           occupant une profession intermédiaire d’être cadre que profession
+           intermédiaire, en 1993, le rapport de chances relatives n’est plus que de 1,5
+           (document 3). Les chances des filles de profession intermédiaire de devenir
+           cadre plutôt que profession intermédiaire se rapprochent ainsi des chances
+           des filles de cadre.
+       -   Cependant, le lien n’est pas toujours aussi simple. En effet, on constate
+           qu’une société plus mobile peut parfois être une société moins fluide. Louis
+           Chauvel souligne ainsi qu’une évolution de la structure socioprofessionnelle
+           peut conduire à une hausse de la mobilité sans augmentation de la fluidité
+           (document 1). Il souligne ainsi que l’augmentation de la part des cadres dans
+           la société n’a pas forcément augmenté la fluidité. « Les chances de devenir
+           cadre s’accroissent alors pour tous : pour les enfants de cadres, le destin de
+           cadre peut devenir alors une quasi-certitude, et pour ceux d’ouvriers il est
+           moins improbable. » Si les chances des enfants de cadres de devenir cadres
+           plutôt qu’ouvriers augmentent plus rapidement que les chances des enfants
+           d’ouvriers de devenir cadres plutôt qu’ouvriers, alors la fluidité sociale dimi-
+           nue. On constate ainsi que la fluidité sociale entre les cadres et les profes-
+           sions intermédiaires pour les femmes diminue entre 1977 et 1985, alors que
+           la mobilité observée a augmenté. Cela s’explique par l’importance de la mo-
+           bilité structurelle. En effet, en 1985, 43 % de la mobilité sociale observée chez
+           les femmes par rapport à leur mère est due à l’évolution de la structure des
+           emplois.
+
+   Le corrigé proposé fournit des indications à destination des commissions
+   académiques d’entente et d’harmonisation, mais il ne doit pas être considéré comme
+   une norme.
+
+
+
+
+23-SESJ1G11C                                                                      Page 8/8
+

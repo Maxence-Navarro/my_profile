@@ -1,0 +1,73 @@
+{
+  "id": "22-SESJ1G11-EC1-B-Q2",
+  "slug": "22-sesj1g11-ec1-b-q2",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "22-SESJ1G11",
+  "year": 2022,
+  "session": "normale",
+  "day": "J1",
+  "center": "Centres étrangers",
+  "question": "Montrez que l'innovation peut aider à reculer les limites écologiques auxquelles se heurte la croissance économique.",
+  "subQuestions": [],
+  "points": 3.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Les effets induits du commerce international sont-ils toujours positifs ?"
+    },
+    {
+      "part": "EC1 (question 1)",
+      "question": "Montrez, à l'aide de deux exemples, que l'engagement politique peut prendre des formes variées."
+    },
+    {
+      "part": "EC1 (question 3)",
+      "question": "Montrez que les inégalités économiques et sociales présentent un caractère multiforme et cumulatif."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que certaines évolutions de l'emploi peuvent remettre en cause le pouvoir intégrateur du travail."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1G11 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-centres-etranger-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 196, 2022_asie_norm_ec_4.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=196&cle=b1e6f6d3615b7131d6457a12a916727eea7b70473532a9744d3c2f4479f0dd6e&file=docx%2F2022_asie_norm_ec_4.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Asie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 196",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=196&cle=b1e6f6d3615b7131d6457a12a916727eea7b70473532a9744d3c2f4479f0dd6e&file=docx%2F2022_asie_norm_ec_4.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B). Incohérence relevée : le catalogue de Versailles (doc. 196) indique « Asie », alors que le fichier (2022_asie_norm_ec_4.docx) et le sujet officiel correspondent à Centres étrangers.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ1G11C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-centres-etranger-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ1G11 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.885) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

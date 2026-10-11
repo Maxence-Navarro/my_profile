@@ -1,0 +1,69 @@
+{
+  "id": "26-SESJ1AN1-DISS",
+  "slug": "26-sesj1an1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "26-SESJ1AN1",
+  "year": 2026,
+  "session": "normale",
+  "day": "J1",
+  "center": "Amérique du Nord",
+  "question": "Quelles sont les sources de la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Taux de croissance annuel (en %) et contributions des facteurs à la croissance *(source : d'après l'OCDE, 2025.)*\n- Document 2 — Évolution de la productivité globale des facteurs de production entre 1985 et *(source : D'après les données de l'OCDE, 2025.)*\n- Document 3 — Dépenses publiques d'éducation en % du PIB, de 2016 à 2022 *(source : d'après Eurostat, 2025.)*\n- Document 4 — En 2019-2023, avec 5,3 % des demandes de brevets à l'OEB1, la France est au 6ème *(source : « La position technologique de la France à travers les brevets déposés à l'Office)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1",
+      "question": "Vous expliquerez pourquoi, en présence de bien commun, les négociations et accords internationaux liés à la préservation de l'environnement sont contraints par des stratégies de passager clandestin."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document et de calculs simples, vous comparerez le taux de chômage, le taux de croissance du PIB et le taux d'inflation de la France et de l'Irlande en 2024. / À l'aide du document et de vos conna"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le numérique brouille les frontières du travail et transforme l'emploi ainsi que les relations d'emploi."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 26-SESJ1AN1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2026/spe-sciences-eco-sociales-2026-amerique-nord-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 529, 24-sesj1g11_v1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Autres centres étrangers · 2024 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 529",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 529) indique « Autres centres étrangers », alors que le fichier (24-sesj1g11_v1.docx) et le sujet officiel correspondent à Amérique du Nord.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

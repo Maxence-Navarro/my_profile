@@ -1,0 +1,450 @@
+                               BACCALAURÉAT GÉNÉRAL
+                                    SESSION 2022
+
+                           ENSEIGNEMENT DE SPÉCIALITÉ
+                       SCIENCES ÉCONOMIQUES ET SOCIALES
+
+                DISSERTATION S’APPUYANT SUR UN DOSSIER
+                            DOCUMENTAIRE
+                        PROPOSITION DE CORRIGÉ
+
+ Sujet : Quel est le rôle de l’innovation sur la croissance ?
+
+ Programme officiel :
+ Science économique
+ Questionnement      Objectifs d’apprentissage
+  Quelles sont les      - Comprendre le processus de croissance économique et les
+  sources et les          sources de la croissance : accumulation des facteurs et
+  défis de la             accroissement de la productivité globale des facteurs ;
+  croissance ?            comprendre le lien entre le progrès technique et l’accroissement
+                          de la productivité globale des facteurs.
+                        - Comprendre que le progrès technique est endogène et qu’il
+                          résulte en particulier de l’innovation.
+                        - Comprendre comment les institutions (notamment les droits de
+                          propriété) influent sur la croissance en affectant l’incitation à
+                          investir et innover ; savoir que l’innovation s’accompagne d'un
+                          processus de destruction créatrice.
+                        - Comprendre comment le progrès technique peut engendrer des
+                          inégalités de revenus.
+                        - Comprendre qu’une croissance économique soutenable se
+                          heurte à des limites écologiques (notamment l’épuisement des
+                          ressources, la pollution et le réchauffement climatique) et que
+                          l’innovation peut aider à reculer ces limites.
+
+ Exploitation possible des documents :
+ Document 1       - Le document est un graphique mettant en avant la croissance de la
+                    France à travers l’évolution du PIB de 1950 à 2018. On remarque que
+                    cette croissance n’est pas linéaire, mais marquée par des phases
+                    d’accélération et de ralentissement, mettant en avant le caractère
+                    cyclique de la croissance.
+                  - On remarque une phase de forte croissance économique de 1950 à
+                    1975, période des « 30 glorieuses » où les taux de croissance
+                    oscillent autour de 5 % en moyenne par an. Période également
+                    marquée par de nombreuses innovations.
+                  - Trois pics de récession, voire de dépression sont visibles sur ce
+                    graphique. Un en 1975 avec les chocs pétroliers, un en 1993 avec la
+                    crise des taux de change et un en 2009 suite à la crise des subprimes.
+                    Ces différentes crises mettent souvent fin à une période de
+                    croissance, où la reprise pourra se faire par l’apparition de nouvelles
+                    innovations et l’intervention de l’État.
+                  - -Le ralentissement de la croissance ne semble pas dû à un
+
+22-SESJ2NC1C                                                                    Page 1/9
+                     ralentissement de l’investissement en R&D (document 2) puisque les
+                     innovations en NTIC sont présentes sur cette période, mais par un
+                     décalage qui peut avoir lieu entre la mise en place de l’innovation et
+                     les effets attendus (Solow).
+  Document 2       - Ce tableau s’intéresse aux dépenses de recherche et développement
+                     des administrations et des entreprises. On remarque que les DIRD
+                     n’ont cessé d’augmenter entre 1995 et 2017, elles ont presque été
+                     multipliées par 2, ce qui montre l’importance portée par l’État et les
+                     entreprises à la R&D. La R&D est nécessaire à l’innovation et au
+                     progrès technique.
+                   - Enfin, on remarque que l’effort d’investissement en R&D s’est plus
+                     fortement accru pour les entreprises dont les DIRD ont été multipliées
+                     par 2 entre 1995 et 2017. Elles représentent ainsi plus de 65 % des
+                     DIRD. Les entreprises ont besoin d’innover afin de pouvoir garder une
+                     longueur d’avance sur leurs concurrents, grâce à la mise en place de
+                     brevets procurant un monopole temporaire.
+  Document 3       - Ce tableau met en avant la part des brevets liés à l’environnement
+                     dans le total des brevets. On remarque que pour l’ensemble des pays
+                     présents dans le tableau, la part des brevets liée à l’environnement a
+                     augmenté entre 2006 et 2018. Cela montre que les entreprises
+                     cherchent à intégrer des innovations plus propres et plus
+                     respectueuses de l’environnement. Ainsi, en 2018, en Allemagne
+                     14,3 % des brevets étaient liés à l’environnement, et en France
+                     12,8 %. Il semblerait donc qu’il y ait une prise de conscience de la
+                     nécessité d’intégrer l’environnement dans la croissance future.
+                   - Ce document peut être mis en relation avec le document 2, où l’on
+                     constate une hausse des DIRD avec une importance des brevets liés
+                     à l’environnement, en France.
+  Document 4       - Cet article met en avant le rôle que peut avoir le progrès technique
+                     pour aider à reculer les limites de la croissance. En effet, la disparition
+                     d’espèces animales, telle que les abeilles qui sont nécessaires à la
+                     pollinisation des cultures agricoles, risque de ralentir la production
+                     agricole. C’est pourquoi le progrès technique peut être un moyen
+                     essentiel pour se substituer au capital naturel.
+                   - L’utilisation de robots et de drones pourrait être un moyen de
+                     remplacer les abeilles et permettre la pollinisation à leur place, ce qui
+                     permettrait d’au moins maintenir le niveau de production agricole.
+                     C’est ce que la société Walmart expérimente et pour lesquels elle a
+                     déposé un brevet.
+
+
+ Problématique possible :
+
+ L’innovation est un moteur essentiel du progrès technique, et par les effets qu’elle génère
+ va être profitable aux différents agents économiques. Ces effets vont également stimuler la
+ croissance. On peut alors se demander comment l’innovation est-elle un vecteur de
+ croissance ? Quels sont les effets de l’innovation sur la croissance ?
+
+
+
+
+22-SESJ2NC1C                                                                         Page 2/9
+ Proposition de plan détaillé :
+
+  I) L’innovation est source de gains de          II)      L’innovation       peut     rendre     la
+  productivité et de destruction créatrice        croissance plus soutenable en aidant à
+  (OA3).                                          reculer ces limites (OA5)
+  A) L’innovation est source de                   A) L’innovation peut favoriser la
+  productivité.                                   croissance          et      le    respect      de
+                                                  l’environnement
+  • L’innovation, plus particulièrement            • Grâce aux innovations de produit ou de
+    l’innovation de procédé, peut entraîner           méthodes de production, la croissance
+    une hausse de la productivité qui se              peut être durable. L’innovation verte
+    traduit par une progression de la                 permet de concilier la croissance et le
+    production de biens et services, c’est-à-         respect      de    l’environnement.       Les
+    dire la croissance de l’économie.                 entreprises sont incitées à investir dans
+  • La croissance de la productivité est              la recherche et développement afin de
+    bénéfique pour les consommateurs et               favoriser la mise en place d’innovation
+    les entreprises dont les revenus                  plus verte. Le document 3 met en avant
+    augmentent générant une hausse de la              la volonté d’innover dans le domaine
+    demande globale (innovation de                    environnemental.
+    produit). Le document 1 permet                 • Certaines innovations peuvent ainsi
+    d’illustrer : forte période de croissance         limiter l’épuisement des ressources
+    avec les « 30 glorieuses » période aussi          naturelles, comme dans le domaine de
+    de nombreuses innovations.                        l’énergie avec le développement des
+                                                      énergies renouvelables, sans entraver la
+                                                      croissance.
+   B) L’innovation est également aussi            B) L’innovation peut permettre de
+   source de destruction-créatrice.               dépasser les limites de la croissance.
+    • La croissance est marquée par des            • La croissance économique génère
+       phases     d’accélération    lorsqu’une         des externalités négatives comme le
+       innovation apparaît. Les brevets                réchauffement climatique, des pollutions
+       protègent l’innovation, et confèrent un         diverses (air, sols...) qui dégradent
+       monopole temporaire, s’en suivent               l'environnement,          entraînent      la
+       alors des grappes d’innovation. Les             disparition d’espèces animales…
+       documents 2 et 3 permettent d’illustrer      • L’innovation peut ainsi être vue comme
+       l’importance de l’innovation et des              le relais du capital naturel et permettre
+       DIRD pour stimuler l’innovation.                 de dépasser les limites de la
+  • L’innovation est aussi source de                    croissance. Le capital physique ou
+      destruction et de restructuration des             technique pourrait pallier à la baisse du
+      activités économiques : c’est un                  capital naturel car ils sont substituables.
+      processus. Le document 1 permet de                Le document 4 illustre bien ce
+      mettre en avant le ralentissement qui             phénomène, où les robots pollinisateurs
+      fait suite à la période des « 30                  pourraient remplacer les abeilles.
+      glorieuses ».
+
+ Le corrigé proposé fournit des indications à destination des commissions académiques d’entente et
+ d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ2NC1C                                                                           Page 3/9
+                                ÉPREUVE COMPOSÉE
+                             PROPOSITION DE CORRIGÉ
+                                    SUJET A
+
+ Première partie : Mobilisation des connaissances (4 points)
+
+ Question : Vous montrerez comment les incitations sélectives peuvent expliquer
+ l'engagement politique, malgré le paradoxe de l'action collective.
+
+ Sociologie et science politique
+ Comment expliquer l'engagement politique dans les sociétés démocratiques ?
+
+ Réponse possible :
+ Le paradoxe de l'action collective montre qu'il peut exister une contradiction entre l'intérêt
+ collectif à se mobiliser et l'intérêt individuel qui conduit chacun à ne pas s'engager pour ne
+ pas supporter les coûts de cet engagement. Le résultat de ce paradoxe est que les individus
+ ont intérêt à ne pas s'engager, ce qui rend peu probables les actions collectives.
+ Cependant on constate que les individus s'engagent malgré tout, ce qui peut être expliqué
+ par l'existence d'incitations sélectives. Ces incitations peuvent prendre la forme de
+ bénéfices réservés aux seuls participants à l'action collective qui visent à diminuer les coûts
+ de l'engagement. Cela réduit également les bénéfices retirés de la non-participation la
+ rendant ainsi moins avantageuse.
+ À l'inverse, ces incitations peuvent prendre la forme de contraintes pour les non-participants
+ et qui ont alors pour effet d'accroître le coût de l'absence d'engagement.
+ Ainsi, la prise en compte de ces incitations sélectives en modifiant le calcul coûts-avantages
+ des individus conduit les individus à s'engager.
+
+ Deuxième partie : Étude d’un document (6 points)
+ Regards croisés
+ Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale ?
+
+ Question 1 : À l’aide des données du document, vous caractériserez l’évolution du ratio
+ interdécile entre 2014 et 2018. (2 points)
+
+ Réponse possible :
+ Entre 2014 et 2018 en France, le ratio interdécile a augmenté, il est passé d’environ 3,4 à
+ 3,5. Cela signifie qu’en 2014 les 10 % les plus riches avaient un revenu 3,4 fois plus élevé
+ que les 10 % les plus pauvres, contre 3,5 fois en 2018. Les inégalités ont donc augmenté
+ ces dernières années.
+
+ Question 2 : À l’aide des données du document et de vos connaissances, vous présenterez
+ les principaux outils de mesure (statique et dynamique) des inégalités. (4 points)
+
+ Réponse possible :
+ Il existe plusieurs outils de mesure des inégalités. Parmi les outils cités dans le programme,
+ nous pouvons attendre que les élèves en citent au moins deux parmi les suivants (dans
+ l’idéal au moins un outil de mesure statique et un outil de mesure dynamique).
+ En termes d’outils de mesure statique des inégalités, plusieurs outils peuvent être utilisés :
+ - Le rapport inter-quantiles (dans le document il est question du ratio interdéciles D9/D1
+     qui donne le coefficient multiplicateur entre le plafond des 10 % les plus pauvres et le
+     plancher des 10 % les plus riches). Les rapports D9/D5 ou D5/1 sont aussi intéressants
+
+22-SESJ2NC1C                                                                       Page 4/9
+    dans la mesure où ils permettent des comparaisons par rapport à la médiane.
+ - La courbe de Lorenz et le coefficient de Gini (indice de Gini dans le document) : la courbe
+    de Lorenz permet de représenter la concentration d’une variable dans une population
+    donnée. Plus la courbe de Lorenz est proche de la diagonale (bissectrice) et plus la
+    répartition (des revenus par exemple) est égalitaire. Le coefficient de Gini est compris
+    entre 0 (distribution parfaitement égalitaire) et 1 (inégalité extrême).
+ - Le top 1 % permet d’analyser plus finement ce qui se passe au niveau des très hauts
+    revenus ou patrimoines. Il indique la part de l’ensemble des revenus ou du patrimoine
+    que reçoit/possède le pourcentage le plus riche de la population. Si 1 % de la population
+    accapare la moitié des revenus, on a ainsi une perception immédiate de l’inégalité de leur
+    répartition.
+ En termes d’outils de mesure dynamique des inégalités, nous pouvons évoquer la
+ corrélation de revenus parents-enfants. Il s’agit ici d’analyser la reproduction des inégalités
+ de revenus d’une génération à l’autre. L’indicateur de la corrélation du revenu parents-
+ enfants peut être mesuré par « l’élasticité intergénérationnelle des revenus », c’est-à-dire la
+ différence en pourcentage du revenu des enfants qui est associée à une différence de 1 %
+ du revenu des parents. Une élasticité intergénérationnelle de 0,5 signifie que si l’on
+ considère les parents dont le patrimoine se situe à 100 % au-dessus de la moyenne de leur
+ génération, leurs enfants seront en moyenne situés à 50 % au-dessus de la moyenne de la
+ leur. Habituellement, l’élasticité prend des valeurs comprises entre 0 et 1. Lorsque l’élasticité
+ est à 0, les enfants ne tirent aucun avantage à avoir un parent en bonne position dans la
+ distribution des richesses et la mobilité est parfaite. À l’inverse, une élasticité égale à 1
+ montre que la conservation des positions est parfaite et la hiérarchie des positions se
+ reproduit à l’identique.
+
+
+ Troisième partie : Raisonnement s’appuyant sur un dossier documentaire (10 points)
+
+ Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez quels
+ sont les processus qui remettent en cause une approche en termes de classes sociales
+ pour rendre compte de la société française actuelle.
+
+ Programme officiel : Sociologie et science politique
+  Questionnement Objectifs d’apprentissage
+  Comment    est - Connaître les théories des classes et de la stratification
+  structurée  la      sociale dans la tradition sociologique (Marx, Weber) ;
+  société             comprendre que la pertinence d’une approche en termes de
+  française           classes sociales pour rendre compte de la société française
+  actuelle ?          fait l’objet de débats théoriques et statistiques : évolution des
+                      distances inter- et intra-classes, articulation avec les rapports
+                      sociaux de genre, identifications subjectives à un groupe social,
+                      multiplication des facteurs d’individualisation.
+
+ Exploitation possible des documents :
+  Document 1       - Ce document montre le déclin des collectifs de travail lié à
+                      « l’individualisation du nouveau modèle managérial ». Ce processus
+                      débute dès les années 1970 et contribue à « déstabiliser, voire
+                      éliminer les collectifs de travail ».
+                   - Ce document montre ainsi que la souffrance qui peut être ressentie
+                      au travail est maintenant perçue comme personnelle et non plus
+                      comme collective. Cela entraîne des difficultés à créer une
+
+22-SESJ2NC1C                                                                         Page 5/9
+                   conscience collective : les travailleurs ont de fait plus de mal à lutter
+                   collectivement car la prise de conscience de situations communes et
+                   donc d’intérêts communs devient difficile : ces collectifs, déstabilisés,
+                   visaient pourtant « à produire du sens autour de valeurs partagées
+                   en lien avec le sentiment d’un destin commun dans l’entreprise. »
+               -   Il est ainsi possible de faire le lien avec la lutte des classes, centrale
+                   dans l’analyse marxiste puisque le nouveau mode managérial a
+                   contribué à « inverser un rapport de forces devenu par trop
+                   défavorable ».
+  Document 2   -   Ce document montre que la conscience de classe est plus ou moins
+                   présente selon les classes sociales considérées. Plus précisément,
+                   comme l’indique le titre du document, la conscience de classe
+                   s’atténue à mesure que l’on descend dans l’échelle sociale. De plus,
+                   il est possible d’observer que l’identification subjective est délicate
+                   puisque certains individus considèrent appartenir à une classe alors
+                   qu’ils appartiennent, objectivement, à une autre classe.
+               -   En effet, 61 % des cadres ont conscience d’appartenir à une classe
+                   sociale. De plus, seulement 39 % des employés non qualifiés ont le
+                   sentiment d’appartenir à une classe sociale mais moins d’1 % entre
+                   eux ont utilisé le terme « employé» pour se définir.
+  Document 3   -   Ce document traite des inégalités économiques, plus
+                   particulièrement des écarts de salaires en EQTP entre hommes et
+                   femmes. Il met en relation ces écarts de salaire avec plusieurs
+                   facteurs comme le diplôme, l’expérience professionnelle, le nombre
+                   d’enfants et l’âge du plus jeune enfant.
+               -   Plus le diplôme est élevé, plus les écarts de salaire entre hommes et
+                   femmes sont importants. En effet, les femmes salariées du privé
+                   ayant un diplôme supérieur à bac+3 gagnent en moyenne 29,4 % de
+                   moins que leurs homologues masculins, tandis que cet écart est de
+                   15,8 % pour les personnes ayant un diplôme inférieur au bac, soit
+                   une différence de 13,6 points de pourcentage.
+               -   Ces inégalités salariales s’observent aussi avec l’expérience
+                   professionnelle : les femmes salariées du secteur privé ayant une
+                   expérience professionnelle de 30 ans ou plus gagnent en moyenne
+                   21,7 % de moins que les hommes en EQTP, contre 6,4 % de moins
+                   chez les individus ayant 5 ans d’expérience.
+               -   Il est alors possible de faire le lien entre ce document et l’existence
+                   d’un plafond de verre mais aussi avec l’arrivée du premier enfant ;
+                   moment clé dans le déclin des possibilités de carrière pour une
+                   femme et donc de l’apparition d’inégalités salariales plus importantes
+                   (écart de 7 % pour les femmes n’ayant aucun enfant contre 31,3 %
+                   pour les femmes ayant 3 enfants et plus).
+               -   Ce document montre ainsi qu’il existe d’autres facteurs de
+                   stratification sociale, comme le sexe.
+
+
+
+
+22-SESJ2NC1C                                                                     Page 6/9
+ Raisonnement possible :
+
+ Les sociétés contemporaines sont caractérisées de « sociétés de classes ». Toutefois, des
+ débats, théoriques et statistiques, concernant la pertinence des classes sociales pour
+ rendre compte de la société française existent. Il s’agit ici de présenter les processus qui
+ remettent en cause une approche en termes de classe sociale pour rendre compte de la
+ société française.
+  • Une identification subjective à une classe sociale difficile :
+   - Le sentiment d’appartenance à une classe sociale est plus ou moins présent selon les
+     groupes concernés. L’identification à un groupe social se fait plus facilement en haut
+     de l’échelle sociale et inversement. Néanmoins, même pour les groupes s’identifiant
+     relativement facilement à une classe sociale, l’identification ne correspond pas
+     nécessairement à la réalité sociale (document 2).
+   - La conscience de classe est donc limitée, ainsi que l’analyse marxiste pour analyser
+     la société française actuelle, fondée sur l’existence de classes pour soi.
+  • Une multiplication des facteurs d’individualisation :
+   - On observe un déclin des repères collectifs (lieu de sociabilité par exemple) et
+     notamment des collectifs de travail (document 1).
+   - Ce déclin rend l’action collective plus difficile car les difficultés traversées au travail se
+     vivent de plus en plus de façon individuelle et ne sont plus perçues comme une
+     problématique collective.
+   - Ceci amplifie la réduction du sentiment d’appartenance à une classe sociale et donc,
+     là aussi, affaiblit l’analyse marxiste des classes sociales pour rendre compte de la
+     situation contemporaine.
+  • D’autres critères de stratification sociale, comme le sexe, semblent plus pertinents :
+   - Il est possible de mettre en évidence d’autres critères de structuration de l’espace
+     sociale (âge, revenu, lieu de résidence…) et notamment le sexe (document 3).
+   - Il existe en effet une division genrée du travail qui entraîne des inégalités
+     économiques.
+   - En plus des inégalités économiques, les femmes sont confrontées à un certain nombre
+     d’inégalités sociales (dans la sphère domestique ou encore en termes de
+     représentation politique).
+
+ Le corrigé proposé fournit des indications à destination des commissions académiques
+ d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ2NC1C                                                                         Page 7/9
+                                  PROPOSITION DE CORRIGE
+                                         SUJET B
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question : À partir d'un exemple, illustrez l'internationalisation de la chaîne de valeur.
+(4 points)
+Science économique
+Quels sont les fondements du commerce international et de l’internationalisation de la
+production ?
+
+Réponse possible :
+Les firmes cherchent à profiter des avantages comparatifs au niveau international. Pour cela,
+elles fragmentent leur chaîne de valeur, c’est-à-dire qu’elles divisent leur processus de
+production en une suite d’étapes bien distinctes, et localisent leurs activités là où elles seront
+à même de profiter des dotations factorielles. Ainsi les activités de conception et de marketing
+sont plutôt localisées dans les territoires fortement dotés en main-d’œuvre qualifiée et en
+centres de recherche performants alors que les activités d’assemblage sont, quant à elles,
+surtout localisées dans les territoires dotés en main-d’œuvre peu qualifiée. Cette répartition
+des activités est alors pensée au niveau international. On parle alors d'internationalisation de
+la chaîne de valeur.
+L'exemple de l'Iphone est à ce titre très illustratif : la conception et la recherche développement
+sont élaborées aux États-Unis, alors que l'écran, la mémoire ainsi que l'assemblage le sont en
+Asie. Les tâches immatérielles à fortes valeur ajoutée sont effectuées quant à elles aux États-
+Unis.
+
+
+Question : Comment peut-on expliquer la difficulté à gérer les chocs asymétriques dans la
+zone euro ? (3 points)
+Science économique
+Quelles politiques économiques dans le cadre européen ?
+
+Réponse possible :
+Dans la zone euro, la politique conjoncturelle repose sur la politique monétaire qui est du
+ressort de la banque centrale européenne et sur la politique budgétaire qui est du ressort des
+États.
+La politique monétaire étant unique pour l'ensemble des pays de la zone, elle s'avère peu utile
+en cas de chocs asymétriques puisqu'elle ne peut pas proposer un traitement différencié selon
+la situation des pays. Par ailleurs, dans ses statuts, la BCE a pour objectif essentiel de
+maintenir le taux d'inflation autour de 2 % et elle n'a donc pas d'objectif de croissance. En
+conséquence, un choc affectant un seul ou quelques pays ne conduit pas nécessairement la
+BCE à agir si ce choc ne modifie pas le taux d'inflation dans la zone euro.
+A l'inverse, la politique budgétaire étant du ressort de chaque État, elle semble adaptée pour
+gérer les chocs asymétriques. En effet, un État peut décider de mener une politique de relance
+budgétaire pour faire face à un ralentissement de l'activité économique qui ne concernerait
+que lui. À l'inverse, un État peut décider de mener une politique de rigueur budgétaire pour
+ralentir l'inflation. Cependant, l'action des États en termes de politique budgétaire est encadrée
+par les traités européens. En effet, le déficit public ne peut pas excéder 3 % du PIB et la dette
+publique ne doit pas dépasser les 60 % du PIB. Ces critères limitent la capacité des États à
+mener des politiques budgétaires de relance lorsque l'activité économique ralentit.
+
+
+
+22-SESJ2NC1C                                                                          Page 8/9
+Question 3 : Présentez deux descripteurs de la qualité des emplois. (3 points)
+Sociologie et science politique
+Quelles mutations du travail et de l’emploi ?
+
+Réponse possible :
+Il existe six principaux descripteurs de la qualité de l’emploi : 1/ conditions de travail 2/ niveau
+de salaire 3/ sécurité économique 4/ horizon de carrière 5/ potentiel de formation 6/ variété des
+tâches. Parmi les 6 descripteurs mobilisables, les candidats devront en présenter deux
+uniquement. Nous proposons ici de présenter la variété des tâches et la sécurité économique :
+le premier relevant davantage de la qualité du travail et le second de la qualité de la situation
+d’emploi.
+La sécurité économique est un indicateur de la qualité de la situation d’emploi. C’est un
+indicateur multidimensionnel car il tient compte de la sécurité et la régularité du revenu, la
+stabilité de l’emploi, l’accès à la protection sociale mais aussi les chances de retour à l’emploi
+en cas de chômage. Le statut d’emploi (indépendant/salarié), le type de contrats, la
+qualification de l’emploi peuvent rendre compte en partie de la sécurité économique. Ainsi, un
+cadre en CDI aura un emploi de « meilleure qualité » qu’un ouvrier non qualifié en CDD, ou
+qu’un travailleur indépendant.
+La variété des tâches relève de la qualité du travail. Liée au potentiel de formation, la variété
+des tâches participe à l’autonomie et à la réalisation de soi par rapport à la réalisation d’une
+tâche répétitive. Ainsi, un soudeur dans un atelier de réparation aura un emploi de « meilleure
+qualité » qu’un soudeur sur une chaîne.
+
+
+
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez quels sont
+les processus qui remettent en cause une approche en termes de classes sociales pour rendre
+compte de la société française actuelle.
+
+
+Proposition de corrigé du raisonnement : voir supra SUJET A
+
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ2NC1C                                                                           Page 9/9
+

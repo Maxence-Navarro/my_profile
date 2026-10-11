@@ -1,0 +1,81 @@
+{
+  "id": "21-SESJ1ME3-DISS",
+  "slug": "21-sesj1me3-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "21-SESJ1ME3",
+  "year": 2021,
+  "session": "remplacement",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "Comment le progrès technique favorise-t-il la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Contribution en points de pourcentage à la croissance du PIB (en %), par *(source : d'après OCDE, 2019.)*\n- Document 2 — Taux de croissance du PIB en volume et de la productivité horaire du travail1 *(source : d'après données OCDE, 2017.)*\n- Document 3 — Part de la Dépense Intérieure en Recherche et Développement (DIRD) réalisée *(source : d'après l'OCDE, Principaux indicateurs de la science et de la technologie, 2017.)*\n- Document 4 — Les services regroupent l'essentiel des salariés du secteur du numérique : en 2016, *(source : d'après Benjamin HADJIBEYLI, Maxence LAUMONIER, « De forts besoins en)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "À l'aide d'un exemple, vous montrerez comment les avantages comparatifs expliquent la spécialisation internationale."
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide des données du document, vous comparerez le comportement des 18-24 ans à celui de l'ensemble de la population concernant les actions de lutte contre le réchauffement climatique. / À l'aide des données du documen"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'approche en termes de classes sociales n'est pas toujours pertinente pour rendre compte de la société française d'aujourd'hui."
+    },
+    {
+      "part": "EC1 — sujet B",
+      "question": "À l'aide de deux exemples, vous montrerez que les politiques de flexibilisation permettent de lutter contre les rigidités du marché du travail."
+    },
+    {
+      "part": "EC2 — sujet B",
+      "question": "À l'aide des données du document, vous comparerez l'origine sociale des étudiants en Classes Préparatoires aux Grandes Écoles (CPGE) avec celle des étudiants en écoles paramédicales et sociales. / À l'aide des données du"
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que les pouvoirs publics disposent de plusieurs instruments pour faire face aux externalités négatives sur l'environnement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 21-SESJ1ME3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 131, 2021_metro_rplct_dissert_2.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=131&cle=52c563096979beffe5c0dd32570caccd57ed37b44fcaec4ccdbc57be08a962f5&file=docx%2F2021_metro_rplct_dissert_2.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Remplacement."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 131",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=131&cle=52c563096979beffe5c0dd32570caccd57ed37b44fcaec4ccdbc57be08a962f5&file=docx%2F2021_metro_rplct_dissert_2.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "21-SESJ1ME3",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-remplacement-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 21-SESJ1ME3 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.821) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

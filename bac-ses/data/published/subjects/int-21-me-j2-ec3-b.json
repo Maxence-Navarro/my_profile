@@ -1,0 +1,69 @@
+{
+  "id": "INT-21-ME-J2-EC3-B",
+  "slug": "int-21-me-j2-ec3-b",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": "B",
+  "examCode": "INT-21-ME-J2",
+  "year": 2021,
+  "session": "normale",
+  "day": "J2",
+  "center": "France métropolitaine",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment l'innovation peut être une solution aux limites écologiques de la croissance économique.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Évolution des dépenses nationales de recherche et développement *(source : d'après www.statistiques.developpement-durable.gouv.fr, 2018.)*\n- Document 2 — Le consensus global qui s'est dégagé de différents initiatives internationales comme *(source : Catherine JEWELL, Division des communications, Organisation mondiale de la)*\n- Document 3 — Émissions de CO21 des voitures neuves (gCO2/km)2, *(source : d'après Services de la donnée et des études statistiques, Répertoire statistique des)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment expliquer l'internationalisation de la chaîne de valeur ?"
+    },
+    {
+      "part": "EC1",
+      "question": "À l'aide de deux exemples, vous montrerez que l'engagement politique prend des formes variées. Page : 10/14"
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document, vous comparerez l'évolution de la part des catégories socioprofessionnelles « Cadres et professions intellectuelles supérieures » et « Ouvriers » parmi les personnes en emploi. / À l'aid"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel INT-21-ME-J2 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 373, 2021_metro_norm_ec_4_6_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=373&cle=5600f52106d14827fa5e6eba8813b24068f0e66d503b8129b88b322183830085&file=docx%2F2021_metro_norm_ec_4_6_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 373",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=373&cle=5600f52106d14827fa5e6eba8813b24068f0e66d503b8129b88b322183830085&file=docx%2F2021_metro_norm_ec_4_6_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Code officiel non imprimé sur le sujet : identifiant interne. Aucun code officiel imprimé sur le PDF du sujet (session 2021, métropole, jour 2). Identifiant interne.",
+  "grid": {
+    "isOfficial": true,
+    "reference": null,
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-2-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session INT-21-ME-J2 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.881) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

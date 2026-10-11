@@ -1,0 +1,379 @@
+              BACCALAURÉAT GÉNÉRAL
+               ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                               SESSION 2025
+
+
+
+
+         Sciences économiques et sociales
+                                      _____
+
+
+
+                                    Jour 2
+
+                Durée de l’épreuve : 4 heures – Coefficient : 16
+
+
+
+
+         L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+
+      Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+         Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+Le candidat traite au choix le sujet de dissertation ou de l’épreuve composée.
+
+
+                    Il indique sur sa copie le sujet choisi.
+
+
+
+
+25-SESJ2NC1                                                                  1/10
+             Dissertation s’appuyant sur un dossier documentaire
+                          ddocumentairedocumentaire
+Il est demandé au candidat :
+        - de répondre à la question posée par le sujet ;
+        - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+        - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+           notamment celles figurant dans le dossier ;
+        - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+           et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre
+           des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                              Ce sujet comporte quatre documents.
+
+
+Les principaux instruments dont disposent les pouvoirs publics pour faire face
+            au changement climatique sont-ils toujours efficaces ?
+
+
+DOCUMENT 1
+
+                       Le marché européen du carbone (SEQE-UE)1
+                              (en euro par tonne de CO2 2)
+
+
+
+
+    Source : Ministère de la transition écologique et de la cohésion des territoires, août 2024.
+
+1 : Le SEQE-UE est le système d’Échange de Quotas d’Émissions de l’Union européenne.
+2 : Le dioxyde de carbone (CO2) est un gaz à effet de serre.
+
+
+
+ 25-SESJ2NC1                                                                                            2/10
+
+
+
+
+                                                     EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+DOCUMENT 2
+
+     Effets de la taxe carbone sur les émissions des transports en Finlande
+                           (émissions en tonne de CO2)
+
+
+
+
+Lecture : Dans la partie (A) du graphique, le montant de la taxe carbone est ici exprimé en
+dollars américain (US $) par tonne de CO2 (ou équivalent).
+
+            Source : Olivier CUNY, Christian GIANELLA, Julien GROSJEAN, Pauline REYL,
+      « La tarification du carbone dans les pays nordiques », Trésor Eco, n°346, juillet 2024.
+
+Note : La « Finlande synthétique » correspond à la trajectoire d'émissions d'une « Finlande
+théorique » à partir des émissions observées dans 14 pays similaires n'ayant pas introduit de
+taxe carbone.
+
+
+
+
+ 25-SESJ2NC1                                                                                     3/10
+
+
+
+
+                                              EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+DOCUMENT 3
+
+  Évolution des réglementations européennes d’émissions pour les véhicules
+                                       lourds
+                  (poids lourds, bus, cars de plus de 3,5 tonnes)
+
+                                             Teneur maximale autorisée en ...
+    Normes          Date de mise
+                    en application … monoxyde de carbone            … particules2
+                                                             1
+  européennes
+                                    Indice base 100 = Euro 0   Indice base 100 = Euro I
+
+      Euro 0          01-10-1990                         100                                          -
+
+       Euro I         01-10-1993                            44                                       100
+      Euro II         01-10-1996                            36                                       42
+      Euro III        01-10-2001                            19                                       36
+      Euro IV         01-10-2006                            13                                       6
+      Euro V          01-10-2009                            13                                       6
+      Euro VI         31-12-2013                            13                                       3
+
+    Source : Direction générale des infrastructures, des transports et des mobilités (DGITM),
+                      Des véhicules aux normes pour réduire la pollution de l’air, mars 2011.
+
+1 : Le monoxyde de carbone fait partie des gaz à effet de serre. Il est également néfaste pour
+la santé humaine.
+2 : Les particules sont des entités solides de très petite taille, nocives pour la santé respiratoire
+et cardiovasculaire.
+
+
+
+
+ 25-SESJ2NC1                                                                                               4/10
+
+
+
+
+                                                  EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+DOCUMENT 4
+
+La gouverneure démocrate de l'État de New York a fait volte-face mercredi en
+annonçant brutalement la suspension [...] de l'ouverture, prévue fin juin, d'un péage
+urbain controversé dans une partie de Manhattan. L'objectif de cet impôt direct de 15
+dollars par passage prélevé à l'entrée du centre de Manhattan, […] était de
+désengorger les grandes avenues qui irriguent l'île et d'améliorer la qualité de l'air.
+Premier système de péage en centre-ville aux États-Unis - après Londres, Stockholm
+ou Singapour -, le projet voté en mars devait lever des fonds et redresser le budget du
+tentaculaire réseau du métro, qu'empruntent chaque jour des millions de New-
+Yorkais. [...] Très critiqué, le projet […] avait fait l'objet de recours administratifs par
+des associations de taxis et VTC 1 ainsi que par l'État voisin, le New Jersey. [...]
+Près de 700 000 véhicules, circulant à 11 km/h en moyenne dans la zone qui devait
+être taxée, [...] auraient dû être concernés. « Nous faisons face à une circulation qui
+paralyse le centre et le sud de la ville », a réagi le président (maire) de l'arrondissement
+de Manhattan, Mark Levine, évoquant les conséquences des embouteillages
+dantesques sur l'environnement, l'économie et la circulation des véhicules d'urgence.
+« Je me demande comment nous allons faire face à ces crises », a protesté l'élu local.
+Le projet, qui aurait pu rapporter un milliard de dollars par an, prévoyait plusieurs
+exceptions et des réductions pour les New-Yorkais les plus précaires et les véhicules
+devant passer sous les portiques des péages plus de dix fois par mois.
+
+Source : Le Figaro et Agence France Presse (AFP), « New York suspend sine die l'ouverture
+           attendue d'un péage urbain controversé à Manhattan », Le Figaro, le 6 juin 2024.
+
+1 : Véhicule de tourisme avec chauffeur.
+
+
+
+
+ 25-SESJ2NC1                                                                                    5/10
+
+
+
+
+                                             EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+                                      Épreuve composée
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Montrez, à l’aide d’un exemple, que les problèmes d’appariement sur le marché du
+travail sont sources de chômage structurel.
+
+
+
+
+ 25-SESJ2NC1                                                                                            6/10
+
+
+
+
+                                                     EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+Deuxième partie : Étude d’un document (6 points)
+
+         Pauvreté et commerce international dans le monde (1981-2019)
+
+
+
+
+      Part de la population pauvre disposant de moins de                                             Exportations de marchandises et de services
+      2,1 dollars par jour (PPA1 en 2017) (en % de la                                                (en % du PIB mondial) : échelle de droite
+      population) : échelle de gauche
+
+
+                                                                                                Source : Banque Mondiale, indicateurs
+                                                                                                   de développement dans le monde.
+
+1 : La parité de pouvoir d'achat (PPA) est un taux de conversion monétaire qui permet
+d'exprimer dans une unité commune les pouvoirs d'achat des différentes monnaies.
+
+
+Questions :
+
+   1. À l’aide du document et d’un outil statistique de votre choix, vous comparerez les
+      données de l’année 1981 à celles de l’année 2019. (2 points)
+
+   2. À l’aide des données du document et de vos connaissances, vous expliquerez
+      comment le commerce international réduit les inégalités entre les pays. (4 points)
+
+
+
+
+25-SESJ2NC1                                                                                                                                        7/10
+
+
+
+
+                                                           EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez qu’il existe une diversité de descripteurs de la qualité de l’emploi.
+
+
+
+DOCUMENT 1
+
+Les résultats des travaux empiriques adoptant une approche multidimensionnelle de
+la qualité de l’emploi (Erhel et Guergoat-Lariviere, 2016 ; Mofakhami, 2019) sont
+globalement convergents quant à la position relative des pays européens et aux
+différents « régimes » de qualité de l’emploi qu’il est possible d’identifier.
+Ils repèrent un ensemble assez large de pays présentant un niveau globalement élevé
+de qualité de l’emploi, avec de bons niveaux de salaires, des taux élevés d’accès à la
+formation continue, une assez bonne représentation des salariés, un bon équilibre
+entre vie familiale et vie professionnelle, mais des taux de temps partiel élevés, y
+compris une forte proportion de temps partiel court. Ce groupe inclut les pays du Nord,
+où les conditions de travail apparaissent particulièrement favorables, mais aussi des
+pays continentaux (Allemagne, Autriche, Belgique, Luxembourg) et anglo-saxons
+(Irlande, Royaume-Uni). À l’opposé, les pays d’Europe centrale et de l’Est constituent
+un groupe caractérisé par de faibles salaires et des niveaux d’accidents du travail
+élevés, où l’emploi temporaire et le temps partiel sont moins développés, de même
+que l’accès à la formation continue.
+La France se situe dans un groupe intermédiaire, avec les pays du Sud (Italie,
+Espagne, Grèce et Portugal) et la Pologne, où la qualité de l’emploi est moins bonne
+que dans le premier groupe même si la situation en termes de salaires est plus
+favorable que dans le groupe d’Europe centrale et orientale. Dans ce groupe, le taux
+d’emploi temporaire est élevé et la représentation des salariés limitée. Les conditions
+de travail présentent un certain nombre de caractéristiques défavorables (positions
+fatigantes, délais serrés) et l’accès à la formation et les opportunités d’apprentissage
+sont réduites.
+
+          Source : Christine ERHEL, Mathilde GUERGOAT LARIVIERE, Malo MOFAKHAMI,
+  « La qualité de l’emploi et du travail en comparaison européenne : une contre-performance
+         française ? », Sciences Po. Laboratoire interdisciplinaire d’évaluation des politiques
+                                                                  publiques, septembre 2024.
+
+
+
+
+25-SESJ2NC1                                                                                       8/10
+
+
+
+
+                                               EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+DOCUMENT 2
+
+     Salaires horaires nets moyens dans le secteur privé selon la catégorie
+                             socioprofessionnelle
+
+                                                           Salaire horaire net moyen
+     Salaires par catégorie                                   (en euros courants)
+     socioprofessionnelle
+                                                          2020                    2021
+            Cadres¹                                       28,3                    28,2
+   Professions intermédiaires                             15,9                    16,0
+           Employés                                       11,6                    11,7
+            Ouvriers                                      11,9                    12,0
+       Smic horaire net²                                   8,0                     8,2
+           Ensemble                                       16,3                    16,3
+
+Champ : France hors Mayotte ; salariés du secteur privé, y compris bénéficiaires de contrats
+aidés et de contrats de professionnalisation ; hors apprentis, stagiaires, salariés agricoles et
+salariés des particuliers-employeurs.
+
+Lecture : En 2021, le salaire horaire net moyen des cadres est de 28,2 euros.
+
+                                                                                                   Source : INSEE, 2023.
+
+1 : Y compris chefs d'entreprise salariés.
+2 : Le SMIC désigne le salaire minimum interprofessionnel de croissance, ici net de cotisations
+sociales, CSG et CRDS.
+
+
+
+
+ 25-SESJ2NC1                                                                                                        9/10
+
+
+
+
+                                                EN_NOzc0NT8QzNjAc0ND2UzMsTYxMj0A2MDAUwMzhE4NNTUx
+DOCUMENT 3
+
+                Proportion (en %) de personnes salariées qui déclarent ...
+                          par groupe socioprofessionnel en 2019
+
+                                Rester
+                              longtemps Effectuer des    Porter ou Effectuer des    Subir des
+   Groupe            Rester
+                               dans une déplacements déplacer       mouvements     secousses
+ socioprofes-      longtemps
+                             autre posture à pied longs des charges douloureux       ou des
+   sionnel           debout
+                              pénible ou   et fréquents   lourdes   ou fatigants   vibrations
+                               fatigante
+  Ensemble           48,5        36,2         37,1         40,6         37,5         17,4
+   Cadres et
+  professions
+                     15,7        16,4         14,7         11,3         7,8           3,9
+ intellectuelles
+  supérieures
+  Professions
+                     41,4        27,8         33,4         32,1         25,7         10,7
+intermédiaires
+   Employés          55,3        42,8         40,1         47,4         45,8          9,8
+   Ouvriers          75,4        53,6         56,2         65,8         65,3         46,4
+
+Champ : Enquête sur l’ensemble des personnes salariées en France.
+
+                     Source : Dares-Drees-DGAFP-Insee, Enquêtes conditions de travail, 2019.
+
+Note : Plusieurs réponses sont possibles.
+
+
+
+
+ 25-SESJ2NC1                                                                                10/10
+

@@ -1,0 +1,159 @@
+# score de localisation : 0.861
+# https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-corrige-officiel.pdf
+
+      DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                     PROPOSITION DE CORRIGÉ
+
+
+Sujet : L’accumulation des facteurs de production est-elle la seule source de
+croissance économique ?
+
+Programme officiel :
+Science économique
+
+Questionnement      Objectifs d’apprentissage
+Quels sont les      - Comprendre le processus de croissance économique et les
+sources et les      sources de la croissance : accumulation des facteurs et
+défis de la         accroissement de la productivité globale des facteurs ;
+croissance          comprendre le lien entre le progrès technique et l’accroissement
+économique ?        de la productivité globale des facteurs.
+                    - Comprendre que le progrès technique est endogène et qu’il
+                    résulte en particulier de l’innovation.
+                    - Comprendre comment les institutions (notamment les droits de
+                    propriété) influent sur la croissance en affectant l’incitation à
+                    investir et innover.
+
+Exploitation possible des documents :
+
+Document 1 - Le document 1 publié par la DARES montre l’évolution des
+           personnes en emploi en France depuis 2000. Le nombre d’actifs
+           occupés a augmenté, passant de 25 à 28,5 millions environ, soit une
+           hausse de 3,5 millions.
+           - On observe une baisse des personnes en emploi entre 2008 et 2010,
+           que l’on peut estimer à 500 000 personnes, en raison de la crise
+           économique de cette période.
+           - Ce document invite à rendre compte du rôle de l’accumulation du
+           facteur travail : l’augmentation du nombre d’actifs occupés est source
+           de croissance économique.
+Document 2 - Ce tableau statistique permet de déterminer les contributions du
+           facteur travail, du facteur capital et de la productivité globale des
+           facteurs (PGF) aux taux de croissance du PIB de plusieurs pays entre
+           2010 et 2019.
+           - On remarque que la PGF, qui permet d’améliorer l’efficacité de la
+           combinaison travail-capital et de mesurer le rôle du progrès technique
+           dans la croissance, contribue, sur le temps long, à une partie de la
+           croissance économique : en France, la moitié de la hausse du PIB en
+           2010, les deux tiers en 2017, pour la Corée du Sud le rôle de la PGF
+           est généralement substantiel. Cette situation peut expliquer la faible
+           contribution du facteur travail, voire la diminution de cette contribution,
+           à la croissance dans ce pays.
+           - Les États-Unis présentent un profil différent : les contributions du
+           facteur travail d’une part et du facteur capital d’autre part expliquent
+           une part majoritaire de la hausse du PIB chaque année depuis 2011.
+
+
+22-SESJ1ME1C                                                              Page 1 sur 9
+ Document 3 - Ce tableau statistique met en avant le taux d’investissement des
+            entreprises non financières entre 2000 et 2017 en France et souligne
+            le rôle de l’accumulation du capital dans la croissance.
+            - Dans la zone euro, sur la période, les investissements représentent
+            entre 21,4 % et 24,4 % de la valeur ajoutée de ces entreprises.
+            - Pour les pays présentés, on recense un taux d’investissement plus
+            faible en 2010 par rapport aux années précédentes (sauf pour la
+            France) et des écarts importants avec les années précédentes : le
+            contexte économique peut influencer les stratégies d’investissements
+            des agents économiques. Par exemple, en Espagne, le taux
+            d’investissement diminue de près de 11 points entre 2005 et 2010, il
+            baisse de 4 points pour le Royaume-Uni sur la même période mais
+            progresse d’un point en France.
+            - Parmi les pays représentés, les entreprises du Royaume-Uni ont,
+            depuis 2010, les taux d’investissement les plus faibles : entre 4 et 5
+            points en-dessous de la moyenne de la zone euro.
+ Document 4 - Le graphique présente le montant de la dépense intérieure
+            d’éducation (DIE) et son poids en % dans le PIB en France depuis
+            1980.
+            - Les dépenses ont été multipliées par 2 entre 1980 et 2019, passant
+            de 80 à 160 milliards d’euros.
+            - En pourcentage du PIB, la DIE représente généralement entre 6,5%
+            et 7,5 % du PIB français, hormis la décennie 1990 où l’on peut
+            observer une part plus élevée.
+            - Le document met donc en avant le rôle des investissements en
+            capital humain dans la croissance économique, voire l’importance des
+            institutions.
+
+
+Problématique possible :
+
+La croissance économique, entendue comme l’augmentation de la production d’un
+pays sur le long terme, est un processus complexe qui dépend de la combinaison
+adéquate de nombreux facteurs et de la mobilisation de différents acteurs dans un
+environnement favorable. Il s’agit donc de s’interroger ici sur ses sources : la
+croissance provient-elle de la seule augmentation quantitative du travail et du capital
+ou existe-t-il d’autres facteurs explicatifs ?
+
+Proposition de plan détaillé :
+
+ I) L’accumulation des facteurs de II)… cependant, d’autres facteurs
+ production est une source essentielle peuvent expliquer la croissance
+ de croissance économique …            économique.
+
+ A) Le rôle de l’accumulation du A) Le rôle du progrès technique.
+ facteur travail.
+ • Augmenter la quantité de travail peut • Le progrès technique, en tant que
+    permettre d’augmenter la production    résultat du processus d’innovation,
+    et   génère    de   la   croissance    peut permettre de créer de nouveaux
+    économique.                            produits et/ou d’accroître la production
+
+22-SESJ1ME1C                                                              Page 2 sur 9
+ • Cela peut passer par l’augmentation       en mobilisant la même quantité de
+   du nombre de travailleurs dans la         travail et de capital. Il permet donc de
+   population active (document 1), la        réaliser des gains de productivité.
+   hausse de la durée de travail effectuée • Ces gains peuvent être mesurés par
+   ou        encore     le        contexte   la PGF (Productivité Globale des
+   sociodémographique (âge de la             Facteurs) et valorisent la combinaison
+   retraite, allongement de la scolarité,    travail-capital. Dans le document 2,
+   augmentation de la population,            les gains de productivité ont contribué
+   contexte législatif sur l’assurance       fortement à la croissance française et
+   chômage…).                                à celle de la Corée du Sud au cours
+ • Ainsi, pour certains pays comme           de ces dernières années.
+   les États-Unis, la hausse du facteur • Le progrès technique est endogène et
+   travail contribue largement à la          dépend de l’investissement dans
+   croissance du PIB (document 2).           différents    capitaux      grâce    aux
+                                             décisions des agents économiques.
+                                             Par exemple, les gains de productivité
+                                             obtenus peuvent provenir des
+                                             investissements en capital humain
+                                             (document 4) engagés par les
+                                             pouvoirs publics pour développer les
+                                             compétences de la population active.
+                                             Ces       investissements       génèrent
+                                             également des externalités positives :
+                                             les savoirs et savoir-faire nouveaux
+                                             encouragent l’innovation.
+
+ B) Le rôle de l’accumulation du B)                    L’importance        du       cadre
+ facteur capital.                             institutionnel.
+ • Le poids du facteur capital peut être • Les institutions sont essentielles à la
+    mesuré par le taux d’investissement          croissance car elles garantissent une
+    qui représente la part en % des              stabilité      de      l’environnement
+    investissements dans la valeur               économique, essentiel aux échanges.
+    ajoutée et donc dans la création de          La protection des droits de propriété et
+    richesses (document 3).                      l’existence de marchés financiers
+ • Grâce aux investissements, les pays           développés en font partie.
+    accumulent        du    facteur   capital • Les droits de propriété sont des
+    susceptible d’augmenter les capacités        institutions qui incitent les agents
+    productives.                                 économiques à investir et à innover.
+ • Les         investissements       peuvent     Par exemple, les brevets garantissent
+    également permettre de remplacer             un monopole d'exploitation pour une
+    des machines obsolètes ou d’acquérir         durée maximale de 20 ans. Toute
+    des biens d’équipements plus                 exploitation (utilisation, fabrication,
+    performants,         améliorant     ainsi    importation...) d’une innovation sans
+    l’efficacité productive.                     autorisation      est    interdite    et
+ • Aux États-Unis ou en France, le               sanctionnée par la loi.
+    facteur          capital        contribue
+    substantiellement à la croissance
+    économique (document 2).
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+22-SESJ1ME1C                                                                Page 3 sur 9

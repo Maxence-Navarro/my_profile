@@ -1,0 +1,44 @@
+{
+  "id": "23-SESJ1AS1-EC1",
+  "slug": "23-sesj1as1-ec1",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": null,
+  "examCode": "23-SESJ1AS1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "Amérique du Sud",
+  "question": "Montrez le lien entre le progrès technique et l'accroissement de la productivité globale des facteurs.",
+  "subQuestions": [],
+  "points": 4.0,
+  "instructionVerb": null,
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "a_verifier",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1AS1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-amerique-sud-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    }
+  ],
+  "verificationNotes": "PDF du sujet scanné (pas de texte extractible). Code lu dans le corrigé officiel. Segmentation à faire à la main. Libellé lu dans le corrigé officiel 23-SESJ1AS1 (le PDF du sujet relayé par sujetdebac.fr est un scan sans texte). À vérifier sur le PDF du sujet.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "23-SESJ1AS1",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-amerique-sud-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 23-SESJ1AS1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.872) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "INT-21-ME-J1-DISS",
+  "slug": "int-21-me-j1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "INT-21-ME-J1",
+  "year": 2021,
+  "session": "normale",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "Les facteurs travail et capital sont-ils suffisants pour expliquer la croissance ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Contributions en points de pourcentage à la croissance du PIB en 2017 *(source : d'après OCDE, 2019.)*\n- Document 2 — L'intensité de la recherche et développement (R&D) (dépenses de R&D en *(source : OCDE, 2020.)*\n- Document 3 — Indicateurs1 de gouvernance2 Norvège Haïti Allemagne Chine *(source : d'après Banque mondiale, données 2019.)*\n- Document 4 *(source : d'après L'état de l'École 2019, ministère de l'Éducation nationale, de la jeunesse et)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "Vous montrerez, à partir d'un exemple, comment les configurations familiales contribuent à expliquer la mobilité sociale. Page : 5/13"
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide des données du document, vous présenterez l'évolution du taux de croissance du PIB entre 2010 et 2017. / À l'aide des données du document et de vos connaissances, vous expliquerez la corrélation entre le taux de"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la structure socioprofessionnelle a évolué en France depuis la seconde moitié du XXe siècle."
+    },
+    {
+      "part": "EC1 — sujet B",
+      "question": "Distinguez les processus de massification et de démocratisation scolaires. Page : 10/13"
+    },
+    {
+      "part": "EC2 — sujet B",
+      "question": "À l'aide du document, vous mettrez en évidence les trois principaux produits échangés entre la France et l'Allemagne. / À l'aide du document et de vos connaissances, en prenant l'exemple du secteur automobile, vous expli"
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la préservation de l'environnement implique une diversité d'acteurs à différentes échelles."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel INT-21-ME-J1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 136, 2021_metro_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=136&cle=f00a01442790000160e7617ea664d7c02d07caa77af5fc3bd4e8b31ef7ebe9e1&file=docx%2F2021_metro_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 136",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=136&cle=f00a01442790000160e7617ea664d7c02d07caa77af5fc3bd4e8b31ef7ebe9e1&file=docx%2F2021_metro_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Code officiel non imprimé sur le sujet : identifiant interne. Aucun code officiel imprimé sur le PDF du sujet (session 2021, métropole, jour 1). Identifiant interne.",
+  "grid": {
+    "isOfficial": true,
+    "reference": null,
+    "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session INT-21-ME-J1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.845) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

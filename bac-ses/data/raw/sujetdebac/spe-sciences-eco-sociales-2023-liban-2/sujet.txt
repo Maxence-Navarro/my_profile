@@ -1,0 +1,385 @@
+                 BACCALAURÉAT GÉNÉRAL
+
+                  ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                SESSION 2023
+
+
+
+
+          Sciences économiques et sociales
+
+
+
+                                    JOUR 2
+
+
+                          Durée de l’épreuve : 4 heures
+
+
+
+
+          L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+         Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+              Ce sujet comporte 11 pages numérotées de 1/11 à 11/11.
+
+
+
+
+   Le candidat traite au choix le sujet de dissertation ou le sujet d’épreuve
+                                   composée.
+                      Il indique sur sa copie le sujet choisi.
+
+
+
+
+23-SESJ2LI1                                                              Page 1 sur 11
+           Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment
+         celles figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+         et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+         parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                SUJET
+
+                             Ce sujet comporte quatre documents.
+
+
+        Quels facteurs structurent et hiérarchisent l’espace social actuel ?
+
+
+
+
+23-SESJ2LI1                                                                               Page 2 sur 11
+DOCUMENT 1
+            Salaires mensuels nets moyens par âge selon la catégorie
+                     socioprofessionnelle en 2018 en euros
+                          (en équivalent temps plein)
+
+                    Moins de     De 30 à    De 40 à     De 50 à   60 ans     Ensemble
+                     30 ans      39 ans     49 ans      59 ans    et plus
+ Cadres
+                      2 592       3 545       4 495      4 990     5 863       4 214
+ supérieurs
+ Professions
+                      1 910       2 257       2 464      2 597     2 890       2 353
+ intermédiaires
+ Ouvriers             1 581       1 769       1 841      1 862     1 891       1 774
+
+ Employés             1 500       1 707       1 772      1 794     1 910       1 690
+
+ Ensemble             1 730       2 233       2 581      2 706     3 198       2 369
+ Écart cadres-
+                      1 092       1 838       2 723      3 196     3 953       2 524
+ employés
+
+
+Champ : Salariés en équivalent temps plein du secteur privé.
+Lecture : Les employés de moins de 30 ans du secteur privé gagnent en moyenne 1 500 euros
+net par mois pour un temps plein, contre 2 592 euros pour les cadres supérieurs du même
+âge.
+                                                                   Source : INSEE, 2018.
+
+
+
+
+23-SESJ2LI1                                                                 Page 3 sur 11
+DOCUMENT 2
+Taux d’activité¹, taux de chômage et part du temps partiel dans l’emploi des 25-
+              49 ans, selon le sexe et la situation familiale en 2020
+
+                                                                          Part du temps
+                     Taux d’activité¹         Taux de chômage              partiel dans
+                                                                             l’emploi
+ En %
+                  Femmes Hommes             Femmes        Hommes       Femmes       Hommes
+
+ Pas en couple,
+ sans enfant
+                     85,3         84,4         11,4          13,5         16,5         9,5
+
+ Pas en couple,
+                     78,2         92,7         11,6           5,9         27,5         5,7
+ avec enfants
+ En     couple,
+ sans enfant
+                     88,0         93,8          6,9           6,4         14,3         5,4
+ En couple,          81,3         95,5          5,5           4,7         29,9         4,8
+ avec enfants
+- dont 3             47,5         92,6         12,1           9,7         45,7         7,3
+    enfants ou
+    plus (un au
+    moins a
+    moins de 3
+    ans)
+ Ensemble            82,5         91,9          7,5           7,4         25,0         6,1
+
+
+Champ : France hors Mayotte, personnes vivant en logement ordinaire, de 25 à 49 ans,
+ensemble (pour le taux d’activité), actives (pour le taux de chômage) ou en emploi (pour la
+part du temps partiel).
+                                                   Source : d’après INSEE Références, 2022.
+
+
+1 : Le taux d'activité est le rapport entre le nombre d'actifs (personnes en emploi et chômeurs)
+et l'ensemble de la population correspondante.
+
+
+
+
+23-SESJ2LI1                                                                      Page 4 sur 11
+DOCUMENT 3
+6,3 millions des personnes de 12 ans et plus (11 % de la population de cet âge) ne se
+connectent jamais à l’Internet en France, selon l’enquête du CRÉDOC1 (données
+2018). Pas moins de 12,5 millions n’ont pas d’ordinateur chez eux et huit millions pas
+d’accès fixe par ordinateur à Internet. 25 millions n’utilisent jamais les réseaux sociaux
+[…].
+Face aux nouvelles technologies, l’âge est le clivage le plus net. 43 % des 70 ans et
+plus n’ont pas d’ordinateur, 40 % ne surfent pas sur Internet, 18 % ne disposent pas
+de téléphone mobile, les deux tiers n’ont pas de smartphone et pas loin de 90 % ne
+se connectent jamais aux réseaux sociaux. […]
+Le second critère clivant est celui du diplôme. 57 % des non-diplômés n’ont pas
+d’ordinateur chez eux, 46 % ne se connectent pas à Internet, 76 % n’ont pas de
+tablette, 63 % pas de smartphone et 17 % pas de téléphone portable.
+
+
+                                           Source : Centre d’observation de la société, 2018.
+1 : Centre de recherche pour l’étude et l’observation des conditions de vie.
+
+
+
+
+23-SESJ2LI1                                                                    Page 5 sur 11
+DOCUMENT 4
+
+
+  Part de population concernée ou non par des difficultés d’accessibilité aux
+        soins, selon le type de commune de résidence, en 2019 (en %)
+
+
+
+
+Champ : Pour les médecins généralistes : professionnels de santé libéraux de 65 ans ou
+moins et salariés en centres de santé ; France entière, hors Mayotte.
+              Source : DREES (Direction de la Recherche, des Études, de l’Évaluation et des
+                                                   Statistiques), Études et résultats, 2021.
+
+
+Lecture : En 2019, 27,6 % de la population française vit dans des territoires ruraux. 20,8 % de
+la population ne connaissant aucune difficulté d’accessibilité aux soins vit dans les territoires
+ruraux et 60,5 % de la population connaissant des difficultés d’accès aux médecins
+généralistes vit dans ces territoires.
+
+
+
+
+23-SESJ2LI1                                                                       Page 6 sur 11
+                                      Épreuve composée
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche méthodolo-
+gique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Montrez comment les politiques macroéconomiques de soutien de la demande globale
+peuvent permettre de lutter contre le chômage.
+
+
+
+
+23-SESJ2LI1                                                                               Page 7 sur 11
+Deuxième partie : Étude d’un document (6 points)
+
+Évolution de la proportion des Français bénévoles dans une association, selon
+                 le niveau de diplôme entre 2016 et 2022 (en %)
+
+
+            35
+                                                                             31 31
+            30                                                 29
+     en %
+
+
+
+
+                                                          28
+                                                                                      27
+                                       26
+            25                                                      24
+
+                                            21
+            20      19
+                         18
+                                                 17
+                              15
+            15
+
+
+            10
+
+
+             5
+
+
+             0
+                    CAP, BEP1          Niveau Bac       Bac plus 2 ans         Diplôme
+                                                                              supérieur
+                                        2016     2019    2022
+
+
+            Source : Cécile BAZIN, Marie DUROS, Aziz BEN AYED, Patrick BONNEAU et Jacques
+                                 MALLET, La France bénévole : évolutions et perspectives, 2022.
+1
+    CAP, BEP : Certificat d’Aptitude Professionnelle et Brevet d’Études Professionnelles.
+
+
+
+      1. À l’aide des données du document, vous comparerez la proportion de bénévoles
+         parmi les diplômés du supérieur à celle des individus qui ont un niveau Bac en
+         2016 et en 2022. (2 points)
+
+      2. À l’aide des données du document et de vos connaissances, vous montrerez
+         que l’engagement politique peut dépendre de différentes variables sociodémo-
+         graphiques. (4 points)
+
+
+
+23-SESJ2LI1                                                                      Page 8 sur 11
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                         Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montre-
+rez qu’en présence de bien commun, les négociations et accords internationaux
+liés à la préservation de l’environnement sont soumis à des contraintes.
+
+DOCUMENT 1
+
+La construction d’un accord international sur le climat renvoie à la question du « pas-
+sager clandestin ». La perturbation climatique est liée au stock global de gaz à effet
+de serre présent dans l’atmosphère, qui n’est que faiblement corrélé au flux annuel
+d’émissions de chaque pays. Pour chaque acteur pris isolément, il n’y a pas de corré-
+lation directe entre le niveau de l’effort engagé pour réduire ses émissions et le béné-
+fice qu’il en tirera sous forme de moindres dommages. De plus, les impacts les plus
+sévères sont éloignés dans le temps, ce qui incite chacun à reporter l’intégralité des
+coûts du changement climatique sur les générations futures. Dans un tel contexte,
+chaque joueur a intérêt à attendre que ses voisins lancent l’action ; la position idéale
+étant celle du « passager clandestin », qui ne ferait aucun effort quand tous les autres
+s’engageraient pour protéger le bien commun. Inversement, aucun acteur n’a intérêt
+à s’engager unilatéralement tant qu’il n’a pas la conviction que d’autres suivront dans
+le cadre d’une coalition plus large. Face à cette question du passager clandestin, Eu-
+rope et États-Unis ont adopté des attitudes opposées. […] L’Europe a toujours consi-
+déré que l’engagement unilatéral des pays riches était de nature à provoquer un effet
+d’aspiration des autres pays, qui rejoindraient spontanément une large coalition inter-
+nationale. À l’opposé, le Sénat américain adopta dès 1997, à une majorité écrasante,
+une résolution s’opposant à la ratification de tout traité sur le climat qui lierait les États-
+Unis sans que des pays comme la Chine ou l’Inde se soient engagés à des efforts
+équivalents. Cette résolution rendait impossible la ratification par les États-Unis du
+protocole de Kyoto1 et contribua à l’enlisement des négociations.
+  Source : Christian DE PERTHUS et Raphaël TROTIGNON, « COP21 : quelles chances de
+                            succès ? », Institut français de relations internationales, 2015.
+
+1 : Le protocole de Kyoto est le premier traité international juridiquement contraignant contre
+le réchauffement climatique. Il a été adopté en 1997 et comprend des engagements pour 38
+pays industrialisés, avec un objectif de réduction moyenne des émissions de gaz à effet de
+serre de 5,2 % entre 2008 et 2012, par rapport aux émissions de 1990.
+
+
+
+
+23-SESJ2LI1                                                                     Page 9 sur 11
+DOCUMENT 2
+
+                   Émissions de CO2 par habitant dans le monde
+                     (en tonnes de CO2 par habitant et en %)
+
+                                                               Évolution 1990-2019
+                                               1990    2019
+                                                                      (en %)
+     Amérique du Nord                          16,1     12,5            -22,1
+     dont Canada                               16,4     15,6            -5,0
+     dont États-Unis                           20,3     15,6            -23,3
+     Amérique centrale et du Sud                1,9     2,5            +32,4
+     dont Brésil                                1,5     2,3            +48,0
+     Europe et ex-URSS                         10,8     7,3             -32,2
+     dont Russie                               16,2     12,4            -23,3
+            UE à 27                             9,1     6,6             -27,7
+                      Dont : Allemagne         12,8     8,5             -34,1
+                           Espagne              5,9     5,5             -7,1
+                           France               6,7     4,8             -28,2
+                           Italie               7,6     5,5             -27,5
+                          Pologne               9,7     8,4             -14,2
+            Royaume-Uni                        10,2     5,4             -46,8
+     Afrique subsaharienne                      1,0     0,8             -17,5
+     Moyen-Orient et Afrique du Nord            3,4     6,0            +75,1
+     dont Arabie Saoudite                      10,7     17,9           +68,3
+     Asie                                       1,8     4,5            +149,3
+     dont Chine                                 2,1     8,3            +289,6
+     dont Corée du Sud                          6,3     12,6           +99,7
+     dont Inde                                  0,7     1,9            +176,7
+     dont Japon                                 9,3     9,1             -1,8
+     Océanie                                   11,8     12,1            +2,9
+     Monde                                      4,3     5,0            +15,3
+
+    Source : Ministère de la transition écologique, Chiffres clés du climat, France Europe et
+                                                                                Monde, 2022.
+
+
+
+
+23-SESJ2LI1                                                                    Page 10 sur 11
+DOCUMENT 3
+
+Les dernières décennies ont été marquées par une certaine convergence économique
+entre pays, notamment portée par le développement rapide de l’Inde et de la Chine,
+bien que les taux de croissance du PIB demeurent bas dans certains pays africains
+[…]. Dans le même temps, les émissions mondiales de gaz à effet de serre n’ont fait
+que croître, et on observe déjà un réchauffement moyen global de 1,1°C par rapport à
+l’ère pré-industrielle, ce qui a des conséquences importantes sur les inégalités de re-
+venu. […] Tant au niveau des pays qu’à celui des individus, ce sont en général les
+moins riches qui sont les plus vulnérables aux impacts du changement climatique. Les
+différents effets du changement climatique (vagues de chaleur, sécheresses, montée
+du niveau de la mer...) touchent de manière disproportionnée les moins riches. Ils ris-
+queraient de ralentir la convergence espérée entre les pays et de rendre plus difficile
+la réduction des inégalités observée à l’intérieur des pays.
+Par ailleurs, les inégalités économiques se reflètent dans les différences de contribu-
+tion aux émissions de gaz à effet de serre à l’échelle globale. Les pays développés et
+les individus les plus riches, de par leur niveau de consommation, contribuent de ma-
+nière disproportionnée à l’augmentation de la température. Il y a là une double peine :
+ce sont ceux qui risquent de subir le plus les conséquences du changement climatique
+qui contribuent le moins au problème […] et réciproquement, les pays les plus respon-
+sables qui sont aussi les moins vulnérables.
+
+  Source : Céline GUIVARCH et Nicolas TACONNET, « Inégalités mondiales et changement
+                                                climatique », Revue de l’OFCE, 2020.
+
+
+
+
+23-SESJ2LI1                                                             Page 11 sur 11
+

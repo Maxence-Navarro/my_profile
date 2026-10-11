@@ -1,0 +1,369 @@
+                     BACCALAURÉAT GÉNÉRAL
+
+                     ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                    SESSION 2023
+
+
+
+
+               Sciences économiques et sociales
+
+
+
+                                        JOUR 1
+
+
+                              Durée de l’épreuve : 4 heures
+
+
+
+
+              L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+              Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+                 Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+
+     Le candidat traite au choix le sujet de dissertation ou le sujet d’épreuve
+                                     composée.
+                          Il indique sur sa copie le sujet choisi.
+
+
+
+
+23-SESJ1JA1                                                               Page 1 sur 10
+                Dissertation s’appuyant sur un dossier documentaire
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+         figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+         organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+                                                    SUJET
+
+                                 Ce sujet comporte quatre documents.
+
+  L’accumulation des facteurs de production permet-elle, à elle seule, d’expliquer la
+                            croissance économique ?
+
+DOCUMENT 1
+
+          Croissance du PIB (en pourcentage) et contributions à cette croissance (en
+                                points de pourcentage)
+
+                                                                        1990           2008           2019
+                       Taux de croissance du PIB                         1,9            0,1            2,3
+                       Contribution du facteur travail                   0,1            -0,9           0,8
+   États-Unis
+                       Contribution du facteur capital                   1,1            0,9            0,8
+                       Contribution de la PGF1                           0,7            0,1            0,7
+                       Taux de croissance du PIB                         2,9            0,3            1,8
+                       Contribution du facteur travail                   0,4            0,7            1,1
+   France
+                       Contribution du facteur capital                   1,3            0,9            0,8
+                       Contribution de la PGF1                           1,2            -1,3            0
+                       Taux de croissance du PIB                         5,3            4,2            1,1
+                       Contribution du facteur travail                   1,3            1,3            0,5
+   Allemagne
+                       Contribution du facteur capital                    1             0,4            0,4
+                       Contribution de la PGF1                           2,9            2,4            0,1
+                       Taux de croissance du PIB                         0,7            -0,2           1,7
+                       Contribution du facteur travail                   -0,2           -0,2           0,9
+   Royaume-Uni
+                       Contribution du facteur capital                   1,6            0,6            0,5
+                       Contribution de la PGF1                           -0,6           -0,7           0,2
+
+                                                                                Source : D’après OCDE, 2022.
+1 : Productivité Globale des Facteurs
+
+Note : la somme des différentes contributions ne correspond pas toujours au total en raison des
+arrondis.
+
+23-SESJ1JA1                                                                               Page 2 sur 10
+DOCUMENT 2
+
+              Évolution de la population active occupée (en milliers)
+
+              Allemagne           France         Royaume-Uni         États-Unis
+
+
+  1970          33 856,9          20 327,0          24 381,0            78 678,0
+  1980          33 342,6          21 443,0          25 004,0            99 302,8
+  1990          37 217,9          23 064,5          26 818,0            118 793,3
+  1995          35 780,0          22 914,8          25 489,0            124 899,7
+  2000          36 235,5          24 628,8          27 483,5            136 890,8
+  2005          36 361,2          24 984,2          28 853,3            141 729,8
+  2010          37 992,2          25 730,7          29 227,0            139 063,9
+  2015          40 208,7          26 441,8          31 285,0            148 833,4
+  2019          42 398,5          27 132,2          32 794,5            157 538,1
+
+
+                                                               Source : OCDE, 2022.
+
+
+
+
+23-SESJ1JA1                                                             Page 3 sur 10
+DOCUMENT 3
+
+ Part des dépenses de recherche et développement en 2019 dans les pays de
+                     l’Union européenne (en % du PIB)
+
+
+
+
+Champ : pays de l’Union européenne.
+
+                                                Source : OCDE, Eurostat, 2021.
+
+
+
+
+23-SESJ1JA1                                                     Page 4 sur 10
+DOCUMENT 4
+
+
+Article L611-1
+Toute invention peut faire l’objet d’un titre de propriété industrielle délivré par le
+directeur de l’Institut national de la propriété industrielle qui confère à son titulaire ou
+à ses ayants cause1 un droit exclusif d’exploitation […].
+
+Article L611-2
+Les titres de propriété industrielle protégeant les inventions sont : les brevets
+d’invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la
+demande […] ; les certificats complémentaires de protection rattachés à un brevet […]
+prenant effet au terme légal du brevet auquel ils se rattachent pour une durée ne
+pouvant excéder sept ans à compter de ce terme et dix-sept ans à compter de la
+délivrance de l’autorisation de mise sur le marché mentionnée à ce même article.
+
+Article L615-14
+Sont punies de trois ans d’emprisonnement et de 300 000 euros d’amende les
+atteintes portées sciemment aux droits du propriétaire d’un brevet […]. Lorsque le délit
+a été commis en bande organisée ou sur un réseau de communication au public en
+ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la
+sécurité de l’homme ou de l’animal, les peines sont portées à sept ans
+d’emprisonnement et à 750 000 euros d’amende.
+
+               Source : Code la propriété intellectuelle, version en vigueur au 1 janvier 2020.
+
+
+1 : personnes disposant d’un droit.
+
+
+
+
+23-SESJ1JA1                                                                     Page 5 sur 10
+                                         Épreuve composée
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche
+méthodologique rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter
+le sujet :
+         - en développant un raisonnement ;
+         - en exploitant les documents du dossier ;
+         - en faisant appel à ses connaissances personnelles ;
+         - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez qu’en présence de bien commun, l’action publique pour
+l’environnement est contrainte par des stratégies de passager clandestin.
+
+
+
+
+23-SESJ1JA1                                                                               Page 6 sur 10
+Deuxième partie : Étude d’un document (6 points)
+
+ Salaire minimum brut mensuel et taux de chômage dans l’Union européenne
+                                  en 2019
+
+                Salaire minimum mensuel brut              Taux de chômage
+Pays
+                          (en euros)                 (en % de la population active)
+
+Allemagne                     1561                                  3,0
+
+
+Belgique                      1594                                  5,5
+
+
+Bulgarie                       286                                  5,2
+
+
+Croatie                        506                                  6,6
+
+
+Espagne                       1050                                  14,1
+
+
+France                        1521                                  8,4
+
+
+Irlande                       1656                                  5,0
+
+
+Portugal                       700                                  6,7
+
+
+                                                                Source : Eurostat, 2022.
+
+
+Questions :
+
+1. Á l’aide des données du document, vous comparerez le salaire minimum et le taux
+de chômage de la France à ceux de la Bulgarie. (2 points)
+
+2. Á l’aide du document et de vos connaissances, vous montrerez que le salaire
+minimum peut avoir des effets positifs et négatifs sur le chômage structurel. (4 points)
+
+
+
+
+23-SESJ1JA1                                                                Page 7 sur 10
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                       Cette partie comporte trois documents.
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez que l’évolution de la structure socioprofessionnelle contribue à
+expliquer la mobilité sociale.
+
+
+DOCUMENT 1
+
+La structure de l’emploi par catégorie socioprofessionnelle est tirée vers le haut par
+l’élévation des qualifications, le développement du secteur des services et le déclin de
+l’industrie. La part des cadres supérieurs parmi les emplois a ainsi plus que doublé en
+un tiers de siècle, entre 1982 et 2020, passant de 8 % à 20 %. Celle des anciens
+« cadres moyens », devenus les « professions intermédiaires », a augmenté de 20 %
+à 26 %. Rassemblés, les cadres supérieurs et les professions intermédiaires forment
+désormais 46 % des emplois contre 27 % au début des années 1980.
+Au cours des trois dernières décennies, la part des catégories populaires a diminué.
+Les ouvriers ont vu fondre leurs effectifs, de 30 % à 19 % de l’emploi. La part des
+employés a progressé jusqu’au milieu des années 2000, puis elle a diminué. Au bout
+du compte, elle est restée stable à 25 % sur l’ensemble de la période […]. Deux autres
+grandes catégories sociales – composées d’indépendants aux statuts sociaux très
+inégaux – ont perdu du terrain : l’ensemble « artisans, commerçants et chefs
+d’entreprise » (de 8 % à 6,8 %) et surtout les agriculteurs exploitants (7 % à 1,5 % de
+l’emploi).
+
+Source : « Comment évoluent les catégories sociales en France ? » Centre d’observation de
+                                                                    la société, août 2021.
+
+
+
+
+23-SESJ1JA1                                                                 Page 8 sur 10
+DOCUMENT 2
+
+
+           Mobilité et immobilité des hommes par rapport à leur père
+                            de 1977 à 2015 (en %)
+
+
+                                       1977       1985      1993       2003        2015
+
+
+ Immobilité sociale                     36,2      33,8       32,6      33,6        34,8
+
+
+ Mobilité observée                      63,8      66,2       67,4      66,4        65,2
+
+
+ Total                                  100       100        100        100         100
+
+ Part de la mobilité structurelle
+                                        39,6      35,5       32,8      33,4        24,2
+ dans la mobilité observée
+
+Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés,
+âgés de 35 à 59 ans au 31 décembre de l’année d’enquête.
+
+                        Source : INSEE, Enquête Formation et qualification professionnelle
+                                              1977, 1985, 1993, 2003, 2014-2015, 2019.
+
+
+
+
+23-SESJ1JA1                                                                   Page 9 sur 10
+DOCUMENT 3
+
+  Destinées sociales des hommes selon l’origine sociale de leur père en 2015
+                                  (en %)
+
+
+                                                     Catégorie socioprofessionnelle des fils
+
+
+
+
+                                                                                               Ensemble
+Catégorie socioprofessionnelle du père        AE       ACCE    CPIS    PI   EOQ EONQ
+
+
+
+Agriculteurs exploitants (AE)                 26,7      7,9     8,5   20,4 27,4     9,1        100
+
+
+Artisans, commerçants et chefs d'entreprise
+                                              0,9       20,6   23,1   23,8 23,6     7,9        100
+(ACCE)
+
+
+Cadres et professions intellectuelles
+                                              0,2       7,9    49,0   25,4 13,7     3,8        100
+supérieures (CPIS)
+
+
+Professions intermédiaires (PI)               0,6       7,8    26,5   31,1 26,2     7,7        100
+
+
+Employés et ouvriers qualifiés (EOQ)          0,6       7,2    12,7   26,8 42,6    10,1        100
+
+
+Employés et ouvriers non qualifiés (EONQ)     0,6       6,5     8,3   18,7 43,9    22,1        100
+
+
+Ensemble                                      2,8       9,1    20,4   25,3 32,4    10,1        100
+
+
+
+
+       Mobilité de statut : mobilité entre une catégorie de salariés et de non-salariés
+       Mobilité horizontale : mobilité entre catégories de non-salariés
+       Mobilité ascendante
+       Mobilité descendante
+       Immobilité sociale
+
+
+Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés,
+âgés de 35 à 59 ans au 31 décembre de l’année de l’enquête.
+
+      Source : INSEE, Enquête Formation et qualification professionnelle, 2014-2015, 2019.
+
+
+
+
+23-SESJ1JA1                                                                        Page 10 sur 10
+

@@ -1,0 +1,69 @@
+{
+  "id": "23-SESJ1LI1-EC3",
+  "slug": "23-sesj1li1-ec3",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": null,
+  "examCode": "23-SESJ1LI1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "Liban",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la croissance économique soutenable se heurte à des limites écologiques.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Émissions de CO2 par habitant (en tonnes) et PIB par habitant (en dollars) dans *(source : d'après Banque mondiale, 2022.)*\n- Document 2 *(source : www.viepublique.fr, 2021.)*\n- Document 3 — Évolution de l'état des stocks de poissons marins mondiaux, de 1974 à 2019 *(source : Organisation des Nations Unies pour l'alimentation et l'agriculture, 2022.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'évolution de la structure socioprofessionnelle suffit-elle à expliquer la mobilité sociale ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Montrez que les problèmes d'appariement sur le marché du travail sont sources de chômage structurel."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide du document, vous montrerez que l'abstention systématique varie selon le niveau de diplôme. / À l'aide du document et de vos connaissances, vous montrerez que le vote dépend de variables sociodémographiques."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1LI1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-liban-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 414, 2023_liban_norm_ec_1-2.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=414&cle=84693b1661e45fb919534e29614213b2e37201d96f2c4bd5e4b54439fd5bc3d9&file=docx%2F2023_liban_norm_ec_1-2.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · Liban · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 414",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=414&cle=84693b1661e45fb919534e29614213b2e37201d96f2c4bd5e4b54439fd5bc3d9&file=docx%2F2023_liban_norm_ec_1-2.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "23-SESJ1LI1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-liban-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 23-SESJ1LI1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.858) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

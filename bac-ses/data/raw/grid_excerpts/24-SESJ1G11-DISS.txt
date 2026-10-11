@@ -1,0 +1,131 @@
+# score de localisation : 0.783
+# https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-1-corrige-officiel.pdf
+
+      DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                     PROPOSITION DE CORRIGÉ
+
+
+Sujet : Quelles sont les sources de la croissance économique ?
+
+
+
+Programme officiel : Science économique
+
+Questionnement       Objectifs d’apprentissage
+Quels sont les - Comprendre le processus de croissance économique et les
+sources et les défis sources de la croissance : accumulation des facteurs et
+de la croissance accroissement de la productivité globale des facteurs ;
+économique ?         comprendre le lien entre le progrès technique et l’accroissement
+                     de la productivité globale des facteurs.
+                     - Comprendre que le progrès technique est endogène et qu’il
+                     résulte en particulier de l’innovation.
+                     - Comprendre comment les institutions (notamment les droits de
+                     propriété) influent sur la croissance en affectant l’incitation à
+                     investir et à innover.
+
+
+
+
+  24-SESJ1G11C                                                             Page 1 sur 7
+Exploitation possible des documents :
+ Document 1 - Le document 1 mobilise des données OCDE et permet de
+              différencier les sources de la croissance du PIB selon les pays.
+              - Des pays comme le Japon ou encore la Corée du Sud sont des pays
+              qui se caractérisent par une croissance liée avant tout à la
+              Productivité Globale des Facteurs. En effet, en 2018, la PGF
+              contribue pour 2,3 points de pourcentage à la croissance du PIB, soit
+              plus de deux tiers des 2,9 % de hausse du PIB cette année-là.
+              - D’autres pays, comme la Suède ou encore la France voient leur
+              croissance expliquée avant tout par l’accumulation des facteurs de
+              production.
+ Document 2 - Le document 2 présente les dépenses intérieures de Recherche et
+            Développement (DIRD) rapportées au PIB du pays en pourcentage,
+            et le nombre de chercheurs rapporté à mille actifs pour le pays, en
+            2020. Il permet d’illustrer certaines dépenses et investissements
+            propres à augmenter le progrès technique et l’innovation dans un
+            pays.
+            - Le document montre des écarts importants entre pays dans les
+            dépenses de DIRD en pourcentage du PIB.
+            - La Corée du Sud est dans une situation particulière en étant le pays
+            qui dépense la plus grande part de son PIB dans les dépenses de
+            R&D des pays sélectionnés ici, mais aussi en étant le pays avec le
+            plus au taux de chercheurs pour mille actifs.
+            - Les candidats pourront faire le lien avec le document 1 et faire des
+            comparaisons.
+ Document 3 - Le document 3 se rapporte aux dépenses publiques d’éducation
+            (DPE) en pourcentage du PIB, comparé aux PIB par habitant en
+            volume de quelques pays. Il met en avant l’effet que peut avoir
+            l’investissement dans le capital humain, et l’influence des institutions,
+            sur le processus de croissance.
+            - Un net écart est notable en matière de DPE entre des pays comme
+            Haïti et le Tchad, comparé à des pays comme La France, les États-
+            Unis, ou encore Israël. En effet, les deux premiers pays dépensent
+            entre 1,5 et 2,5 % de leur PIB dans les DPE contre au moins 5,0 %
+            du PIB pour les autres pays.
+            - Les élèves devront faire un lien entre le niveau de dépense publique
+            dans l’éducation et le niveau de vie des pays.
+            - Les élèves pourront établir un lien entre le niveau de la DPE et
+            l’évolution du niveau de vie par habitant. Les deux pays qui se
+            distinguent par un niveau de vie faible et en baisse sont ceux qui
+            dépensent le moins dans l’éducation en pourcentage de leur PIB.
+ Document 4 Ce texte illustre l’intérêt des institutions (droits de propriété), plus
+            spécifiquement la mise en place de brevets protégeant l’innovation.
+            Le texte explique l’idée de monopole d’exploitation du brevet, et
+            illustre les différents types d’innovations pouvant faire l’objet d’un
+            brevet. Il doit être relié à l’idée d’incitation à innover que constitue ce
+            type d’institutions.
+
+
+
+  24-SESJ1G11C                                                              Page 2 sur 7
+Problématique possible :
+Il s’agit de s’interroger ici sur les sources de la croissance économique et d’expliquer
+les différents facteurs qui en sont à l’origine.
+
+Proposition de plan détaillé : proposition de plan en deux parties
+ I) La croissance économique s’explique II) La croissance s’explique aussi
+ par l’accumulation des facteurs de par les institutions et le caractère
+ production et par la PGF.                       endogène du progrès technique.
+ A) La croissance économique peut être A) Les institutions contribuent à
+ due à l’accumulation de facteurs de l’investissement et à l’innovation,
+ production.                                     ce qui favorise la croissance.
+ - L’accumulation de travail, par la hausse - Les institutions garantissent les
+     du nombre d’actifs ou encore la hausse        droits de propriété, ce qui incite à
+     de la durée du travail, augmente les          l’innovation et à l’investissement.
+     capacités de production disponibles et        Les brevets confèrent à leur titulaire
+     donc contribue à la hausse de la              un monopole temporaire, ce qui
+     production.                                   favorise l’émergence d’innovations
+ - Un pays comme les États-Unis en 2018            et du progrès technique (document
+     est un pays dont la croissance                4).
+     s’explique d’abord par la contribution du - Les actions de l’État participent à la
+     facteur travail (document 1).                 mise     en     place    d’institutions
+ - L’accumulation de capital, par les              encourageant les comportements
+     investissements, permet d’augmenter le        vertueux pour la croissance. Par
+     stock      de     capital    fixe.   Ces      exemple l’État, en se chargeant de
+     investissements sont une source de la         l’éducation    (document      3)     va
+     hausse de la production de richesses.         contribuer à la hausse du niveau de
+ - En Suède, le capital contribue à la moitié      formation et donc du niveau de
+     de la croissance du PIB, à égalité avec       productivité des individus.
+     la contribution du facteur travail
+     (document 1).
+ B) La croissance peut aussi provenir B) Le progrès technique qui résulte
+ des gains de productivité globale des de l’innovation est endogène au
+ facteurs de production.                         processus de croissance.
+- La PGF mesure la contribution du - Le progrès technique est endogène au
+     progrès technique à la croissance.            processus de croissance : il favorise
+- Les gains de PGF améliorent l’efficacité         la croissance qui, à son tour, le
+     des facteurs travail et capital et            favorise.
+     permettent de produire plus, sans - Le progrès technique induit des
+     augmentation des quantités de travail et      externalités positives qui
+     de capital.                                   contribuent aussi à la croissance.
+- Des pays comme le Japon ou la Corée - La croissance ainsi générée permet
+     du Sud sont des pays dont la croissance       de financer des investissements en
+     s’explique avant tout par la PGF.             R et D et en éducation, favorables à
+                                                   l’innovation (documents 2 et 3).
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+  24-SESJ1G11C                                                                Page 3 sur 7

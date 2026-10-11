@@ -1,0 +1,31 @@
+# score de localisation : 0.848
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-2-corrige-officiel.pdf
+
+5%, et l’indice des émissions de GES
+est de 75, base en 1990, soit une diminution de 25%.
+Le rapport des deux, c’est-à-dire le ratio entre les émissions de GES et le PIB est
+passé de l’indice 100 en 1990 à 50 en 2019, soit une diminution de 50%.
+
+
+Question 2 : À l’aide des données du document et de vos connaissances, vous
+montrerez comment l’innovation peut rendre la croissance économique soutenable.
+(4 points)
+
+
+Malgré l’augmentation du PIB en France au cours de la période 1990/2019, les
+émissions de GES (essentiellement les gaz issus de la combustion des énergies
+fossiles comme le gaz ou le pétrole) ont diminué, l’intensité de la croissance en
+émissions de GES a donc diminué de 50% au cours de la période, ce qui tend à
+prouver que la croissance est de plus en plus respectueuse de l’environnement. Un
+certain nombre d’innovations ont permis cette évolution, en matière de procédés de
+production par exemple, moins énergivores et moins polluantes (traitement et
+recyclage des déchets). En matière de consommation, des innovations de produit ont
+
+
+21-SESJ2ME2C                                                                  Page : 7/10
+aussi permis de rendre la croissance plus propre, comme dans l’habitat ou l’automobile
+par exemple. Enfin, le développement des énergies renouvelables a favorisé une
+croissance verte et donc plus durable, comme le photovoltaïque ou l’éolien.
+L’innovation est donc bien une solution aux limites écologiques de la croissance, en
+réduisant les externalités négatives (pollution et épuisement des ressources),
+permettant ainsi de rendre la croissance soutenable.

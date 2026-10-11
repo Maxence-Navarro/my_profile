@@ -1,0 +1,85 @@
+{
+  "id": "22-SESJ1ME1-DISS",
+  "slug": "22-sesj1me1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "22-SESJ1ME1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "L'accumulation des facteurs de production est-elle la seule source de croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Personnes en emploi en France entre 2000 et 2019, en milliers *(source : DARES Analyses, n° 19, 2020.)*\n- Document 2 — Taux de croissance du PIB (en %) et contributions *(source : d'après OCDE, 2021.)*\n- Document 3 — Taux d'investissement1 des entreprises non financières en % *(source : d'après INSEE, 2019.)*\n- Document 4 — Évolution du montant de la dépense intérieure d'éducation (DIE) en milliards *(source : Ministère de l'Éducation nationale, de la Jeunesse et des Sports, 2020.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "Vous montrerez comment les dotations factorielles peuvent expliquer la spécialisation internationale."
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide des données du document, montrez que la redistribution améliore la situation économique des plus pauvres. / À l'aide des données du document et de vos connaissances, montrez comment la fiscalité et la protection"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que certaines évolutions de l'emploi ont pu affaiblir le rôle intégrateur du travail."
+    },
+    {
+      "part": "EC1 (question 1) — sujet B",
+      "question": "Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement politique, malgré le paradoxe de l'action collective."
+    },
+    {
+      "part": "EC1 (question 2) — sujet B",
+      "question": "Présentez une limite de la politique européenne de la concurrence."
+    },
+    {
+      "part": "EC1 (question 3) — sujet B",
+      "question": "Présentez deux facteurs de structuration de l'espace social."
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que certaines évolutions de l'emploi ont pu affaiblir le rôle intégrateur du travail."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1ME1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 116, 2022_metro_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=116&cle=e62800c60184d6a40bdf07992a4a7edf40c124bcba4fd26a33af8d02caa1ee0d&file=docx%2F2022_metro_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 116",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=116&cle=e62800c60184d6a40bdf07992a4a7edf40c124bcba4fd26a33af8d02caa1ee0d&file=docx%2F2022_metro_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ1ME1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ1ME1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.861) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

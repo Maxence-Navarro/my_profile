@@ -1,0 +1,69 @@
+{
+  "id": "23-SESJ2NC1-EC3",
+  "slug": "23-sesj2nc1-ec3",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": null,
+  "examCode": "23-SESJ2NC1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J2",
+  "center": "Nouvelle-Calédonie",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que le progrès technique peut engendrer des inégalités de revenus.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Productivité du travail, rémunération moyenne et rémunération d'un salarié *(source : Anna M. STANSBURY, Lawrence H. SUMMERS, « Productivité et rémunération :)*\n- Document 2 — Comparaison des caractéristiques des salariés des firmes innovantes1 *(source : d'après Chloé MAS, Romain FAQUET, Guillaume ROULLEAU, « L'innovation peut-)*\n- Document 3 — Dans une étude sur l'impact de l'automatisation aux États-Unis, des chercheurs ont *(source : Abhijit V. BANERJEE et Esther DUFLO, Économie utile pour des temps)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "L'évolution de la structure socioprofessionnelle suffit-elle à expliquer la mobilité sociale ?"
+    },
+    {
+      "part": "EC1",
+      "question": "À l'aide d'un exemple, vous expliquerez le rôle de la réglementation pour faire face aux externalités négatives sur l'environnement."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide des données du document et d'un calcul approprié, parmi les actifs sortis depuis 1 à 4 ans de formation initiale, vous comparerez le taux de chômage en 2021 des diplômés titulaires d'un bac+2 ou plus à celui des"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ2NC1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-nouv-caledonie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 374, 2021_asie_norm_ec_2_4_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=374&cle=2d46f6b396f61c8e611130dd745b108e562a1c3e6ab43e416b812a5092c00b6d&file=docx%2F2021_asie_norm_ec_2_4_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · Asie · 2021 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 374",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=374&cle=2d46f6b396f61c8e611130dd745b108e562a1c3e6ab43e416b812a5092c00b6d&file=docx%2F2021_asie_norm_ec_2_4_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 374) indique « Asie », alors que le fichier (2021_asie_norm_ec_2_4_.docx) et le sujet officiel correspondent à Nouvelle-Calédonie.",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

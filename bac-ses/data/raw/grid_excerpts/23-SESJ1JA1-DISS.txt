@@ -1,0 +1,153 @@
+# score de localisation : 0.877
+# https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-1-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : L’accumulation des facteurs de production permet-elle, à elle seule, d’expliquer
+la croissance économique ?
+
+Programme officiel :
+Science économique
+
+Questionnement       Objectifs d’apprentissage
+Quels sont les       - Comprendre le processus de croissance économique et les
+sources et les       sources de la croissance : accumulation des facteurs et
+défis de la          accroissement de la productivité globale des facteurs ;
+croissance           comprendre le lien entre le progrès technique et l’accroissement
+économique ?         de la productivité globale des facteurs.
+                     - Comprendre que le progrès technique est endogène et qu’il
+                     résulte en particulier de l’innovation.
+                     - Comprendre comment les institutions (notamment les droits de
+                     propriété) influent sur la croissance en affectant l’incitation à
+                     investir et innover.
+
+Exploitation possible des documents :
+
+ Document 1 - Le document 1 permet de rendre compte et d’illustrer la contribution
+            de l’accumulation des facteurs de production d’une part et de celle de
+            la productivité globale des facteurs d’autre part, à la croissance
+            annuelle du PIB.
+            - Ainsi, la contribution des facteurs de production travail et capital
+            explique par exemple les deux tiers de la croissance des États-Unis
+            en 1990 ou encore la totalité de la croissance française en 2019.
+            - Le rôle de la PGF peut être pointé en Allemagne en 1990 ou en 2008
+            où elle représente environ la moitié de la croissance annuelle.
+ Document 2 - Le document 2 permet au candidat de montrer que les pays
+            développés présentés dans le document qui précède ont tous connu
+            une augmentation de leur population active occupée sur le long terme
+            (1970-2019).
+            - C’est le cas notamment des États-Unis qui ont vu leur population
+            active doubler approximativement. L’augmentation est plus mesurée
+            pour la France (hausse de 7 millions d’emplois entre 1970 et 2019) et
+            le Royaume-Uni (+ 8 millions).
+            - On pourra mettre en relation cette augmentation de la population
+            active occupée avec les taux de croissance de ces différents pays.
+ Document 3 - Le document 3 présente la part des dépenses de R&D dans le PIB
+            en 2019 dans les pays de l’Union européenne à 27. Il tend à indiquer
+            le rôle du progrès technique et de l’innovation dans la croissance
+            économique.
+            - On notera que la Suède se situe au premier rang de l’Union
+            européenne avec un investissement équivalent à 3,4 % de son PIB,
+            nettement supérieur à la moyenne des pays de l’Union. La France se
+
+23-SESJ1JA1C                                                               Page 1 sur 8
+            situe au 7e rang avec une dépense équivalente à environ 2,3 % de
+            son PIB, proche de la moyenne de la zone euro et de l’Union
+            européenne.
+            - Globalement, la part du PIB consacrée à la R&D est plus élevée
+            dans les pays les plus riches.
+ Document 4 - Le document 4 fait référence au rôle des institutions dans la
+            croissance économique, en tant qu’incitations à investir et innover.
+            - En effet, ces extraits du Code de la propriété intellectuelle, montrent
+            que les brevets délivrés par l’INPI sont protégés par la loi (article
+            L611-1 et L611-2). L’article L615-14 de ce Code décrit les sanctions
+            encourues en cas de violation de cette protection.
+
+Problématique possible :
+
+La croissance économique, entendue comme l’augmentation de la production d’un
+pays sur le long terme, est un processus complexe qui dépend de la combinaison de
+nombreux facteurs et de la mobilisation de différents acteurs dans un environnement
+favorable. Il s’agit donc de s’interroger ici sur ses sources : la croissance provient-elle
+de la seule augmentation quantitative du travail et du capital ou existe-t-il d’autres
+facteurs explicatifs ?
+
+Proposition de plan détaillé :
+ I) L’accumulation des facteurs de II) … cependant, d’autres facteurs
+ production est une source essentielle peuvent expliquer la croissance
+ de croissance économique …            économique.
+
+ A) L’accumulation du facteur travail A) Le rôle du progrès technique.
+ est    source     de    croissance
+ économique.
+
+ • Augmenter la quantité de travail peut • Le progrès technique, comme résultat
+   être source de croissance. Cela peut    du processus d’innovation, permet
+   passer,       par     exemple,      par d’accroître la production et de réaliser
+   l’augmentation     du    nombre      de des économies d’échelle, ce qui
+   travailleurs dans la population active, améliore la compétitivité et diminue
+   la hausse de la durée moyenne de        les coûts de production. Il permet
+   travail,          le          contexte  également       de    produire     plus
+   sociodémographique (âge de la           efficacement en réalisant des gains de
+   retraite, allongement de la scolarité,  productivité.
+   augmentation de la population,
+   contexte législatif sur l’assurance • Les gains de productivité obtenus par
+   chômage…).                              le progrès technique peuvent être
+                                           mesurés par la productivité globale
+ • Le document 2 montre que la             des facteurs et valorisent la
+   population active ayant un emploi a     combinaison travail-capital. Dans le
+   augmenté sur le long terme dans les     document 1, les gains de productivité
+   pays développés. Plus la population     ont contribué à la moitié de la
+   active occupée est importante, plus la  croissance allemande en 1990 et
+   quantité de travail fournie est élevée, 2008.
+   ce qui contribue à augmenter la
+
+23-SESJ1JA1C                                                                  Page 2 sur 8
+   production et donc la croissance • Le progrès technique est endogène et
+   économique.                          dépend      de    l’accumulation    de
+ • Ainsi, en France en 2019, le facteur différents capitaux (capital humain ou
+   travail a contribué à la croissance  capital technologique par exemple)
+   économique de 1,8 % à hauteur de 1,1 grâce aux décisions des agents
+   point, soit plus de 60 %.            économiques. Le progrès technique
+                                        génère des externalités positives.
+
+ B) L’accumulation du facteur capital B)      L’importance                  du       cadre
+ est aussi source de croissance.      institutionnel.
+
+ •  Le facteur capital met en avant le rôle • Les institutions sont essentielles à la
+   de l’investissement. L’investissement      croissance car elles influent sur les
+   est un flux qui augmente le stock de       comportements, garantissent une
+   capital. Les investissements peuvent       stabilité       de         l’environnement
+   augmenter les capacités productives,       économique et facilitent les échanges.
+   mais aussi remplacer des machines          Elles permettent notamment le
+   obsolètes,     acquérir    des    biens    respect des droits de propriété, du
+   d’équipements plus performants afin        principe de la concurrence et incitent
+   d’améliorer l’efficacité productive : la   à innover.
+   PGF est ainsi stimulée, ce qui est
+   favorable à la croissance économique. • Les droits de propriété sont des
+                                              institutions qui incitent les agents
+ • Le document 1 montre que le facteur        économiques à investir et à innover.
+   capital contribue assez largement à la     Par exemple, le Code de la propriété
+   croissance économique des pays             intellectuelle     garantit       que    les
+   cités en 2008. En Allemagne, le            détenteurs d’un brevet détiennent un
+   facteur capital y contribue à hauteur      monopole d'exploitation pour une
+   de 50 % environ (0,4 point de              durée maximale de 20 ans. Toute
+   contribution sur un taux de croissance     exploitation (utilisation, fabrication,
+   équivalent à 1,1 %).                       importation...) d’une innovation sans
+                                              autorisation       est       interdite     et
+ • Le poids du facteur capital peut           sanctionnée    par la  loi (document   4).
+   également être évoqué avec le
+   document 3 qui montre les dépenses
+   de recherche et développement des
+   pays de l’Union européenne.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+23-SESJ1JA1C                                                                     Page 3 sur 8

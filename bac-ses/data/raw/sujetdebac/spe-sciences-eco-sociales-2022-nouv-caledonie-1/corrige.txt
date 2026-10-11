@@ -1,0 +1,388 @@
+                            BACCALAURÉAT GÉNÉRAL
+                                 SESSION 2022
+
+                         ENSEIGNEMENT DE SPÉCIALITÉ
+                     SCIENCES ÉCONOMIQUES ET SOCIALES
+
+               DISSERTATION S’APPUYANT SUR UN DOSSIER
+                           DOCUMENTAIRE
+                       PROPOSITION DE CORRIGÉ
+
+Sujet : Comment l’évolution des modèles d’organisation du travail transforme-t-elle les
+conditions de travail ?
+
+Programme officiel :
+Sociologie et science politique
+
+  Questionnement      Objectifs d’apprentissage
+ Quelles mutations    - Savoir distinguer les notions de travail, activité, statut d’emploi
+ du travail et de       (salarié, non-salarié), chômage ; comprendre que les évolutions
+ l’emploi ?             des formes d’emploi rendent plus incertaines les frontières entre
+                        emploi, chômage et inactivité.
+                      - Connaître les principaux descripteurs de la qualité des emplois
+                        (conditions de travail, niveau de salaire, sécurité économique,
+                        horizon de carrière, potentiel de formation, variété des tâches).
+                      - Comprendre les principales caractéristiques des modèles
+                        d’organisation taylorien (division du travail horizontale et
+                        verticale, relation hiérarchique stricte) et post-taylorien (flexibilité,
+                        recomposition des tâches, management participatif) ;
+                        comprendre les effets positifs et négatifs de l’évolution des
+                        formes de l’organisation du travail sur les conditions de travail.
+                      - Comprendre comment le numérique brouille les frontières du
+                        travail (télétravail, travail / hors travail), transforme les relations
+                        d’emploi et accroît les risques de polarisation des emplois.
+                      - Comprendre que le travail est source d’intégration sociale et que
+                        certaines évolutions de l’emploi (précarisation, taux persistant de
+                        chômage élevé, polarisation de la qualité des emplois) peuvent
+                        affaiblir ce pouvoir intégrateur.
+
+
+
+
+22-SESJ1NC1C                                                                  Page 1/8
+Exploitation possible des documents :
+Document 1      - Le document souligne la difficulté du travail dans une organisation
+                  taylorienne en comparant l’usine au bagne. La dureté du travail est
+                  mise en avant : « c’était comme Zola », « tu marches ou tu crèves ».
+                  L’accent est également mis sur le temps de travail et son
+                  organisation (2x12 heures).
+                - Toutefois, le document souligne également la solidarité qui
+                  accompagnait la dureté des conditions de travail. Les ouvriers
+                  expriment ainsi des regrets car si le changement d’organisation a
+                  adouci les conditions de travail, l’entraide a disparu.
+Document 2      - Le document montre que les pénibilités physiques, les nuisances et
+                  les risques toxiques sont beaucoup moins importants dans
+                  l’organisation apprenante que dans l’organisation taylorienne.
+                  L’évolution des modèles d’organisation du travail apparait ainsi
+                  favorable à l’amélioration des conditions de travail. Ainsi, par
+                  exemple, 48 % des salariés des organisations tayloriennes sont
+                  soumis à un bruit intense contre 15,5 % des salariés des
+                  organisations apprenantes.
+                - Le document permet toutefois de relativiser ces évolutions. En effet,
+                  si l’organisation apprenante met en avant des conditions de travail
+                  bien meilleures à l’organisation taylorienne, la lean production
+                  apporte, elle, beaucoup moins d’amélioration. En effet, si les
+                  pénibilités physiques concernent moins de salariés, ce n’est pas le
+                  cas des risques toxiques. La part des salariés exposés à des
+                  mouvements répétitifs des mains ou des bras est inférieure de
+                  10,5 points dans la lean production par rapport à l’organisation
+                  taylorienne (74 % contre 63,5 %) tandis que le risque d’inhalations
+                  de substances dangereuses est supérieur de 4,2 points dans la lean
+                  production par rapport à l’organisation taylorienne.
+Document 3      - Le document montre que les contraintes imposées sur le rythme de
+                  travail ont eu tendance à augmenter. Si les contraintes imposées par
+                  le rythme des machines sont restées relativement stables, d’autres
+                  contraintes ont fortement augmenté. Ainsi, la part des salariés
+                  déclarant avoir un rythme de travail imposé par une demande
+                  extérieure a doublé entre 1978 et 2016. En 1978, 17 % des salariés
+                  déclaraient avoir un rythme de travail imposé par les contraintes et
+                  surveillances permanentes exercées par la hiérarchie contre 31 %
+                  des salariés en 2016. En outre, un contrôle ou un suivi informatisé a
+                  fait son apparition à compter de 2005.
+Document 4      - Le document montre que l’intensité du travail a eu tendance à
+                  augmenter entre 1984 et 2016. Ainsi, en 1984, 6 % des salariés
+                  déclaraient avoir au moins 3 contraintes de rythme contre 36 %
+                  d’entre eux en 2013.
+                - Le document montre, en outre, une évolution contrastée de
+                  l’autonomie. Entre 1991 et 1998, le score d’autonomie a légèrement
+                  augmenté. Alors, qu’en moyenne le score d’autonomie était de
+                  2,65/4, il passe à 2,85/4 en 1998. Ce score diminue par la suite et
+                  en 2016, il atteint une moyenne de 2,75/4.
+
+
+
+
+22-SESJ1NC1C                                                            Page 2/8
+Problématique possible :
+
+Le modèle d’organisation taylorien caractérisé par une division horizontale et verticale du
+travail et des relations hiérarchiques strictes a, peu à peu, laissé place à des modèles post-
+tayloriens axés sur la flexibilité, la recomposition des tâches et le management participatif,
+notamment suite aux critiques à l’encontre du modèle taylorien et de son impact sur les
+conditions de travail. Mais peut-on dire que les modèles post-tayloriens ont réellement
+amélioré les conditions de travail ?
+
+Proposition de plan détaillé :
+  I)     L’évolution     des        modèles        II) Mais c’est loin d’être toujours le cas.
+  d’organisation du travail peut améliorer
+  les conditions de travail.
+  A)    Les    modèles       post-tayloriens       A) Les modèles post-tayloriens se
+  permettent l’« empowerment » et la               traduisent par un déplacement des
+  réhumanisation du travail.                       contraintes et sont hybridés avec les
+                                                   modèles tayloriens.
+ •  En donnant plus d’autonomie aux               • Les modèles post-tayloriens ajoutent de
+    travailleurs, les modèles post-tayloriens         nouvelles contraintes sans supprimer les
+    permettent davantage la reconnaissance            anciennes. Les contraintes et le rythme
+    au travail : intérêt et sens des activités,       de travail se sont intensifiés (document 3
+    récompenses obtenues, respect et                  et 4).
+    équité (document 4) : la subjectivité des     • Les modèles post-tayloriens sont
+    salariés     est    prise    en   compte          multiples et peuvent être hybrides. Ainsi,
+    (réhumanisation).                                 dans la lean production, les risques
+ • En outre, l’autonomie s’accompagne de
+                                                      physiques restent fortement présents
+    management participatif qui redonne du
+                                                      (document 2).
+    pouvoir aux salariés et diminue la
+    pression hiérarchique.
+ B)    Les      modèles       post-tayloriens      B) Les modèles post-tayloriens peuvent
+ diminuent les risques physiques et la             en     outre    se      traduire     par       le
+ dureté des conditions de travail.                 développement             des          risques
+                                                   psychosociaux.
+ •   Les nouveaux modèles d’organisation du       • L’individualisation, la reconnaissance
+     travail réduisent la pénibilité du travail      individuelle et la valorisation de l’initiative
+     (document 1 et 3).                              individuelle ont contribué à casser les
+ •   Le rythme du travail n’est plus donné par       solidarités (document 1).
+     la machine (la part des salariés déclarant   • En outre, les exigences fortes de
+     une contrainte donnée par la machine            l’entreprise en termes de flexibilité,
+     est restée stable depuis les années 70).        d’adaptabilité et de polyvalence ainsi que
+                                                     la responsabilisation accrue des salariés
+                                                     ont fortement augmenté les risques
+                                                     psychosociaux comme le burn-out.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme
+
+
+
+
+22-SESJ1NC1C                                                                     Page 3/8
+                           ÉPREUVE COMPOSÉE
+                         PROPOSITION DE CORRIGÉ
+                                SUJET A
+
+ Première partie : Mobilisation des connaissances (4 points)
+
+ Question : À l'aide d'un exemple, vous montrerez que l'action des pouvoir publics en
+ matière de justice sociale s'exerce sous contrainte de financement. (4 points)
+ Regards croisés
+ Quelles inégalités sont compatibles avec les différentes conceptions de la justice
+ sociale ?
+
+ Réponse possible :
+ Les dépenses en matière de protection sociale ont fortement augmenté depuis les
+ années 1960. Cela s’explique par plusieurs phénomènes comme par exemple la hausse
+ du chômage. La hausse de ces dépenses sociales va être à l’origine d’une contrainte de
+ financement. En effet, les pouvoirs publics sont soumis à une contrainte financière. Celle-
+ ci décrit le fait que les dépenses publiques augmentent plus vite que les recettes ce qui
+ engendre un déficit public. Ce dernier peut être problématique et les moyens de l’éviter
+ apparaissent contraignants. En effet, si les dépenses publiques sont financées par une
+ augmentation de l’impôt, elles réduisent la demande des agents économiques. Aussi,
+ elles peuvent être financées par l’emprunt, mais dans ce cas elles risquent d’accroître la
+ dette publique. A l’inverse, la réduction des dépenses génère un affaiblissement de la
+ protection sociale.
+ Ainsi, la hausse du chômage depuis la fin des Trente Glorieuses a entraîné une hausse
+ des dépenses publiques. D’une part, il faut indemniser un nombre croissant de chômeurs.
+ De plus, il faut également financer des politiques d’emploi qui peuvent faire baisser les
+ recettes publiques. Par exemple, le CICE (Crédit d’Impôt pour la Compétitivité des
+ Entreprises) a entraîné une baisse des cotisations sociales pour les plus petits salaires.
+ D’autre part, les recettes publiques peuvent diminuer puisqu’une plus faible partie de la
+ population active peut cotiser.
+ Pour conclure, l’action des pouvoirs publics en matière de justice sociale s’exerce bien
+ sous contrainte. En effet, les pouvoirs publics doivent assurer un objectif d’égalité de
+ situations : ici les chômeurs sont protégés par les actifs occupés, ce qui doit rendre leur
+ situation économique la plus proche possible de celle des actifs occupés. Cette protection
+ fait aujourd’hui l’objet d’une contrainte de financement.
+
+ Deuxième partie : Étude d’un document (6 points)
+
+ Sociologie et science politique
+ Comment est structurée la société française actuelle ?
+
+ Question 1 : À l’aide des données du document, comparez le taux de chômage des 15–
+ 29 ans dans les quartiers prioritaires et dans les autres quartiers. (2 points)
+ Réponse possible :
+ En France, en 2018, d’après le site internet inegalites.fr en février 2021, le taux de
+ chômage des 15-29 ans dans les quartiers prioritaires est de 32,9 %, ce qui signifie que
+ 32,9 % des actifs âgés de 15 à 29 ans vivant dans les quartiers prioritaires sont au
+ chômage. Le taux de chômage des 15-29 ans dans les autres quartiers est quant à lui de
+ 15 %. Par conséquent, le taux de chômage des 15-29 ans dans les quartiers prioritaires
+ est environ deux fois plus élevé que dans les autres quartiers.
+
+22-SESJ1NC1C                                                               Page 4/8
+ Question 2 : À l’aide de vos connaissances et du document, vous montrerez que le
+ diplôme, l’âge et le lieu de résidence sont des facteurs de hiérarchisation sociale.
+ (4 points)
+
+ Réponse possible :
+ Lorsque l’on compare les taux de chômage selon le niveau de diplôme, on constate que
+ le taux de chômage diminue lorsque le niveau de diplôme augmente, aussi bien dans les
+ quartiers prioritaires que dans les autres quartiers. Par exemple, dans les quartiers non
+ prioritaires, le taux de chômage des personnes ayant un niveau de diplôme supérieur ou
+ égal à bac + 2 (16,1 %) est environ 3 fois plus élevé que celui des personnes ayant un
+ niveau de diplôme inférieur au BEP-CAP (5,7 %). On peut donc en conclure que plus le
+ niveau de diplôme est élevé, moins une personne risque d’être au chômage.
+ De la même manière, on constate que le taux de chômage diminue avec l’âge, dans
+ l’ensemble des quartiers. Par exemple, dans les quartiers prioritaires, le taux de chômage
+ des 15-29 ans (32,9 %) est presque deux fois plus élevé que celui des 50-64 ans
+ (16,8 %). L’âge apparaît donc comme un facteur influençant le taux de chômage : plus
+ on est âgé et plus on risque d’être au chômage, toute choses égales par ailleurs.
+ Enfin le lieu de résidence apparaît lui aussi comme un facteur influençant le risque d’être
+ au chômage puisque les personnes vivant dans les quartiers prioritaires ont presque trois
+ fois plus de chances d’être au chômage que les personnes vivant dans les autres
+ quartiers (23,9 % contre 8,9 %).
+ En conclusion, on peut donc dire que l’âge, le lieu de résidence et le diplôme sont des
+ facteurs augmentant le risque d’être au chômage. Or la situation d’un individu vis à vis
+ de l’emploi (le fait d’être en emploi ou au chômage) influence la place qu’il occupe dans
+ la hiérarchie sociale, c’est à dire sur l’échelle des positions sociales. A cet égard, on
+ considère en général qu’un chômeur occupe une position assez basse en raison du faible
+ revenu et de la faible reconnaissance sociale dont il bénéficie. On peut donc conclure
+ que le diplôme, l’âge et le lieu de résidence sont des facteurs de hiérarchisation sociale.
+
+ Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+ (10 points)
+
+ Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez
+ comment la productivité des firmes détermine la compétitivité, et donc la capacité à
+ exporter d’un pays.
+
+ Programme officiel : Science économique
+  Questionnement                                Objectifs d’apprentissage
+  Quels sont les fondements du   Comprendre que la productivité des firmes sous-tend
+  commerce international et de   la compétitivité d’un pays, c’est-à-dire son aptitude à
+  l’internationalisation de la   exporter.
+  production ?
+
+
+ Exploitation possible des documents
+  Document 1 - Ce document peut être mobilisé pour montrer que l’investissement dans
+                  le capital humain peut permettre aux entreprises de réaliser des gains
+                  de productivité.
+                - Ce document montre aussi que les compétences et le capital humain
+                  permettent aux entreprises de mieux s’intégrer dans les chaînes
+                  internationales de valeur.
+
+
+
+22-SESJ1NC1C                                                               Page 5/8
+  Document 2      - Ce document montre le ralentissement de la productivité horaire du
+                    travail en France de 1985 à 2012, de +2,1 % à +0,2 %, avant qu’elle ne
+                    progresse à nouveau sur la période 2012-2017 (+0,9 %).
+                  - Ce document montre que l’Allemagne a connu la même évolution de
+                    1985 à 2017.
+                  - À partir de 2000, on constate aux États-Unis un ralentissement continu
+                    de la productivité horaire du travail, de +2,1 % à 0,6 %.
+  Document 3      - Ce document montre que les exportations de biens et services ont
+                    progressé de 0,5 point de pourcentage entre 2019 et 2020, tandis
+                    qu’elles ont baissé de 1 point de pourcentage en France.
+                  - Ce document montre que les exportations de biens et services ont
+                    également progressé dans les autres pays de la zone euro.
+                  - Ce document montre également que les exportations de biens ont chuté
+                    plus vite que les exportations de services entre 2019 et 2020.
+
+
+ Raisonnement possible
+ Le sujet invite à montrer que les firmes qui ont la productivité la plus élevée sont les mieux
+ à même de s’insérer dans les échanges internationaux et résister à la concurrence
+ internationale :
+ - Si de nombreuses firmes n’exportent pas, celles qui ont la meilleure aptitude à le faire
+     sont celles qui réalisent des efforts de productivité (le document 2 montre une
+     hétérogénéité des performances nationales en matière de productivité horaire du
+     travail), et sont en mesure d’optimiser leurs coûts de production pour vendre leurs
+     biens et services sur les marchés internationaux ;
+ - L’insertion des firmes dans la concurrence internationale les incite également à
+     réaliser des efforts d’innovation pour défendre leur pouvoir de marché (notamment en
+     investissant dans les compétences comme le précise le document 1), voire conquérir
+     des parts de marché et améliorer leur aptitude à exporter ;
+ - Les firmes sont également incitées à innover lorsqu’elles sont plongées avec le libre-
+     échange dans un marché de taille mondiale : la rente qui peut être tirée de l’innovation
+     est ainsi plus forte ;
+ - L’effort d’innovation et de productivité des firmes d’un pays peut ainsi s’inscrire dans
+     une stratégie défensive dans la concurrence mondiale face à des firmes issues de
+     pays ayant des coûts de production plus faibles (voir document 2) ;
+ - On peut ici rappeler que les gains de productivité sont de nature à améliorer la
+     compétitivité-prix et hors prix des firmes et l’insertion d’un pays dans les échanges :
+     les gains de productivité permettent de réduire les coûts de production, les prix de
+     vente (à marge constante) ; tandis qu’une meilleure productivité peut se traduire par
+     une meilleure qualité des biens et des quantités exportées plus grandes ;
+ - Le document 3 montre que les performances en matière d’exportation des pays de la
+     zone euro entre 2019 et 2020 restent hétérogènes.
+
+ Le corrigé proposé fournit des indications à destination des commissions académiques
+ d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ1NC1C                                                                 Page 6/8
+                                 PROPOSITION DE CORRIGE
+                                        SUJET B
+
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question 1 : Vous illustrerez la diversité des objets de l’action collective à l’aide de
+deux exemples. (4 points)
+Sociologie et science politique
+Comment expliquer l’engagement politique dans les sociétés démocratiques ?
+
+Réponse possible :
+L’action collective peut être définie comme une action commune et concertée d’un
+groupe d’individus visant à défendre une cause ou des valeurs. La diversité des
+objets de l’action collective est démontrée en prenant appui sur deux exemples liés
+aux différents domaines suivants :
+   • Les conflits du travail comme une grève dans une entreprise.
+   • Les nouveaux enjeux de mobilisation comme la protection de
+       l’environnement.
+   • Les luttes minoritaires.
+
+Question 2 : Montrez que le progrès technique peut engendrer des inégalités de revenus.
+(3 points)
+Science économique
+Quels sont les sources et les défis de la croissance économique ?
+
+Réponse possible : Le progrès technique est un résultat du processus d’innovation. Il est
+le déterminant des gains de productivité lesquels contribuent à la croissance économique.
+Le progrès technique peut cependant engendrer des inégalités de revenus car :
+    - Il bouleverse la structure des emplois notamment en supprimant les emplois peu
+       qualifiés : les tâches manuelles routinières disparaissent du fait de l’automatisation.
+       Également, certains emplois intermédiaires (comptabilité, secrétariat) peuvent être
+       concurrencés par de nouvelles techniques.
+    - À l’inverse, les salariés très qualifiés (ingénieurs) ne sont généralement pas
+       concurrencés par les nouvelles technologies, lesquelles peuvent même contribuer à
+       augmenter leur productivité. Leurs rémunérations, déjà plus élevées, peuvent ainsi
+       progresser.
+    - Enfin, les entreprises innovantes bénéficient du déploiement du progrès technique et
+       voient leurs profits progresser, permettant de rémunérer davantage les actionnaires,
+       éventuellement leurs salariés.
+Ces effets du progrès technique sur les travailleurs et les entreprises peuvent accroître les
+inégalités de revenus.
+
+Question 3 : Quels sont les objectifs de la politique européenne de concurrence ? (3 points)
+Science économique.
+Quelles politiques économiques dans le cadre européen ?
+
+Réponse possible :
+La politique de la concurrence peut être définie, selon l’économiste Sarah Guillou (2017),
+comme l’ensemble des dispositifs permettant de contrôler et réguler le degré de
+concurrence sur un marché. La politique de la concurrence mise en œuvre par l’Union
+européenne répond à un objectif général : garantir le bon fonctionnement du marché
+
+
+22-SESJ1NC1C                                                                   Page 7/8
+intérieur, « où la concurrence est libre et non faussée ». Cet objectif est fondé sur l’idée que
+le bon fonctionnement du marché européen doit permettre à la fois plus d’innovation et le
+maintien de prix bas. Ce qui est bénéfique pour la compétitivité des entreprises, pour le
+pouvoir d’achat des consommateurs et au final pour la croissance.
+Pour cela les autorités de la concurrence européenne s’efforcent de lutter contre les
+pratiques anticoncurrentielles de certaines entreprises (ententes, abus de position
+dominante) et d’éviter les risques de concentration excessive. Elles cherchent aussi à
+maintenir une concurrence équitable entre pays en contrôlant les aides des États.
+
+
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire (10 points)
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez comment
+la productivité des firmes détermine la compétitivité, et donc la capacité à exporter d’un
+pays.
+
+Proposition de corrigé du raisonnement : voir supra SUJET A
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+22-SESJ1NC1C                                                                  Page 8/8
+

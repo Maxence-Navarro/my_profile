@@ -1,0 +1,80 @@
+{
+  "id": "24-SESG11BIS-EC2",
+  "slug": "24-sesg11bis-ec2",
+  "chapterId": "croissance",
+  "exerciseType": "EC2",
+  "variant": null,
+  "examCode": "24-SESG11BIS",
+  "year": 2024,
+  "session": "normale",
+  "day": "J2",
+  "center": "Centres étrangers (sujet bis)",
+  "question": "Immatriculations de véhicules particuliers neufs par types de motorisations dans l'Union Européenne entre 2018 et 2022 (en % des ventes) Source : d'après AECA (Association des Constructeurs Européens d'Automobiles), « L'industrie automobile, guide de poche 2022/2023 », 2022.",
+  "subQuestions": [
+    {
+      "n": 1,
+      "text": "À l'aide des données du document, vous comparerez l'évolution de la part des ventes de véhicules neufs équipés d'un moteur essence et diesel avec celle des véhicules à motorisations électrique et hybride (innovants) entre 2018 et 2022 dans l'Union Européenne.",
+      "points": 2.0
+    },
+    {
+      "n": 2,
+      "text": "À l'aide du document et de vos connaissances, vous montrerez que l'innovation peut aider à reculer les limites écologiques de la croissance économique.",
+      "points": 4.0
+    }
+  ],
+  "points": 6.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": "**Document :** Immatriculations de véhicules particuliers neufs par types de motorisations dans l'Union Européenne entre 2018 et 2022 (en % des ventes) Source : d'après AECA (Association des Constructeurs Européens d'Automobiles), « L'industrie automobile, guide de poche 2022/2023 », 2022.\n\n*Source indiquée : d'après AECA (Association des Constructeurs Européens d'Automobiles), « L'industrie*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Comment les politiques économiques agissent-elles dans le cadre européen ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Présentez deux caractéristiques du modèle post-taylorien d'organisation du travail."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez comment la structure socioprofessionnelle a évolué en France depuis la seconde moitié du XXème siècle."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 24-SESG11BIS (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-suede-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 196, 2022_asie_norm_ec_4.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=196&cle=b1e6f6d3615b7131d6457a12a916727eea7b70473532a9744d3c2f4479f0dd6e&file=docx%2F2022_asie_norm_ec_4.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Asie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 196",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=196&cle=b1e6f6d3615b7131d6457a12a916727eea7b70473532a9744d3c2f4479f0dd6e&file=docx%2F2022_asie_norm_ec_4.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Incohérence relevée : le catalogue de Versailles (doc. 196) indique « Asie », alors que le fichier (2022_asie_norm_ec_4.docx) et le sujet officiel correspondent à Centres étrangers (sujet bis).",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

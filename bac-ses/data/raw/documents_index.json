@@ -992,22 +992,19 @@
     "spip_doc_id": 529,
     "official_url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
     "file_name": "24-sesj1g11_v1.docx",
-    "accessible": false,
-    "retrieved_via": null,
-    "retrieved_url": null,
-    "retrieved_at": null,
+    "accessible": true,
+    "retrieved_via": "wayback",
+    "retrieved_url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
+    "retrieved_at": "2026-10-11T17:24:31Z",
     "attempts": [
       {
         "via": "wayback",
         "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
-        "status": 404
-      },
-      {
-        "via": "wayback",
-        "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=529&cle=9332743769903319f1e6094ffaa558dc4475c1dea9058f90721fd2f98b381bd6&file=docx%2F24-sesj1g11_v1.docx",
-        "status": 404
+        "status": 200
       }
-    ]
+    ],
+    "text_chars": 20490,
+    "images": 1
   },
   "535": {
     "spip_doc_id": 535,
@@ -1081,6 +1078,27 @@
     "text_chars": 14470,
     "images": 3
   },
+  "775": {
+    "spip_doc_id": 775,
+    "official_url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=775&cle=eb214f4cad001f1a970f5f48240f36aed3c1638bb9c8579d8bedeef0e5888f70&file=pdf%2F24-sesj1as1_suj_v2.pdf",
+    "file_name": "24-sesj1as1_suj_v2.pdf",
+    "accessible": false,
+    "retrieved_via": null,
+    "retrieved_url": null,
+    "retrieved_at": null,
+    "attempts": [
+      {
+        "via": "wayback",
+        "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=775&cle=eb214f4cad001f1a970f5f48240f36aed3c1638bb9c8579d8bedeef0e5888f70&file=pdf%2F24-sesj1as1_suj_v2.pdf",
+        "status": 0
+      },
+      {
+        "via": "wayback",
+        "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=775&cle=eb214f4cad001f1a970f5f48240f36aed3c1638bb9c8579d8bedeef0e5888f70&file=pdf%2F24-sesj1as1_suj_v2.pdf",
+        "status": 0
+      }
+    ]
+  },
   "781": {
     "spip_doc_id": 781,
     "official_url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=781&cle=a49d2570c80e9e3b3deab948de1a8a98cd1a975c76a0a93e193a39a66c608c67&file=pdf%2F24-sesj2as1_suj_v1-3.pdf",
@@ -1121,22 +1139,19 @@
     "spip_doc_id": 792,
     "official_url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=792&cle=0ba9cfd539f351445491040f8071a6d165f2b6b9a8c3aef6e65e7ca6fcd7cb6a&file=docx%2F2022_metro_norm_oral_1-2.docx",
     "file_name": "2022_metro_norm_oral_1-2.docx",
-    "accessible": false,
-    "retrieved_via": null,
-    "retrieved_url": null,
-    "retrieved_at": null,
+    "accessible": true,
+    "retrieved_via": "wayback",
+    "retrieved_url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=792&cle=0ba9cfd539f351445491040f8071a6d165f2b6b9a8c3aef6e65e7ca6fcd7cb6a&file=docx%2F2022_metro_norm_oral_1-2.docx",
+    "retrieved_at": "2026-10-11T17:24:34Z",
     "attempts": [
       {
         "via": "wayback",
         "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=792&cle=0ba9cfd539f351445491040f8071a6d165f2b6b9a8c3aef6e65e7ca6fcd7cb6a&file=docx%2F2022_metro_norm_oral_1-2.docx",
-        "status": 0
-      },
-      {
-        "via": "wayback",
-        "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=792&cle=0ba9cfd539f351445491040f8071a6d165f2b6b9a8c3aef6e65e7ca6fcd7cb6a&file=docx%2F2022_metro_norm_oral_1-2.docx",
-        "status": 0
+        "status": 200
       }
-    ]
+    ],
+    "text_chars": 1891,
+    "images": 1
   },
   "837": {
     "spip_doc_id": 837,

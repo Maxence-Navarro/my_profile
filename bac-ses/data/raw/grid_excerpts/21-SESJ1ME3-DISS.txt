@@ -1,0 +1,135 @@
+# score de localisation : 0.821
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-remplacement-corrige-officiel.pdf
+
+                   DISSERTATION S’APPUYANT SUR UN DOSSIER
+                               DOCUMENTAIRE
+                              PROPOSITION DE CORRIGÉ
+Sujet : Comment le progrès technique favorise-t-il la croissance économique ?
+Programme officiel : Science économique
+
+ Questionnements              Objectifs d’apprentissage
+ Quels sont les sources et    - Comprendre le processus de croissance économique
+ les défis de la croissance   et les sources de la croissance : accumulation des
+ économique ?                 facteurs et accroissement de la productivité globale des
+                              facteurs ; comprendre le lien entre le progrès technique
+                              et l’accroissement de la productivité globale des
+                              facteurs.
+                              - Comprendre que le progrès technique est endogène
+                              et qu’il résulte en particulier de l’innovation.
+
+Exploitation possible des documents :
+
+ Document 1    -Selon les années et les pays, les sources de la croissance
+               contribuent différemment à la croissance économique.
+               -En France, en 2016, par exemple, si la contribution de la PGF à la
+               croissance du PIB est négative, en revanche, en 2017 et 2018, la
+               contribution de la PGF est la plus forte (plus de la moitié de la
+               croissance en 2017).
+               -On retrouve aussi cette forte contribution de la PGF à la croissance
+               dans les autres économies, certaines années, comme en Corée du
+               Sud, ou en Allemagne et au Japon,
+               -Si la PGF contribue fortement à la croissance du PIB, c’est parce
+               que la combinaison productive y est efficace, cela provient de la mise
+               en œuvre du progrès technique sous différentes formes (innovations
+               de procédés, ou organisationnelles par exemple).
+ Document 2    - Il existe une forte corrélation entre l’évolution de la productivité
+               horaire du travail et celle du PIB en France entre 1976 et 2016.
+               - En tendance, les taux de croissance des 2 variables baissent et sont
+               même négatifs certaines années (baisse du PIB en 1993, baisse de
+               la productivité et du PIB en 2009).
+               - En moyenne, quand la productivité augmente, le PIB augmente
+               (entre 1988 et 1990), à l’inverse, quand le taux de variation de la
+               productivité baisse, celui du PIB aussi (en 2009, il y a une évolution
+               négative pour les 2 variables).
+               - Les variations de la productivité horaire du travail expliquent donc
+               celles du PIB (lien de causalité) : la productivité horaire du travail
+               contribue donc à la croissance économique.
+ Document 3    - La part de la DIRD réalisée par les entreprises et les administrations
+               publiques, en %, est différente selon les économies : en Espagne, la
+               répartition est quasiment égale entre les entreprises et les
+               administrations publiques dans le total des dépenses, alors qu’en
+               Israël, la DIRD réalisée par les entreprises représentent 85% du total
+               et 15% par les administrations publiques.
+               - Pour l’ensemble des pays de l’OCDE, la répartition est la suivante :
+               70% pour les entreprises, et 30% pour les administrations publiques.
+
+
+
+21-SESJ1ME3 C                                                                Page : 1/9
+                La DIRD financée par les entreprises est un signe de dynamisme
+                économique.
+                - On retrouve ainsi les deux formes de la DIRD : la DIRD privée,
+                financée par les entreprises, et la DIRD publique, financée par les
+                administrations publiques, qui toutes les deux contribuent à la mise
+                en œuvre du progrès technique dans l’économie, en favorisant les
+                innovations, la PGF et in fine la croissance économique.
+                - Le progrès technique endogène accorde une importance
+                déterminante au rôle des dépenses de R&D réalisées par les agents
+                économiques, qui sont source d’externalités positives, à l’origine
+                d’une croissance autoentretenue.
+ Document 4     -Exemple du secteur du numérique : activités de services
+                (programmation et conseil en informatique par exemple).
+                -Secteur dynamique en termes d’emplois et d’utilisation des TIC qui
+                demande un haut niveau de qualification (activités de R&D par
+                exemple).
+                -Secteur où la main-d’œuvre est qualifiée (nombre élevé de
+                chercheurs) et où le capital humain contribue fortement à la
+                croissance économique et à la création d’entreprises.
+
+
+Problématique possible :
+Comment le progrès technique agit-il sur la croissance économique ? Par quels
+mécanismes les différentes formes du progrès technique favorisent-elles une
+croissance économique autoentretenue ?
+Proposition de plan détaillé :
+
+ 1) Le progrès technique constitue     2) Les différentes formes du progrès
+ une source essentielle de la          technique favorisent une croissance
+ croissance économique                 économique cumulative
+ A) La contribution de la PGF à la     A) Les dépenses de R&D stimulent
+ croissance économique                 l’innovation
+      Le rôle de la PGF dans la            Le rôle des dépenses de R&D
+        croissance (document 1) : dans        dans les gains de productivité
+        les économies présentées, la          (document 3) : importance de la
+        PGF est le premier contributeur       DIRD privée et publique dans la
+        de la croissance économique.          mise en œuvre du progrès
+      La corrélation entre l’évolution de    technique :     stimulation    des
+        la productivité horaire du travail et innovations, gains de productivité
+        celle du PIB (document 2) : la        et croissance.
+        productivité du travail suit le     Le       rôle   des     entreprises
+        rythme de la croissance du PIB, la    innovantes dans la croissance
+        productivité du travail est donc un   (document 4) : dans le secteur du
+        facteur        de        croissance   numérique, la mise en œuvre du
+        économique.                           progrès technique nécessite des
+                                              investissements     massifs     en
+                                              capital humain.
+ B) Le progrès technique favorise la   B) Le progrès technique est
+ croissance de la PGF                  endogène et favorise une croissance
+                                       autoentretenue
+     La croissance ne provient pas         L’accumulation des différentes
+       seulement de l’accumulation des        formes de capital (au titre du
+
+
+21-SESJ1ME3 C                                                             Page : 2/9
+        facteurs de production, il existe un        capital technique, public, humain
+        résidu de la croissance. La PGF             et des dépenses de R&D)
+        correspond à ce résidu qui                  renforce aussi la PGF en
+        mesure       l’efficacité    de    la       favorisant     les      externalités
+        combinaison productive : ces                positives, qui alimentent à leur
+        gains de productivité proviennent           tour le rythme de la croissance
+        de la mise en œuvre du progrès              économique.
+        technique,          incorporé     au       Le progrès technique favorise la
+        processus de production.                    croissance car il est endogène au
+       Les effets des différentes formes           processus       de       croissance
+        de l’innovation : les innovations de        économique :         le     progrès
+        procédés et organisationnelles              technique est mis en œuvre par
+        agissent directement sur la PGF             les acteurs économiques et
+        et donc sur la croissance                   émane      du     processus       de
+        économique.                                 croissance       lui-même.        La
+                                                    croissance est donc un processus
+                                                    cumulatif et autoentretenu.
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation académique, mais il ne doit pas être considéré comme
+une norme.

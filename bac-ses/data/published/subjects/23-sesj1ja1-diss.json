@@ -1,0 +1,69 @@
+{
+  "id": "23-SESJ1JA1-DISS",
+  "slug": "23-sesj1ja1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "23-SESJ1JA1",
+  "year": 2023,
+  "session": "normale",
+  "day": "J1",
+  "center": "Asie",
+  "question": "L'accumulation des facteurs de production permet-elle, à elle seule, d'expliquer la croissance économique ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Croissance du PIB (en pourcentage) et contributions à cette croissance (en *(source : D'après OCDE, 2022.)*\n- Document 2 — Évolution de la population active occupée (en milliers) *(source : OCDE, 2022.)*\n- Document 3 — Part des dépenses de recherche et développement en 2019 dans les pays de *(source : OCDE, Eurostat, 2021.)*\n- Document 4 — Article L611-1 *(source : Code la propriété intellectuelle, version en vigueur au 1 janvier 2020.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1",
+      "question": "Vous montrerez qu'en présence de bien commun, l'action publique pour l'environnement est contrainte par des stratégies de passager clandestin."
+    },
+    {
+      "part": "EC2",
+      "question": "Á l'aide des données du document, vous comparerez le salaire minimum et le taux de chômage de la France à ceux de la Bulgarie. / Á l'aide du document et de vos connaissances, vous montrerez que le salaire minimum peut av"
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que l'évolution de la structure socioprofessionnelle contribue à expliquer la mobilité sociale."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 23-SESJ1JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 124, 2023_asie_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=124&cle=0e44a0ab1b083c0674cab6e63b87085c7001a7156cdce4a6808890883ac4097d&file=docx%2F2023_asie_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Asie · 2023 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 124",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=124&cle=0e44a0ab1b083c0674cab6e63b87085c7001a7156cdce4a6808890883ac4097d&file=docx%2F2023_asie_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "23-SESJ1JA1C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 23-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.877) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

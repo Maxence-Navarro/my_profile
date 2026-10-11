@@ -1,0 +1,69 @@
+{
+  "id": "22-SESJ1ME3-EC3-A",
+  "slug": "22-sesj1me3-ec3-a",
+  "chapterId": "croissance",
+  "exerciseType": "EC3",
+  "variant": "A",
+  "examCode": "22-SESJ1ME3",
+  "year": 2022,
+  "session": "remplacement",
+  "day": "J1",
+  "center": "France métropolitaine",
+  "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez qu'il existe des limites écologiques à la croissance économique soutenable.",
+  "subQuestions": [],
+  "points": 10.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Évolution du PIB mondial, du PIB mondial par habitant et des émissions *(source : Banque Mondiale, 2020.)*\n- Document 2 — Les années 1970, avec les deux chocs pétroliers et la preuve d'une raréfaction d'un *(source : Bertrand HAMAIDE, Sylvie FAUCHEUX, Martin NEVE, Martin O'CONNOR,)*\n- Document 3 — Expansion des forêts et déforestation à l'échelle mondiale, 1990-2020 *(source : Organisation des Nations Unies pour l'alimentation et l'agriculture, 2020.)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Quels sont les effets de l'évolution des formes d'organisation du travail sur les conditions de travail ?"
+    },
+    {
+      "part": "EC1",
+      "question": "Présentez un moyen par lequel les pouvoirs publics peuvent contribuer à la justice sociale."
+    },
+    {
+      "part": "EC2",
+      "question": "À l'aide du document, caractérisez l'évolution de la structure socioprofessionnelle des femmes entre 1982 et 2020. / À l'aide de vos connaissances et du document, vous expliquerez deux évolutions de la structure sociopro"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1ME3 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-remplacement-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 378, 2022_metro_rplct_ec_1_9_.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=378&cle=afdf623daa200faed7db63d3d4401e16017311a1f35b972b2abeb0b5539292a9&file=docx%2F2022_metro_rplct_ec_1_9_.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC3 - Raisonnement sur dossier documentaire · Quels sont les sources et les défis de la croissance économique ? · France métropolitaine · 2022 · Remplacement."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 378",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=378&cle=afdf623daa200faed7db63d3d4401e16017311a1f35b972b2abeb0b5539292a9&file=docx%2F2022_metro_rplct_ec_1_9_.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Exercice reproduit à l'identique (question et dossier) dans le sujet B de la même épreuve (22-SESJ1ME3-EC3-B) : un seul exercice, recensé une fois.",
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ1ME3C",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-1-remplacement-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ1ME3 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.857) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

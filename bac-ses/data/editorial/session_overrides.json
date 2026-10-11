@@ -1,0 +1,25 @@
+{
+  "_doc": "Corrections manuelles des métadonnées de session. official_code n'est renseigné que s'il est imprimé sur un document officiel ; sinon id_prefix est un identifiant INTERNE (préfixe INT-).",
+  "spe-sciences-eco-sociales-2021-metropole-1": {
+    "official_code": null,
+    "id_prefix": "INT-21-ME-J1",
+    "note": "Aucun code officiel imprimé sur le PDF du sujet (session 2021, métropole, jour 1). Identifiant interne."
+  },
+  "spe-sciences-eco-sociales-2021-metropole-2": {
+    "official_code": null,
+    "id_prefix": "INT-21-ME-J2",
+    "note": "Aucun code officiel imprimé sur le PDF du sujet (session 2021, métropole, jour 2). Identifiant interne."
+  },
+  "spe-sciences-eco-sociales-2021-zero-1": {
+    "exclude": true,
+    "note": "Sujet zéro (exemple national publié avant la réforme) : pas un sujet d'examen. Exclu de l'inventaire des sujets tombés."
+  },
+  "spe-sciences-eco-sociales-2021-zero-2": {
+    "exclude": true,
+    "note": "Sujet zéro : pas un sujet d'examen. Exclu de l'inventaire."
+  },
+  "spe-sciences-eco-sociales-2023-amerique-sud-1": {
+    "official_code": "23-SESJ1AS1",
+    "note": "PDF du sujet scanné (pas de texte extractible). Code lu dans le corrigé officiel. Segmentation à faire à la main."
+  }
+}

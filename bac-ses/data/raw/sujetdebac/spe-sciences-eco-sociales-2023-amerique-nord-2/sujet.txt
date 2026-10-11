@@ -1,0 +1,414 @@
+                     BACCALAURÉAT GÉNÉRAL
+
+              ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                                  SESSION 2023
+
+
+
+          Sciences économiques et sociales
+                                           _____
+
+
+
+
+                                         JOUR 2
+
+
+
+                              Durée de l’épreuve : 4 heures
+
+
+
+
+              L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+
+              Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+                   Ce sujet comporte 9 pages numérotées de 1/9 à 9/9.
+
+
+
+
+     Le candidat traite au choix le sujet de dissertation ou l’épreuve composée.
+                          Il indique sur sa copie le sujet choisi.
+
+
+
+
+23-SESJ2AN1                Sujet retranscrit par www.sujetdebac.fr                Page : 1/9
+                Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+
+        - de répondre à la question posée par le sujet ;
+        - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+        - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet,
+        notammentcelles figurant dans le dossier ;
+        - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question
+        et en organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des
+        parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+                                                    SUJET
+
+                                    Ce sujet comporte quatre documents.
+
+
+                              Comment peut-on expliquer la mobilité sociale ?
+
+
+DOCUMENT 1
+
+
+     Décomposition de la mobilité sociale observée des hommespar rapport à leur père (en %)
+
+
+                                                     1977       1985         1993       2003       2015
+
+                  Immobilité sociale                 36,2       33,8         32,6       33,6       34,8
+               Mobilité sociale observée             63,8       66,2         67,4       66,4       65,2
+           -
+               Dont mobilité non verticale1          33,2       31,9         27,4       24,7       22,6
+                   Mobilité de statut                30,8       29,7         26,0       23,8       21,9
+                  Mobilité horizontale                2,4        2,2         1,4         0,9        0,8
+       -       Dont mobilité verticale2              30,6       34,3         40,0       41,7       42,6
+                 Mobilité ascendante                 23,5       26,6         30,3       30,8       27,6
+                 Mobilité descendante                 7,2        7,7         9,7        10,9       15,0
+
+    Part de la mobilité structurelledans la
+                                                     39,6       35,5         32,8       33,4       24,2
+      mobilité sociale observée (en %)
+
+Champ : France métropolitaine, hommes français actifs occupés ou anciens actifs occupés,âgés de 35
+à 59 ans.
+
+                                                                             Source : INSEE Première, 2019.
+
+
+
+
+23-SESJ2AN1                        Sujet retranscrit par www.sujetdebac.fr                     Page : 2/9
+1
+ La mobilité sociale est dite non verticale lorsqu’elle a lieu entre des catégories socioprofessionnelles
+difficilement hiérarchisables ; elle correspond soit à une mobilité de statut entre une catégorie de
+salariés et une catégorie de non-salariés, soit à une mobilité horizontale entre des catégories de non-
+salariés.
+2
+    La mobilité verticale correspond aux trajectoires entre catégories salariées.
+
+
+
+DOCUMENT 2
+
+
+    Diplôme le plus élevé obtenu selon le diplôme des parents et l’origine sociale en 2014-2015 (en %)
+
+
+
+                                                                                       Catégorie
+                                   Diplôme le plus élevé des parents
+                                                                              socioprofessionnelle du père
+
+                                                                                                 Cadre,
+                                                                                               profession
+                               Peu ou pas      Diplôme du     Diplôme du     Employé ou      intellectuelle
+                               de diplôme1     secondaire      supérieur       ouvrier      supérieure ou
+                                                                                               profession
+                                                                                            intermédiaire
+
+          Aucun diplôme,
+         certificat d’études
+                                   23,9            8,2             3,8              17,9         5,4
+        primaires ou brevet
+            des collèges
+
+            CAP, BEP ou
+                                   27,0            21,0            5,4              28,6         10,3
+            équivalent2
+
+       Baccalauréat, brevet
+         professionnel ou          21,7            25,9           12,7              23,0         18,9
+            équivalent
+
+            Diplôme du
+          supérieur court          14,6            22,0           20,3              16,0         23,2
+          (niveau bac +2)
+
+        Diplôme de niveau
+                                    8,1            12,9           23,7              9,2          19,1
+         bac +3 oubac +4
+
+        Diplôme de niveau
+                                    4,8            10,0           34,1              5,4          23,2
+          bac +5 ouplus
+
+
+             Ensemble              100             100            100               100          100
+
+
+Champ : France métropolitaine, personnes âgées de 25 à 44 ans.
+
+
+                                                  Source : France, portrait social, INSEE Références, 2021.
+
+
+23-SESJ2AN1                       Sujet retranscrit par www.sujetdebac.fr                      Page : 3/9
+Lecture : 23,9 % des personnes de 25 à 44 ans dont les parents ont peu ou pas de diplôme n’ont elles-
+mêmes aucun diplôme ou seulement le certificat d’études primaires ou le brevet des collèges en 2014-
+2015.
+
+1
+    Les parents n’ont pas de diplôme ou ont le certificat d’études primaires ou le brevet des collèges.
+2
+    CAP : Certificat d’aptitude professionnelle ; BEP : Brevet d’études professionnelles.
+
+
+
+
+DOCUMENT 3
+
+
+              Catégorie socioprofessionnelle des personnes en emploi de 1982 à 2020 (en %)
+
+
+
+
+Champ : France hors Mayotte.
+
+                                                                             Source : INSEE Références, 2021.
+
+
+
+
+23-SESJ2AN1                        Sujet retranscrit par www.sujetdebac.fr                       Page : 4/9
+DOCUMENT 4
+
+
+Revenu disponible, niveau de vie1 et pauvreté selon la configuration familialeet le nombre d’enfants
+                                             en 2018
+
+
+
+                                                  Revenu            Niveau de vie1
+                                                 disponible           médian des
+                                                                                     Taux de pauvreté
+                                                 moyen du            individus du
+                                                                                          (en %)
+                                                 ménage (en          ménage (en
+                                                   euros)               euros)
+
+    Famille monoparentale avec un enfant            28 060                17 670            22,7
+
+    Famille monoparentale avec deux
+    enfants ou plus                                 31 100                13 930            41,8
+
+
+    Couple avec un enfant                           52 360                24 280            9,1
+
+
+    Couple avec deux enfants                        58 180                22 730            9,6
+
+
+    Couple avec trois enfants ou plus               57 670                17 640            23,3
+
+
+Champ : France métropolitaine, personnes vivant dans un ménage dont le revenu déclaré estpositif ou
+nul et dont la personne de référence n’est pas étudiante.
+
+
+
+                                             Source : INSEE, Revenus et patrimoine des ménages, 2021.
+
+
+1
+ Le niveau de vie correspond au revenu disponible des ménages, rapporté au nombre d’unités de
+consommation, c’est-à-dire en tenant compte de la taille et de la composition des ménages.
+2
+ Pourcentage de la population dont le niveau de vie est inférieur au seuil de pauvreté, fixé à 60 % du
+niveau de vie médian.
+
+
+
+
+23-SESJ2AN1                     Sujet retranscrit par www.sujetdebac.fr                   Page : 5/9
+                                       ÉPREUVE COMPOSÉE
+
+Cette épreuve comprend trois parties :
+
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en
+faisant appel à ses connaissances acquises dans le cadre du programme.
+
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant
+ses connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l'information.
+
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiterle
+sujet :
+
+          - en développant un raisonnement ;
+          - en exploitant les documents du dossier ;
+          - en faisant appel à ses connaissances personnelles ;
+          - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Montrez comment les droits de propriété influent sur la croissance économique.
+
+
+
+
+23-SESJ2AN1                      Sujet retranscrit par www.sujetdebac.fr                       Page : 6/9
+Deuxième partie : Étude d’un document (6 points)
+
+
+    Utilisation d’Internet et pratiques culturelles selon le sexe et l’âge en 2018-2019 (part en %)
+
+
+                                                      16-24       25-39     40-59    60 ans
+                                Femmes Hommes                                                Ensemble
+                                                       ans         ans       ans     ou plus
+
+               Part des personnes ayant utilisé Internet au cours des trois derniers mois
+
+   Tous les jours ou presque        70         73        93          90       78        43          71
+
+     Au moins une fois par
+                                    9          9          3          6        11        12          9
+          semaine
+
+      Moins d’une fois par
+                                    8          7          4          3         7        12          7
+           semaine
+
+              Jamais                13         11         1          1         4        33          12
+
+                       Part des personnes ayant au moins une fois dans l'année...
+
+         été au cinéma              64         60        83          74       65        42          62
+
+     assisté à un spectacle
+    vivant (concert, théâtre,       51         46        52          54       54        38          49
+              etc.)
+     visité un musée, une
+       exposition ou un             43         43        45          46       47        37          43
+     monument historique
+
+                Part des personnes ayant lu un livre (hors bande dessinée) dans l'année
+
+       Au moins un livre            71         53        58          60       65        62          62
+
+    Dont au moins six livres        43         27        29          30       36        40          35
+
+Champ : France métropolitaine, personnes âgées de 16 ans ou plus résidant en ménage ordinaire.
+
+
+
+                                                              Source : France, portrait social, INSEE, 2021.
+
+
+Questions :
+
+   1. À l’aide des données du document, vous montrerez que la pratique de la lecture est corrélée à
+      l’âge et au sexe. (2 points)
+
+
+   2. À l’aide des données du document et de vos connaissances, vous montrerez que la position dans
+      le cycle de vie est un facteur de structuration et de hiérarchisation de l’espace social. (4 points)
+
+
+
+23-SESJ2AN1                     Sujet retranscrit par www.sujetdebac.fr                         Page : 7/9
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+
+                                  Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez que les institutions
+ont des effets positifs et négatifs sur le chômage structurel.
+
+
+DOCUMENT 1
+
+
+           Indice de protection de l’emploi et taux de chômage en % (moyenne 2002-2016)
+
+
+
+
+                  Source : « Protection de l’emploi et chômage », Flash Économie, Natixis, 18 avril 2016.
+
+
+Note : L’indice OCDE de protection de l’emploi mesure les procédures et les coûts qu’impliquent le
+licenciement et le recrutement de travailleurs. Il varie de 0 à 6 (6 étant le plus haut niveau de protection).
+
+
+
+
+23-SESJ2AN1                      Sujet retranscrit par www.sujetdebac.fr                         Page : 8/9
+DOCUMENT 2
+
+Quand on introduit ou augmente le salaire minimum, […] certaines entreprises embaucheront moins
+qu’elles ne l’auraient fait (ou suppriment des emplois) - c’est enquelque sorte l’effet direct coût du
+travail […].
+
+Des études […] qui ont analysé de façon approfondie une grande chaîne de distribution, ont pu déceler
+dans certains cas un effet positif des hausses du salaire minimum en termes d’incitation, ce qui renvoie
+au mécanisme de « salaire d’efficience » selon lequel le salaire peut avoir un effet positif sur la
+productivité. Mais les entreprises peuvent aussi essayer d’accroître la productivité face à une
+augmentation du salaire minimum simplement en exigeant davantage de leurs salariés : en intensifiant
+le travail (accroissement des cadences, réduction des temps de pause), en fixant des objectifs plus
+exigeants, etc. C’est ce que constatent par exemple les auteurs d’une étude comparative de l’impact du
+salaire minimum dans les fast-foods en Alabama et en Géorgie.
+
+De façon plus positive, une augmentation du salaire minimum peut inciter les entreprises à accroître la
+productivité de leurs salariés en les formant davantage. Cela suppose que les entreprises n’essayent pas
+de compenser une hausse du salaire minimum par des baisses de dépense de formation.
+
+                                         Source : Jérôme GAUTIÉ, Le salaire minimum et l’emploi, 2020.
+
+
+
+
+DOCUMENT 3
+
+
+Compte tenu du fait que la mobilité est particulièrement basse chez les femmes avec enfants, il nous
+semble qu’une piste intéressante consisterait à renforcer les aides à la garde d’enfants. […] Des
+partenariats avec des haltes-garderies où un parent aurait la possibilité de déposer son enfant le temps
+d’aller passer un entretien d’embauche pourraient constituer une solution d’urgence décisive pour
+l’avenir professionnel du parent […].
+
+Les analyses des zones franches urbaines (ZFU) françaises suggèrent aussi une efficacité limitée des
+politiques de l’emploi très géographiquement ciblées. Les ZFU ont été créées en 1996. Ce sont des zones
+où se concentrent les problèmes de pauvreté et de chômage et dans lesquelles les entreprises de moins
+de 50 employés bénéficient pendant au moins cinq ans d’exemptions1 fiscales et d’exonérations de
+cotisations sociales. Ces incitations ont eu un effet globalement positif sur l’emploi local grâce à
+l’implantation de nouvelles entreprises, mais, dans les zones voisines, l’emploi a diminué […].
+
+Les politiques locales d’incitation fiscale à la création d’emplois gagneraient probablement à être
+couplées à des programmes de formation intensive des chômeurs locaux.
+
+
+                  Source : Alexandra ROULET, Améliorer les appariements sur le marché du travail, 2018.
+
+1
+    Dispenses de payer des impôts.
+
+
+
+
+23-SESJ2AN1                     Sujet retranscrit par www.sujetdebac.fr                     Page : 9/9
+

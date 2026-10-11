@@ -1,0 +1,353 @@
+       BACCALAURÉAT GÉNÉRAL
+
+      ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+                            SESSION 2026
+
+
+
+ Sciences économiques et sociales
+
+
+      ÉPREUVE DU MARDI 8 SEPTEMBRE 2026
+
+                          Durée de l'épreuve : 4h00
+
+
+
+            L’usage de la calculatrice et du dictionnaire n’est pas autorisé
+
+
+
+              Dès que le sujet est remis, assurez-vous qu'il est complet.
+
+              Ce sujet comporte 10 pages numérotées de 1/10 à 10/10.
+
+
+
+
+    Le candidat traite au choix le sujet de dissertation ou l’épreuve composée.
+
+                       Il indique sur sa copie le sujet choisi.
+
+
+
+
+26-SESJ1ME3                               1/10
+               Dissertation s’appuyant sur un dossier documentaire
+
+
+Il est demandé au candidat :
+     - de répondre à la question posée par le sujet ;
+     - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+     - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+         figurant dans le dossier ;
+     - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+         organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+                                                   SUJET
+
+                                 Ce sujet comporte quatre documents.
+
+Les inégalités de revenus sont-elles le seul défi posé par la croissance économique ?
+
+
+
+DOCUMENT 1
+
+   Évolution du PIB et du coefficient de Gini (après impôts et prestations sociales),
+                                       en France
+
+
+
+
+                                                                                 Coefficient de Gini
+                                                                                 (échelle de droite)
+
+
+  Source : d’après « Les inégalités en France en 2025 », www.lafinancepourtous.com, 19 juin 2025.
+
+
+
+
+26-SESJ1ME3                                           2/10
+DOCUMENT 2
+
+                     Revenu salarial annuel moyen, en France, en 2021
+
+                                                       Salaire annuel
+                                Revenu salarial                                  Volume de travail
+                                                     moyen en équivalent
+   Caractéristiques             annuel moyen                                   moyen en équivalent
+                                                        temps plein
+                                  (en euros)                                    temps plein (en %)
+                                                         (en euros)
+   Niveau de diplôme
+
+   Diplôme supérieur à
+   bac+2                             38 870                  44 940                      87
+
+   Bac+2                             27 490                  32 510                      85
+
+   Baccalauréat                      21 650                  26 900                      80
+
+   CAP, BEP ou moins                 18 600                  24 690                      75
+
+   Sans diplôme                      15 650                  22 620                      69
+
+   Catégorie
+   socioprofessionnelle
+
+   Cadres et chefs
+   d’entreprise salariés             43 000                  50 050                      86
+
+   Professions
+   intermédiaires                    23 940                  29 590                      81
+
+   Employés                          14 530                  22 350                      65
+
+   Ouvriers                          16 040                  22 680                      71
+
+   Ensemble                          22 420                  30 290                      74
+
+Lecture : En 2021, les employés ont un salaire annuel moyen en équivalent temps plein de 22 350
+euros et travaillent en moyenne 65 % d’un temps plein annuel. Ils perçoivent ainsi un revenu salarial
+moyen de 14 530 euros sur l’année.
+
+Champ : France hors Mayotte, tous salariés hors apprentis, stagiaires, élus, salariés de l’agriculture
+et particuliers-employeurs.
+
+                    Source : d’après INSEE Références, France, portrait social, 21 novembre 2024.
+
+
+
+
+26-SESJ1ME3                                      3/10
+DOCUMENT 3
+
+                     Évolution des émissions de CO2 (en Mt éq. CO2)1
+              et du PIB nominal (en milliards de dollars US) dans le monde,
+                                    entre 1970 et 2023
+
+
+
+
+                          Émissions de CO2 (Mt éq. CO2) (Axe de droite)
+                          PIB nominal (en milliards de dollars US) (Axe de gauche)
+
+                                          Source : d’après https://banquemondiale.org, 16 juin 2025.
+
+1 : Émissions de CO2 (en Mt éq. CO2) : émissions de dioxyde de carbone, à l'exclusion de l'utilisation
+des terres, du changement d'affectation des terres et des forêts, en millions de tonnes équivalent CO2.
+
+
+
+
+26-SESJ1ME3                                      4/10
+DOCUMENT 4
+
+       Dans le gyre1 subtropical du Pacifique Nord, siège du […] « continent de plastique »,
+la concentration de débris en plastique de petite taille a flambé, révèle une étude de l’ONG
+The Ocean Cleanup publiée mardi 19 novembre dans la revue Environmental Research
+Letters. On pouvait trouver dans cette zone, qui couvre six fois la superficie de la France,
+jusqu’à 10 millions de microparticules par km2 en 2022, soit dix fois plus qu’en 2015.
+       « Ces données ont été collectées grâce à nos opérations de nettoyage en mer »,
+précise Laurent Lebreton, responsable de la recherche à l’ONG et premier auteur de l’étude.
+[…]
+       Les résultats montrent qu’au sein du vortex2, la concentration massique de fragments
+en plastique de moins de 5 centimètres – ce qui comprend les microplastiques de 0,5
+millimètre à 5 millimètres et les mésoplastiques de 5 millimètres à 5 centimètres – est passée
+d’une moyenne de 2,9 kg par km2 en 2015 à 14,2 kg par km2 en 2022. Leur nombre aussi a
+augmenté de façon significative. […]
+       « Les grands déchets sont ceux qui attirent le plus le regard, mais aujourd’hui, ce qui
+inquiète le plus les scientifiques, ce sont les microplastiques et les nanoplastiques3, car ils
+peuvent entrer dans les organes et s’accumuler petit à petit dans la chaîne alimentaire »,
+souligne le chercheur, rappelant que nombre d’additifs présents dans ces particules
+présentent des « effets toxiques ». « On considère que l’océan est vraiment en danger, car
+plus les fragments sont petits, plus ils ont tendance à couler, ce qui signifie que toute la
+colonne d’eau va être perturbée », avertit-il.
+[…]
+       « Cela confirme l’hypothèse d’une pollution plastique flottante à longue durée de
+vie dans les milieux aquatiques mondiaux, qui s’est lentement dégradée et a été transportée
+vers le North Pacific Garbage Patch, souligne Laurent Lebreton. Il peut s’écouler plusieurs
+décennies entre le moment où les déchets sont rejetés et celui où ils s’accumulent sous forme
+de microplastiques dans [cette zone] … La pollution observée actuellement pourrait donc être
+le résultat de l’explosion de la production plastique au début de ce siècle ».
+
+ Source : d’après Sylvie BURNOUF, « Le « continent de plastique » du Pacifique Nord accumule de
+                                plus en plus de déchets », www.lemonde.fr, 22 novembre 2024.
+
+1 : Gyre : tourbillon marin à l'échelle d'un bassin océanique.
+2 : Vortex : tourbillon d’eau.
+3 : Nanoplastiques : la taille des nanoplastiques est inférieure (de 1 millième) à celle des
+microplastiques.
+
+
+
+
+26-SESJ1ME3                                  5/10
+                                          Épreuve composée
+
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en faisant
+appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé aux candidats de répondre aux questions en mobilisant ses
+connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter le
+sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez que les asymétries d’information sur le marché du travail sont une source de
+chômage structurel.
+
+
+
+
+26-SESJ1ME3                                            6/10
+Deuxième partie : Étude d’un document (6 points)
+
+ Appréciation de sa propre profession par comparaison avec celle de son père (en %)
+
+
+
+
+* Cadres et assimilés : Cadres, professions intellectuelles supérieures et chefs d’entreprise de 10
+salariés ou plus.
+
+Champ : France métropolitaine, personnes de 30 à 59 ans.
+
+Source : d’après Tiaray RAZAFINDRANOVONA, « Malgré la progression de l’emploi qualifié, un quart
+des personnes se sentent socialement déclassées par rapport à leur père », Insee première, Enquête
+                       Formation et Qualification Professionnelle 2014-2015, n° 1659, 12 juillet 2017.
+
+Lecture : Un peu plus de 20 % des agriculteurs exploitants considèrent que le niveau ou le statut de leur
+profession est plus bas ou bien plus bas que celui de leur père. Un peu moins de 15 % des personnes
+dont le père fut agriculteur exploitant considèrent que le niveau ou le statut de leur profession est plus
+bas ou bien plus bas que celui de leur père.
+
+
+Questions :
+
+   1. À l'aide des données du document et d’un calcul simple, vous caractériserez les quatre
+      types de réponse d’une personne dont la « profession du père » est « cadres et
+      assimilés ». (2 points)
+
+   2. À l’aide du document et de vos connaissances, vous montrerez qu’il existe des limites
+      aux tables de mobilité comme instrument de mesure de la mobilité sociale. (4 points)
+
+
+
+
+26-SESJ1ME3                                       7/10
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                             Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous montrerez les
+effets du numérique sur le travail et l’emploi.
+
+DOCUMENT 1
+
+        L'ubérisation fait son apparition pour la première fois dans le dictionnaire Le Petit
+Larousse 2017, qui le définit comme la « remise en cause du modèle économique d'une
+entreprise ou d'un secteur d'activité par l'arrivée d'un nouvel acteur proposant les mêmes
+services à des prix moindres, effectués par des indépendants plutôt que des salariés, le plus
+souvent via des plates-formes de réservation sur Internet ».
+        Il s'agit d'un processus économique qui, grâce aux nouvelles technologies
+numériques, contourne les secteurs classiques de l'économie en créant un nouvel
+intermédiaire, qui met en relation directe les utilisateurs et les prestataires, sous la forme
+d'une plateforme numérique. […]
+        L'ubérisation remet en cause le salariat comme norme. Les prestataires effectuent des
+« missions », ils sont rémunérés à la tâche. On parle de « revenu », de « chiffre d'affaires »
+et non plus de « salaire ». […]
+Si le travail indépendant permet davantage de liberté dans l'organisation de son temps de
+travail, il est aussi vecteur d'incertitudes et d'insécurité. La précarisation des indépendants
+« ubérisés », qui ne bénéficient pas des protections liées au statut de salarié, est
+régulièrement dénoncée. […]
+        Les critiques dénoncent également un « salariat déguisé » qui accentuerait la sous-
+traitance et serait un moyen pour les entreprises de se libérer des charges patronales en
+employant de la main-d'œuvre bon marché. La sociologue Sarah Abdelnour montre dans son
+étude « Moi, petite entreprise. Les auto-entrepreneurs, de l'utopie à la réalité » (2017), que
+ce sont souvent les employeurs qui imposent à leurs (potentiels) salariés l'installation sous le
+régime d'auto-entrepreneur.
+        La Cour de Cassation a jugé en 2020 que les chauffeurs Uber n'étaient pas des
+indépendants, mais des salariés, notamment en raison du lien de subordination1 auquel ils
+sont soumis : le chauffeur ne choisit pas l'itinéraire, il ne fixe pas ses tarifs… Les chauffeurs
+sont donc lésés, car ils devraient recevoir les avantages accordés par le droit du travail :
+congés payés, protection de la santé par l'employeur, indemnités de licenciement et
+chômage. De même, Deliveroo a été condamné en 2022 pour travail dissimulé, en imposant
+à ses livreurs d'être indépendants alors que leurs tâches relèvent du salariat.
+
+                 Source : « Qu’est-ce que l’ubérisation ? », www.vie-publique.fr, 10 septembre 2025.
+
+1 : Lien de subordination : situation dans laquelle une personne travaille sous l’autorité d’une autre.
+
+
+
+
+26-SESJ1ME3                                      8/10
+DOCUMENT 2
+
+Part des employés (18-64 ans) qui travaillent habituellement ou occasionnellement à
+                    domicile, en France, de 2018 à 2023 (en %)
+
+
+
+
+Source : Sheelah DELESTRE, « Le travail en télétravail et en hybride en France - Faits et chiffres »,
+                                                               https://fr.statista.com, 23 avril 2025.
+
+
+Note :
+- « Habituellement » correspond à des employés travaillant depuis chez eux au moins 3 jours par
+semaine.
+- « Occasionnellement » correspond à des employés travaillant depuis chez eux uniquement un jour
+par semaine.
+
+
+
+
+26-SESJ1ME3                                     9/10
+DOCUMENT 3
+
+Projection de l’expansion1 de certains métiers entre 2019 et 2030 (en % et en milliers)
+
+
+
+
+Champ : France métropolitaine.
+
+Lecture : En 2030, il y aurait 115 000 postes d’ingénieurs de l’informatique en plus, soit une hausse
+de 26% par rapport à 2019.
+
+     Source : d’après Jean-Christophe SCIBERRAS, Cécile JOLLY, Jean FLAMAND, Boris LE HIR,
+      Martin REY, Alexis EIDELMAN, Camille COUSIN, Aurore DESJONQUERES, « Métiers 2030 -
+   Rapport du groupe Prospective des métiers et qualifications », DARES et France Stratégie, 2022.
+
+1 : Expansion : accroissement, essor.
+
+
+
+
+26-SESJ1ME3                                     10/10
+

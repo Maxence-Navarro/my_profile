@@ -1,0 +1,318 @@
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+                      PROPOSITION DE CORRIGÉ
+
+
+Sujet : Comment expliquer les difficultés des politiques économiques qui agissent
+sur la conjoncture en zone euro ?
+
+Programme officiel :
+Science économique
+
+
+
+Questionnement       Objectifs d’apprentissage
+Quelles politiques   - Connaître les grandes caractéristiques de l’intégration
+économiques dans     européenne (marché unique et zone euro) ; comprendre les
+la cadre             effets du marché unique sur la croissance.
+européen ?           - Comprendre comment la politique monétaire et la politique
+                     budgétaire agissent sur la conjoncture.
+                     - Savoir que la politique monétaire dans la zone euro, conduite
+                     de façon indépendante par la Banque centrale européenne, est
+                     unique alors que la politique budgétaire est du ressort de
+                     chaque pays membre mais contrainte par les traités européens
+                     ; comprendre les difficultés soulevées par cette situation (défaut
+                     de coordination, chocs asymétriques).
+
+
+
+Exploitation possible des documents :
+ Document 1 Ce document met en évidence la grande hétérogénéité des pays
+              membres de la zone euro au regard du respect d’un critère du Pacte
+              de stabilité et de croissance. Les niveaux ainsi que les évolutions des
+              dettes publiques sont très différents dans les pays représentés sur ce
+              graphique. Alors que la dette publique grecque représente 100 % de
+              son PIB en 2004, elle en représente 170 % environ en 2022, soit une
+              hausse de 70 %. A l’inverse, alors que la dette publique du Danemark
+              représente 48 % de son PIB environ en 2004, elle a diminué de 18
+              points environ pour atteindre 30 % du PIB danois en 2022. Ainsi, le
+              poids de la dette publique rapporté au PIB est près de 6 fois plus élevé
+              en Grèce qu’au Danemark. Une très grande hétérogénéité des
+              situations conjoncturelles et des enjeux des pays s’observe donc.
+ Document 2 Le document 2 met en évidence le plus ou moins grand respect des
+              critères d’un autre critère du Pacte de stabilité selon les pays. Alors
+              que les soldes publics de certains pays de la zone euro sont
+              excédentaires, d’autres sont déficitaires au-delà de la limite des 3 %
+              du PIB fixée par le Traité de Maastricht puis par le Pacte de stabilité
+              et de croissance. C’est en particulier le cas des pays de sud de la
+              zone euro et de la France en 2022.
+ Document 3 Ce document illustre la diversité des situations conjoncturelles des
+              pays de la zone euro au regard de différents critères en 2022.
+              La Grèce, l’Espagne ou encore l’Italie ont un taux de chômage
+24-SESJ2JA1C                                                                Page 1 sur 7
+            beaucoup plus élevé que l’Allemagne ou les Pays-Bas.
+            En revanche, en 2022, le taux de croissance réel de pays comme
+            l’Espagne et la Grèce est plus élevé que celui de la moyenne des
+            pays. L’Allemagne et la Lituanie ont des taux de croissance réels très
+            faibles.
+            Les taux d’inflation sont hétérogènes et dépassent largement la limite
+            d’un taux d’inflation moyen à 2 % pour la zone euro fixé par la BCE.
+            Les prix ont augmenté en moyenne de 8,4 % en zone euro en 2022.
+            Là encore, on observe de forts différentiels d’inflation selon les pays
+            puisque le taux d’inflation lituanien est plus du triple du taux français.
+ Document 4 Ce document illustre l’évolution du taux d’intérêt directeur depuis
+            2008. Entre l’après-crise de 2008 et 2022, la BCE a eu une politique
+            de détente monétaire : le taux d’intérêt directeur a baissé fortement
+            pour devenir nul courant 2016 jusqu’en 2022. Depuis lors, la BCE a
+            inversé la tendance et ne cesse de durcir sa politique monétaire. Les
+            taux d’intérêt augmentent très fortement pour atteindre 3,75 %
+            environ courant 2023.
+
+Problématique possible :
+
+Pourquoi les politiques économiques conjoncturelles, qu’elles soient monétaires ou
+budgétaires, se heurtent-elles à des difficultés en zone euro ? En quoi les spécificités
+de leur conduite dans la zone euro peut-elle être à l’origine de difficultés particulières ?
+
+
+Proposition de plan détaillé :
+ I) Les difficultés rencontrées par les        II) … et par le manque d’outils dont
+ politiques économiques s’expliquent           disposent les États pour faire face à
+ par des problèmes de coordination...          l’hétérogénéité de la zone et
+                                               notamment à un choc asymétrique.
+ A) Une politique monétaire unique             A) La politique monétaire unique ne
+ menée par la BCE.                             peut pas répondre à un choc
+                                               asymétrique.
+ •        La politique monétaire consiste en    •      Un choc asymétrique est une
+ un contrôle de la masse monétaire par          perturbation qui ne touche qu’un seul
+ les taux d’intérêt directeurs (document        pays d’une zone monétaire. Or les
+ 4), et varie surtout suivant le risque         conjonctures sont très différentes d’un
+ inflationniste.                                pays de la zone à l’autre (document 3).
+ •        La BCE a pour objectif prioritaire    •      En cas de choc asymétrique
+ la stabilité des prix fixé en fonction de      récessif dans un seul pays la BCE n’a
+ l’inflation moyenne de la zone même si         pas la possibilité de fixer une politique
+ les taux d’inflation sont très différents      monétaire ou une politique de change
+ (document 3).                                  spécifique.
+ •        La BCE fixe aussi ses taux
+ directeurs de façon à ne pas nuire à la
+ croissance de la zone, qui connaît des
+ rythmes contrastés d’un pays à l’autre,
+ tout comme le taux de chômage
+ (document 3).
+ B) Des politiques budgétaires des B) Les États sont contraints dans leur
+24-SESJ2JA1C                                                                   Page 2 sur 7
+ États qui peuvent induire des défauts politique budgétaire, notamment pour
+ de coordination.                             affronter un choc asymétrique.
+ •        La politique budgétaire consiste à •       La politique budgétaire est le seul
+  utiliser les dépenses ou les recettes instrument qui permet de faire face à un
+  publiques pour agir sur la demande choc asymétrique, mais elle est
+  globale. Ces politiques expliquent des contrainte.
+  soldes publics différents (document 2).     •      Les traités européens, fixent des
+ •        Un risque de problèmes de limites au déficit public (3 % du PIB) et à
+  coordination entre la politique monétaire la dette publique (60 % du PIB),
+  unique et les politiques budgétaires des contraignant les politiques de relance
+  États : par exemple un État peut mettre des États. (Documents 1 et 2). Les
+  en œuvre une politique budgétaire de règles son peu flexibles ; elles limitent
+  relance, alors que la politique monétaire les déficits publics et contraignent les
+  menée par la BCE est restrictive.           États à se désendetter lorsqu’ils
+ •        Un risque de problèmes de dépassent le seuil de 60 % du PIB.
+  coordination entre les différentes •               Les États de la zone euro usent
+  politiques budgétaires des États. Les toutefois de leur politique budgétaire
+  États peuvent aussi se comporter en librement lorsqu’ils le jugent nécessaire
+  passagers clandestins et attendre que comme le montrent les déficits de
+  leurs partenaires relancent l’activité dans certains pays (document 2) et les
+  la zone euro.                               trajectoires      d’endettement     public
+                                              (document 1).
+NB : Un plan articulant les parties sur l’opposition politique budgétaire / monétaire et
+les sous-parties sur coordination / choc asymétrique est aussi efficace.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ2JA1C                                                                Page 3 sur 7
+                             ÉPREUVE COMPOSÉE
+                           PROPOSITION DE CORRIGÉ
+
+Première partie : Mobilisation des connaissances
+
+Question : Vous montrerez que la différenciation des produits peut expliquer le com-
+merce entre pays comparables. (4 points).
+
+Science économique
+Quels sont les fondements du commerce international et de l’internationalisation de
+la production ?
+
+Réponse possible :
+La différenciation des produits explique l’augmentation des échanges entre pays com-
+parables. En effet, les firmes proposent des produits différents de ceux de leurs con-
+currents (taille, forme, couleur, design...) mais de qualité et prix comparables.
+Cela s’explique par les différences de goût des consommateurs. Une gamme éten-
+due de variétés permet de s’approcher du produit souhaité par chaque consomma-
+teur.
+Même si deux nations se caractérisent par des dotations factorielles et technologiques
+proches, elles ont intérêt à échanger parce que le commerce international augmente
+la satisfaction des consommateurs en mettant à leur disposition une diversité plus im-
+portante de biens et services.
+
+
+Deuxième partie (6 points) : Étude d’un document
+Science économique
+Quelles sont les sources et les défis de la croissance économique ?
+
+Question 1 : À l’aide des données du document, vous comparerez les contributions à
+la croissance en France et aux États-Unis. (2 points)
+
+Réponse possible :
+Les contributions à la croissance de la France et des États-Unis présentent des points
+communs et des différences.
+Tout d’abord, pour les deux pays, selon l’OCDE (2022), la source principale de la
+croissance est l’accumulation de facteur travail. Ainsi, en France, le PIB a augmenté
+de 6,8 % en 2021 par rapport à l’année précédente et l’augmentation du facteur travail
+contribue pour 5,9 points de pourcentage à cette croissance. L’augmentation du
+facteur travail explique donc la quasi-totalité de la croissance du PIB en France. Aux
+États-Unis, cette accumulation du facteur travail explique plus de la moitié de la
+croissance du PIB. De plus, dans les deux pays, l’accumulation du facteur capital a
+contribué à 0,8 points de la croissance du PIB de 2021.
+
+Par ailleurs, l’augmentation de la productivité globale des facteurs constitue la
+principale différence entre les deux pays : alors qu’en France, la productivité n’a
+généré aucune croissance du PIB, aux États-Unis, la PGF a permis de générer 1,6
+points des 5,9 % de croissance du PIB.
+
+
+
+24-SESJ2JA1C                                                              Page 4 sur 7
+Question 2 : À l’aide de vos connaissances et du document, vous distinguerez les
+sources de la croissance des pays observés. (4 points)
+
+Réponse possible :
+Les sources de la croissance sont l’accumulation des facteurs (travail et capital) et et
+l’accroissement de la productivité globale des facteurs. Ces différentes sources jouent
+de façon différente dans les pays présentés par le document.
+Tout d’abord, il est possible d’identifier des pays où la croissance ne repose pas
+essentiellement sur l’augmentation des facteurs de production et s’explique donc en
+grande partie par l’accroissement de la productivité globale des facteurs. C’est
+notamment le cas de pays tels que l’Allemagne et, dans une moindre mesure, le
+Danemark. En effet, en Allemagne, le PIB a augmenté de 2,6 % en 2021 par rapport
+à l’année précédente et la productivité globale des facteurs explique à elle seule 1
+point de pourcentage de ce taux de croissance.
+Par ailleurs, certains pays ont une croissance qui repose davantage sur l’accumulation
+des facteurs de production. Par exemple, en France, le PIB a augmenté de 6,8 % en
+2021 par rapport à l’année précédente. Or, cette croissance n’est due en rien à la
+productivité globale des facteurs dont la contribution a été nulle en 2021.
+
+
+
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+Sujet : Á l’aide de vos connaissances et du dossier documentaire, vous montrerez que
+l’évolution des formes d’organisation du travail a des effets positifs et négatifs sur les
+conditions de travail.
+
+Programme officiel :
+Sociologie et science politique
+Questionnement     Objectifs d’apprentissage
+Quelles mutations - Comprendre les principales caractéristiques des modèles
+du travail et de   d’organisation taylorien (division du travail horizontale et
+l’emploi ?         verticale, relation hiérarchique stricte) et post-taylorien
+                   (flexibilité, recomposition des tâches, management participatif)
+                   ; comprendre les effets positifs et négatifs de l’évolution des
+                   formes de l’organisation du travail sur les conditions de travail.
+
+
+
+
+24-SESJ2JA1C                                                                 Page 5 sur 7
+Exploitation possible des documents :
+ Document 1 Le document présente les limites du taylorisme et ses effets pervers
+              sur les conditions de travail. L’émiettement des tâches, la réduction
+              de l’habilité due à la spécialisation et la perte de la connaissance du
+              produit conduisent à une frustration importante de la part des
+              salariés.
+ Document 2 Le document montre que les contraintes physiques et émotionnelles
+              qui pèsent sur les salariés en France aujourd’hui sont importantes et
+              beaucoup plus fortes qu’en Allemagne, au Danemark ou aux Pays-
+              Bas ; elles sont mêmes plus fortes que celles qui pèsent sur
+              l’ensemble des salariés des 27 pays de l’Union européenne. Cela nuit
+              au bien-être au travail.
+ Document 3 Deux formes d’organisation post-tayloriennes du travail coexistent
+              aujourd’hui en Europe : les organisations en « lean-management »
+              surtout présentes en France et les organisations dites
+              « apprenantes » surtout présentes dans le nord de l’Europe. Dans
+              les premières les salariés ont une faible autonomie et doivent passer
+              beaucoup de temps à rendre compte de l’avancement de leur travail
+              ce qui nuit à leurs conditions de travail. Dans les secondes, les
+              salariés participent à l’élaboration des objectifs avec la hiérarchie et
+              disposent de l’autonomie qui leur permet de réellement déployer
+              leurs compétences ce qui favorise le bien-être au travail.
+
+Raisonnement possible :
+
+Taylor a donné son nom au taylorisme, qui consiste en une double division du travail :
+une division verticale du travail entre les ingénieurs qui conçoivent et les ouvriers qui
+exécutent, et une division horizontale du travail avec une décomposition du travail en
+tâches élémentaires. L’organisation du travail est dite scientifique car elle aboutit à
+définir et à faire exécuter la one best way, la meilleure (et l’unique) façon de produire
+à laquelle doivent se conformer exactement des ouvriers qui subissent une relation
+hiérarchique stricte.
+
+Cette organisation du travail a de nombreux effets négatifs (document 1) sur les
+conditions de travail : le travail est répétitif, ingrat et pénible. L’ouvrier est déqualifié et
+perd son savoir-faire ; il n’a plus la connaissance des matériaux et de la matière
+première car chaque ouvrier n’intervient que très faiblement dans le produit fini. Le fait
+de ne jamais créer un produit en entier enferme les ouvriers dans la routine et est
+source de grande frustration. Ces mauvaises conditions de travail créent un mal-être
+qui provoque de nombreuses réactions négatives de la part des ouvriers à la fin des
+années 1960 : multiplication des revendications, augmentation du taux d’absentéisme
+et du taux de turn-over, aggravation du gaspillage, du chapardage et des malfaçons.
+
+En raison de ces effets négatifs du modèle d’organisation taylorien, un modèle
+d’organisation post-taylorien s’est développé à partir des années 1970. Il s’agissait de
+recomposer les tâches en les élargissant (travail moins parcellisé) et en les
+enrichissant (des tâches de contrôle, d’entretien ou de maintenance sont ajoutées aux
+tâches d’exécution). L’idée était aussi de flexibiliser le processus de production et
+d’associer les travailleurs aux décisions par la mise en place d’un management
+participatif. Un des objectifs de cette nouvelle organisation du travail était d’améliorer
+les conditions de travail et donc le bien-être au travail.
+24-SESJ2JA1C                                                                      Page 6 sur 7
+Pourtant, le document 2 montre que les conditions de travail sont mauvaises en
+France. Ainsi 66 % des salariés déclarent être souvent ou toujours exposés à des
+mouvements répétitifs de la main ou du bras et 33,9 % à des postures douloureuses.
+La charge émotionnelle du travail est considérée comme importante pour 23,8 % des
+salariés.
+
+Comment expliquer ce paradoxe ?
+
+D’abord, le post-taylorisme n’a pas partout remplacé le taylorisme.
+Ensuite la flexibilité de l’organisation est susceptible de créer une certaine incertitude
+génératrice de stress chez les salariés.
+Enfin, il peut être nécessaire de distinguer deux types d’organisation post-taylorienne
+comme le fait le document 3 en fonction du degré d’autonomie qu’ils laissent aux
+salariés :
+- dans les organisations en « lean-management » surtout présentes en France les
+salariés ont une faible autonomie et doivent passer beaucoup de temps à rendre
+compte de l’avancement de leur travail ce qui nuit à leurs conditions de travail, d’autant
+plus que les exigences de leur hiérarchie sont fortes ;
+- dans les organisations dites apprenantes surtout présentes dans le nord de l’Europe,
+les salariés participent à l’élaboration des objectifs avec la hiérarchie et disposent de
+l’autonomie qui leur permet de réellement déployer leurs compétences ce qui favorise
+le bien-être au travail.
+
+Le document 2 confirme que les contraintes physiques et émotionnelles subies par les
+salariés sont toutes moins fortes dans les pays du nord de l’Europe (ici l’Allemagne, le
+Danemark et les Pays-Bas) qu’en France et donc que les conditions de travail y sont
+globalement meilleures.
+
+
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.
+
+
+
+
+24-SESJ2JA1C                                                                 Page 7 sur 7
+

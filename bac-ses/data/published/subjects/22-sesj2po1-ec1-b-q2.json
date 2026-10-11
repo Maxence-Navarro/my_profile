@@ -1,0 +1,73 @@
+{
+  "id": "22-SESJ2PO1-EC1-B-Q2",
+  "slug": "22-sesj2po1-ec1-b-q2",
+  "chapterId": "croissance",
+  "exerciseType": "EC1",
+  "variant": "B",
+  "examCode": "22-SESJ2PO1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J2",
+  "center": "Polynésie",
+  "question": "À l'aide d'un exemple, vous montrerez que l'innovation s'accompagne d'un processus de destruction créatrice.",
+  "subQuestions": [],
+  "points": 3.0,
+  "instructionVerb": "montrer",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "grille_non_retrouvee",
+  "statementMd": null,
+  "statementNote": null,
+  "siblingParts": [
+    {
+      "part": "Dissertation",
+      "question": "Peut-on dire qu'une approche en termes de classes sociales est toujours pertinente pour rendre compte de la société française actuelle ?"
+    },
+    {
+      "part": "EC1 (question 1)",
+      "question": "Présentez les avantages attendus du marché unique en Europe."
+    },
+    {
+      "part": "EC1 (question 3)",
+      "question": "Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement politique, malgré le paradoxe de l'action collective."
+    },
+    {
+      "part": "EC3",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez qu'il existe différentes explications à l'internationalisation de la chaîne de valeur."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ2PO1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-polynesie-2-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 201, 2022_poly_norm_ec_4.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=201&cle=2ec4a34b1f7643761b4081c368f6045ab0c17b07c073b625bfdf54ff87d6ec3a&file=docx%2F2022_poly_norm_ec_4.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - EC1 - Connaissances · Quels sont les sources et les défis de la croissance économique ? · Polynésie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 201",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=201&cle=2ec4a34b1f7643761b4081c368f6045ab0c17b07c073b625bfdf54ff87d6ec3a&file=docx%2F2022_poly_norm_ec_4.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": "Mobilisation des connaissances en plusieurs questions (format 2022, sujet B).",
+  "grid": {
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

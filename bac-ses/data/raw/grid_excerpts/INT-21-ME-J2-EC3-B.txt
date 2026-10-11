@@ -1,0 +1,125 @@
+# score de localisation : 0.881
+# https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-2-corrige-officiel.pdf
+
+       DISSERTATION S’APPUYANT SUR UN DOSSIER DOCUMENTAIRE
+
+                            PROPOSITION DE CORRIGÉ
+
+
+Sujet : Comment expliquer l’internationalisation de la chaîne de valeur?
+
+Programme officiel :
+Science économique
+ Questionnement         Objectifs d’apprentissage
+ Quels sont         les - Comprendre le rôle des dotations factorielles et technologiques
+ fondements          du (avantages comparatifs) dans les échanges commerciaux et la
+ commerce               spécialisation internationale.
+ international et de - Comprendre le commerce entre pays comparables
+ l’internationalisation (différenciation des produits, qualité des produits, et
+ de la production ?     fragmentation de la chaîne de valeur).
+                        - Comprendre que la productivité des firmes sous-tend la
+                        compétitivité d’un pays, c’est-à-dire son aptitude à exporter.
+                        - Comprendre l’internationalisation de la chaîne de valeur et
+                        savoir l’illustrer.
+
+
+Exploitation possible des documents :
+ Document 1    - Mise en évidence de la hausse de la part des CVM dans les échanges
+               mondiaux.
+               - Transformation des échanges internationaux : augmentation de la
+               part des échanges de biens intermédiaires dans les échanges
+               internationaux.
+               - En 1970, les CVM représentent 37 % des échanges mondiaux mais
+               48 % des échanges mondiaux en 2015.
+ Document 2 - - Le processus de production de l’iPhone illustre la fragmentation et de
+               l’internationalisation de la chaîne de valeur.
+             - - Les activités à forte valeur ajoutée sont réalisées aux États-Unis et
+               les activités à faible valeur ajoutée dans les pays émergents.
+ Document 3 - - Présente les avantages comparatifs de quatre pays.
+             - - Les dotations factorielles et/ou technologiques fondent les avantages
+               comparatifs.
+             - - Les FMN exploitent les avantages comparatifs des pays en
+               fragmentant la chaîne de valeur.
+ Document 4    - Présente les écarts de coût moyen du travail en Europe.
+               - Au quatrième trimestre 2019, le coût moyen du travail est de 32 euros
+               dans la zone euro.
+               - Le coût moyen du travail est un déterminant de la compétitivité-prix
+               des entreprises et donc de la compétitivité des nations.
+               - La fragmentation des chaînes de valeur repose sur la recherche de
+               compétitivité des entreprises à l’échelle internationale.
+
+
+
+
+                                                                           Page : 1/10
+Problématique possible :
+L’importance prise par les échanges de biens intermédiaires ainsi que par les
+échanges intra-firmes mettent en évidence la part croissante des chaînes de valeur
+mondiale dans les échanges internationaux. Selon l’OMC, une chaîne de valeur
+mondiale est une succession d’activités exécutées par les entreprises pour créer de la
+valeur lors des diverses étapes de la production (chaîne d’approvisionnement), mais
+aussi avec toutes les activités faisant partie de la chaîne de la demande
+(commercialisation, vente, service à la clientèle). Quels sont les facteurs à l’origine de
+la chaîne de valeur et de son internationalisation ?
+
+Proposition de plan détaillé :
+ I. Les spécialisations nationales             II. La recherche de compétitivité
+ expliquent l’internationalisation de la       explique l’internationalisation de la
+ chaîne de valeur                              chaîne de valeur
+      A) La spécialisation repose        sur   A) L’objectif de compétitivité-prix des
+          l’exploitation    d’un   avantage    firmes détermine l’internationalisation
+          comparatif                           de la chaîne de valeur
+       L’avantage comparatif est lié à la           La fragmentation des CVM
+          dotation factorielle                 permet d’accroître la productivité des
+ Les prix de produits nécessitant              firmes.
+ l'utilisation intensive d'un facteur de       Empiriquement, la participation des
+ production abondant seront relativement       entreprises aux CVM augmente leur
+ moins élevés que celui d'un produit           efficacité par une meilleure utilisation
+ nécessitant la mise en œuvre d'un facteur     des facteurs de production.
+ de production rare. Comme les pays se         La     productivité    des    entreprises
+ spécialisent dans la production du bien       augmente.
+ leur offrant la meilleure combinaison               La productivité des firmes sous-
+ productive, le pays aura par conséquent       tend leur compétitivité-prix.
+ intérêt à exporter des produits intensifs     La compétitivité-prix se mesure par le
+ en facteur de production abondant et à        rapport entre les prix des exportations
+ importer ceux qui sont intensifs en facteur   des pays partenaires avec le prix des
+ de production rare. (Cf. document 3)          exportations du pays. Plus largement, la
+       L’avantage comparatif est lié à la     compétitivité-prix est liée à l’évolution
+          dotation technologique               des coûts unitaires de production. Ainsi,
+ Il existe des écarts technologiques qui       le coût moyen du travail dans un pays
+ expliquent la nature et les flux              impacte la compétitivité-prix d’une firme.
+ d’échanges. Ainsi, les économies              (Cf. document 2 et document 4).
+ avancées        exportent     les  produits
+ innovants. Les économies avancées
+ doivent donc innover continuellement afin
+ de maintenir leur avantage comparatif et
+ leur insertion dans le commerce mondial.
+ (Cf. document 3)
+ B) La spécialisation des pays génère des B) L’objectif de compétitivité hors-prix
+ échanges de produits intermédiaires      des             firmes        détermine
+                                          l’internationalisation de la chaîne de
+                                          valeur
+     La spécialisation fait apparaître         Les échanges de produits
+        une division internationale du            intermédiaires    génèrent   du
+        travail.                                  commerce intra-firme.
+
+
+                                                                             Page : 2/10
+ La fragmentation des CVM est liée à la             Ces échanges favorisent une
+ spécialisation des pays afin qu’ils                 différenciation horizontale et
+ puissent exploiter leur AC.                         verticale source de compétitivité.
+      La DIT provoque des échanges de        En effet, l’aptitude à faire face à la
+         produits intermédiaires              concurrence en s’appuyant sur des
+ Chaque pays étant spécialisé dans la         éléments fondés sur la qualité,
+ production pour laquelle sa productivité     l’innovation, la différenciation peut être
+ relative est la plus élevée, des échanges    améliorée par la fragmentation de la
+ de produits intermédiaires sont réalisés     CVM (Cf. document 2).
+ (Cf. document 1).
+ Soit les pays importent des biens
+ intermédiaires      pour    produire   de
+ nouveaux biens ou services ; soit les
+ pays exportent vers d’autres pays des
+ produits intermédiaires.
+
+Le corrigé proposé fournit des indications à destination des commissions académiques
+d’entente et d’harmonisation, mais il ne doit pas être considéré comme une norme.

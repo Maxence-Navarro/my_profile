@@ -1,0 +1,85 @@
+{
+  "id": "22-SESJ1JA1-DISS",
+  "slug": "22-sesj1ja1-diss",
+  "chapterId": "croissance",
+  "exerciseType": "dissertation",
+  "variant": null,
+  "examCode": "22-SESJ1JA1",
+  "year": 2022,
+  "session": "normale",
+  "day": "J1",
+  "center": "Asie",
+  "question": "Comment l'innovation peut-elle contribuer à reculer les limites écologiques d'une croissance soutenable ?",
+  "subQuestions": [],
+  "points": 20.0,
+  "instructionVerb": "question de dissertation",
+  "notions": [],
+  "accessTier": "premium",
+  "verificationStatus": "verifie_source_tierce",
+  "pedagogicalStatus": "a_rechercher",
+  "hasAnswer": false,
+  "gridStatus": "correspondance_non_verifiee",
+  "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Deux procédés permettent généralement de réduire les impacts environnementaux *(source : Simon NADEL, www.vie-publique.fr, 2019.)*\n- Document 2 — Émissions de CO2 par habitant (en tonnes) et croissance annuelle du PIB *(source : d'après les données de la Banque mondiale, 2021.)*\n- Document 3 — Évolution de la situation des stocks de poissons marins mondiaux de 1974 à *(source : FAO1, 2020.)*\n- Document 4 — Investissements favorables au climat en France1, entre 2011 et 2019 (en *(source : Panorama des financements climat, I4CE (Institut pour l'Économie du Climat),)*",
+  "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
+  "siblingParts": [
+    {
+      "part": "EC1 — sujet A",
+      "question": "Comment les avantages comparatifs peuvent-ils expliquer le commerce international ?"
+    },
+    {
+      "part": "EC2 — sujet A",
+      "question": "À l'aide des données du document, vous comparerez la part des salariés et des indépendants selon le sexe. / À l'aide du document et de vos connaissances, vous montrerez que certaines catégories sont davantage touchées pa"
+    },
+    {
+      "part": "EC3 — sujet A",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la protection sociale contribue à la justice sociale."
+    },
+    {
+      "part": "EC1 (question 1) — sujet B",
+      "question": "À l'aide d'un mécanisme, vous expliquerez comment la politique monétaire de la Banque centrale européenne peut agir positivement sur la conjoncture économique européenne."
+    },
+    {
+      "part": "EC1 (question 2) — sujet B",
+      "question": "Comparez les théories des classes sociales de Karl Marx et de Max Weber."
+    },
+    {
+      "part": "EC1 (question 3) — sujet B",
+      "question": "Montrez, à l'aide de deux exemples, que l'engagement politique peut prendre des formes variées."
+    },
+    {
+      "part": "EC3 — sujet B",
+      "question": "À l'aide de vos connaissances et du dossier documentaire, vous montrerez que la protection sociale contribue à la justice sociale."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sujet officiel 22-SESJ1JA1 (PDF)",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-1-sujet-officiel.pdf",
+      "kind": "tiers-relai-officiel",
+      "note": "Sujet national relayé par sujetdebac.fr."
+    },
+    {
+      "label": "Académie de Versailles — fiche du sujet (doc. 127, 2022_asie_norm_dissert_1.docx)",
+      "url": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=127&cle=98021c8a22374cde65f5b3c963d0bb092e1b5d63524098962dbac847ae4f1022&file=docx%2F2022_asie_norm_dissert_1.docx",
+      "kind": "officiel",
+      "note": "Classement Versailles : Écrit - Dissertation · Quels sont les sources et les défis de la croissance économique ? · Asie · 2022 · Normale."
+    },
+    {
+      "label": "Copie d'archive du document Versailles 127",
+      "url": "https://web.archive.org/web/2026id_/https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=127&cle=98021c8a22374cde65f5b3c963d0bb092e1b5d63524098962dbac847ae4f1022&file=docx%2F2022_asie_norm_dissert_1.docx",
+      "kind": "archive",
+      "note": "Le site de l'académie était injoignable lors de la collecte ; document lu via la Wayback Machine."
+    }
+  ],
+  "verificationNotes": null,
+  "grid": {
+    "isOfficial": true,
+    "reference": "22-SESJ1JA1",
+    "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-asie-1-corrige-officiel.pdf",
+    "matchStatus": "correspondance_non_verifiee",
+    "matchNotes": "Un document de correction existe pour la session 22-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.875) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": []
+  },
+  "related": [],
+  "externalCorrections": []
+}

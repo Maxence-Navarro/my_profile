@@ -1,0 +1,517 @@
+                    BACCALAURÉAT GÉNÉRAL
+                     ÉPREUVE D’ENSEIGNEMENT DE SPÉCIALITÉ
+
+
+
+                                     SESSION 2022
+
+
+
+
+              Sciences économiques et sociales
+
+                                       JOUR 2
+                               Durée de l’épreuve : 4 heures
+
+
+
+
+               L’usage de la calculatrice et du dictionnaire n’est pas autorisé.
+
+              Dès que ce sujet vous est remis, assurez-vous qu’il est complet.
+                Ce sujet comporte 13 pages numérotées de 1/13 à 13/13.
+
+
+
+
+      Le candidat traite au choix le sujet de dissertation ou l’un des deux sujets
+                     d’épreuve composée (sujet A ou sujet B).
+                          Il indique sur sa copie le sujet choisi.
+
+
+
+
+22-SESJ2NC1                                                               Page 1/13
+              Dissertation s’appuyant sur un dossier documentaire
+Il est demandé au candidat :
+
+    - de répondre à la question posée par le sujet ;
+    - de construire une argumentation à partir d'une problématique qu'il devra élaborer ;
+    - de mobiliser des connaissances et des informations pertinentes pour traiter le sujet, notamment celles
+    figurant dans le dossier ;
+    - de rédiger, en utilisant le vocabulaire économique et social spécifique approprié à la question et en
+    organisant le développement sous la forme d'un plan cohérent qui ménage l'équilibre des parties.
+
+Il sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+                                                    SUJET
+
+                                 Ce sujet comporte quatre documents.
+
+              Quel est le rôle de l’innovation sur la croissance économique ?
+
+
+
+DOCUMENT 1
+
+               Évolution du PIB en volume (en %) de 1950 à 2018, en France
+
+
+
+
+                                                               Source : INSEE, Comptes nationaux, 2020.
+
+
+22-SESJ2NC1                                                                                  Page 2/13
+DOCUMENT 2
+
+      Exécution de la dépense intérieure de recherche et développement (DIRD)
+
+    En millions d'euros           1995     2000 1      2005 1    2010 1    2017 1    Evolution2
+                                                                                     2016-2017
+                                                                                       en %
+    DIRD                          27 302   30 954      36 228    43 469    50 619        1,5
+    - Exécution par les           10 653   11 605      13 725    16 014    17 585        1,0
+    administrations
+    - Exécution par les           16 649   19 348      22 503    27 455    33 034        1,7
+    entreprises
+    Part des entreprises           61,0     62,5        62,1      63,2      65,3         ///
+    dans la DIRD (en %)
+      Part de la DIRD dans le      2,2       2,1         2,1       2,2       2,2         ///
+      PIB (en %)
+/// : Absence de résultat.
+
+1 : Changements méthodologiques (à partir de 2000).
+
+Champ : Ensemble des entreprises et des administrations localisées en France.
+
+       Source : d’après Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation,
+                                                                                            2020.
+
+2 : Évolution en valeur réelle.
+
+
+
+
+DOCUMENT 3
+
+  Brevets liés à l'environnement par rapport au total des brevets (en %, 2006-2018)
+
+                      2006        2008     2010       2012       2014       2016       2018
+     Allemagne        10,8        13,3     15,2        14,9      14,0       13,4        14,3
+     Canada            9,7        10,4     12,0        12,3      11,9       11,1        10,3
+     États-Unis        8,1        11,3     12,6        12,4      11,2       11,1        9,5
+     France            9,1        10,9     12,9        14,4      13,4       11,9        12,8
+
+                                                    Source : d'après OCDE, 60 ans de données, 2018.
+
+
+
+
+22-SESJ2NC1                                                                         Page 3/13
+DOCUMENT 4
+
+Plusieurs projets de robots pollinisateurs sont actuellement en phase de tests pour
+compenser la disparition des abeilles. Des robots équipés de caméra et de capteurs qui
+repèrent les fleurs, prélèvent le pollen et le transportent.
+La disparition des abeilles, et plus largement des pollinisateurs, est une catastrophe
+écologique et environnementale au regard de leur importance dans la production mondiale
+de nourriture. En effet, selon Greenpeace, 75 % de la production mondiale de nourriture
+dépend des insectes pollinisateurs et entre 60 et 90 % des plantes sauvages ont besoin
+d’insectes pollinisateurs pour se reproduire. Pour limiter l’impact de cette raréfaction,
+actuellement, des abeilles domestiques sont transportées par camion pour polliniser les
+cultures.
+Afin de contrecarrer la disparition des abeilles, plusieurs sociétés testent des robots
+abeilles pour féconder les fleurs et les arbres. Ces drones pollinisateurs remplacent le
+travail de milliers d'abeilles et peuvent travailler jour et nuit, à la différence des insectes.
+Le robot pollinisateur développé par la société Edete, start-up israélienne, s'inspire des
+outils utilisés pour la récolte des amandes. La première étape consiste à secouer les
+arbres pour en faire tomber les fleurs, puis récupérer le pollen afin de le stocker jusqu’à la
+période de floraison. Le robot utilise ensuite la technologie LIDAR1 (acronyme de l'anglais
+« Light (ou Laser) Imaging Detection And Ranging»), et grâce à des mini-canons, propulse
+le pollen lesté d'une charge électrostatique lui permettant de mieux s'accrocher aux fleurs.
+Les japonais ont quant à eux opté pour des drones miniatures sur lesquels ils ont fixé des
+poils de chevaux, pour imiter le corps velu d'une abeille. Ces poils sont ensuite chargés
+électriquement afin d'attirer et capturer le pollen pour le transporter et le déposer sur
+d'autres pistils.
+La société Walmart a quant à elle déposé un brevet pour des abeilles robotisées
+autonomes qui transporteraient le pollen d’une plante à l’autre, en utilisant des capteurs
+ainsi que des caméras pour détecter les emplacements des cultures.
+
+       Source : d’après Peggy BARON, « Des robots pollinisateurs pour remplacer les abeilles ? »,
+                                   www.ladn.eu, (Acide DésoxiriboNucléique), 26 février 2020.
+
+1 : LIDAR : détection et télémétrie par imagerie.
+
+
+
+
+22-SESJ2NC1                                                                    Page 4/13
+                                         Épreuve composée
+
+Si le candidat choisit l’épreuve composée, il traite au choix le sujet A ou le sujet B.
+
+                                  ÉPREUVE COMPOSÉE - SUJET A
+
+Cette épreuve comprend trois parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre à la question en faisant
+appel à ses connaissances acquises dans le cadre du programme.
+Partie 2 - Étude d'un document : il est demandé au candidat de répondre aux questions en mobilisant ses
+connaissances acquises dans le cadre du programme et en adoptant une démarche méthodologique
+rigoureuse, de collecte et de traitement de l'information.
+Partie 3 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat de traiter le
+sujet :
+          -      en développant un raisonnement ;
+          -      en exploitant les documents du dossier ;
+          -      en faisant appel à ses connaissances personnelles ;
+          -      en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la présentation.
+
+
+
+
+Première partie : Mobilisation des connaissances (4 points)
+
+Vous montrerez comment les incitations sélectives peuvent expliquer l'engagement
+politique, malgré le paradoxe de l'action collective.
+
+
+
+
+22-SESJ2NC1                                                                                 Page 5/13
+Deuxième partie : Étude d’un document (6 points)
+
+
+
+
+Champ : France métropolitaine, personnes vivant dans un ménage dont le revenu déclaré est
+positif ou nul et dont la personne de référence n’est pas étudiante.
+
+ Source : d’après Fabien DELMAS et Jorick GUILLANEUF, « En 2018, les inégalités de niveau de
+                               vie augmentent », INSEE Première, n°1813, 9 septembre 2020.
+
+
+Questions :
+
+   1. À l’aide des données du document, vous caractériserez l’évolution du ratio inter-
+      décile entre 2014 et 2018. (2 points)
+
+   2. À l’aide des données du document et de vos connaissances, vous présenterez les
+      principaux outils de mesure (statique et dynamique) des inégalités. (4 points)
+
+
+
+
+22-SESJ2NC1                                                                Page 6/13
+Troisième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                          Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez quels sont les processus qui remettent en cause une approche en
+termes de classes sociales pour rendre compte de la société française actuelle.
+
+
+
+
+DOCUMENT 1
+
+L’individualisation est au cœur du nouveau modèle managérial. Mise en place à partir
+du milieu des années 1970, elle était censée, selon le patronat, répondre positivement
+aux revendications des salariés qui, au cours de la plus longue grève du XXe siècle,
+réclamaient plus de dignité, d’autonomie, de liberté et de reconnaissance dans leur
+travail (Boltanski, Chiapello, 1999). Elle a pris la forme de la polyvalence, des horaires
+variables, de l’individualisation des primes puis des salaires, et culmine avec la
+personnalisation des objectifs, des évaluations, des formations et des carrières. Elle a
+largement contribué à déstabiliser, voire éliminer les collectifs de travail et avait donc
+cet avantage, du point de vue du patronat qui l’introduisait, d’inverser un rapport de
+forces devenu par trop défavorable. Or ces collectifs, qui étaient la cible des politiques
+de modernisation des entreprises, jouent un rôle très particulier dans la préservation de
+la santé physique et mentale des travailleurs. Informels et clandestins, non-inscrits dans
+les organigrammes, constitués de salariés travaillant côte à côte dans la durée et
+confrontés aux mêmes conditions de travail, ils jouent un rôle non négligeable dans la
+régulation des pénibilités au travail. Ils interviennent dans la gestion des difficultés, de la
+complexité et ainsi du stress lié au travail. L’élément le plus décisif dans cette gestion
+réside dans la capacité de ces collectifs à conquérir de l’autonomie en mettant en
+synergie l’expérience de chacun, ses compétences, ses qualités à produire du sens
+autour de valeurs partagées en lien avec le sentiment d’un destin commun dans
+l’entreprise. En mutualisant des connaissances, des pratiques propres à leur activité,
+les collectifs fonctionnent comme un soutien professionnel (ils pratiquent couramment
+l’entraide), mais aussi affectif et psychique car ils permettent de minimiser l’inquiétude
+face à l’inconnu. Les collectifs contribuent ainsi à une certaine sérénité au travail en
+aidant les uns et les autres à faire face aux contraintes de diverses natures inscrites
+dans toute activité professionnelle. Les collectifs jouent aussi un rôle essentiel en
+décryptant les pénibilités, les souffrances ressenties au travail.
+
+  Source : Danièle LINHART, « Une individualisation systématique de la gestion des salariés et
+                                     de l’organisation du travail », Connexions, n°103, 2015.
+
+
+
+
+22-SESJ2NC1                                                                     Page 7/13
+DOCUMENT 2
+
+  Une identité de classe qui s’atténue à mesure que l’on descend dans l’échelle
+                                   sociale (en %)
+
+                 A le                                 A utilisé le ou les termes pour la décrire
+                 sentiment
+                 d’appartenir   Privilégié,   Moyen     Modeste,     Cadre    Professions          Employé   Ouvrier
+                 à une classe   haut, aisé              bas,                  intermédiaires
+                 sociale                                pauvre
+Cadres               61            12          25           1          7            n.s.             n.s.       2
+
+Professions          55             3          30           2          2            n.s.              1        10
+intermédiaires
+Employés             48             2          22           3         n.s.          n.s.              2        14
+qualifiés
+Ouvriers             50             1          14           4         n.s.          n.s.             n.s.      25
+qualifiés
+Employés             39             1          16           2         n.s.          n.s.             n.s.      12
+non qualifiés
+Ouvriers             43            n.s.        10           6         n.s.          n.s.             n.s.      20
+non qualifiés
+
+Lecture : 43% des ouvriers non qualifiés déclarent « avoir le sentiment d’appartenir à une
+classe sociale », 20% font référence à la classe ouvrière (ils utilisent le terme « ouvrier » ou une
+de ses déclinaisons) lorsqu’on leur demande de préciser la classe à laquelle ils ont le sentiment
+d’appartenir.
+n.s. : proportion inférieure à 1%.
+
+Champ : ensemble des actifs occupés (hors exploitants agricoles, commerçants et artisans).
+
+ Source : d’après Thomas AMOSSE et Olivier CHARDON : « Les travailleurs non qualifiés : une
+                       nouvelle classe sociale ? », Économie et Statistique, N°393-394, 2006.
+
+
+
+
+22-SESJ2NC1                                                                                           Page 8/13
+DOCUMENT 3
+
+  Écarts de rémunération et de temps de travail moyens entre les femmes et les
+                                hommes en 2017
+
+                                                                         Volume de
+                           Salaire net en équivalent temps plein         travail, en
+                                     (EQTP) (en euros)                équivalent temps
+                                                                        plein (EQTP)
+
+                          Hommes       Femmes        Écarts (en %)      Écart hommes-
+                                                                        femmes (en %)
+ Diplôme
+ Inférieur au Bac          23 809       20 051            15,8               17,9
+ Bac à Bac + 2             29 547       24 341            17,6               11,1
+ Bac + 3 ou plus           50 851       35 896            29,4               10,1
+ Expérience
+ professionnelle
+ Moins de 5 ans            20 047       18 770             6,4
+ 5 à 10 ans                24 095       21 735             9,8               12,6
+                                                                             13,5
+ 10 à 20 ans               28 992       24 966            13,9               12,9
+ 20 à 30 ans               33 757       27 368            18,9               11,1
+ 30 ans ou plus            36 473       28 563            21,7                9,9
+ Nombre d'enfants
+ Aucun enfant              24 398       22 692             7,0               11,9
+ Un enfant                 28 281       24 932            11,8               14,0
+ Deux enfants              33 640       26 514            21,2               14,2
+ Trois enfants ou plus     35 540       24 419            31,3               23,6
+ Âge du plus jeune
+ enfant (parents
+ uniquement)
+ Moins de 3 ans            27 388       24 306            11,3               26,3
+ 3 à 16 ans                33 034       25 592            22,5               14,9
+ Plus de 16 ans            36 143       26 175            27,6               11,8
+ Ensemble                  29 394       24 467            16,8               14,1
+
+Lecture : en 2017, en France, les femmes salariées du secteur privé gagnent en moyenne 16,8
+% de moins que les hommes en équivalent temps plein (EQTP).
+
+Champ : postes du secteur privé, France métropolitaine, hors apprentis et stagiaires, hors
+agriculture, hors salariés des particuliers.
+
+                 Source : d’après INSEE, Enquête Revenus Fiscaux et Sociaux (ERFS), 2017.
+
+
+
+
+22-SESJ2NC1                                                                  Page 9/13
+                           ÉPREUVE COMPOSÉE - SUJET B
+
+Cette épreuve comprend deux parties :
+
+Partie 1 - Mobilisation des connaissances : il est demandé au candidat de répondre aux trois
+questions proposées en faisant appel à ses connaissances acquises dans le cadre du
+programme.
+Partie 2 - Raisonnement s'appuyant sur un dossier documentaire : il est demandé au candidat
+de traiter le sujet :
+        - en développant un raisonnement ;
+        - en exploitant les documents du dossier ;
+        - en faisant appel à ses connaissances personnelles ;
+        - en composant une introduction, un développement, une conclusion.
+
+II sera tenu compte, dans la notation, de la clarté de l'expression et du soin apporté à la
+présentation.
+
+
+Première partie : Mobilisation des connaissances (10 points)
+
+Question 1 (4 points)
+À partir d'un exemple, illustrez l'internationalisation de la chaîne de valeur.
+
+Question 2 (3 points)
+Comment peut-on expliquer la difficulté à gérer les chocs asymétriques dans la zone
+euro ?
+
+Question 3 (3 points)
+Présentez deux descripteurs de la qualité des emplois.
+
+
+
+
+22-SESJ2NC1                                                                       Page 10/13
+Deuxième partie : Raisonnement s’appuyant sur un dossier documentaire
+(10 points)
+
+                          Cette partie comporte trois documents.
+
+
+Sujet : À l’aide de vos connaissances et du dossier documentaire, vous
+montrerez quels sont les processus qui remettent en cause une approche en
+termes de classes sociales pour rendre compte de la société française actuelle.
+
+
+
+
+DOCUMENT 1
+
+L’individualisation est au cœur du nouveau modèle managérial. Mise en place à partir
+du milieu des années 1970, elle était censée, selon le patronat, répondre positivement
+aux revendications des salariés qui, au cours de la plus longue grève du XXe siècle,
+réclamaient plus de dignité, d’autonomie, de liberté et de reconnaissance dans leur
+travail (Boltanski, Chiapello, 1999). Elle a pris la forme de la polyvalence, des horaires
+variables, de l’individualisation des primes puis des salaires, et culmine avec la
+personnalisation des objectifs, des évaluations, des formations et des carrières. Elle a
+largement contribué à déstabiliser, voire éliminer les collectifs de travail et avait donc
+cet avantage, du point de vue du patronat qui l’introduisait, d’inverser un rapport de
+forces devenu par trop défavorable. Or ces collectifs, qui étaient la cible des politiques
+de modernisation des entreprises, jouent un rôle très particulier dans la préservation de
+la santé physique et mentale des travailleurs. Informels et clandestins, non-inscrits dans
+les organigrammes, constitués de salariés travaillant côte à côte dans la durée et
+confrontés aux mêmes conditions de travail, ils jouent un rôle non négligeable dans la
+régulation des pénibilités au travail. Ils interviennent dans la gestion des difficultés, de la
+complexité et ainsi du stress lié au travail. L’élément le plus décisif dans cette gestion
+réside dans la capacité de ces collectifs à conquérir de l’autonomie en mettant en
+synergie l’expérience de chacun, ses compétences, ses qualités à produire du sens
+autour de valeurs partagées en lien avec le sentiment d’un destin commun dans
+l’entreprise. En mutualisant des connaissances, des pratiques propres à leur activité,
+les collectifs fonctionnent comme un soutien professionnel (ils pratiquent couramment
+l’entraide), mais aussi affectif et psychique car ils permettent de minimiser l’inquiétude
+face à l’inconnu. Les collectifs contribuent ainsi à une certaine sérénité au travail en
+aidant les uns et les autres à faire face aux contraintes de diverses natures inscrites
+dans toute activité professionnelle. Les collectifs jouent aussi un rôle essentiel en
+décryptant les pénibilités, les souffrances ressenties au travail.
+
+  Source : Danièle LINHART, « Une individualisation systématique de la gestion des salariés et
+                                     de l’organisation du travail », Connexions, n°103, 2015.
+
+
+
+
+22-SESJ2NC1                                                                     Page 11/13
+DOCUMENT 2
+
+  Une identité de classe qui s’atténue à mesure que l’on descend dans l’échelle
+                                   sociale (en %)
+
+                 A le                                 A utilisé le ou les termes pour la décrire
+                 sentiment
+                 d’appartenir   Privilégié,   Moyen     Modeste,     Cadre    Professions          Employé   Ouvrier
+                 à une classe   haut, aisé              bas,                  intermédiaires
+                 sociale                                pauvre
+Cadres               61            12          25           1          7            n.s.             n.s.       2
+
+Professions          55             3          30           2          2            n.s.              1        10
+intermédiaires
+Employés             48             2          22           3         n.s.          n.s.              2        14
+qualifiés
+Ouvriers             50             1          14           4         n.s.          n.s.             n.s.      25
+qualifiés
+Employés             39             1          16           2         n.s.          n.s.             n.s.      12
+non qualifiés
+Ouvriers             43            n.s.        10           6         n.s.          n.s.             n.s.      20
+non qualifiés
+
+Lecture : 43% des ouvriers non qualifiés déclarent « avoir le sentiment d’appartenir à une
+classe sociale », 20% font référence à la classe ouvrière (ils utilisent le terme « ouvrier » ou une
+de ses déclinaisons) lorsqu’on leur demande de préciser la classe à laquelle ils ont le sentiment
+d’appartenir.
+n.s. : proportion inférieure à 1%.
+
+Champ : ensemble des actifs occupés (hors exploitants agricoles, commerçants et artisans).
+
+ Source : d’après Thomas AMOSSE et Olivier CHARDON : « Les travailleurs non qualifiés : une
+                       nouvelle classe sociale ? », Économie et Statistique, N°393-394, 2006.
+
+
+
+
+22-SESJ2NC1                                                                                           Page 12/13
+DOCUMENT 3
+
+     Écarts de rémunération et de temps de travail moyens entre les femmes et les
+                                   hommes en 2017
+
+                                                                                 Volume de
+                                Salaire net en équivalent temps plein            travail, en
+                                          (EQTP) (en euros)                   équivalent temps
+                                                                                plein (EQTP)
+
+                               Hommes        Femmes         Écarts (en %)       Écart hommes-
+                                                                                femmes (en %)
+    Diplôme
+    Inférieur au Bac            23 809        20 051             15,8                 17,9
+    Bac à Bac + 2               29 547        24 341             17,6                 11,1
+    Bac + 3 ou plus             50 851        35 896             29,4                 10,1
+    Expérience
+    professionnelle
+    Moins de 5 ans              20 047        18 770              6,4
+    5 à 10 ans                  24 095        21 735              9,8                 12,6
+                                                                                      13,5
+    10 à 20 ans                 28 992        24 966             13,9                 12,9
+    20 à 30 ans                 33 757        27 368             18,9                 11,1
+    30 ans ou plus              36 473        28 563             21,7                  9,9
+    Nombre d'enfants
+    Aucun enfant                24 398        22 692              7,0                 11,9
+    Un enfant                   28 281        24 932             11,8                 14,0
+    Deux enfants                33 640        26 514             21,2                 14,2
+    Trois enfants ou plus       35 540        24 419             31,3                 23,6
+    Âge du plus jeune
+    enfant (parents
+    uniquement)
+    Moins de 3 ans              27 388        24 306             11,3                 26,3
+    3 à 16 ans                  33 034        25 592             22,5                 14,9
+    Plus de 16 ans              36 143        26 175             27,6                 11,8
+    Ensemble                    29 394        24 467             16,8                 14,1
+
+Lecture : en 2017, en France, les femmes salariées du secteur privé gagnent en moyenne 16,8 % de
+moins que les hommes en équivalent temps plein (EQTP).
+
+Champ : postes du secteur privé, France métropolitaine, hors apprentis et stagiaires, hors agriculture,
+hors salariés des particuliers.
+
+                        Source : d’après INSEE, Enquête Revenus Fiscaux et Sociaux (ERFS), 2017.
+
+
+
+
+22-SESJ2NC1                                                                       Page 13/13
+
