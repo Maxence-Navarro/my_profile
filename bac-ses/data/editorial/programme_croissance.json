@@ -1,0 +1,16 @@
+{
+  "_doc": "Objectifs d'apprentissage du questionnement « Quels sont les sources et les défis de la croissance économique ? » (programme de SES de Terminale, BO spécial n° 8 du 25 juillet 2019). Texte vérifié par recoupement des citations du programme dans les corrigés officiels 2021-2024 (data/raw/sujetdebac/*/corrige.txt). Sert de référentiel de contrôle des corrigés.",
+  "chapter": "croissance",
+  "objectives": [
+    {"id": "O1", "text": "Comprendre le processus de croissance économique et les sources de la croissance : accumulation des facteurs et accroissement de la productivité globale des facteurs ; comprendre le lien entre le progrès technique et l'accroissement de la productivité globale des facteurs."},
+    {"id": "O2", "text": "Comprendre que le progrès technique est endogène et qu'il résulte en particulier de l'innovation."},
+    {"id": "O3", "text": "Comprendre comment les institutions (notamment les droits de propriété) influent sur la croissance en affectant l'incitation à investir et innover ; savoir que l'innovation s'accompagne d'un processus de destruction créatrice."},
+    {"id": "O4", "text": "Comprendre comment le progrès technique peut engendrer des inégalités de revenus."},
+    {"id": "O5", "text": "Comprendre qu'une croissance économique soutenable se heurte à des limites écologiques (notamment l'épuisement des ressources, la pollution et le réchauffement climatique) et que l'innovation peut aider à reculer ces limites."}
+  ],
+  "savoir_faire": [
+    "Lecture de taux de croissance du PIB en volume et de taux de croissance annuels moyens (TCAM).",
+    "Lecture de contributions à la croissance (en points de pourcentage).",
+    "Calcul et lecture de proportions, pourcentages de répartition, taux de variation, coefficients multiplicateurs, indices."
+  ]
+}

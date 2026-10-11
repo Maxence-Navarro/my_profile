@@ -13,12 +13,21 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "institutions",
+    "droits de propriété",
+    "brevet",
+    "incitation",
+    "investissement",
+    "innovation",
+    "progrès technique",
+    "productivité globale des facteurs"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": null,
   "statementNote": null,
   "siblingParts": [
@@ -60,9 +69,30 @@
     "isOfficial": true,
     "reference": "21-SESJ1ME2C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-1-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 21-SESJ1ME2 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.857) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 21-SESJ1ME2. Correspondance vérifiée manuellement : même session (21-SESJ1ME2, métropole, candidats libres, jour 1), épreuve composée sujet B, première partie : libellé identique (« Vous montrerez comment les droits de propriété peuvent favoriser la croissance économique »). Le corrigé précise l'attendu : « au moins deux arguments […] en s'appuyant sur un exemple ». Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "Les institutions, règles légitimes qui encadrent le fonctionnement des marchés, sont une source (non économique) de la croissance."
+      },
+      {
+        "id": "G2",
+        "kind": "exemple",
+        "label": "Exemple de droit de propriété : le brevet, droit exclusif d'exploitation d'une invention pendant 20 ans."
+      },
+      {
+        "id": "G3",
+        "kind": "mecanisme",
+        "label": "Les droits de propriété stimulent l'investissement et l'innovation, donc le progrès technique, donc la croissance."
+      },
+      {
+        "id": "G4",
+        "kind": "methode",
+        "label": "Au moins deux arguments, appuyés sur un exemple."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

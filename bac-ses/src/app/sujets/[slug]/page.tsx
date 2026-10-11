@@ -189,7 +189,11 @@ export default async function SubjectPage({ params }: { params: Promise<{ slug: 
           )}
           {s.grid.criteria.length > 0 && (
             <>
-              <h3 className="mt-5 text-sm font-semibold">Éléments attendus (reformulés d&apos;après le document officiel)</h3>
+              <h3 className="mt-5 text-sm font-semibold">
+                {s.grid.isOfficial
+                  ? "Éléments attendus (reformulés d'après le document officiel)"
+                  : "Grille pédagogique éditoriale — ce n'est pas un barème officiel"}
+              </h3>
               <ul className="mt-2 space-y-1.5 text-sm">
                 {s.grid.criteria.map((c) => (
                   <li key={c.id} className="flex gap-2">

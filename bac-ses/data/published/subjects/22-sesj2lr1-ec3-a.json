@@ -13,11 +13,20 @@
   "subQuestions": [],
   "points": 10.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "institutions",
+    "droits de propriété",
+    "brevet",
+    "corruption",
+    "imitation",
+    "capital humain",
+    "recherche-développement",
+    "progrès technique endogène"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Dépenses de R&D1 (en % du PIB) et PIB par habitant *(source : Banque mondiale, 2020.)*\n- Document 2 — Les pays pauvres ont accès à la majeure partie du savoir technique qui existe. Dans *(source : Olivier BLANCHARD et Daniel COHEN, Macroéconomie, 2017.)*\n- Document 3 — La corruption (l'abus d'une charge publique à des fins personnelles) nuit à l'activité de *(source : Fonds Monétaire International, « Freiner la corruption »,)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
@@ -61,8 +70,44 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir institutions et croissance économique."
+      },
+      {
+        "id": "E2",
+        "kind": "mecanisme",
+        "label": "Protection des droits de propriété (pas d'expropriation, justice efficace) → incitation à investir ; brevets → incitation à innover (document 2)."
+      },
+      {
+        "id": "E3",
+        "kind": "document",
+        "label": "Document 2 : dans les pays pauvres, le progrès technique passe par l'imitation ; de mauvaises institutions l'empêchent ; causalité dans les deux sens."
+      },
+      {
+        "id": "E4",
+        "kind": "document",
+        "label": "Document 3 : la corruption réduit les recettes fiscales et la qualité de la dépense publique (éducation, santé) ; exemples de la Géorgie (+13 points) et du Rwanda (+6 points)."
+      },
+      {
+        "id": "E5",
+        "kind": "document",
+        "label": "Document 1 : hausse des dépenses de R&D et du PIB par habitant (ex. Chine : R&D de 0,56 % à 2,11 % du PIB, PIB/hab multiplié par environ 5,2) ; prudence sur la causalité."
+      },
+      {
+        "id": "E6",
+        "kind": "mecanisme",
+        "label": "Innovation / R&D → progrès technique endogène → PGF → croissance."
+      },
+      {
+        "id": "E7",
+        "kind": "methode",
+        "label": "Introduction, développement argumenté, conclusion."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

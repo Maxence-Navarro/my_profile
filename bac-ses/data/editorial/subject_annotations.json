@@ -1,0 +1,127 @@
+{
+  "_doc": "Annotations éditoriales par sujet : notions mobilisées, corrigés externes repérés (référencés et évalués, jamais reproduits).",
+  "21-SESJ1AN1-EC1-B": {
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ]
+  },
+  "21-SESJ1ME2-EC1-B": {
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ]
+  },
+  "22-SESJ2ME3-EC1-A": {
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "diffusion",
+      "productivité globale des facteurs"
+    ]
+  },
+  "23-SESJ2AN1-EC1": {
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "diffusion",
+      "productivité globale des facteurs"
+    ]
+  },
+  "25-SESJ2AN1-EC1": {
+    "notions": [
+      "institutions",
+      "brevet",
+      "droits de propriété",
+      "incitation",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ]
+  },
+  "23-SESJ1ME1-EC2": {
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "innovation",
+      "indice base 100",
+      "taux de variation",
+      "corrélation",
+      "productivité globale des facteurs"
+    ],
+    "external_corrections": [
+      {
+        "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-1-bac-ses-2023-metropole.pdf",
+        "author": "Groupe Réussite (aussi relayé par sujetdebac.fr sous l'étiquette « corrigé officiel », à tort)",
+        "note": "Non officiel. Erreurs : indice lu comme un nombre de brevets, hausse calculée à +6 % au lieu d'environ +8 %, mécanismes confus, corrélation présentée comme causalité."
+      }
+    ]
+  },
+  "25-SESJ2G11-EC2": {
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "licence",
+      "taux de variation"
+    ]
+  },
+  "23-SESJ2AS1-EC3": {
+    "notions": [
+      "institutions",
+      "État de droit",
+      "corruption",
+      "droits de propriété",
+      "brevet",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ]
+  },
+  "23-SESJ2G11-EC3": {
+    "notions": [
+      "institutions",
+      "corruption",
+      "droits de propriété",
+      "brevet",
+      "recherche-développement",
+      "progrès technique endogène",
+      "productivité globale des facteurs"
+    ]
+  },
+  "22-SESJ2LR1-EC3-A": {
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "corruption",
+      "imitation",
+      "capital humain",
+      "recherche-développement",
+      "progrès technique endogène"
+    ]
+  }
+}

@@ -1601,8 +1601,8 @@
       "subq": null,
       "question": "Montrez le lien entre le progrès technique et l'accroissement de la productivité globale des facteurs.",
       "points": 4.0,
-      "question_source": "Libellé lu dans le corrigé officiel 23-SESJ1AS1 (le PDF du sujet relayé par sujetdebac.fr est un scan sans texte). À vérifier sur le PDF du sujet.",
-      "verification_status": "a_verifier"
+      "question_source": "Le PDF du sujet relayé par sujetdebac.fr est un scan sans texte : libellé vérifié par lecture visuelle de la page 5/9 du scan (code 23-SESJ1AS1 en pied de page), concordant avec le corrigé officiel 23-SESJ1AS1.",
+      "verification_status": "verifie_source_tierce"
     }
   ],
   "excluded_candidates": [

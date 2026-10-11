@@ -1,0 +1,14 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 22-SESJ2LR1 (Mayotte – Liban 2022). Grille ÉDITORIALE construite à partir de la consigne, du dossier et des objectifs O1-O3 ; elle s'inspire de la structure des corrigés officiels de sujets voisins (23-SESJ2AS1, 23-SESJ2G11), sans en être le barème.",
+  "objectives": ["O1", "O2", "O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir institutions et croissance économique."},
+    {"id": "E2", "kind": "mecanisme", "label": "Protection des droits de propriété (pas d'expropriation, justice efficace) → incitation à investir ; brevets → incitation à innover (document 2)."},
+    {"id": "E3", "kind": "document", "label": "Document 2 : dans les pays pauvres, le progrès technique passe par l'imitation ; de mauvaises institutions l'empêchent ; causalité dans les deux sens."},
+    {"id": "E4", "kind": "document", "label": "Document 3 : la corruption réduit les recettes fiscales et la qualité de la dépense publique (éducation, santé) ; exemples de la Géorgie (+13 points) et du Rwanda (+6 points)."},
+    {"id": "E5", "kind": "document", "label": "Document 1 : hausse des dépenses de R&D et du PIB par habitant (ex. Chine : R&D de 0,56 % à 2,11 % du PIB, PIB/hab multiplié par environ 5,2) ; prudence sur la causalité."},
+    {"id": "E6", "kind": "mecanisme", "label": "Innovation / R&D → progrès technique endogène → PGF → croissance."},
+    {"id": "E7", "kind": "methode", "label": "Introduction, développement argumenté, conclusion."}
+  ]
+}

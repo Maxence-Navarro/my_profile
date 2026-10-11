@@ -1,0 +1,14 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (23-SESJ2G11, centres étrangers, jour 2), troisième partie : libellé identique ; « Exploitation possible des documents » et « Raisonnement possible » lus intégralement (pages 6-8 du corrigé). Deux points du corrigé officiel sont corrigés dans notre version : la France n'a pas « environ 2 fois moins » de chercheurs que la Corée du Sud mais environ 1,6 fois moins (4 233 contre 6 856 par million d'habitants) ; les PIB du document 3 sont en prix courants, leur évolution ne mesure donc pas la croissance réelle.",
+  "objectives": ["O1", "O2", "O3"],
+  "criteria": [
+    {"id": "G1", "kind": "connaissance", "label": "Définir la croissance (augmentation soutenue de la production) et les institutions (contraintes formelles et informelles qui encadrent les interactions)."},
+    {"id": "G2", "kind": "mecanisme", "label": "Un cadre juridique protecteur (droits de propriété) rassure et incite à investir ; des institutions défaillantes (corruption) découragent l'investissement."},
+    {"id": "G3", "kind": "document", "label": "Document 1 : la corruption réduit les recettes de l'État, pervertit les décisions budgétaires, réduit l'investissement."},
+    {"id": "G4", "kind": "mecanisme", "label": "Des institutions de qualité incitent à innover (brevets, cadre propice à la R&D) ; l'innovation accroît le progrès technique."},
+    {"id": "G5", "kind": "document", "label": "Document 2 : Corée du Sud 4,3 % du PIB en R&D et 6 856 chercheurs par million d'habitants ; France 2,3 %."},
+    {"id": "G6", "kind": "document", "label": "Document 3 : parts dans les brevets triadiques (ex. Chine de 0,84 % à 8,68 % entre 2005 et 2018) mises en relation avec le PIB."},
+    {"id": "G7", "kind": "methode", "label": "Introduction, développement argumenté, conclusion."}
+  ]
+}

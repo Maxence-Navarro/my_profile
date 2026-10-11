@@ -5,3 +5,4 @@ data/raw/cache/
 .env
 .env.local
 __pycache__/
+data/raw/external/

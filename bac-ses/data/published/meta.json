@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T17:48:16Z",
+  "generatedAt": "2026-10-11T18:03:20Z",
   "inventory": {
     "totalQuestions": 68,
     "byType": {
@@ -8,9 +8,9 @@
       "EC3": 12,
       "dissertation": 12
     },
-    "withAnswer": 0,
-    "withOfficialGrid": 0,
-    "toVerify": 1
+    "withAnswer": 10,
+    "withOfficialGrid": 4,
+    "toVerify": 0
   },
   "toVerify": [
     {
@@ -132,5 +132,8 @@
       "id": "26-SESJ1ME1-EC3",
       "reason": "Productivité des firmes et compétitivité : commerce international."
     }
+  ],
+  "unofficialCorrigesMislabelled": [
+    "spe-sciences-eco-sociales-2023-metropole-1"
   ]
 }

@@ -13,12 +13,21 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": null,
-  "notions": [],
+  "notions": [
+    "droits de propriété",
+    "brevet",
+    "incitation",
+    "investissement",
+    "innovation",
+    "rente de monopole",
+    "diffusion",
+    "productivité globale des facteurs"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": null,
   "statementNote": null,
   "siblingParts": [
@@ -60,9 +69,35 @@
     "isOfficial": true,
     "reference": "22-SESJ2ME3C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-remplacement-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 22-SESJ2ME3 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.833) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 22-SESJ2ME3. Correspondance vérifiée manuellement : même session (22-SESJ2ME3, métropole, remplacement, jour 2), sujet A, première partie : libellé identique à celui du sujet (« Comment les droits de propriété influent-ils sur la croissance économique ? »). Section « Réponse possible » lue intégralement. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "Définir les droits de propriété : droit d'utiliser, d'exploiter et de tirer un revenu d'un actif dont on est propriétaire."
+      },
+      {
+        "id": "G2",
+        "kind": "mecanisme",
+        "label": "Les agents ne sont incités à entreprendre, produire et investir que s'ils sont assurés de disposer des fruits de leur activité : les droits de propriété réduisent l'incertitude."
+      },
+      {
+        "id": "G3",
+        "kind": "mecanisme",
+        "label": "Les brevets protègent l'innovation : seule l'entreprise qui a supporté le coût de l'innovation en tire profit, ce qui incite à innover."
+      },
+      {
+        "id": "G4",
+        "kind": "mecanisme",
+        "label": "Protection provisoire : l'innovation tombe ensuite dans le domaine public, ce qui favorise l'imitation et la diffusion (effet d'entraînement)."
+      },
+      {
+        "id": "G5",
+        "kind": "mecanisme",
+        "label": "Les innovations améliorent la productivité globale des facteurs, source de croissance."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

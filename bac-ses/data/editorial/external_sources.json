@@ -1,0 +1,124 @@
+{
+  "_doc": "Corrigés et ressources tiers repérés. Évalués, comparés, jamais reproduits. 'subjects' : questions auxquelles la ressource correspond (exactement ou en partie).",
+  "sources": [
+    {
+      "id": "besancon-ec1-droits-propriete",
+      "url": "https://ses.ac-besancon.fr/wp-content/uploads/sites/35/2024/09/EC1-Corrige-Vous-montrerez-que-les-droits-de-propriete-influent-sur-la-croissance.docx",
+      "author": "Site SES de l'académie de Besançon",
+      "kind": "corrigé EC1",
+      "label": "Corrigé EC1 « Vous montrerez que les droits de propriété influent sur la croissance »"
+    },
+    {
+      "id": "besancon-ec1-ec2-defis",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2020/12/EC1-et-EC2-les-defis-de-la-croissance-1.docx",
+      "author": "Site SES de l'académie de Besançon",
+      "kind": "EC1/EC2 avec éléments de correction",
+      "label": "EC1 et EC2 « Les défis de la croissance » (éléments de correction)"
+    },
+    {
+      "id": "belfort-formation-ec1-ec2",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/01/sujets-EC1-et-EC2-croissance_formation-belfort-2.odt",
+      "author": "Formation programme terminale, GLT Belfort (académie de Besançon)",
+      "kind": "EC1/EC2 avec propositions de corrigé",
+      "label": "Sujets EC1 et EC2 croissance avec propositions de corrigés (formation, Belfort)"
+    },
+    {
+      "id": "bordeaux-pt-inegalites",
+      "url": "https://ent2d.ac-bordeaux.fr/disciplines/ses/wp-content/uploads/sites/9/2026/02/Tache-complexe-Progres-technique-et-inegalites-de-revenus.docx",
+      "author": "Site SES de l'académie de Bordeaux",
+      "kind": "tâche complexe (ressource de cours)",
+      "label": "Tâche complexe « Progrès technique et inégalités de revenus »"
+    },
+    {
+      "id": "orleans-sources-limites",
+      "url": "https://pedagogie.ac-orleans-tours.fr/documents/pdf/01-souces-limites-croissance_vd-2.pdf",
+      "author": "Site pédagogique de l'académie d'Orléans-Tours",
+      "kind": "ressource de cours",
+      "label": "Sources et limites de la croissance (cours)"
+    },
+    {
+      "id": "orleans-chapitre1",
+      "url": "https://pedagogie.ac-orleans-tours.fr/documents/pdf/economie-terminale-chapitre-1-sources-et-defis-de-la-croissance-economique.pdf",
+      "author": "Site pédagogique de l'académie d'Orléans-Tours",
+      "kind": "ressource de cours",
+      "label": "Chapitre 1 — sources et défis de la croissance (cours)"
+    },
+    {
+      "id": "besancon-oa3-institutions",
+      "url": "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2020/10/Ch.1-OA-n%c2%b03-Intitutions-et-incitation-a-linnovation-VP-Prof-RC.odt",
+      "author": "Site SES de l'académie de Besançon",
+      "kind": "dossier documentaire version professeur",
+      "label": "Dossier « Institutions et incitation à l'innovation » (version professeur)"
+    },
+    {
+      "id": "cdf-chapitre1",
+      "url": "https://www.college-de-france.fr/media/campus-innovation-lycees/UPL2617482074592843038_Classe_de_terminale___Science_economique___Chapitre_1.pdf",
+      "author": "Collège de France — Campus innovation lycées",
+      "kind": "ressource de cours",
+      "label": "Ressource « Quels sont les sources et les défis de la croissance économique ? »"
+    },
+    {
+      "id": "sdb-zero-2-corrige",
+      "url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-zero-2-corrige-officiel.pdf",
+      "author": "Ministère (sujet zéro), relayé par sujetdebac.fr",
+      "kind": "corrigé officiel de sujet zéro",
+      "label": "Corrigé officiel du sujet zéro n° 2 (2021)"
+    },
+    {
+      "id": "gr-corrige-2026-an-j1",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/2026/06/corrige-1-bac-ses-amerique-du-nord-2026.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2026 Amérique du Nord, jour 1"
+    },
+    {
+      "id": "gr-corrige-2026-an-j2",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/2026/06/corrige-2-bac-ses-amerique-du-nord-2026.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2026 Amérique du Nord, jour 2"
+    },
+    {
+      "id": "gr-corrige-2025-fr-j1",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/2026/06/corrige-1-bac-ses-france-2025.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2025 France métropolitaine, jour 1"
+    },
+    {
+      "id": "gr-corrige-2025-fr-j2",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/2026/06/corrige-2-bac-ses-france-2025.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2025 France métropolitaine, jour 2"
+    },
+    {
+      "id": "gr-corrige-2023-as-j1",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-1-bac-ses-2023-amerique-du-sud.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2023 Amérique du Sud, jour 1"
+    },
+    {
+      "id": "gr-corrige-2023-as-j2",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-2-bac-ses-2023-amerique-du-sud.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2023 Amérique du Sud, jour 2"
+    },
+    {
+      "id": "gr-corrige-2023-me-j1",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-1-bac-ses-2023-metropole.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "corrigé indicatif (session complète)",
+      "label": "Corrigé indicatif bac SES 2023 métropole, jour 1"
+    },
+    {
+      "id": "gr-sujet-2023-as-j1",
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/sujet-1-bac-ses-2023-amerique-du-sud.pdf",
+      "author": "Groupe Réussite (organisme de soutien scolaire)",
+      "kind": "sujet (pour vérification du libellé)",
+      "label": "Sujet bac SES 2023 Amérique du Sud, jour 1 (scan)"
+    }
+  ]
+}

@@ -15,7 +15,7 @@
   "instructionVerb": null,
   "notions": [],
   "accessTier": "premium",
-  "verificationStatus": "a_verifier",
+  "verificationStatus": "verifie_source_tierce",
   "pedagogicalStatus": "a_rechercher",
   "hasAnswer": false,
   "gridStatus": "correspondance_non_verifiee",
@@ -30,7 +30,7 @@
       "note": "Sujet national relayé par sujetdebac.fr."
     }
   ],
-  "verificationNotes": "PDF du sujet scanné (pas de texte extractible). Code lu dans le corrigé officiel. Segmentation à faire à la main. Libellé lu dans le corrigé officiel 23-SESJ1AS1 (le PDF du sujet relayé par sujetdebac.fr est un scan sans texte). À vérifier sur le PDF du sujet.",
+  "verificationNotes": "PDF du sujet scanné (pas de texte extractible). Code lu dans le corrigé officiel. Segmentation à faire à la main. Le PDF du sujet relayé par sujetdebac.fr est un scan sans texte : libellé vérifié par lecture visuelle de la page 5/9 du scan (code 23-SESJ1AS1 en pied de page), concordant avec le corrigé officiel 23-SESJ1AS1.",
   "grid": {
     "isOfficial": true,
     "reference": "23-SESJ1AS1",

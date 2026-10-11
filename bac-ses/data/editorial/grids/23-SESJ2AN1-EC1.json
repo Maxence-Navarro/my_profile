@@ -1,0 +1,12 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 23-SESJ2AN1. Grille ÉDITORIALE fondée sur l'objectif O3 et sur le corrigé officiel d'une question de même libellé en substance (22-SESJ2ME3, « Comment les droits de propriété influent-ils sur la croissance économique ? »), utilisé comme référence de comparaison et non comme barème de ce sujet.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir les droits de propriété (et la croissance économique)."},
+    {"id": "E2", "kind": "mecanisme", "label": "Sécurité des revenus futurs → incitation à investir → accumulation du capital."},
+    {"id": "E3", "kind": "mecanisme", "label": "Brevet → rente de monopole temporaire → incitation à innover → progrès technique → PGF → croissance."},
+    {"id": "E4", "kind": "mecanisme", "label": "Caractère temporaire et public du brevet → diffusion / imitation."},
+    {"id": "E5", "kind": "methode", "label": "Verbe « montrez » : démonstration par des mécanismes enchaînés ; une illustration concrète est appréciée."}
+  ]
+}

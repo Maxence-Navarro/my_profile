@@ -13,11 +13,19 @@
   "subQuestions": [],
   "points": 4.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "institutions",
+    "brevet",
+    "droits de propriété",
+    "incitation",
+    "innovation",
+    "progrès technique",
+    "productivité globale des facteurs"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": null,
   "statementNote": null,
@@ -61,8 +69,34 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "connaissance",
+        "label": "Définir ce qu'est une institution et définir la croissance économique."
+      },
+      {
+        "id": "E2",
+        "kind": "methode",
+        "label": "Choisir UNE institution précise et la nommer clairement (la consigne est au singulier) ; les droits de propriété sont l'exemple du programme."
+      },
+      {
+        "id": "E3",
+        "kind": "mecanisme",
+        "label": "Mécanisme complet reliant l'institution choisie aux incitations (investir / innover)."
+      },
+      {
+        "id": "E4",
+        "kind": "mecanisme",
+        "label": "Relier l'effet à une source de croissance identifiée (accumulation du capital, progrès technique / PGF)."
+      },
+      {
+        "id": "E5",
+        "kind": "exemple",
+        "label": "Illustration concrète."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

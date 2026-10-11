@@ -1,0 +1,14 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (23-SESJ2AS1, Amérique du Sud, jour 2), troisième partie : libellé identique ; « Exploitation possible des documents » et « Raisonnement possible » lus intégralement (pages 6-7 du corrigé). Le corrigé officiel tire du document 3 une relation brevets / PIB qui relève de la coïncidence (2020 = choc Covid) : notre corrigé nuance ce point.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "G1", "kind": "connaissance", "label": "Définir les institutions : ensemble des organisations et des règles formelles et informelles."},
+    {"id": "G2", "kind": "mecanisme", "label": "Cadre légal fiable, respect des contrats, recours aux tribunaux → confiance → échanges, production, investissement."},
+    {"id": "G3", "kind": "document", "label": "Document 2 : enjeux de la lutte contre la corruption (concurrence saine, recettes fiscales, qualité de la dépense publique)."},
+    {"id": "G4", "kind": "mecanisme", "label": "Droits de propriété (brevets) : monopole temporaire qui rentabilise la R&D → incitation à investir et innover → croissance."},
+    {"id": "G5", "kind": "document", "label": "Document 1 : citation sur la promotion de l'innovation par le système des brevets."},
+    {"id": "G6", "kind": "document", "label": "Document 3 : brevets triadiques (ex. France : 2 927 en 2000, 1 880 en 2020) mis en relation avec la croissance."},
+    {"id": "G7", "kind": "methode", "label": "Introduction, développement argumenté, conclusion."}
+  ]
+}

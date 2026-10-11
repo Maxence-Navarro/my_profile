@@ -1,0 +1,12 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (22-SESJ2ME3, métropole, remplacement, jour 2), sujet A, première partie : libellé identique à celui du sujet (« Comment les droits de propriété influent-ils sur la croissance économique ? »). Section « Réponse possible » lue intégralement.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "G1", "kind": "connaissance", "label": "Définir les droits de propriété : droit d'utiliser, d'exploiter et de tirer un revenu d'un actif dont on est propriétaire."},
+    {"id": "G2", "kind": "mecanisme", "label": "Les agents ne sont incités à entreprendre, produire et investir que s'ils sont assurés de disposer des fruits de leur activité : les droits de propriété réduisent l'incertitude."},
+    {"id": "G3", "kind": "mecanisme", "label": "Les brevets protègent l'innovation : seule l'entreprise qui a supporté le coût de l'innovation en tire profit, ce qui incite à innover."},
+    {"id": "G4", "kind": "mecanisme", "label": "Protection provisoire : l'innovation tombe ensuite dans le domaine public, ce qui favorise l'imitation et la diffusion (effet d'entraînement)."},
+    {"id": "G5", "kind": "mecanisme", "label": "Les innovations améliorent la productivité globale des facteurs, source de croissance."}
+  ]
+}

@@ -19,7 +19,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -154,10 +154,10 @@
     "docs_versailles": "213",
     "grille_reference": "21-SESJ1ME2C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metro-cand-libre-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -640,7 +640,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -706,10 +706,10 @@
     "docs_versailles": "193",
     "grille_reference": "22-SESJ2ME3C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-remplacement-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -799,7 +799,7 @@
     "grille_reference": "23-SESJ1AS1",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-amerique-sud-1-corrige-officiel.pdf",
     "grille_statut": "correspondance_non_verifiee",
-    "statut_verification_sujet": "a_verifier",
+    "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
     "statut_validation_pedagogique": "a_rechercher",
     "acces": "premium"
@@ -865,12 +865,12 @@
     "url_source_officielle": "https://ses.ac-versailles.fr/spip.php?action=acceder_document&arg=226&cle=8097b836ebbec8aa846f501afdcbe71932f6551b4f4527f2561b82c35fe0b712&file=docx%2F2023_metro_norm_ec_1.docx",
     "url_document_original": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-metropole-1-sujet-officiel.pdf",
     "docs_versailles": "226",
-    "grille_reference": "23-SESJ1ME1C",
-    "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-metropole-1-corrige.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_reference": "",
+    "grille_url": "",
+    "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -939,7 +939,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -959,10 +959,10 @@
     "docs_versailles": "376",
     "grille_reference": "23-SESJ2AS1",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-amerique-sud-2-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -982,10 +982,10 @@
     "docs_versailles": "379",
     "grille_reference": "23-SESJ2G11C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-centres-etranger-2-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -1353,7 +1353,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {
@@ -1376,7 +1376,7 @@
     "grille_statut": "grille_non_retrouvee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "a_rechercher",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "a_verifier_grille",
     "acces": "premium"
   },
   {

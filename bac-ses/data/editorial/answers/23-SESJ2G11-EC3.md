@@ -1,0 +1,54 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "verifie_pedagogiquement",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@corrige-officiel|Grille de contrôle principale. Deux erreurs relevées et corrigées : rapport des chercheurs France / Corée (≈ 1,6 et non ≈ 2) ; PIB en prix courants traité comme une croissance réelle.",
+    "@programme",
+    "@ext:besancon-oa3-institutions|Dossier pédagogique sur les institutions et l'incitation à l'innovation."
+  ],
+  "checklist": [
+    {"criterionId": "G1", "criterion": "Définitions (croissance, institutions)", "present": true, "location": "Introduction"},
+    {"criterionId": "G2", "criterion": "Cadre juridique → investissement ; corruption → désincitation", "present": true, "location": "§1"},
+    {"criterionId": "G3", "criterion": "Document 1 (corruption)", "present": true, "location": "§1"},
+    {"criterionId": "G4", "criterion": "Institutions → incitation à innover → progrès technique", "present": true, "location": "§2"},
+    {"criterionId": "G5", "criterion": "Document 2 (R&D, chercheurs)", "present": true, "location": "§2"},
+    {"criterionId": "G6", "criterion": "Document 3 (brevets triadiques)", "present": true, "location": "§3"},
+    {"criterionId": "G7", "criterion": "Introduction / développement / conclusion", "present": true, "location": "ensemble"}
+  ],
+  "limits": "Corrigé non encore relu par un enseignant. Valeurs du document 2 lues sur le graphique du sujet."
+}
+---
+## Introduction
+
+Christine Lagarde, alors directrice générale du FMI, le résumait en 2017 : si les fondations d'une maison sont « pourries », comment bâtir une économie forte ? La **croissance économique**, augmentation soutenue de la production d'un pays sur une longue période, ne dépend pas seulement de la quantité de travail et de capital. Elle dépend aussi des **institutions**, c'est-à-dire des règles formelles (lois, droits de propriété) et informelles (normes, confiance) qui encadrent les relations entre les agents économiques. Les institutions influent sur la croissance parce qu'elles modifient les **incitations** à investir et à innover. Nous verrons qu'elles peuvent encourager ou décourager l'investissement, qu'elles conditionnent l'effort d'innovation, et donc le progrès technique, moteur de la croissance de long terme.
+
+## 1. Les institutions encouragent ou découragent l'investissement
+
+Investir, c'est engager des ressources aujourd'hui pour obtenir des revenus plus tard. Un entrepreneur ne le fait que s'il a confiance dans le cadre juridique : ses biens ne seront pas confisqués, ses contrats seront respectés, la justice tranchera les litiges. Des **droits de propriété** protégés et un État de droit réduisent l'incertitude et favorisent l'accumulation du capital.
+
+À l'inverse, des institutions défaillantes freinent la croissance. Selon Christine Lagarde (document 1), une corruption « endémique et institutionnalisée » affaiblit l'État de plusieurs façons. Elle « rabote les recettes » publiques et « pervertit les décisions budgétaires » : les autorités financent les projets qui rapportent des pots-de-vin plutôt que ceux qui créent de la valeur économique et sociale. Les investissements publics utiles à la croissance (infrastructures, éducation) sont alors sacrifiés. Pour les entreprises, la corruption fausse la concurrence et rend les profits incertains, ce qui décourage l'investissement privé. Enfin, en sapant la légitimité du système, elle peut conduire à des conflits qui détruisent l'activité.
+
+## 2. Les institutions conditionnent l'effort d'innovation
+
+L'innovation est coûteuse et facilement imitable. Les entreprises n'y consacrent des moyens importants que si des institutions leur garantissent d'en tirer un bénéfice. Le **brevet**, droit de propriété sur une invention, leur accorde un monopole d'exploitation temporaire qui rembourse leurs dépenses de recherche-développement. D'autres institutions soutiennent aussi l'innovation : le financement public de la recherche, les universités, les aides fiscales à la R&D, un système éducatif qui forme des chercheurs.
+
+Le document 2 montre que l'effort d'innovation diffère fortement selon les pays. La Corée du Sud consacre 4,3 % de son PIB à la recherche-développement et compte 6 856 chercheurs par million d'habitants. La France n'y consacre que 2,3 % de son PIB, soit près de deux fois moins en proportion, et compte 4 233 chercheurs par million d'habitants, environ 1,6 fois moins. Ces écarts traduisent en partie des choix institutionnels (politiques de recherche, formation, soutien public à l'innovation).
+
+## 3. Innovation, progrès technique et croissance
+
+Les innovations ainsi encouragées alimentent le **progrès technique**, qui accroît la **productivité globale des facteurs** : on produit davantage avec les mêmes quantités de travail et de capital. C'est la principale source de croissance de long terme. Le progrès technique est **endogène** : il résulte de décisions d'investissement en R&D que les institutions rendent plus ou moins rentables.
+
+Le document 3 illustre l'importance de l'innovation dans les grandes économies. En 2018, les États-Unis détiennent 23,04 % des familles triadiques de brevets (brevets déposés à la fois aux États-Unis, au Japon et dans l'Union européenne), loin devant l'Allemagne (7,92 %) et la France (3,32 %). Le cas de la **Chine** est frappant : sa part est passée de 0,84 % en 2005 à 8,68 % en 2018, soit une multiplication par plus de 10, pendant que son PIB était multiplié par environ 3,3. Ces PIB sont toutefois exprimés en prix courants : leur hausse ne mesure pas seulement la croissance réelle. De plus, la montée des brevets et celle du PIB vont de pair sans que l'on puisse isoler la part due aux institutions.
+
+## Conclusion
+
+Les institutions influent donc sur la croissance économique dans les deux sens. Des règles qui protègent la propriété, font respecter les contrats et limitent la corruption encouragent l'investissement. Des institutions favorables à la recherche, comme les brevets, le financement public ou la formation, stimulent l'innovation et donc le progrès technique, principal moteur de la croissance à long terme. À l'inverse, des institutions défaillantes détournent les ressources et découragent l'effort productif.
+
+## Décryptage
+
+- **« Influent »** invite à montrer des effets positifs et négatifs : le document 1 (corruption) sert à illustrer le versant négatif.
+- **Deux corrections par rapport au corrigé officiel** : le rapport des chercheurs entre la Corée du Sud et la France est d'environ 1,6, pas 2 ; un PIB en prix courants ne mesure pas la croissance réelle. Une lecture rigoureuse des données fait partie des attentes.
+- **Le document 2 ne parle pas directement d'institutions** : c'est à l'élève de faire le lien (financement public de la recherche, incitations fiscales, formation). C'est ce que le correcteur valorise.

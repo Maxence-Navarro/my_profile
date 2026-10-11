@@ -1,0 +1,12 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 21-SESJ1AN1. Grille pédagogique ÉDITORIALE construite à partir de la consigne et de l'objectif O3 du programme ; elle n'est pas un barème officiel.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir les institutions (règles formelles et informelles qui encadrent les comportements économiques)."},
+    {"id": "E2", "kind": "connaissance", "label": "Présenter les droits de propriété comme un exemple d'institution et les définir."},
+    {"id": "E3", "kind": "mecanisme", "label": "Mécanisme : sécurité des revenus futurs → incitation à investir → accumulation du capital."},
+    {"id": "E4", "kind": "mecanisme", "label": "Mécanisme : brevet → rente temporaire → incitation à innover → progrès technique / PGF → croissance."},
+    {"id": "E5", "kind": "methode", "label": "Réponse centrée sur les institutions (la consigne porte sur elles), l'exemple des droits de propriété servant de démonstration."}
+  ]
+}

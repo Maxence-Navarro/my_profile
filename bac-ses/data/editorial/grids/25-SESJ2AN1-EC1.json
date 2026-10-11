@@ -1,0 +1,12 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 25-SESJ2AN1 (2025). Grille ÉDITORIALE fondée sur la consigne (« une institution ») et sur l'objectif O3 du programme.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "connaissance", "label": "Définir ce qu'est une institution et définir la croissance économique."},
+    {"id": "E2", "kind": "methode", "label": "Choisir UNE institution précise et la nommer clairement (la consigne est au singulier) ; les droits de propriété sont l'exemple du programme."},
+    {"id": "E3", "kind": "mecanisme", "label": "Mécanisme complet reliant l'institution choisie aux incitations (investir / innover)."},
+    {"id": "E4", "kind": "mecanisme", "label": "Relier l'effet à une source de croissance identifiée (accumulation du capital, progrès technique / PGF)."},
+    {"id": "E5", "kind": "exemple", "label": "Illustration concrète."}
+  ]
+}

@@ -24,11 +24,20 @@
   ],
   "points": 6.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "droits de propriété",
+    "brevet",
+    "incitation",
+    "investissement",
+    "innovation",
+    "rente de monopole",
+    "licence",
+    "taux de variation"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
   "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Document :** Demande de brevets dans les secteurs technologiques les plus actifs en Europe en 2022 Nombre de demandes Variation entre 2021 et 2022 de brevets (en %)\n\n*Source indiquée : d'après l'Office européen des brevets, 2023.*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
@@ -72,8 +81,39 @@
     "reference": null,
     "url": null,
     "matchStatus": "grille_non_retrouvee",
-    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles).",
-    "criteria": []
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "document",
+        "label": "Q1 : comparer les niveaux 2022 avec un outil (13 951 contre 5 955 demandes, soit environ 2,3 fois plus)."
+      },
+      {
+        "id": "E2",
+        "kind": "document",
+        "label": "Q1 : comparer les évolutions 2021-2022 (+18,2 % contre -0,4 %) et en tirer une conclusion (l'écart se creuse)."
+      },
+      {
+        "id": "E3",
+        "kind": "connaissance",
+        "label": "Q2 : définir droits de propriété / brevet."
+      },
+      {
+        "id": "E4",
+        "kind": "mecanisme",
+        "label": "Q2 : incitation à innover : coût de l'innovation + risque d'imitation → brevet → monopole temporaire → rente qui rentabilise la R&D."
+      },
+      {
+        "id": "E5",
+        "kind": "mecanisme",
+        "label": "Q2 : incitation à investir : sécurité des revenus futurs du capital ; le brevet peut aussi être vendu ou concédé (licence) et faciliter le financement."
+      },
+      {
+        "id": "E6",
+        "kind": "document",
+        "label": "Q2 : utiliser le document : les dépôts de brevets (plus de 13 900 dans les machines électriques, +18,2 %) traduisent la volonté des entreprises de protéger leurs innovations."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

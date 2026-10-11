@@ -47,11 +47,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -179,12 +188,21 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "21-SESJ2ME2-EC2-B",
@@ -542,11 +560,20 @@
     "subQuestions": [],
     "points": 10.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "droits de propriété",
+      "brevet",
+      "corruption",
+      "imitation",
+      "capital humain",
+      "recherche-développement",
+      "progrès technique endogène"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -663,12 +690,21 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": null,
-    "notions": [],
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "diffusion",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "22-SESJ1NC1-EC1-B-Q2",
@@ -828,11 +864,20 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "diffusion",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -850,12 +895,21 @@
     "subQuestions": [],
     "points": 10.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "État de droit",
+      "corruption",
+      "droits de propriété",
+      "brevet",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "23-SESJ1JA1-DISS",
@@ -916,12 +970,20 @@
     "subQuestions": [],
     "points": 10.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "corruption",
+      "droits de propriété",
+      "brevet",
+      "recherche-développement",
+      "progrès technique endogène",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "23-SESJ1LI1-EC3",
@@ -971,12 +1033,20 @@
     ],
     "points": 6.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "innovation",
+      "indice base 100",
+      "taux de variation",
+      "corrélation",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
+    "gridStatus": "grille_non_retrouvee"
   },
   {
     "id": "23-SESJ1NC1-EC2",
@@ -1312,11 +1382,19 @@
     "subQuestions": [],
     "points": 4.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "institutions",
+      "brevet",
+      "droits de propriété",
+      "incitation",
+      "innovation",
+      "progrès technique",
+      "productivité globale des facteurs"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1367,11 +1445,20 @@
     ],
     "points": 6.0,
     "instructionVerb": "montrer",
-    "notions": [],
+    "notions": [
+      "droits de propriété",
+      "brevet",
+      "incitation",
+      "investissement",
+      "innovation",
+      "rente de monopole",
+      "licence",
+      "taux de variation"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
+    "pedagogicalStatus": "a_verifier_grille",
+    "hasAnswer": true,
     "gridStatus": "grille_non_retrouvee"
   },
   {
@@ -1677,7 +1764,7 @@
     "instructionVerb": null,
     "notions": [],
     "accessTier": "premium",
-    "verificationStatus": "a_verifier",
+    "verificationStatus": "verifie_source_tierce",
     "pedagogicalStatus": "a_rechercher",
     "hasAnswer": false,
     "gridStatus": "correspondance_non_verifiee"

@@ -24,12 +24,20 @@
   ],
   "points": 6.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "droits de propriété",
+    "brevet",
+    "innovation",
+    "indice base 100",
+    "taux de variation",
+    "corrélation",
+    "productivité globale des facteurs"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "a_verifier_grille",
+  "hasAnswer": true,
+  "gridStatus": "grille_non_retrouvee",
   "statementMd": "**Document :** Évolution du nombre de brevets et du PIB par habitant (indice base 100 en 2011) au Royaume-Uni entre 2011 et 2019 116 114\n\n*Source indiquée : Organisation Mondiale de la Propriété Intellectuelle, 2022.*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
   "siblingParts": [
@@ -68,13 +76,45 @@
   ],
   "verificationNotes": null,
   "grid": {
-    "isOfficial": true,
-    "reference": "23-SESJ1ME1C",
-    "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-metropole-1-corrige.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 23-SESJ1ME1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.821) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "isOfficial": false,
+    "reference": null,
+    "url": null,
+    "matchStatus": "grille_non_retrouvee",
+    "matchNotes": "Grille officielle non retrouvée : aucun document de correction officiel spécifique à ce sujet n'a été localisé (sources consultées : sujetdebac.fr, catalogue de l'académie de Versailles). Les éléments ci-dessous constituent une grille pédagogique éditoriale, PAS un barème officiel.",
+    "criteria": [
+      {
+        "id": "E1",
+        "kind": "document",
+        "label": "Q1 : lecture correcte d'un indice base 100 (ce n'est pas un nombre de brevets) ; évolution globale chiffrée (≈ +8 % entre 2011 et 2019)."
+      },
+      {
+        "id": "E2",
+        "kind": "document",
+        "label": "Q1 : caractériser le profil : hausse irrégulière, reculs en 2013 et 2016, pic en 2018 (≈ 110,6), baisse en 2019."
+      },
+      {
+        "id": "E3",
+        "kind": "connaissance",
+        "label": "Q2 : définir droits de propriété / brevet et croissance."
+      },
+      {
+        "id": "E4",
+        "kind": "mecanisme",
+        "label": "Q2 : brevet → rente temporaire → incitation à innover → progrès technique → PGF → croissance (et sécurisation de l'investissement)."
+      },
+      {
+        "id": "E5",
+        "kind": "document",
+        "label": "Q2 : utiliser le document avec prudence : brevets et PIB par habitant progressent tous deux (≈ +8 % et ≈ +16 %), mais une corrélation ne prouve pas une causalité ; le PIB/hab progresse plus régulièrement."
+      }
+    ]
   },
   "related": [],
-  "externalCorrections": []
+  "externalCorrections": [
+    {
+      "url": "https://groupe-reussite.fr/ressources/wp-content/uploads/Annales/bac/ses/corrige-1-bac-ses-2023-metropole.pdf",
+      "author": "Groupe Réussite (aussi relayé par sujetdebac.fr sous l'étiquette « corrigé officiel », à tort)",
+      "note": "Non officiel. Erreurs : indice lu comme un nombre de brevets, hausse calculée à +6 % au lieu d'environ +8 %, mécanismes confus, corrélation présentée comme causalité."
+    }
+  ]
 }

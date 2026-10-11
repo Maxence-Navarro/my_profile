@@ -13,12 +13,20 @@
   "subQuestions": [],
   "points": 10.0,
   "instructionVerb": "montrer",
-  "notions": [],
+  "notions": [
+    "institutions",
+    "corruption",
+    "droits de propriété",
+    "brevet",
+    "recherche-développement",
+    "progrès technique endogène",
+    "productivité globale des facteurs"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": "**Dossier documentaire (3 documents)**\n\n- Document 1 — Pourquoi le FMI se préoccupe-t-il tant de la corruption ? C'est simple : le rôle du FMI *(source : d'après Christine LAGARDE, « Les dégâts de la corruption », Fonds Monétaire)*\n- Document 2 — Pourcentage du Produit Intérieur Brut dépensé dans la R&D1 et nombre de *(source : Tristan GAUDIAUT, www.statista.com, 15 août 2018.)*\n- Document 3 — Parts des pays dans les familles triadiques de brevets1 et Produit Intérieur Brut *(source : d'après « Principaux indicateurs de la science et de la technologie », OCDE,)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
   "siblingParts": [
@@ -60,9 +68,45 @@
     "isOfficial": true,
     "reference": "23-SESJ2G11C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-centres-etranger-2-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 23-SESJ2G11 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.839) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 23-SESJ2G11. Correspondance vérifiée manuellement : même session (23-SESJ2G11, centres étrangers, jour 2), troisième partie : libellé identique ; « Exploitation possible des documents » et « Raisonnement possible » lus intégralement (pages 6-8 du corrigé). Deux points du corrigé officiel sont corrigés dans notre version : la France n'a pas « environ 2 fois moins » de chercheurs que la Corée du Sud mais environ 1,6 fois moins (4 233 contre 6 856 par million d'habitants) ; les PIB du document 3 sont en prix courants, leur évolution ne mesure donc pas la croissance réelle. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "connaissance",
+        "label": "Définir la croissance (augmentation soutenue de la production) et les institutions (contraintes formelles et informelles qui encadrent les interactions)."
+      },
+      {
+        "id": "G2",
+        "kind": "mecanisme",
+        "label": "Un cadre juridique protecteur (droits de propriété) rassure et incite à investir ; des institutions défaillantes (corruption) découragent l'investissement."
+      },
+      {
+        "id": "G3",
+        "kind": "document",
+        "label": "Document 1 : la corruption réduit les recettes de l'État, pervertit les décisions budgétaires, réduit l'investissement."
+      },
+      {
+        "id": "G4",
+        "kind": "mecanisme",
+        "label": "Des institutions de qualité incitent à innover (brevets, cadre propice à la R&D) ; l'innovation accroît le progrès technique."
+      },
+      {
+        "id": "G5",
+        "kind": "document",
+        "label": "Document 2 : Corée du Sud 4,3 % du PIB en R&D et 6 856 chercheurs par million d'habitants ; France 2,3 %."
+      },
+      {
+        "id": "G6",
+        "kind": "document",
+        "label": "Document 3 : parts dans les brevets triadiques (ex. Chine de 0,84 % à 8,68 % entre 2005 et 2018) mises en relation avec le PIB."
+      },
+      {
+        "id": "G7",
+        "kind": "methode",
+        "label": "Introduction, développement argumenté, conclusion."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

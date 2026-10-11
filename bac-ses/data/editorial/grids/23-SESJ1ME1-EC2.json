@@ -1,0 +1,12 @@
+{
+  "editorial": true,
+  "editorial_notes": "Le fichier présenté comme « corrigé officiel » par sujetdebac.fr pour la session 23-SESJ1ME1 est en réalité un corrigé indicatif de Groupe Réussite (texte identique au PDF corrige-1-bac-ses-2023-metropole.pdf ; aucun marqueur officiel). Grille ÉDITORIALE construite à partir de la consigne, du document et de l'objectif O3.",
+  "objectives": ["O1", "O3"],
+  "criteria": [
+    {"id": "E1", "kind": "document", "label": "Q1 : lecture correcte d'un indice base 100 (ce n'est pas un nombre de brevets) ; évolution globale chiffrée (≈ +8 % entre 2011 et 2019)."},
+    {"id": "E2", "kind": "document", "label": "Q1 : caractériser le profil : hausse irrégulière, reculs en 2013 et 2016, pic en 2018 (≈ 110,6), baisse en 2019."},
+    {"id": "E3", "kind": "connaissance", "label": "Q2 : définir droits de propriété / brevet et croissance."},
+    {"id": "E4", "kind": "mecanisme", "label": "Q2 : brevet → rente temporaire → incitation à innover → progrès technique → PGF → croissance (et sécurisation de l'investissement)."},
+    {"id": "E5", "kind": "document", "label": "Q2 : utiliser le document avec prudence : brevets et PIB par habitant progressent tous deux (≈ +8 % et ≈ +16 %), mais une corrélation ne prouve pas une causalité ; le PIB/hab progresse plus régulièrement."}
+  ]
+}

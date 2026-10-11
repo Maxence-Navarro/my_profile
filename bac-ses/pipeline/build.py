@@ -151,8 +151,53 @@ def parse_answer(path: Path) -> dict:
     return head
 
 
+PROGRAMME_SOURCE = {
+    "label": "Programme de SES de Terminale (BO spécial n° 8 du 25 juillet 2019) — objectifs d'apprentissage du chapitre",
+    "url": "https://www.education.gouv.fr/bo/19/Special8/MENE1921253A.htm", "kind": "officiel",
+    "note": "Lien identifié par moteur de recherche (page non consultable depuis l'environnement de collecte) ; "
+            "texte des objectifs vérifié par ses citations dans les corrigés officiels.",
+}
+
+
+def resolve_sources(items: list, corr_url: str | None, code: str | None, externals: dict) -> list[dict]:
+    """Développe les raccourcis de sources des corrigés : @programme, @corrige-officiel, @ext:<id>[|note]."""
+    out = []
+    for it in items:
+        if isinstance(it, dict):
+            out.append(it)
+            continue
+        key, _, note = it.partition("|")
+        if key == "@programme":
+            out.append(PROGRAMME_SOURCE)
+        elif key == "@corrige-officiel":
+            if not corr_url:
+                raise ValueError(f"@corrige-officiel utilisé sans corrigé officiel ({code})")
+            out.append({"label": f"Proposition de corrigé officielle {code}C (relayée par sujetdebac.fr)", "url": corr_url,
+                        "kind": "tiers-relai-officiel", "note": note or "Grille de contrôle principale."})
+        elif key.startswith("@ext:"):
+            e = externals[key[5:]]
+            out.append({"label": f"{e.get('label') or e['kind'].capitalize()} — {e['author']}", "url": e["url"], "kind": "tiers",
+                        **({"note": note} if note else {})})
+        else:
+            raise ValueError(f"source inconnue : {it}")
+    return out
+
+
+def is_official_corrige(text: str) -> bool:
+    """Marqueurs des propositions de corrigé ministérielles : en-tête « PROPOSITION DE CORRIGÉ » et tableau
+    « Programme officiel », ou code de sujet suffixé par C (ex. 22-SESJ1ME1C). Un corrigé rédigé à la première
+    personne par un enseignant (« J'y ai abordé… ») n'en porte aucun."""
+    if re.search(r"\b\d{2}-SES[A-Z0-9]+C\b", text):
+        return True
+    return bool(re.search(r"PROPOSITION DE CORRIG", text) and re.search(r"Programme officiel", text, re.I))
+
+
+unofficial_corrige_sessions: set[str] = set()
+
+
 def main() -> None:
     t0 = time.time()
+    externals = {e["id"]: e for e in read_json(EDITORIAL / "external_sources.json")["sources"]}
     ed = read_json(EDITORIAL / "croissance_subjects.json")
     segs = read_json(RAW / "segments.json")
     sdb = read_json(RAW / "sujetdebac_index.json")
@@ -172,8 +217,11 @@ def main() -> None:
     excerpts_dir.mkdir(parents=True, exist_ok=True)
 
     details, summaries, inventory = [], [], []
+    annotations = read_json(EDITORIAL / "subject_annotations.json", {}) or {}
     for s in ed["subjects"]:
         sid = s["id"]
+        ann = annotations.get(sid, {})
+        s = {**s, **{k: v for k, v in ann.items() if k in ("notions", "external_corrections", "access_tier")}}
         slug_session = s.get("session_slug")
         seg_slug, seg = parts_by_id.get(sid, (slug_session, None))
         slug_session = slug_session or seg_slug
@@ -247,7 +295,11 @@ def main() -> None:
             siblings.append({"part": label, "question": p["question"][:220]})
 
         # ---- grille / corrigé officiel
-        corr = rec_sdb.get("files", {}).get("corrige", {})
+        corr = dict(rec_sdb.get("files", {}).get("corrige", {}))
+        if corr.get("accessible") and not is_official_corrige((RAW / "sujetdebac" / slug_session / "corrige.txt").read_text()):
+            # sujetdebac.fr étiquette parfois « corrigé officiel » un corrigé personnel d'enseignant : on le déclasse.
+            unofficial_corrige_sessions.add(slug_session)
+            corr["accessible"] = False
         grid_file = EDITORIAL / "grids" / f"{sid}.json"
         grid_ed = read_json(grid_file) if grid_file.exists() else None
         if corr.get("accessible"):
@@ -334,7 +386,8 @@ def main() -> None:
         if answer:
             write_json(PUBLISHED / "answers" / f"{sid}.json", {
                 "subjectId": sid, "version": answer.get("version", 1), "contentMd": answer["contentMd"],
-                "checklist": answer.get("checklist", []), "sources": answer.get("sources", []),
+                "checklist": answer.get("checklist", []),
+                "sources": resolve_sources(answer.get("sources", []), corr.get("url") if corr.get("accessible") else None, code, externals),
                 "validationStatus": answer["validationStatus"], "validatedByHuman": answer.get("validatedByHuman", False),
                 "lastRevisedAt": answer["lastRevisedAt"], "limits": answer.get("limits"),
             })
@@ -380,6 +433,7 @@ def main() -> None:
         "toVerify": ed.get("to_verify", []), "outOfScope": ed.get("out_of_scope", []),
         "excludedCandidates": ed.get("excluded_candidates", []),
     }
+    meta["unofficialCorrigesMislabelled"] = sorted(unofficial_corrige_sessions)
     write_json(PUBLISHED / "meta.json", meta)
     inventory.sort(key=lambda r: (r["annee"], r["code_officiel"] or r["id"], r["type"]))
     write_json(PUBLISHED / "inventory.json", inventory)

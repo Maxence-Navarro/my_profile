@@ -1,0 +1,36 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "a_verifier_grille",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@programme",
+    {"label": "Proposition de corrigé officielle 22-SESJ2ME3C — mécanismes des droits de propriété (autre session)", "url": "https://www.sujetdebac.fr/annales-pdf/2022/spe-sciences-eco-sociales-2022-metropole-2-remplacement-corrige-officiel.pdf", "kind": "tiers-relai-officiel", "note": "Référence de comparaison, pas le barème de ce sujet."},
+    "@ext:besancon-oa3-institutions|Dossier pédagogique sur les institutions et l'incitation à innover."
+  ],
+  "checklist": [
+    {"criterionId": "E1", "criterion": "Définitions (institution, croissance)", "present": true, "location": "§1"},
+    {"criterionId": "E2", "criterion": "Une institution précise choisie et nommée", "present": true, "location": "§1 (le brevet)"},
+    {"criterionId": "E3", "criterion": "Mécanisme d'incitation complet", "present": true, "location": "§2"},
+    {"criterionId": "E4", "criterion": "Lien avec une source de croissance (PGF)", "present": true, "location": "§3"},
+    {"criterionId": "E5", "criterion": "Illustration concrète", "present": true, "location": "§2 (médicament)"}
+  ],
+  "limits": "Aucun corrigé officiel retrouvé pour cette session (2025) : contrôle face à une grille éditoriale. D'autres institutions pouvaient être choisies (État de droit et respect des contrats, système éducatif public, banque centrale indépendante…), à condition d'en expliquer le mécanisme. Corrigé non encore relu par un enseignant."
+}
+---
+## Réponse rédigée
+
+Une **institution** est une règle, formelle ou informelle, qui encadre les comportements des agents économiques : lois, droits de propriété, règles de fonctionnement des marchés. La **croissance économique** est l'augmentation durable de la production, mesurée par la hausse du PIB en volume. Prenons une institution précise, le **brevet**, droit de propriété sur une invention, pour montrer comment elle peut contribuer à la croissance.
+
+Le brevet agit d'abord sur les **incitations à innover**. Mettre au point une innovation coûte cher : il faut financer des chercheurs, des équipements et des essais, sans certitude de réussite. Or une fois connue, l'innovation peut être copiée à faible coût par les concurrents. Sans protection, aucune entreprise n'aurait intérêt à supporter seule ces dépenses. Le brevet, délivré en France par l'INPI, accorde à l'inventeur un droit exclusif d'exploitation, en général pendant 20 ans au plus. Pendant cette période, l'innovateur est en situation de monopole et perçoit une rente qui rembourse ses dépenses de recherche-développement. C'est le cas d'un laboratoire pharmaceutique qui vend seul un nouveau médicament tant que le brevet le protège.
+
+En suscitant davantage d'innovations, le brevet stimule le **progrès technique**. Celui-ci se traduit par des **gains de productivité globale des facteurs** : grâce à de nouveaux procédés ou produits, l'économie produit davantage avec les mêmes quantités de travail et de capital. De plus, l'invention est publiée dans le brevet puis tombe dans le domaine public : d'autres entreprises peuvent l'imiter et l'améliorer, ce qui diffuse ces gains à l'ensemble de l'économie.
+
+Le brevet contribue ainsi à la croissance économique en rendant l'innovation rentable puis en permettant sa diffusion.
+
+## Décryptage
+
+- **« Une institution »** : la consigne est au singulier. Il faut en choisir une et la traiter à fond plutôt que de juxtaposer plusieurs institutions.
+- **Pourquoi le brevet ?** C'est l'exemple cité par le programme (« notamment les droits de propriété »), celui sur lequel les mécanismes sont les plus solides. Le droit de propriété en général, l'État de droit (exécution des contrats) ou l'école publique (capital humain) étaient aussi acceptables, à condition d'expliquer le mécanisme jusqu'à la croissance.
+- **Le fil conducteur** : institution → incitation → comportement (innovation) → progrès technique → PGF → croissance. Chaque maillon doit apparaître.

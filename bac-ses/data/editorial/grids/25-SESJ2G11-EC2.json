@@ -1,0 +1,13 @@
+{
+  "editorial": true,
+  "editorial_notes": "Aucun corrigé officiel retrouvé pour la session 25-SESJ2G11 (2025). Grille ÉDITORIALE construite à partir de la consigne, du document et de l'objectif O3.",
+  "objectives": ["O3"],
+  "criteria": [
+    {"id": "E1", "kind": "document", "label": "Q1 : comparer les niveaux 2022 avec un outil (13 951 contre 5 955 demandes, soit environ 2,3 fois plus)."},
+    {"id": "E2", "kind": "document", "label": "Q1 : comparer les évolutions 2021-2022 (+18,2 % contre -0,4 %) et en tirer une conclusion (l'écart se creuse)."},
+    {"id": "E3", "kind": "connaissance", "label": "Q2 : définir droits de propriété / brevet."},
+    {"id": "E4", "kind": "mecanisme", "label": "Q2 : incitation à innover : coût de l'innovation + risque d'imitation → brevet → monopole temporaire → rente qui rentabilise la R&D."},
+    {"id": "E5", "kind": "mecanisme", "label": "Q2 : incitation à investir : sécurité des revenus futurs du capital ; le brevet peut aussi être vendu ou concédé (licence) et faciliter le financement."},
+    {"id": "E6", "kind": "document", "label": "Q2 : utiliser le document : les dépôts de brevets (plus de 13 900 dans les machines électriques, +18,2 %) traduisent la volonté des entreprises de protéger leurs innovations."}
+  ]
+}
