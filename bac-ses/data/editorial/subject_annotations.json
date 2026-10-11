@@ -315,5 +315,50 @@
       "institutions",
       "droits de propriété"
     ]
+  },
+  "INT-21-ME-J1-DISS": {
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ]
+  },
+  "23-SESJ1JA1-DISS": {
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ]
+  },
+  "24-SESJ1G11-DISS": {
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ]
   }
 }

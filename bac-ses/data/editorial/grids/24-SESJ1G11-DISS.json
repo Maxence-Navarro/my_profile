@@ -1,0 +1,13 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (24-SESJ1G11, centres étrangers, jour 1), dissertation : libellé identique ; exploitation des documents, problématique et plan détaillé lus intégralement (pages 1-3). Chiffres recontrôlés : concordants.",
+  "objectives": ["O1", "O2", "O3"],
+  "criteria": [
+    {"id": "G1", "kind": "document", "label": "Document 1 : Japon et Corée du Sud, croissance liée avant tout à la PGF (Corée : 2,3 points sur 2,9 %) ; Suède et France, croissance expliquée avant tout par l'accumulation ; États-Unis, contribution du travail la plus forte."},
+    {"id": "G2", "kind": "document", "label": "Document 2 : écarts de DIRD en % du PIB ; Corée du Sud : DIRD la plus élevée (4,8 %) et plus forte densité de chercheurs (16,6 ‰)."},
+    {"id": "G3", "kind": "document", "label": "Document 3 : dépenses publiques d'éducation de 1,5 à 2,5 % du PIB en Haïti et au Tchad contre au moins 5 % ailleurs ; lien avec le niveau de vie et son évolution."},
+    {"id": "G4", "kind": "document", "label": "Document 4 : brevet (monopole d'exploitation), types de titres, incitation à innover."},
+    {"id": "G5", "kind": "mecanisme", "label": "I.A accumulation du travail et du capital ; I.B gains de PGF (mesure du progrès technique, efficacité de la combinaison)."},
+    {"id": "G6", "kind": "mecanisme", "label": "II.A institutions : droits de propriété, brevets, action de l'État (éducation) ; II.B progrès technique endogène, externalités positives, financement de la R&D et de l'éducation par la croissance."}
+  ]
+}

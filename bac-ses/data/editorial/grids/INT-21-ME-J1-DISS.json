@@ -1,0 +1,15 @@
+{
+  "match_verified": true,
+  "match_notes": "même session (métropole 2021, jour 1 ; aucun code officiel imprimé, identifiant interne), dissertation : libellé identique ; exploitation des documents, problématique et plan détaillé lus intégralement (pages 1-4). Imprécisions du corrigé officiel corrigées : la PGF explique exactement la moitié (et non « plus de la moitié ») de la croissance allemande en 2017 ; les dépenses d'éducation sont au document 4 (et non 3) ; les indicateurs de gouvernance de la Chine, proches de 0, ne la placent pas dans le même groupe qu'Haïti.",
+  "objectives": ["O1", "O2", "O3"],
+  "criteria": [
+    {"id": "G1", "kind": "document", "label": "Document 1 : la somme des contributions du travail et du capital est inférieure à la croissance ; la PGF explique une large part de la croissance en 2017 (France, Corée du Sud, Allemagne) ; travail prépondérant en Grèce ; capital ≈ moitié en Corée."},
+    {"id": "G2", "kind": "document", "label": "Document 2 : intensité de R&D (OCDE 2,34 % → 2,38 %), dépenses réelles de R&D +3,9 % en 2018, portées par les entreprises (> 75 %)."},
+    {"id": "G3", "kind": "document", "label": "Document 3 : indicateurs de gouvernance (Norvège, Allemagne élevés ; Haïti très bas) : qualité des institutions."},
+    {"id": "G4", "kind": "document", "label": "Document 4 : DIE plus que doublée (77,7 → 157,2 Md€), dépense par élève ≈ × 1,85, financement public 83,7 % en 2018."},
+    {"id": "G5", "kind": "methode", "label": "Problématique : quantité de facteurs utilisés ou efficacité de leur utilisation ?"},
+    {"id": "G6", "kind": "mecanisme", "label": "I : contribution des facteurs travail (leviers : population active, emploi, durée du travail) et capital (investissement, capacités productives, équipements plus performants)."},
+    {"id": "G7", "kind": "mecanisme", "label": "II.A : progrès technique mesuré par la PGF ; endogène (R&D, capital humain), externalités positives, croissance auto-entretenue."},
+    {"id": "G8", "kind": "mecanisme", "label": "II.B : institutions de qualité (droits de propriété, État de droit, lutte contre la corruption) incitent à investir et innover."}
+  ]
+}

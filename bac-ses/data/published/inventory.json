@@ -269,10 +269,10 @@
     "docs_versailles": "136",
     "grille_reference": "",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2021/spe-sciences-eco-sociales-2021-metropole-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -821,10 +821,10 @@
     "docs_versailles": "124",
     "grille_reference": "23-SESJ1JA1C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {
@@ -1097,10 +1097,10 @@
     "docs_versailles": "529",
     "grille_reference": "24-SESJ1G11C",
     "grille_url": "https://www.sujetdebac.fr/annales-pdf/2024/spe-sciences-eco-sociales-2024-centres-etranger-1-corrige-officiel.pdf",
-    "grille_statut": "correspondance_non_verifiee",
+    "grille_statut": "correspondance_verifiee",
     "statut_verification_sujet": "verifie_source_tierce",
     "statut_recherche_corrige": "sources_trouvees",
-    "statut_validation_pedagogique": "a_rechercher",
+    "statut_validation_pedagogique": "verifie_pedagogiquement",
     "acces": "premium"
   },
   {

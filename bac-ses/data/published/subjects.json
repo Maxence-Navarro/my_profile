@@ -263,12 +263,24 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "21-SESJ1ME3-DISS",
@@ -1002,12 +1014,24 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "23-SESJ2JA1-EC1",
@@ -1324,12 +1348,24 @@
     "subQuestions": [],
     "points": 20.0,
     "instructionVerb": "question de dissertation",
-    "notions": [],
+    "notions": [
+      "facteur travail",
+      "facteur capital",
+      "investissement",
+      "productivité globale des facteurs",
+      "progrès technique",
+      "croissance endogène",
+      "capital humain",
+      "recherche-développement",
+      "externalités positives",
+      "institutions",
+      "brevet"
+    ],
     "accessTier": "premium",
     "verificationStatus": "verifie_source_tierce",
-    "pedagogicalStatus": "a_rechercher",
-    "hasAnswer": false,
-    "gridStatus": "correspondance_non_verifiee"
+    "pedagogicalStatus": "verifie_pedagogiquement",
+    "hasAnswer": true,
+    "gridStatus": "correspondance_verifiee"
   },
   {
     "id": "24-SESJ2G11-EC2",

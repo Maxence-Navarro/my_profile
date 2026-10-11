@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:13:32Z",
+  "generatedAt": "2026-10-11T18:17:06Z",
   "inventory": {
     "totalQuestions": 68,
     "byType": {
@@ -8,8 +8,8 @@
       "EC3": 12,
       "dissertation": 12
     },
-    "withAnswer": 25,
-    "withOfficialGrid": 8,
+    "withAnswer": 28,
+    "withOfficialGrid": 11,
     "toVerify": 0
   },
   "toVerify": [

@@ -13,12 +13,24 @@
   "subQuestions": [],
   "points": 20.0,
   "instructionVerb": "question de dissertation",
-  "notions": [],
+  "notions": [
+    "facteur travail",
+    "facteur capital",
+    "investissement",
+    "productivité globale des facteurs",
+    "progrès technique",
+    "croissance endogène",
+    "capital humain",
+    "recherche-développement",
+    "externalités positives",
+    "institutions",
+    "brevet"
+  ],
   "accessTier": "premium",
   "verificationStatus": "verifie_source_tierce",
-  "pedagogicalStatus": "a_rechercher",
-  "hasAnswer": false,
-  "gridStatus": "correspondance_non_verifiee",
+  "pedagogicalStatus": "verifie_pedagogiquement",
+  "hasAnswer": true,
+  "gridStatus": "correspondance_verifiee",
   "statementMd": "**Dossier documentaire (4 documents)**\n\n- Document 1 — Croissance du PIB (en pourcentage) et contributions à cette croissance (en *(source : D'après OCDE, 2022.)*\n- Document 2 — Évolution de la population active occupée (en milliers) *(source : OCDE, 2022.)*\n- Document 3 — Part des dépenses de recherche et développement en 2019 dans les pays de *(source : OCDE, Eurostat, 2021.)*\n- Document 4 — Article L611-1 *(source : Code la propriété intellectuelle, version en vigueur au 1 janvier 2020.)*",
   "statementNote": "Les documents ne sont pas reproduits ici (droits des auteurs des documents) : consultez-les dans le sujet officiel, lien dans « Sources ».",
   "siblingParts": [
@@ -60,9 +72,50 @@
     "isOfficial": true,
     "reference": "23-SESJ1JA1C",
     "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-sciences-eco-sociales-2023-asie-1-corrige-officiel.pdf",
-    "matchStatus": "correspondance_non_verifiee",
-    "matchNotes": "Un document de correction existe pour la session 23-SESJ1JA1 ; la section correspondant à cette question a été localisée automatiquement (concordance du libellé : 0.877) mais pas encore vérifiée à la main. Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
-    "criteria": []
+    "matchStatus": "correspondance_verifiee",
+    "matchNotes": "Document de correction de la session 23-SESJ1JA1. Correspondance vérifiée manuellement : même session (23-SESJ1JA1, Asie, jour 1), dissertation : libellé identique ; exploitation des documents, problématique et plan détaillé lus intégralement (pages 1-3). Erreur du corrigé officiel corrigée : il attribue au capital « environ 50 % » de la croissance allemande en 2008 en divisant 0,4 point par 1,1 %, qui est la croissance de 2019 (0,4 / 1,1 ≈ 36 % en 2019 ; ≈ 10 % en 2008). Anomalie du document 1 signalée : la croissance allemande de 2008 (4,2 %) paraît incohérente avec la comptabilité nationale (environ 1 %). Ce document officiel est relayé par sujetdebac.fr (site non institutionnel).",
+    "criteria": [
+      {
+        "id": "G1",
+        "kind": "document",
+        "label": "Document 1 : contributions ; travail + capital = environ les deux tiers de la croissance américaine en 1990, la quasi-totalité de la croissance française en 2019 ; PGF ≈ la moitié de la croissance allemande en 1990."
+      },
+      {
+        "id": "G2",
+        "kind": "document",
+        "label": "Document 2 : hausse de la population active occupée 1970-2019 (États-Unis × 2 ; France + 6,8 millions ; Royaume-Uni + 8,4 millions)."
+      },
+      {
+        "id": "G3",
+        "kind": "document",
+        "label": "Document 3 : R&D en % du PIB (Suède 1re ≈ 3,4 % ; France 7e ≈ 2,2 %, proche de la moyenne de l'UE)."
+      },
+      {
+        "id": "G4",
+        "kind": "document",
+        "label": "Document 4 : Code de la propriété intellectuelle (brevet 20 ans, droit exclusif, sanctions pénales)."
+      },
+      {
+        "id": "G5",
+        "kind": "methode",
+        "label": "Problématique : seule augmentation quantitative du travail et du capital, ou autres facteurs ?"
+      },
+      {
+        "id": "G6",
+        "kind": "mecanisme",
+        "label": "I.A travail (population active, durée du travail, contexte sociodémographique) ; I.B capital (investissement, capacités productives, équipements plus performants)."
+      },
+      {
+        "id": "G7",
+        "kind": "mecanisme",
+        "label": "II.A progrès technique, gains de productivité, PGF ; progrès technique endogène, externalités positives."
+      },
+      {
+        "id": "G8",
+        "kind": "mecanisme",
+        "label": "II.B institutions : stabilité, respect des droits de propriété, incitation à innover (brevets, document 4)."
+      }
+    ]
   },
   "related": [],
   "externalCorrections": []

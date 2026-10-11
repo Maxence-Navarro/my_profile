@@ -1,0 +1,75 @@
+---json
+{
+  "version": 1,
+  "validationStatus": "verifie_pedagogiquement",
+  "validatedByHuman": false,
+  "lastRevisedAt": "2026-10-11",
+  "sources": [
+    "@corrige-officiel|Grille de contrôle principale (plan détaillé repris). Trois imprécisions corrigées : Allemagne (la moitié, pas plus), numéro de document (4 et non 3), classement de la Chine.",
+    "@programme"
+  ],
+  "checklist": [
+    {"criterionId": "G1", "criterion": "Document 1 (décomposition 2017)", "present": true, "location": "I.A, I.B, II.A"},
+    {"criterionId": "G2", "criterion": "Document 2 (R&D)", "present": true, "location": "II.A"},
+    {"criterionId": "G3", "criterion": "Document 3 (gouvernance)", "present": true, "location": "II.B"},
+    {"criterionId": "G4", "criterion": "Document 4 (éducation)", "present": true, "location": "II.A"},
+    {"criterionId": "G5", "criterion": "Problématique quantité / efficacité", "present": true, "location": "Introduction"},
+    {"criterionId": "G6", "criterion": "Travail et capital", "present": true, "location": "I.A, I.B"},
+    {"criterionId": "G7", "criterion": "PGF, progrès technique endogène, externalités", "present": true, "location": "II.A"},
+    {"criterionId": "G8", "criterion": "Institutions", "present": true, "location": "II.B"}
+  ],
+  "limits": "Le document 4 ne précise pas si les montants sont en euros courants ou constants ; vu leur niveau (6,5 % du PIB en 1980), il s'agit très probablement d'euros constants. Corrigé non encore relu par un enseignant."
+}
+---
+## Introduction
+
+En 2017, la Corée du Sud a connu une croissance de 3,1 % alors que le nombre total d'heures travaillées y diminuait (document 1). Comment une économie peut-elle produire davantage avec moins de travail ?
+
+La **croissance économique** est l'augmentation durable de la production d'un pays, mesurée par la hausse du PIB en volume. Pour produire, les entreprises combinent deux **facteurs de production** : le **travail**, mesuré par le nombre d'heures travaillées, et le **capital fixe**, c'est-à-dire les équipements et bâtiments utilisés pendant plusieurs cycles de production. L'économiste Robert Solow a montré qu'on peut décomposer la croissance en trois contributions : celle du travail, celle du capital, et un « résidu » qui mesure l'efficacité de leur combinaison, la **productivité globale des facteurs** (PGF).
+
+**Problématique** : la croissance économique résulte-t-elle seulement d'une plus grande quantité de travail et de capital, ou aussi d'une meilleure efficacité de leur utilisation ?
+
+Nous verrons que les facteurs travail et capital contribuent bien à la croissance (I), mais qu'ils ne suffisent pas à l'expliquer : la croissance est aussi un processus auto-entretenu, fondé sur le progrès technique et soutenu par les institutions (II).
+
+## I. Les facteurs travail et capital contribuent à la croissance économique
+
+### A. L'augmentation de la quantité de travail
+
+Pour une technique de production donnée, utiliser davantage de travail permet de produire davantage. La quantité de travail peut augmenter de plusieurs façons. Le nombre de travailleurs peut croître, par l'accroissement naturel, le solde migratoire ou la hausse de l'activité féminine. Le chômage peut reculer, l'âge de départ à la retraite être repoussé. La durée du travail peut aussi s'allonger (heures supplémentaires, travail le dimanche).
+
+Le document 1 montre que le travail peut expliquer une grande partie de la croissance. En 2017, en Grèce, la contribution des heures travaillées (1,5 point) représente la totalité de la croissance du PIB (1,5 %). L'économie grecque sortait alors d'une profonde crise et l'emploi y repartait à la hausse. En Allemagne et aux États-Unis, le travail apporte 0,8 point, soit environ un tiers de la croissance.
+
+### B. L'accumulation du capital
+
+L'**investissement** accroît le stock de capital fixe. Il augmente les capacités de production et permet de produire davantage. Il permet aussi de remplacer des équipements usés par des machines plus performantes, ce qui améliore l'efficacité de la production.
+
+En Corée du Sud, en 2017, la contribution du capital atteint 1,4 point, soit près de la moitié de la croissance (3,1 %). Elle est de 0,7 point en France et de 0,6 point aux États-Unis (document 1). À l'inverse, en Grèce, le capital a une contribution négative (-0,2 point) : l'investissement n'y suffisait plus à compenser l'usure des équipements.
+
+**Transition.** Pourtant, dans tous les pays du document 1, la somme des contributions du travail et du capital est inférieure à la croissance du PIB. En France, elle n'atteint que 0,6 point (-0,1 + 0,7) pour une croissance de 2,2 %. Les facteurs travail et capital ne suffisent donc pas à expliquer la croissance.
+
+## II. La croissance est aussi un processus auto-entretenu
+
+### A. Le rôle essentiel du progrès technique
+
+La **PGF** mesure ce qui, dans la croissance, ne s'explique pas par l'augmentation des quantités de travail et de capital. Elle reflète principalement le **progrès technique**, c'est-à-dire l'ensemble des innovations qui améliorent l'efficacité de la combinaison productive. En 2017, la PGF explique 1,6 point des 2,2 % de croissance en France, soit près des trois quarts. En Corée du Sud, elle apporte 2,6 points sur 3,1 %, soit plus de 80 %, et compense largement la baisse des heures travaillées. En Allemagne, elle représente la moitié de la croissance (1,2 point sur 2,4 %) (document 1).
+
+Ce progrès technique est **endogène** : il ne tombe pas du ciel, il résulte des décisions d'investissement des agents économiques. Il provient d'abord des dépenses de **recherche-développement**. Dans la zone OCDE, leur intensité est passée de 2,34 % à 2,38 % du PIB entre 2017 et 2018, car elles ont progressé plus vite que le PIB (+3,9 % contre +2,3 %). Les entreprises sont responsables de plus de 75 % de cette hausse (document 2). Il provient aussi de l'investissement en **capital humain**. En France, la dépense intérieure d'éducation a plus que doublé entre 1980 et 2018, de 77,7 à 157,2 milliards d'euros, et la dépense moyenne par élève est passée de 4 770 à 8 810 euros (document 4).
+
+Ces investissements produisent des **externalités positives** : les connaissances créées par une entreprise ou acquises par un travailleur se diffusent et profitent à d'autres. La croissance devient alors **auto-entretenue**. Les gains de productivité augmentent les revenus, qui financent de nouvelles dépenses de recherche et d'éducation. C'est ce qui justifie l'intervention publique : en France, en 2018, les administrations publiques financent 83,7 % de la dépense d'éducation (document 4).
+
+### B. Le rôle majeur des institutions
+
+Les **institutions**, règles formelles et informelles qui encadrent l'activité économique, créent les conditions de l'investissement et de l'innovation. Des **droits de propriété** protégés, comme les brevets, garantissent aux innovateurs une rente temporaire qui les incite à investir dans la recherche. Un **État de droit** qui fait respecter les contrats, une faible corruption et la stabilité politique réduisent l'incertitude et favorisent les échanges et l'investissement.
+
+Le document 3 mesure la qualité de ces institutions. La Norvège et l'Allemagne obtiennent des indicateurs élevés (par exemple 2,1 et 1,9 pour la lutte contre la corruption, sur une échelle de -2,5 à 2,5). Haïti obtient des indicateurs très négatifs (-1,3 pour la corruption, -1,9 pour l'efficacité des pouvoirs publics), qui découragent l'investissement et l'innovation. Le cas de la Chine montre cependant que la relation n'est pas mécanique. Ses indicateurs sont proches de zéro, voire positifs pour l'efficacité des pouvoirs publics (0,5), et elle est devenue le deuxième producteur mondial de R&D (document 2). Elle a pourtant connu une croissance très rapide, fondée en grande partie sur l'accumulation du capital et le rattrapage technologique.
+
+## Conclusion
+
+Les facteurs travail et capital contribuent à la croissance : plus d'heures travaillées et plus d'équipements permettent de produire davantage, comme en Grèce ou en Corée du Sud en 2017. Mais ils ne suffisent pas à l'expliquer : une large part de la croissance provient de la productivité globale des facteurs, reflet du progrès technique. Celui-ci est endogène : il résulte des dépenses de recherche et d'éducation, et il est favorisé par des institutions de qualité. La croissance est donc autant une question d'efficacité que de quantité. Reste à savoir si ce progrès technique profite à tous, ou s'il peut aussi engendrer des inégalités de revenus.
+
+## Décryptage
+
+- **La réponse est dans le document 1** : la somme travail + capital est inférieure au PIB dans tous les pays. Le montrer par un calcul (France : 0,6 point sur 2,2 %) est le cœur de la démonstration.
+- **Lecture précise** : la PGF fait exactement la moitié de la croissance allemande, pas « plus de la moitié ».
+- **Utiliser un contre-exemple** (la Chine) pour nuancer le rôle des institutions montre une réflexion personnelle, sans contredire la thèse.
+- **Ouverture** : vers un autre objectif du chapitre (progrès technique et inégalités).
